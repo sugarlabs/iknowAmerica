@@ -1,0 +1,28 @@
+Tumbes|254|138|204|0
+Loreto|253|413|216|0
+Piura|252|150|267|0
+Amazonas|251|253|261|90
+Cajamarca|250|217|320|90
+Lambayeque|249|135|326|0
+San Martín|248|320|370|-45
+La Libertad|247|234|414|30
+Ancash|246|277|468|-60
+Huanuco|245|361|476|0
+Lima|244|329|575|-60
+Cerro de Pasco|243|386|511|20
+Junin|242|404|566|0
+Ucayali|241|515|517|0
+Madre de Dios|240|605|587|0
+Cuzco|239|529|634|-30
+Ica|238|380|697|-45
+Huancavelica|237|400|634|45
+Ayacucho|236|441|689|90
+Arequipa|235|523|765|0
+Apurimac|234|507|679|0
+Puno|233|632|698|45
+Moquegua|232|591|812|45
+Tacna|231|616|845|45
+Brazil|230|646|363|0
+Ecuador|229|228|91|0
+Colombia|228|536|56|0
+Bolivia|227|734|710|90

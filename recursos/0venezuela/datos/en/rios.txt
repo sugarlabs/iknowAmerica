@@ -1,0 +1,22 @@
+Apure River|254|268|413|0
+Arauca River|253|204|467|0
+Meta River|252|216|551|30
+Orinoco River|251|346|554|0
+Ventuari River|250|421|578|0
+Negro River|249|346|747|-60
+Casiquiare River|248|413|760|50
+Caroni River|247|615|532|90
+Paragua River|246|564|607|-50
+Gaura River|245|475|493|-60
+Cuyuni River|244|708|501|0
+Reservoir of Sura|243|606|452|0
+Guarico River|242|372|409|-40
+Reservoir de Guarico|241|368|360|0
+Lake Valencia|240|324|300|0
+Lake de Maracaibo|239|108|320|0
+Cojedes River|238|266|354|-55
+Gulf of Venezuela|237|139|220|0
+Gulf of Paria|236|646|286|0
+Caribbean Sea|235|382|74|0
+Atlantic Ocean|234|745|121|90
+Delta Amacuro River|233|722|345|0

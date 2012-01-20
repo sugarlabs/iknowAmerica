@@ -1,0 +1,41 @@
+# capitales
+Santo Domingo|451|527|0|0|-14
+Azua de Compostela|278|535|1|-40|14
+Bani|361|572|1|-5|14
+Barahona|202|586|1|0|14
+Bonao|345|428|1|0|14
+Comendador|78|443|1|10|-14
+Cotui|397|403|1|20|14
+Dajabon|82|297|1|0|-14
+El Seibo|626|466|1|15|-14
+Gaspar Hernández|373|282|1|0|-14
+Hato Mayor|583|468|1|-10|14
+Higuey|695|498|1|20|-14
+Jimani|47|526|1|0|14
+La Romana|642|537|1|-10|-14
+La Vega|321|369|1|0|14
+Mao|207|294|1|0|-14
+Moca|325|331|1|-25|14
+Monte Cristi|91|233|1|0|-14
+Monte Plata|475|457|1|25|-14
+Nagua|459|339|1|0|-14
+Neiba|135|531|1|0|-14
+Pedernales|71|622|1|0|14
+Puerto Plata|285|246|1|10|-14
+Sabaneta|151|313|1|0|14
+Salcedo|342|335|1|25|-14
+San Cristóbal|405|543|1|-15|14
+San Fsco. de Macoris|376|351|1|60|14
+San José de Ocoa|327|514|1|-25|-14
+San Juan|175|459|1|0|-14
+San Pedro de Macoris|572|533|1|-20|14
+Santa Bárbara de Samaná|565|371|1|60|14
+Santiago|286|320|1|-20|-14
+# ciudades
+Boca de Yuma|713|545|2|-5|14
+Duvenge|117|458|2|-10|14
+Enriquillo|176|647|2|10|-14
+Miches|625|421|2|-15|-14
+Oviedo|143|675|2|0|14
+Pedro Santana|80|400|2|15|-14
+Punta Cana|769|506|2|-30|14

@@ -1,0 +1,21 @@
+Río Les Trois Rivières|254|455|253|-45
+Río Artibonito|253|725|384|-45
+Río Bouyaha|252|604|345|-50
+Río Guayamouc|251|696|415|-50
+Río Canot|250|578|376|-40
+Río del Artibonite|249|538|443|-40
+Lago de Pélicre|248|679|481|0
+Lago Étang Saumâtre|247|667|581|0
+Bahía de Jacmel|246|532|682|0
+Bahía de Port au Prince|245|523|555|0
+Canal de Saint Marc|244|456|481|-40
+Canal de la Gonâve|243|384|561|-20
+Bahía de Henne|242|349|283|0
+Bahía de la Tortue|241|461|338|0
+Bahía de Grand Pierre|240|458|375|0
+Bahía de Mancenille|239|696|235|0
+Canal de la Tortue|238|440|179|0
+Golfo de la Gonâve|237|358|379|90
+Pasaje Windward|236|157|148|-30
+Mar Caribe|235|440|793|0
+Océano Atlántico|234|561|88|0

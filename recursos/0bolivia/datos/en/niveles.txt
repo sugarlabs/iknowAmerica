@@ -1,0 +1,132 @@
+Prefijo = We have to look
+Prefijo = We have to find
+Prefijo = Now we have to look
+Prefijo = We need to find
+
+Sufijo = You can tell where is it?
+Sufijo = Where is it?
+Sufijo = Can you show me where is it?
+Sufijo = Can you find it?
+
+Correcto = Very well!
+Correcto = Brilliant!
+Correcto = You found it!
+Correcto = Yes!
+
+Mal = No, this is not
+Mal = Here it is not
+Mal = It seems that this is not
+Mal = That is not
+
+DespedidaB = Now I'm ready\for tomorrow...\I'm going to play...\Thanks for your help!
+DespedidaB = We made it!\I'm going to play ball...\Bye and thanks\for helping me!
+DespedidaB = We did it!\I'm ready for tomorrow...\I'm playing a while...\Until next time!
+
+DespedidaM = More luck next\I'll play a while...\Thanks!
+DespedidaM = The next time will be\I'm going to play ball...\Thanks!
+DespedidaM = Please try again...\I'm going to play...\Thanks!
+
+[Departaments]
+dibujoInicial = lineasDepto
+nombreInicial = 
+Pregunta = the departament of\Pando|1|Pando|Is north
+Pregunta = the departament of\Beni|1|Beni|Is northeast
+Pregunta = the departament of\La Paz|1|La Paz|Is northwest
+Pregunta = the departament of\Oruro|1|Oruro|Is west
+Pregunta = the departament of\Potosí|1|Potosí|Is southwest
+Pregunta = the departament of\Cochabamba|1|Cochabamba|Is in the center
+Pregunta = the departament of\Chuquisaca|1|Chuquisaca|Is south
+Pregunta = the departament of\Tarija|1|Tarija|Is south
+Pregunta = the departament of\Santa Cruz|1|Santa Cruz|Is east
+Pregunta = Brasil|1|Brasil|Is northeast
+Pregunta = Perú|1|Perú|Is northwest
+Pregunta = Chile|1|Chile|Is southwest
+Pregunta = Paraguay|1|Paraguay|Is south
+Pregunta = Argentina|1|Argentina|Is southwest
+
+[Departamental capitals]
+dibujoInicial = lineasDepto, capitales
+nombreInicial = 
+Pregunta = the city of\La Paz|2|La Paz|Is west
+Pregunta = the city of\Cobija|2|Cobija|Is north
+Pregunta = the city of\Trinidad|2|Trinidad|Is in the center
+Pregunta = the city of\Cochabamba|2|Cochabamba|Is in the center
+Pregunta = the city of\Oruro|2|Oruro|Is west
+Pregunta = the city of\Potosí|2|Potosí|Is south
+Pregunta = the city of\Sucre|2|Sucre|Is south
+Pregunta = the city of\Tarija|2|Tarija|Is south
+Pregunta = the city of\Santa Cruz|2|Santa Cruz|Is east 
+
+[Cities]
+dibujoInicial = lineasDepto, capitales, ciudades
+nombreInicial = 
+Pregunta = the city of\La Paz|2|La Paz|Is west
+Pregunta = the city of\Cobija|2|Cobija|Is north
+Pregunta = the city of\Trinidad|2|Trinidad|Is in the center
+Pregunta = the city of\Cochabamba|2|Cochabamba|Is in the center
+Pregunta = the city of\Oruro|2|Oruro|Is west
+Pregunta = the city of\Potosí|2|Potosí|Is south
+Pregunta = the city of\Sucre|2|Sucre|Is south
+Pregunta = the city of\Tarija|2|Tarija|Is south
+Pregunta = the city of\Santa Cruz|2|Santa Cruz|Is east 
+Pregunta = the city of\Apolo|2|Apolo|Is northwest
+Pregunta = the city of\Reyes|2|Reyes|Is northwest
+Pregunta = the city of\Santa Ana|2|Santa Ana|Is north
+Pregunta = the city of\San Borja|2|San Borja|Is northwest
+Pregunta = the city of\Puerto Heath|2|Puerto Heath|Is northwest
+Pregunta = the city of\Asunción|2|Asunción|Is northwest
+Pregunta = the city of\Riberalta|2|Riberalta|Is northeast
+Pregunta = the city of\Magdalena|2|Magdalena|Is northeast
+Pregunta = the city of\Loreto|2|Loreto|Is in the center
+Pregunta = the city of\Puerto Acosta|2|Puerto Acosta|Is west
+Pregunta = the city of\Caranavi|2|Caranavi|Is west
+Pregunta = the city of\Guaqui|2|Guaqui|Is west
+Pregunta = the city of\Ascención|2|Ascención|Is in the center
+Pregunta = the city of\Concepción|2|Concepción|Is east
+Pregunta = the city of\San Ignacio|2|San Ignacio|Is east
+Pregunta = the city of\Tarabuco|2|Tarabuco|Is south
+Pregunta = the city of\Aiquile|2|Aiquile|Is in the center
+Pregunta = the city of\Villazón|2|Villazón|Is south
+Pregunta = the city of\Uyuni|2|Uyuni|Is southwest
+Pregunta = the city of\Yucuiba|2|Yucuiba|Is south
+Pregunta = the city of\Villa Montes|2|Villa Montes|Is south
+Pregunta = the city of\Camiri|2|Camiri|Is south
+Pregunta = the city of\Santa Rosa del Sara|2|Santa Rosa del Sara|Is in the center
+Pregunta = the city of\Montero|2|Montero|Is in the center
+Pregunta = the city of\Las Petas|2|Las Petas|Is east
+Pregunta = the city of\San José de Chiquitos|2|San José de Chiquitos|Is east
+Pregunta = the city of\Roboré|2|Roboré|Is east
+Pregunta = the city of\Puerto Suárez|2|Puerto Suárez|Is east
+
+[Waterways]
+dibujoInicial = rios
+nombreInicial = 
+Pregunta = the Pilcomayo River|3|Pilcomayo River|Is southeast
+Pregunta = the Parapetí River|3|Parapetí River|Is southeast
+Pregunta = the Sécure River|3|Sécure River|Is in the center
+Pregunta = the Ichoa River|3|Ichoa River|Is in the center
+Pregunta = the Piray River|3|Piray River|Is in the center
+Pregunta = the Ichilo River|3|Ichilo River|Is in the center
+Pregunta = the Grande River|3|Grande River|Is in the center
+Pregunta = the Yacuma River|3|Yacuma River|Is north
+Pregunta = the Madre de\Dios River|3|Madre de Dios River|Is north
+Pregunta = the Desaguadero River|3|Desaguadero River|Is west
+Pregunta = the Grande de\Lípez River|3|Gr. de Lípez River|Is southwest
+Pregunta = the San Miguel River|3|San Miguel River|Is east
+Pregunta = the San Martín River|3|San Martín River|Is east
+Pregunta = the Abuná River|3|Abuná River|Is north
+Pregunta = the Orton River|3|Orton River|Is north
+Pregunta = the Madeira River|3|Madeira River|Is north
+Pregunta = the Madidi River|3|Madidi River|Is north
+Pregunta = the Tequeje River|3|Tequeje River|Is north
+Pregunta = the Beni River|3|Beni River|Is north
+Pregunta = the Viata River|3|Viata River|Is north
+Pregunta = the Apere River|3|Apere River|Is north
+Pregunta = the Mamoré River|3|Mamoré River|Is north
+Pregunta = the Blanco River|3|Blanco River|Is northeast
+Pregunta = the Paraguá River|3|Paraguá River|Is east
+Pregunta = the Guaporé River|3|Guaporé River|Is northeast
+Pregunta = the Tucavaca River|3|Tucavaca River|Is southeast
+Pregunta = the Lateriquique River|3|Lateriquique River|Is southeast
+Pregunta = the Lake Titicaca|3|Lake Titicaca|Is west
+Pregunta = the Lake Poopo|3|Lake Poopo|Is southwest

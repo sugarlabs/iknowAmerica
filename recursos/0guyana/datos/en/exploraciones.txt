@@ -1,0 +1,24 @@
+[Regions]
+dibujoInicial = lineasDepto
+nombreInicial = 
+elementosActivos = deptos
+
+[Regional capitals]
+dibujoInicial = lineasDepto, capitales
+nombreInicial = 
+elementosActivos = capitales
+
+[Cities]
+dibujoInicial = lineasDepto, capitales, ciudades
+nombreInicial = 
+elementosActivos = capitales, ciudades
+
+[Waterways]
+dibujoInicial = rios
+nombreInicial = 
+elementosActivos = rios
+
+[Routes]
+dibujoInicial = rutas, capitales
+nombreInicial = capitales
+elementosActivos = rutas

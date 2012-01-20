@@ -1,0 +1,17 @@
+Río Satamacca|254|444|293|70
+Río Neckerie|253|268|235|35
+Río Coppename|252|404|216|75
+Río Suriname|251|441|468|40
+Río Commewijne|250|622|146|-60
+Río Maroni|249|673|260|70
+Río Lawa|248|679|449|-60
+Río Oelemari|247|613|578|45
+Río Litani|246|670|622|60
+Río Patoemeu|245|481|609|70
+Río Tapanahony|244|475|510|40
+Río Lucie|243|256|511|30
+Río Kabalebo|242|148|370|50
+Río Sipaliwini|241|327|701|-30
+Río Kutari|240|260|727|-45
+Río Courantyne|239|93|348|65
+Océano Atlántico|238|477|41|0

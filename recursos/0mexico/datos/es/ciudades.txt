@@ -1,0 +1,66 @@
+# capitales
+México|439|554|0|-25|-14
+Aguascalientes|357|486|1|-75|0
+Campeche|666|534|1|0|14
+Chetumal|722|562|1|0|14
+Chihuahua|267|299|1|-15|-14
+Chipalcingo|427|608|1|50|0
+Ciudad Victoria|438|435|1|30|-14
+Colima|317|561|1|0|-14
+Cuernavaca|437|572|1|-60|2
+Culiacán|229|404|1|0|14
+Durango|300|426|1|10|-14
+Guadalajara|330|522|1|-70|0
+Guanajuato|383|512|1|40|-14
+Hermosillo|148|281|1|0|-14
+Jalapa|497|553|1|35|0
+La Paz|155|420|1|0|-14
+Mérida|686|502|1|0|-14
+Mexicali|51|174|1|0|-14
+Monterrey|408|381|1|10|-14
+Morelia|384|550|1|-25|-14
+Oaxaca|504|624|1|40|0
+Pachuca|449|537|1|45|0
+Puebla|459|565|1|20|16
+Querétaro|405|524|1|30|-14
+Saltillo|390|391|1|0|14
+San Luis Potosí|400|480|1|75|0
+Tepic|291|498|1|-35|0
+Tlaxcala|466|558|1|35|10
+Toluca|427|561|1|-45|0
+Tuxtla|602|627|1|-10|-14
+Villahermosa|608|592|1|10|-14
+Zacatecas|350|464|1|0|-14
+# ciudades
+Acapulco|419|623|2|0|14
+Cancún|756|488|2|0|14
+Ciudad Juárez|259|215|2|0|14
+Ciudad Mante|440|462|2|20|-14
+Ciudad Obregón|171|325|2|20|14
+Comitán|629|639|2|20|14
+Delicias|288|326|2|0|-14
+Guaymas|149|309|2|0|-14
+Hidalgo del Parral|276|347|2|0|14
+Lázaro Cárdenas|356|595|2|-40|14
+Loreto|132|367|2|0|14
+Manzanillo|306|564|2|-35|14
+Matamoros|476|379|2|30|14
+Mazatlán|257|448|2|0|14
+Monclova|380|350|2|-8|-14
+Nogales|153|221|2|0|14
+Nuevo Laredo|425|334|2|15|-14
+Ojinaga|305|277|2|0|-14
+Piedras Negras|401|301|2|15|-14
+Poza Rica|481|523|2|47|0
+Puerto Escondido|496|652|2|-20|14
+Puerto Peñasco|94|210|2|30|-14
+Rosarito|75|285|2|-20|14
+Salina Cruz|545|643|2|10|14
+San Lucas|164|450|2|-15|14
+San Quintin|35|229|2|15|14
+Santa Rosalía|110|327|2|-45|14
+#Tampico|469|476|2|25|14
+Tapachula|625|676|2|0|14
+Tijuana|16|174|2|15|14
+Torreón|332|385|2|-45|0
+Veracruz|516|562|2|35|0

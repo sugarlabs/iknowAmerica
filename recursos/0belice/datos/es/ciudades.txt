@@ -1,0 +1,48 @@
+# capitales
+Belmopan|308|429|0|20|14
+Belize|489|352|1|20|14
+Corozal|427|51|1|25|-14
+Dangriga|480|524|1|30|14
+Orange Walk|374|157|1|30|14
+Punta Gorda|294|807|1|40|14
+San Ignacio|211|460|1|0|-14
+# ciudades
+August Pine Ridge|321|193|2|-55|-14
+Barranco|257|839|2|0|14
+Benque Viejo del Carmen|189|487|2|-60|14
+Bermudian Landing|383|329|2|-30|14
+Big Creek|421|671|2|35|14
+Big Fall|269|757|2|10|14
+Blue Creek Village|276|220|2|-25|14
+Buena Vista|385|105|2|-60|0
+Burrell Boom|424|325|2|-30|-14
+Crooked Tree|382|257|2|30|14
+Gales Point|446|453|2|10|-14
+Gallon Jug|219|328|2|0|-14
+Guinea Grass|362|196|2|60|0
+Hattieville|427|359|2|0|14
+Hopkins|458|558|2|30|14
+Independence|419|665|2|-35|-14
+Jalacte|168|774|2|0|14
+La Democracia|377|401|2|35|14
+Ladyville|456|331|2|30|-14
+Libertad|408|83|2|35|-14
+Little Belize|422|116|2|55|0
+Maskall|454|226|2|10|-14
+Middlesex|393|506|2|0|14
+Monkey River Town|394|722|2|40|14
+Mullins River|455|478|2|20|14
+Neustadt|219|216|2|-25|-14
+Pachacan|403|50|2|-50|0
+Riversdale|452|612|2|-45|-14
+S. Antonio|224|760|2|-25|-14
+San Antonio|226|485|2|45|-14
+San Estevan|390|131|2|45|14
+San Jose|369|120|2|-50|0
+San Narciso|387|83|2|-60|0
+San Pedro|562|207|2|25|14
+Sarteneja|505|67|2|30|14
+Shipyard|354|219|2|20|14
+Spanish Lookout|231|424|2|-30|-14
+Valley of Peace|287|404|2|0|-14
+Yo Creek|350|153|2|-50|0

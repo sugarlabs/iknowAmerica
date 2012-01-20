@@ -1,0 +1,27 @@
+Wawa River|254|600|210|-20
+Kukalaya River|253|591|265|-45
+Bambana River|252|560|315|-40
+Prinzapolka River|251|467|318|-70
+Tuma River|250|375|401|0
+Grande de Matalgapa River|249|495|440|15
+Kurinwás River|248|545|470|10
+Siquia River|247|438|515|15
+Escondido River|246|585|561|0
+Mico River|245|472|558|0
+Rama River|244|513|603|10
+Punta Gorda River|243|548|647|0
+Indio River|242|579|714|-10
+San Juan River|241|545|748|-30
+Coco River|240|345|256|45
+Bocay River|239|363|308|60
+Amaka River|238|415|308|70
+Estero Real River|237|137|461|10
+Lake of Managua|236|223|530|0
+Lake of Nicaragua|235|366|658|-45
+Perlas Lagoon|234|631|499|0
+Bluefields Bay|233|649|591|0
+Gulf of Fonseca|232|41|409|90
+Punta Gorda Bay|231|634|707|90
+Pacific Ocean|230|114|708|0
+Caribbean Sea|229|728|407|90
+Gulf of Papagayo|228|298|797|0

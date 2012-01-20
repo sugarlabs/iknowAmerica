@@ -1,0 +1,22 @@
+Changuinola River|254|74|283|-70
+San Pablo River|253|219|399|-70
+Santa María River|252|295|397|-20
+Indio River|251|372|314|-80
+Canal of Panamá|250|449|290|-50
+Chepo River|249|517|281|45
+Lake Bayano|248|573|275|45
+Chucunaque River|247|686|340|-60
+Balsas River|246|673|458|-70
+Tuira River|245|735|435|-60
+Charco Azul Bay|244|63|410|90
+Gulf of Montijo|243|266|503|0
+Gulf of Chiriqui|242|137|439|-40
+Parita Bay|241|366|413|90
+Gulf of San Miguel|240|609|398|0
+Gulf of Panamá|239|493|441|0
+Gulf of San Blas|238|558|231|0
+Lake Gatún|237|415|274|-50
+Chiriqui Lagoon|236|141|295|-60
+Gulf of the Mosquitos|235|247|295|-45
+Caribbean Sea|234|381|126|0
+Pacific Ocean|233|346|682|0

@@ -1,0 +1,21 @@
+Río Chamelecón|254|120|310|30
+Río Higuito|253|88|397|40
+Río Grande de Otoro|252|160|413|-60
+Río Ulúa|251|212|283|80
+Río Humuya|250|210|429|-70
+Río Sulaco|249|253|400|90
+Río Aguán|248|391|278|30
+Río Mangulile|247|342|342|-70
+Río Sico|246|450|290|45
+Río Paulaya|245|527|289|50
+Río Patuca|244|533|349|45
+Río Guyape|243|392|392|30
+Río Jalán|242|317|434|-60
+Río Guayambre|241|409|462|50
+Río Coco|240|634|381|20
+Río Choluteca|239|295|533|50
+Laguna de Caratasca|238|685|308|0
+Bahía de Omoa|237|152|234|0
+Mar Caribe|236|560|100|0
+Golfo de Fonseca|235|217|595|0
+Océano Pacífico|234|191|759|0

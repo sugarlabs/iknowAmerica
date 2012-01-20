@@ -1,0 +1,22 @@
+Río Changuinola|254|74|283|-70
+Río San Pablo|253|219|399|-70
+Río Santa María|252|295|397|-20
+Río Indio|251|372|314|-80
+Canal de Panamá|250|449|290|-50
+Río Chepo|249|517|281|45
+Lago Bayano|248|573|275|45
+Río Chucunaque|247|686|340|-60
+Río Balsas|246|673|458|-70
+Río Tuira|245|735|435|-60
+Bahía de Charco Azul|244|63|410|90
+Golfo de Montijo|243|266|503|0
+Golfo de Chiriqui|242|137|439|-40
+Bahía de Parita|241|366|413|90
+Golfo de San Miguel|240|609|398|0
+Golfo de Panamá|239|493|441|0
+Golfo de San Blas|238|558|231|0
+Lago Gatún|237|415|274|-50
+Laguna de Chiriqui|236|141|295|-60
+Golfo de los Mosquitos|235|247|295|-45
+Mar Caribe|234|381|126|0
+Océano Pacífico|233|346|682|0

@@ -1,0 +1,26 @@
+Chimaltenango|254|257|665|55
+Chiquimula|253|534|663|0
+Escuintla|252|242|767|0
+Guastatoya|251|415|620|45
+Guatemala|250|343|675|80
+Huehuetenango|249|136|474|40
+Izabal|248|601|499|0
+Jalapa|247|437|677|0
+Jutiapa|246|458|739|0
+El Petén|245|425|232|0
+Quetzaltenango|244|124|646|30
+El Quiché|243|251|503|0
+Retalhuleu|242|80|730|45
+Sacatepéquez|241|292|689|55
+San Marcos|240|81|597|60
+Santa Rosa|239|368|760|60
+Sololá|238|197|654|0
+Suchitepéquez|237|143|755|70
+Totonicapán|236|177|590|0
+Alta Verapaz|235|402|480|0
+Baja Verapaz|234|351|573|0
+Zacapa|233|517|597|0
+Belice|232|654|214|0
+El Salvador|231|564|818|0
+Honduras|230|691|644|0
+México|229|115|298|0

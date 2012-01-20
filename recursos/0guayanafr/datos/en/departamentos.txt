@@ -1,0 +1,4 @@
+Cayena|254|495|433|0
+Saint-Laurent du Maroni|253|208|447|90
+Brazil|252|650|736|45
+Suriname|251|72|554|0

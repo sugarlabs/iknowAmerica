@@ -1,0 +1,17 @@
+Tarapacá|254|165|151|0
+Antofagasta|253|209|298|0
+Atacama|252|167|470|0
+Coquimbo|251|134|604|0
+Valparaiso|250|140|683|0
+Metropolitana|249|154|728|0
+Lib. Gral. Bernardo O'Higgins|248|158|768|0
+Maule|247|118|824|0
+Bio-Bio|246|510|57|0
+La Araucanía|245|511|133|0
+Los Lagos|244|496|283|0
+Aisén Gral. Carlos Ibáñez del Campo|243|553|481|0
+Magallanes|242|513|699|0
+Arica Parinacota|241|185|81|0
+Los Rios|240|505|188|0
+Argentina|239|667|163|90
+Perú|238|152|25|0

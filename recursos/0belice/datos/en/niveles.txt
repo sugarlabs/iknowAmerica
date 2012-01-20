@@ -1,0 +1,124 @@
+Prefijo = We have to look
+Prefijo = We have to find
+Prefijo = Now we have to look
+Prefijo = We need to find
+
+Sufijo = You can tell where is it?
+Sufijo = Where is it?
+Sufijo = Can you show me where is it?
+Sufijo = Can you find it?
+
+Correcto = Very well!
+Correcto = Brilliant!
+Correcto = You found it!
+Correcto = Yes!
+
+Mal = No, this is not
+Mal = Here it is not
+Mal = It seems that this is not
+Mal = That is not
+
+DespedidaB = Now I'm ready\for tomorrow...\I'm going to play...\Thanks for your help!
+DespedidaB = We made it!\I'm going to play ball...\Bye and thanks\for helping me!
+DespedidaB = We did it!\I'm ready for tomorrow...\I'm playing a while...\Until next time!
+
+DespedidaM = More luck next\I'll play a while...\Thanks!
+DespedidaM = The next time will be\I'm going to play ball...\Thanks!
+DespedidaM = Please try again...\I'm going to play...\Thanks!
+
+[Districts]
+dibujoInicial = lineasDepto
+nombreInicial = 
+Pregunta = the district of\Orange Walk|1|Orange Walk|Is northwest
+Pregunta = the district of\Cayo|1|Cayo|Is in the center
+Pregunta = the district of\Toledo|1|Toledo|Is south
+Pregunta = the district of\Corozal|1|Corozal|Is north
+Pregunta = the district of\Belice|1|Belice|Is in the center
+Pregunta = the district of\Staan Creek|1|Staan Creek|Is in the center
+Pregunta = Mexico|1|Mexico|Is north
+Pregunta = Guatemala|1|Guatemala|Is west
+Pregunta = Honduras|1|Honduras|Is southeast
+Pregunta = the Turneffe Island|1|Is. Turneffe|Is east
+
+[Districts capitals]
+dibujoInicial = lineasDepto, capitales
+nombreInicial = 
+Pregunta = the city of\Belmopan|2|Belmopan|Is in the center
+Pregunta = the city of\Belize|2|Belize|Is east
+Pregunta = the city of\Corozal|2|Corozal|Is north
+Pregunta = the city of\Dangriga|2|Dangriga|Is east
+Pregunta = the city of\Orange Walk|2|Orange Walk|Is north
+Pregunta = the city of\Punta Gorda|2|Punta Gorda|Is south
+Pregunta = the city of\San Ignacio|2|San Ignacio|Is west
+
+[Cities]
+dibujoInicial = lineasDepto, capitales, ciudades
+nombreInicial = 
+Pregunta = the city of\Belmopan|2|Belmopan|Is in the center
+Pregunta = the city of\Belize|2|Belize|Is east
+Pregunta = the city of\Corozal|2|Corozal|Is north
+Pregunta = the city of\Dangriga|2|Dangriga|Is east
+Pregunta = the city of\Orange Walk|2|Orange Walk|Is north
+Pregunta = the city of\Punta Gorda|2|Punta Gorda|Is south
+Pregunta = the city of\San Ignacio|2|San Ignacio|Is west
+Pregunta = the city of\August Pine Ridge|2|August Pine Ridge|Is north
+Pregunta = the city of\Barranco|2|Barranco|Is south
+Pregunta = the city of\Benque Viejo\del Carmen|2|Benque Viejo del Carmen|Is west
+Pregunta = the city of\Bermudian Landing|2|Bermudian Landing|Is in the center
+Pregunta = the city of\Big Creek|2|Big Creek|Is southeast
+Pregunta = the city of\Big Fall|2|Big Fall|Is south
+Pregunta = the city of\Blue Creek Village|2|Blue Creek Village|Is northwest
+Pregunta = the city of\Buena Vista|2|Buena Vista|Is north
+Pregunta = the city of\Burrell Boom|2|Burrell Boom|Is in the center
+Pregunta = the city of\Crooked Tree|2|Crooked Tree|Is north
+Pregunta = the city of\Gales Point|2|Gales Point|Is east
+Pregunta = the city of\Gallon Jug|2|Gallon Jug|Is west
+Pregunta = the city of\Guinea Grass|2|Guinea Grass|Is north
+Pregunta = the city of\Hattieville|2|Hattieville|Is east
+Pregunta = the city of\Hopkins|2|Hopkins|Is east
+Pregunta = the city of\Independence|2|Independence|Is southeast
+Pregunta = the city of\Jalacte|2|Jalacte|Is south
+Pregunta = the city of\La Democracia|2|La Democracia|Is in the center
+Pregunta = the city of\Ladyville|2|Ladyville|Is east
+Pregunta = the city of\Libertad|2|Libertad|Is north
+Pregunta = the city of\Little Belize|2|Little Belize|Is north
+Pregunta = the city of\Maskall|2|Maskall|Is northeast
+Pregunta = the city of\Middlesex|2|Middlesex|Is in the center
+Pregunta = the city of\Monkey River Town|2|Monkey River Town|Is southeast
+Pregunta = the city of\Mullins River|2|Mullins River|Is east
+Pregunta = the city of\Neustadt|2|Neustadt|Is northwest
+Pregunta = the city of\Pachacan|2|Pachacan|Is north
+Pregunta = the city of\Riversdale|2|Riversdale|Is east
+Pregunta = the city of\S. Antonio|2|S. Antonio|Is south
+Pregunta = the city of\San Antonio|2|San Antonio|Is west
+Pregunta = the city of\San Estevan|2|San Estevan|Is north
+Pregunta = the city of\San Jose|2|San Jose|Is north
+Pregunta = the city of\San Narciso|2|San Narciso|Is north
+Pregunta = the city of\San Pedro|2|San Pedro|Is northeast
+Pregunta = the city of\Sarteneja|2|Sarteneja|Is north
+Pregunta = the city of\Shipyard|2|Shipyard|Is north
+Pregunta = the city of\Spanish Lookout|2|Spanish Lookout|Is west
+Pregunta = the city of\Valley of Peace|2|Valley of Peace|Is in the center
+Pregunta = the city of\Yo Creek|2|Yo Creek|Is north
+
+[Waterways]
+dibujoInicial = rios
+nombreInicial = 
+Pregunta = the Blue Creek River|3|Blue Creek River|Is northwest
+Pregunta = the Hondo River|3|Hondo River|Is north
+Pregunta = the New River|3|New River|Is north
+Pregunta = the Bravo River|3|Bravo River|Is west
+Pregunta = the Boothis River|3|Boothis River|Is west
+Pregunta = the Sibun River|3|Sibun River|Is east
+Pregunta = the Belice River|3|Belice River|Is in the center
+Pregunta = the Macal River|3|Macal River|Is west
+Pregunta = theRaspaculo\Branch River|3|Raspaculo Branch River|Is in the center
+Pregunta = the Sarstoon River|3|Sarstoon River|Is south
+Pregunta = the Moho River|3|Moho River|Is south
+Pregunta = the Deep River|3|Deep River|Is south
+Pregunta = the Grande River|3|Grande River|Is south
+Pregunta = the Monkey River|3|Monkey River|Is south
+Pregunta = the Caribbean Sea|3|Caribbean Sea|Is east
+Pregunta = the Lake Southern|3|Lake Southern|Is east
+Pregunta = the Lake Northern|3|Lake Northern|Is east
+Pregunta = the Lake Shiptesrn|3|Lake Shiptesrn|Is north

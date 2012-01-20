@@ -1,0 +1,70 @@
+Prefijo = We have to look
+Prefijo = We have to find
+Prefijo = Now we have to look
+Prefijo = We need to find
+
+Sufijo = You can tell where is it?
+Sufijo = Where is it?
+Sufijo = Can you show me where is it?
+Sufijo = Can you find it?
+
+Correcto = Very well!
+Correcto = Brilliant!
+Correcto = You found it!
+Correcto = Yes!
+
+Mal = No, this is not
+Mal = Here it is not
+Mal = It seems that this is not
+Mal = That is not
+
+DespedidaB = Now I'm ready\for tomorrow...\I'm going to play...\Thanks for your help!
+DespedidaB = We made it!\I'm going to play ball...\Bye and thanks\for helping me!
+DespedidaB = We did it!\I'm ready for tomorrow...\I'm playing a while...\Until next time!
+
+DespedidaM = More luck next\I'll play a while...\Thanks!
+DespedidaM = The next time will be\I'm going to play ball...\Thanks!
+DespedidaM = Please try again...\I'm going to play...\Thanks!
+
+[Parishes]
+dibujoInicial = lineasDepto
+nombreInicial = 
+Pregunta = the parish of\Saint David|1|Saint David|Is northwest
+Pregunta = the parish of\Carlotte|1|Carlotte|Is east
+Pregunta = the parish of\Saint Andrew|1|Saint Andrew|Is southeast
+Pregunta = the parish of\Saint Patrick|1|Saint Patrick|Is west
+Pregunta = the parish of\Saint George|1|Saint George|Is south
+Pregunta = the island\of Bequia|1|Is. Bequia|Is north
+Pregunta = the island\of Quatre|1|Is. Quatre|Is north
+Pregunta = the island\of Mustique|1|Is. Mustique|Is northeast
+Pregunta = the island\of Bettowia|1|Is. Bettowia|Is northeast
+Pregunta = the island\of Baliceaux|1|Is. Baliceaux|Is northeast
+Pregunta = the island\of Pillories|1|Is. Pillories|Is northeast
+Pregunta = the island\of Petit Mustique|1|Is. Petit Mustique|Is northeast
+Pregunta = the island\of Savan|1|Is. Savan|Is in the center
+Pregunta = the island\of Petit Canouan|1|Is. Petit Canouan|Is in the center
+Pregunta = the island\of Canouan|1|Is. Canouan|Is in the center
+Pregunta = the island\of Mayreau|1|Is. Mayreau|Is southwest
+Pregunta = the island\of Union|1|Is. Union|Is southwest
+Pregunta = the island\of Prune|1|Is. Prune|Is southwest
+Pregunta = the island of\Petit Saint Vicent|1|Is. Petit Saint Vicent|Is southwest
+
+[Cities]
+dibujoInicial = lineasDepto, capitales, ciudades
+nombreInicial = 
+Pregunta = the city of\Kingstown|2|Kingstown|Is southwest
+Pregunta = the city of\Barrouallie|2|Barrouallie|Is west
+Pregunta = the city of\Chateaubelair|2|Chateaubelair|Is west
+Pregunta = the city of\Georgetown|2|Georgetown|Is east
+Pregunta = the city of\Layou|2|Layou|Is southwest
+Pregunta = the city of\Port Elizabeth|2|Port Elizabeth|Is south
+Pregunta = the city of\Ashton|2|Ashton|Is southwest
+Pregunta = the city of\Biabou|2|Biabou|Is east
+Pregunta = the city of\Calliaqua|2|Calliaqua|Is south
+Pregunta = the city of\Derrick|2|Derrick|Is north
+Pregunta = the city of\Dovers|2|Dovers|Is north
+Pregunta = the city of\Fancy|2|Fancy|Is north
+Pregunta = the city of\Mespotamia|2|Mespotamia|Is southeast
+Pregunta = the city of\Orange Hill|2|Orange Hill|Is east
+Pregunta = the city of\Stubbs|2|Stubbs|Is south
+Pregunta = the city of\Wallibou|2|Wallibou|Is northwest

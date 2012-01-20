@@ -1,0 +1,21 @@
+Les Trois Rivières River|254|455|253|-45
+Artibonito River|253|725|384|-45
+Bouyaha River|252|604|345|-50
+Guayamouc River|251|696|415|-50
+Canot River|250|578|376|-40
+Artibonite River|249|538|443|-40
+Lake of Pélicre|248|679|481|0
+Lake Étang Saumâtre|247|667|581|0
+Jacmel Bay|246|532|682|0
+Port au Prince Bay|245|523|555|0
+Canal of Saint Marc|244|456|481|-40
+Canal of the Gonâve|243|384|561|-20
+Henne Bay|242|349|283|0
+Tortue Bay|241|461|338|0
+Grand Pierre Bay|240|458|375|0
+Mancenille Bay|239|696|235|0
+Canal of the Tortue|238|440|179|0
+Gulf of the Gonâve|237|358|379|90
+Passage Windward|236|157|148|-30
+Caribbean Sea|235|440|793|0
+Atlantic Ocean|234|561|88|0

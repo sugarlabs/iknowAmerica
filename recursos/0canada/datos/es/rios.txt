@@ -1,0 +1,26 @@
+Río Yukon|254|45|183|-45
+Río Mackenzie|253|133|320|-80
+Río Saskatchewan|248|214|515|-20
+Río Nelson|247|330|497|30
+Río Columbia|246|91|591|60
+Lago Great Bear|252|194|309|-45
+Lago Great Slave|251|203|415|0
+Lago Athabasca|250|226|453|0
+Lago Reindeer|249|262|486|0
+Río St. Lawrence|243|566|634|60
+Lago Superior|242|398|627|0
+Lago Michigan|241|406|714|-60
+Lago Huron|240|465|690|45
+Lago Erie|239|495|753|45
+Lago Ontario|238|533|710|0
+Lago Winnipeg|237|305|579|0
+Océano Atlántico|236|683|776|60
+Océano Pacífico|235|19|419|90
+Mar de Beaufort|234|167|179|-45
+Mar de Chukchi|233|70|65|0
+Mar de Groenlandia|232|673|50|0
+Mar de Labrador|231|625|379|0
+Bahía de Baffin|230|492|240|-45
+Bahía de Hudson|229|413|455|0
+Océano Ártico|228|268|66|0
+Mar de Noruega|227|744|259|90

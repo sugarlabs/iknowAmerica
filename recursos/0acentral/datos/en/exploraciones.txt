@@ -1,0 +1,14 @@
+[Countries]
+dibujoInicial = lineasDepto
+nombreInicial = 
+elementosActivos = deptos
+
+[Capitals]
+dibujoInicial = lineasDepto, capitales
+nombreInicial = 
+elementosActivos = capitales
+
+[Cities]
+dibujoInicial = lineasDepto, capitales, ciudades
+nombreInicial = 
+elementosActivos = capitales, ciudades

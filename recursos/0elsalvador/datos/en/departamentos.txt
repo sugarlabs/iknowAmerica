@@ -1,0 +1,16 @@
+Ahucachapán|254|83|390|45
+Cabañas|253|456|386|0
+Cuscatlán|252|359|394|-55
+Chalatenango|251|363|304|-20
+La Libertad|250|255|439|90
+La Paz|249|374|513|0
+La Unión|248|708|505|70
+Morazán|247|644|423|45
+San Miguel|246|614|523|-45
+San Salvador|245|312|431|90
+San Vicente|244|454|458|0
+Santa Ana|243|211|314|60
+Sonsonante|242|158|449|30
+Usulután|241|509|546|0
+Guatemala|240|132|132|0
+Honduras|239|572|158|0

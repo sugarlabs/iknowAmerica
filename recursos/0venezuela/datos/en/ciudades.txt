@@ -1,0 +1,47 @@
+# capitales
+Caracas|371|279|0|15|-14
+Barcelona|501|301|1|0|14
+Barinas|185|383|1|10|14
+Barquisimeto|236|301|1|-30|14
+Ciudad Bolívar|564|417|1|-15|14
+Coro|218|224|1|-10|14
+Cumaná|528|285|1|0|-14
+Guanare|211|360|1|15|14
+La Asunción|543|246|1|0|-14
+Los Teques|364|287|1|40|14
+Mérida|136|383|1|-20|14
+Maracaibo|103|266|1|0|-14
+Maracay|332|291|1|-15|-14
+Maturín|581|318|1|0|14
+Puerto Ayacucho|336|558|1|-35|14
+San Carlos|280|325|1|0|14
+San Cristóbal|71|431|1|0|14
+San Felipe|269|285|1|-30|-14
+San Fernando|340|430|1|-20|14
+San Juan de los Morros|345|314|1|60|14
+Trujillo|178|340|1|-20|14
+Tucupita|652|361|1|10|-14
+Valencia|311|297|1|-15|10
+# ciudades
+Bochinche|722|448|2|10|14
+Cabimas|118|281|2|0|14
+Cabruta|410|439|2|0|-14
+Caicara|416|445|2|0|14
+Canaima|606|522|2|0|14
+Ciudad Guayana|614|402|2|-10|-14
+Ciudad Pilar|573|454|2|0|14
+Curiapo|701|387|2|10|14
+El Amparo|155|469|2|0|14
+El Dorado|673|495|2|10|14
+El Jobal|369|493|2|10|14
+Esmeralda|454|701|2|0|14
+Güiria|631|273|2|0|14
+Guasipati|660|452|2|0|-14
+La Paragua|576|491|2|-15|14
+Puerto Carreño|344|526|2|0|14
+Punto Fijo|189|210|2|0|-14
+Riecito|265|252|2|10|-14
+San Fernando de Atabapo|332|649|2|0|14
+San Juan de Manapiare|412|582|2|40|14
+Sta. Elena de Uairén|706|614|2|-5|14
+Tumeremo|682|463|2|0|14

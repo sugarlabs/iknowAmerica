@@ -1,0 +1,49 @@
+# capitales
+San Salvador|310|442|0|-10|-14
+Ahuachapán|105|373|1|-10|14
+Chalatenango|385|335|1|30|-14
+Cojutepeque|386|435|1|25|-14
+La Unión|724|561|1|-15|14
+Santa Tecla|279|450|1|0|14
+San Francisco|646|444|1|0|-14
+San Miguel|620|509|1|25|-14
+San Vicente|435|459|1|-10|14
+Santa Ana|194|350|1|10|-14
+Sensuntepeque|480|387|1|0|-14
+Sonsonante|141|436|1|-20|14
+Usultán|539|551|1|-20|14
+Zacatecoluca|410|501|1|-10|14
+# ciudades
+Acajutla|112|474|2|0|14
+Armenia|212|427|2|0|14
+Atiquizaya|135|356|2|-25|-14
+Cacaopera|654|418|2|0|-14
+Candelaria de la Frontera|166|310|2|-40|-14
+Carolina|583|395|2|0|-14
+Chirilagua|635|596|2|0|14
+Dulce Nombre de María|363|298|2|80|-14
+El Tránsito|573|549|2|35|14
+Izalco|160|425|2|0|-14
+Jucuapa|559|506|2|-5|-14
+San Luis La Herradura|387|554|2|0|14
+La Libertad|267|507|2|-10|14
+La Palma|314|248|2|-10|-14
+La Reina|321|284|2|-10|-14
+Ilobasco|412|396|2|0|14
+Metapán|231|244|2|-10|14
+Nueva Concepción|274|305|2|-20|14
+Nueva Granada|526|462|2|55|14
+Pasaquina|723|477|2|0|-14
+Perquín|622|361|2|0|-14
+Polorós|728|404|2|0|-14
+San Agustín|491|529|2|-15|14
+San Alejo|687|525|2|0|14
+San Jorge|574|532|2|0|-14
+San Juan Opico|256|385|2|10|14
+San Luis Talpa|338|510|2|0|-14
+San Pablo Tacachico|264|359|2|-10|14
+Santa Clara|448|443|2|50|0
+Sesori|563|434|2|0|-14
+Suchitoto|357|370|2|0|-14
+Tecoluca|435|497|2|40|0
+Victoria|476|363|2|0|-14

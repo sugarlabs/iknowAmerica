@@ -1,0 +1,27 @@
+Río Wawa|254|600|210|-20
+Río Kukalaya|253|591|265|-45
+Río Bambana|252|560|315|-40
+Río Prinzapolka|251|467|318|-70
+Río Tuma|250|375|401|0
+Río Grande de Matalgapa|249|495|440|15
+Río Kurinwás|248|545|470|10
+Río Siquia|247|438|515|15
+Río Escondido|246|585|561|0
+Río Mico|245|472|558|0
+Río Rama|244|513|603|10
+Río Punta Gorda|243|548|647|0
+Río Indio|242|579|714|-10
+Río San Juan|241|545|748|-30
+Río Coco|240|345|256|45
+Río Bocay|239|363|308|60
+Río Amaka|238|415|308|70
+Río Estero Real|237|137|461|10
+Lago de Managua|236|223|530|0
+Lago de Nicaragua|235|366|658|-45
+Laguna de Perlas|234|631|499|0
+Bahía de Bluefields|233|649|591|0
+Golfo de Fonseca|232|41|409|90
+Bahía Punta Gorda|231|634|707|90
+Océano Pacífico|230|114|708|0
+Mar Caribe|229|728|407|90
+Golfo de Papagayo|228|298|797|0

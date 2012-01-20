@@ -1,0 +1,33 @@
+# capitales
+Georgetown|480|218|0|40|-14
+# ciudades
+Arimu Mine|362|260|2|-15|-14
+Bartica|430|267|2|20|-14
+Charity|426|145|2|0|-14
+Corriverton|599|321|2|45|14
+Dadanawa|328|686|2|0|14
+Good Hope|319|569|2|0|14
+Isherton|343|747|2|0|14
+Issano|329|337|2|0|14
+Ituni|474|371|2|-10|-14
+Kalkuni|522|346|2|30|0
+Kartabu Point|413|270|2|10|14
+Kurupukari|422|469|2|0|14
+Kwakwani|489|398|2|0|14
+Lethem|291|623|2|0|14
+Linden|467|311|2|20|14
+Mabaruma|285|57|2|0|14
+Mahdia|365|404|2|0|14
+Mara|546|308|2|0|14
+Matthews Ridge|240|138|2|0|14
+Orinduik|265|466|2|0|14
+Parika|449|214|2|-15|14
+Peters Mine|339|285|2|-35|14
+Port Kaituma|273|106|2|0|14
+Potaro Landing|368|384|2|0|-14
+Rockstone|435|313|2|-30|14
+Rose Hall|574|280|2|40|0
+Rosignol|552|277|2|-20|-14
+Spring Garden|435|193|2|0|-14
+Surama|375|534|2|0|14
+Takama|508|362|2|25|14

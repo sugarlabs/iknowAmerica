@@ -1,0 +1,18 @@
+# capitales
+Kingstown|132|488|0|0|-14
+Barrouallie|35|317|1|20|-14
+Chateaubelair|101|212|1|0|-14
+Georgetown|351|225|1|0|-14
+Layou|41|394|1|20|-14
+Port Elizabeth|589|70|1|0|-14
+# ciudades|||2|0|-14
+Ashton|249|780|2|0|-14
+Biabou|306|404|2|0|-14
+Calliaqua|197|537|2|0|-14
+Derrick|563|112|2|0|-14
+Dovers|672|280|2|0|-14
+Fancy|245|19|2|0|14
+Mespotamia|250|440|2|0|14
+Orange Hill|344|148|2|0|-14
+Stubbs|268|502|2|0|-14
+Wallibou|137|148|2|0|-14

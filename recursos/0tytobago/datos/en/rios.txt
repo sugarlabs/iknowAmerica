@@ -1,0 +1,8 @@
+Ortoire River|254|434|649|10
+Oropuche River|253|280|650|0
+Poole River|252|392|594|-25
+Coparo River|251|289|505|-30
+Caroni River|250|289|455|-20
+Gulf of Paria|249|103|545|0
+Caribbean Sea|248|292|164|0
+Atlantic Ocean|247|646|533|0

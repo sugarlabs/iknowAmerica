@@ -1,0 +1,23 @@
+Río Casanare|254|461|345|0
+Río Meta|253|530|379|30
+Río Orinoco|252|671|363|50
+Río Vichada|251|538|427|20
+Río Guaviare|250|490|496|30
+Río Inírida|249|570|505|30
+Río Guainía|248|597|550|0
+Río Vaupés|247|438|584|-25
+Río Apaporis|246|424|643|-40
+Río Caquetá|245|385|704|-10
+Río Amazonas|244|493|848|0
+Río Putumayo|243|336|750|-45
+Río Patía|242|114|575|-10
+Río Cauca|241|219|447|65
+Río Magdalena|240|268|425|70
+Río San Juan|239|179|419|60
+Río Atrato|238|166|326|-70
+Río Sinú|237|209|222|60
+Río César|236|363|139|60
+Río Arauca|235|470|303|0
+Océano Pacífico|234|65|412|90
+Océano Atlántico|233|690|72|0
+Mar Caribe|232|171|96|45

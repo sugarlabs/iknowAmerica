@@ -1,0 +1,29 @@
+Río Cancuén|254|490|403|35
+Río Machaquilá|253|481|358|20
+Río San Juan|252|455|306|40
+Río Pasión|251|378|318|0
+Río Usumacinta|250|256|232|-40
+Río Salinas|249|360|378|90
+Río Chixoy|248|280|435|70
+Río Negro|247|250|538|-20
+Río Motagua|246|412|604|0
+Río Samalá|245|114|690|70
+Río Suchiate|244|50|630|60
+Río Paz|243|415|800|45
+Río Coyotate|242|214|728|60
+Río Cahabón|241|406|496|10
+Río Polochic|240|446|551|0
+Río Chiyú|239|496|441|40
+Río Sarstún|238|562|447|30
+Río Ixcán|237|200|450|60
+Río San Pedro|236|250|179|-30
+Río Mopán|235|538|285|90
+Río Azul|234|561|53|45
+Lago Izabal|233|582|508|0
+Bahía de Amatique|232|658|425|-30
+Golfo de Honduras|231|748|363|90
+Mar Caribe|230|763|170|90
+Océano Pacífico|229|250|862|0
+Laguna de Atitlán|228|219|650|0
+Lago Petén Itzá|227|456|225|45
+Laguna Perdida|226|388|214|10

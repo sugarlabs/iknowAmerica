@@ -1,0 +1,14 @@
+Río Mana|254|275|336|-80
+Río Sinamary|253|431|300|-80
+Río Comté|252|507|293|50
+Río Arataya|251|407|461|45
+Río Approuage|250|523|458|55
+Río Camopi|249|418|735|45
+Río Oyapock|248|624|507|45
+Río Litani|247|72|756|50
+Río Marouini|246|164|762|70
+Río Tanpok|245|262|667|-50
+Río Maroni|244|93|171|45
+Río Abounamy|243|128|346|-20
+Río Lawa|242|134|467|-40
+Océano Atlántico|241|613|83|0

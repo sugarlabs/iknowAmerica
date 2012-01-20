@@ -1,0 +1,25 @@
+Atlántida|254|281|273|0
+Colón|253|460|259|0
+Comayagua|252|216|398|-45
+Copán|251|64|368|0
+Cortés|250|175|286|0
+Choluteca|249|286|575|30
+El Paraíso|248|361|476|30
+Francisco Morazán|247|281|442|70
+Gracias a Dios|246|632|349|0
+Intibucá|245|152|447|60
+La Paz|244|191|478|0
+Lempira|243|107|442|90
+Ocotepeque|242|46|428|-45
+Olancho|241|431|382|0
+Sta. Bárbara|240|134|347|-60
+Valle|239|226|540|0
+Yoro|238|265|329|0
+Belice|237|85|97|0
+El Salvador|236|95|529|0
+Guatemala|235|16|268|90
+Nicaragua|234|517|603|0
+Costa Rica|233|531|886|0
+Is. Utila|232|304|226|0
+Is. Guanaja|231|435|150|0
+Is. Roatán|230|365|183|0

@@ -1,0 +1,146 @@
+Prefijo = We have to look
+Prefijo = We have to find
+Prefijo = Now we have to look
+Prefijo = We need to find
+
+Sufijo = You can tell where is it?
+Sufijo = Where is it?
+Sufijo = Can you show me where is it?
+Sufijo = Can you find it?
+
+Correcto = Very well!
+Correcto = Brilliant!
+Correcto = You found it!
+Correcto = Yes!
+
+Mal = No, this is not
+Mal = Here it is not
+Mal = It seems that this is not
+Mal = That is not
+
+DespedidaB = Now I'm ready\for tomorrow...\I'm going to play...\Thanks for your help!
+DespedidaB = We made it!\I'm going to play ball...\Bye and thanks\for helping me!
+DespedidaB = We did it!\I'm ready for tomorrow...\I'm playing a while...\Until next time!
+
+DespedidaM = More luck next\I'll play a while...\Thanks!
+DespedidaM = The next time will be\I'm going to play ball...\Thanks!
+DespedidaM = Please try again...\I'm going to play...\Thanks!
+
+[Departaments]
+dibujoInicial = lineasDepto
+nombreInicial = 
+Pregunta = the departament of\Alto Paraguay|1|Alto Paraguay|Is northwest
+Pregunta = the departament of\Boquerón|1|Boquerón|Is northwest
+Pregunta = the departament of\Presidente Hayes|1|Presidente Hayes|Is west
+Pregunta = the departament of\Concepción|1|Concepción|Is north
+Pregunta = the departament of\Amambay|1|Amambay|Is north
+Pregunta = the departament of\San Pedro|1|San Pedro|Is east
+Pregunta = the departament of\Canindeyú|1|Canindeyú|Is east
+Pregunta = the departament of\Alto Paraná|1|Alto Paraná|Is southeast
+Pregunta = the departament of\Caaguazú|1|Caaguazú|Is southeast
+Pregunta = the departament of\Cordillera|1|Cordillera|Is south
+Pregunta = the departament of\Asunción|1|Asunción|Is south
+Pregunta = the departament of\Paraguarí|1|Paraguarí|Is south
+Pregunta = the departament of\Neembucú|1|Neembucú|Is south
+Pregunta = the departament of\Misiones|1|Misiones|Is south
+Pregunta = the departament of\Guairá|1|Guairá|Is southeast
+Pregunta = the departament of\Caazapá|1|Caazapá|Is southeast
+Pregunta = the departament of\Itapuá|1|Itapuá|Is southeast
+Pregunta = Brazil|1|Brazil|Is east
+Pregunta = Argentina|1|Argentina|Is southwest
+Pregunta = Bolivia|1|Bolivia|Is northwest
+
+[Departamental capitals]
+dibujoInicial = lineasDepto, capitales
+nombreInicial = 
+Pregunta = the city of\Asunción|2|Asunción|Is south
+Pregunta = the city of\Caacupé|2|Caacupé|Is south
+Pregunta = the city of\Caazapá|2|Caazapá|Is south
+Pregunta = the city of\Ciudad del Este|2|Ciudad del Este|Is southeast
+Pregunta = the city of\Coronel Oviedo|2|Cnel. Oviedo|Is south
+Pregunta = the city of\Concepción|2|Concepción|Is north
+Pregunta = the city of\Encarnación|2|Encarnación|Is south
+Pregunta = the city of\Fuerte Olimpo|2|Fuerte Olimpo|Is north
+Pregunta = the city of\Mariscal Estigarribia|2|Mariscal Estigarribia|Is northwest
+Pregunta = the city of\Paraguarí|2|Paraguarí|Is south
+Pregunta = the city of\Pedro Juan\Caballero|2|Pedro Juan Caballero|Is northeast
+Pregunta = the city of\Pilar|2|Pilar|Is southwest
+Pregunta = the city of\Pozo Colorado|2|Pozo Colorado|Is west
+Pregunta = the city of\Salto del Guaira|2|Salto del Guaira|Is east
+Pregunta = the city of\San Juan Bautista|2|San Juan Bautista|Is south
+Pregunta = the city of\San Pedro|2|San Pedro|Is in the center
+Pregunta = the city of\Villarica|2|Villarica|Is south
+
+[Cities]
+dibujoInicial = lineasDepto, capitales, ciudades
+nombreInicial = 
+Pregunta = the city of\Asunción|2|Asunción|Is south
+Pregunta = the city of\Caacupé|2|Caacupé|Is south
+Pregunta = the city of\Caazapá|2|Caazapá|Is south
+Pregunta = the city of\Ciudad del Este|2|Ciudad del Este|Is southeast
+Pregunta = the city of\Coronel Oviedo|2|Cnel. Oviedo|Is south
+Pregunta = the city of\Concepción|2|Concepción|Is north
+Pregunta = the city of\Encarnación|2|Encarnación|Is south
+Pregunta = the city of\Fuerte Olimpo|2|Fuerte Olimpo|Is north
+Pregunta = the city of\Mariscal Estigarribia|2|Mariscal Estigarribia|Is northwest
+Pregunta = the city of\Paraguarí|2|Paraguarí|Is south
+Pregunta = the city of\Pedro Juan\Caballero|2|Pedro Juan Caballero|Is northeast
+Pregunta = the city of\Pilar|2|Pilar|Is southwest
+Pregunta = the city of\Pozo Colorado|2|Pozo Colorado|Is west
+Pregunta = the city of\Salto del Guaira|2|Salto del Guaira|Is east
+Pregunta = the city of\San Juan Bautista|2|San Juan Bautista|Is south
+Pregunta = the city of\San Pedro|2|San Pedro|Is in the center
+Pregunta = the city of\Villarica|2|Villarica|Is south
+Pregunta = the city of\Abaí|2|Abaí|Is southeast
+Pregunta = the city of\Alto Verá|2|Alto Verá|Is southeast
+Pregunta = the city of\Bella Vista|2|Bella Vista|Is north
+Pregunta = the city of\Benjamin Aceval|2|Benjamin Aceval|Is south
+Pregunta = the city of\Capitán Bado|2|Capitán Bado|Is east
+Pregunta = the city of\Capitán Meza|2|Capitán Meza|Is southeast
+Pregunta = the city of\Capitán Pablo\Lagerenza|2|Capitán Pablo Lagerenza|Is northwest
+Pregunta = the city of\Coronel Bogado|2|Cnel. Bogado|Is south
+Pregunta = the city of\Curuguaty|2|Curuguaty|Is east
+Pregunta = the city of\Doctor Pedro\P. Peña|2|Dr. Pedro P. Peña|Is west
+Pregunta = the city of\Filadelfia|2|Filadelfia|Is northwest
+Pregunta = the city of\Fortín\Ávalos Sánchez|2|Fortín Ávalos Sánchez|Is west
+Pregunta = the city of\Fortín General Diaz|2|Fortín Gral. Diaz|Is west
+Pregunta = the city of\Fortin Infante Rivarola|2|Fortin Infante Rivarola|Is northwest
+Pregunta = the city of\General\Eugenio A. Garay|2|Gral. Eugenio A. Garay|Is northwest
+Pregunta = the city of\Hernandarias|2|Hernandarias|Is southeast
+Pregunta = the city of\Horqueta|2|Horqueta|Is in the center
+Pregunta = the city of\Itanara|2|Itanara|Is east
+Pregunta = the city of\Km. 160|2|Km. 160|Is northwest
+Pregunta = the city of\Minas Cué|2|Minas Cué|Is northwest
+Pregunta = the city of\Puerto Bahia Negra|2|Puerto Bahia Negra|Is north
+Pregunta = the city of\Puerto Casado|2|Puerto Casado|Is north
+Pregunta = the city of\Puerto Guaraní|2|Puerto Guaraní|Is north
+Pregunta = the city of\Puerto Pinasco|2|Puerto Pinasco|Is north
+Pregunta = the city of\Rosario|2|Rosario|Is in the center
+Pregunta = the city of\San Carlos|2|San Carlos|Is north
+Pregunta = the city of\San Estanislao|2|San Estanislao|Is southeast
+Pregunta = the city of\San Lázaro|2|San Lázaro|Is north
+Pregunta = the city of\San Ygnacio|2|San Ygnacio|Is south
+Pregunta = the city of\Santa Rita|2|Santa Rita|Is southeast
+Pregunta = the city of\Tacuatí|2|Tacuatí|Is in the center
+Pregunta = the city of\Yby Yaú|2|Yby Yaú|Is northeast
+Pregunta = the city of\Yhú|2|Yhú|Is southeast
+
+[Waterways]
+dibujoInicial = rios
+nombreInicial = 
+Pregunta = the Verde River|3|Verde River|Is northwest
+Pregunta = the Monte\Lindo River|3|Monte Lindo River|Is west
+Pregunta = the Pilcomayo River|3|Pilcomayo River|Is west
+Pregunta = the González River|3|González River|Is northwest
+Pregunta = the Negra River|3|Negra River|Queda en el sureste
+Pregunta = the Aguaray\Guazú River|3|Aguaray Guazú River|Is southeast
+Pregunta = the Confuso River|3|Confuso River|Is southeast
+Pregunta = the Alegre River|3|Alegre River|Is north
+Pregunta = the Apa River|3|Apa River|Is north
+Pregunta = the Aquidabán River|3|Aquidabán River|Is northeast
+Pregunta = the Ipané River|3|Ipané River|Is northeast
+Pregunta = the Jejuí Guqzú River|3|Jejuí Guqzú River|Is east
+Pregunta = the Paraná River|3|Paraná River|Is southeast
+Pregunta = the Tebicuary River|3|Tebicuary River|Is south
+Pregunta = the Paraguay River|3|Paraguay River|Is in the center
+Pregunta = the Yacuy\Guazú River|3|Yacuy Guazú River|Is southeast

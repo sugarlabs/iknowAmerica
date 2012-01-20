@@ -1,0 +1,46 @@
+Curaray River|254|596|404|-10
+Pintoyacu River|253|533|418|-5
+Guayusa River|252|646|455|-30
+Cunambo River|251|630|498|-25
+Corrientes River|250|647|544|-40
+Pastaza River|249|421|428|-60
+Macuma River|248|477|553|90
+Morona River|247|462|637|-70
+Mangosiza River|246|407|539|90
+Santiago River|245|415|667|90
+Numbala River|244|275|819|70
+Alamaor River|243|90|790|50
+Catamayo River|242|179|763|30
+Puyango River|241|185|732|30
+Zamora River|240|333|649|70
+Tenguel River|239|185|618|-40
+Jagua River|238|199|581|0
+Caliu River|237|191|547|0
+Balsas River|236|59|472|0
+Daule River|235|152|401|70
+Chone River|234|100|323|-40
+Reservoir Daule Peripa River|233|174|324|45
+Briceño River|232|97|271|-10
+Blanco River|229|253|210|30
+Toachi River|228|256|262|-30
+Esmeraldas River|227|204|105|-60
+Onzole River|226|255|83|70
+Mira River|225|357|114|-45
+San Juan River|224|369|81|-30
+Nashiño River|223|642|348|-10
+Coronaco River|222|674|400|-20
+Tiguiño River|221|536|349|0
+Napo River|220|502|309|45
+Coca River|219|515|244|-60
+Salado River|218|412|216|-50
+Quijos River|217|443|262|60
+Aguarico River|216|652|237|0
+Lagarto Cocha River|215|732|250|-50
+Putumayo River|214|653|149|-30
+San Miguel River|213|510|173|-10
+Babahoyo River|212|201|392|75
+Canal of Jambeli|211|127|632|-40
+Gulf of Guayaquil|210|32|622|90
+Caráquez Bay|209|106|134|0
+Manta Bay|208|93|213|0
+Pacific Ocean|207|174|34|0

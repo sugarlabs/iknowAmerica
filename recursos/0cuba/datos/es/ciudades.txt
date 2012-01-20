@@ -1,0 +1,37 @@
+# capitales
+La Habana|195|311|0|-30|-14
+Camagüey|502|442|1|0|14
+Ciego de Ávila|443|408|1|60|0
+Cienfuegos|327|381|1|-55|0
+Guantánamo|696|530|1|20|14
+Holguín|619|477|1|0|-14
+Las Tunas|570|473|1|0|14
+Manzanillo|561|519|1|-60|0
+Matanzas|249|316|1|15|-14
+Pinar del Río|100|361|1|40|14
+Sancti Spíritus|395|392|1|-40|14
+Santa Clara|360|364|1|25|-14
+Santiago de Cuba|651|540|1|0|14
+# ciudades
+Amancio|526|484|2|-20|-14
+Banes|657|471|2|35|0
+Baracoa|741|514|2|10|14
+Bayamó|592|516|2|10|14
+Cárdenas|274|317|2|40|0
+Florida|481|430|2|-45|0
+Güines|217|331|2|-20|14
+Guane|73|380|2|-10|14
+Isabela de Sagua|354|328|2|70|0
+Jovellanos|275|333|2|0|14
+La Fe|164|412|2|0|14
+Mariel|156|320|2|-40|0
+Mayarí|659|493|2|0|14
+Moa|711|493|2|25|0
+Morón|452|387|2|35|0
+Nueva Gerona|161|403|2|0|-14
+Nuevitas|546|428|2|40|0
+Pilón|544|551|2|0|14
+Placetas|380|372|2|45|0
+Puerto Padre|595|455|2|40|-14
+San Cristobal|144|340|2|-70|0
+Santa Cruz del Sur|497|490|2|-85|0

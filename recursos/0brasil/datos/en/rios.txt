@@ -1,0 +1,18 @@
+Amazonas River|254|348|213|20
+Negro River|253|229|197|-30
+Purus River|252|124|342|40
+Madeira River|251|253|323|50
+Mamore River|249|201|453|-80
+Tapajos River|248|354|289|45
+Juruena River|247|295|400|80
+Teles Pires River|246|349|432|-70
+Xingu River|245|404|315|80
+Araguaia River|244|462|357|60
+Tocantins River|243|518|386|80
+Sao Francsico River|242|593|480|60
+Paraguay River|241|309|588|90
+Paranaiba River|239|478|538|30
+Grande River|238|504|597|-20
+Uruguay River|237|367|747|45
+Pacific Ocean|235|45|742|90
+Atlantic Ocean|234|607|760|45

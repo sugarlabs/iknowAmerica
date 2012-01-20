@@ -1,0 +1,28 @@
+# capitales
+Cayena|555|212|0|20|-14
+Saint-Laurent du Maroni|158|78|1|10|-14
+# ciudades
+Apatou|74|167|2|15|14
+Camopi|551|629|2|0|-14
+Gare Tigre|367|205|2|0|-14
+Grand-Santi|70|374|2|20|14
+Guisanbourg|655|388|2|0|14
+Iracoubo|350|81|2|-10|14
+Kaw|627|320|2|0|-14
+Kourou|480|161|2|-20|-14
+Les Hattes|178|22|2|15|-14
+Macouria|541|214|2|-45|-14
+Mana|208|36|2|0|14
+Maripasoula|149|516|2|0|-14
+Matoury|555|229|2|20|14
+Montsinéry|510|220|2|-30|14
+Ouanary|710|386|2|0|-14
+Rémire|566|222|2|30|0
+Regina|600|356|2|0|-14
+Roura|559|259|2|0|14
+Saint Jean|145|98|2|0|14
+Saint-Elie|331|236|2|0|14
+Saint-Georges|675|458|2|0|14
+Saul|349|526|2|0|14
+Sinnamary|407|102|2|-20|14
+Tonate|516|188|2|15|-14

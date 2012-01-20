@@ -1,0 +1,14 @@
+Hanover|254|91|322|0
+Westmoreland|253|101|368|0
+Saint James|252|191|292|90
+Trelawny|251|273|335|0
+Saint Elizabeth|250|228|445|-70
+Manchester|249|312|450|-60
+Saint Ann|248|396|351|0
+Clarendon|247|390|462|-60
+Saint Catherine|246|478|447|-60
+Saint Mary|245|525|363|-40
+Saint Andrew|244|568|447|-10
+Kingston|243|568|472|0
+Portland|242|650|417|0
+Saint Thomas|241|677|492|0

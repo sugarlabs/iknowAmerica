@@ -1,0 +1,60 @@
+# capitales
+Lima|316|590|0|0|14
+Abancay|501|657|1|0|14
+Arequipa|560|786|1|0|-14
+Ayacucho|438|636|1|0|14
+Cajamarca|239|358|1|20|14
+Callao|309|579|1|0|-14
+Cerro de Pasco|346|522|1|30|14
+Chachapoyas|268|314|1|-10|14
+Chiclayo|178|341|1|-25|-14
+Cusco|542|653|1|0|-14
+Huánuco|349|485|1|15|14
+Huancavelica|402|616|1|65|0
+Huancayo|394|586|1|50|0
+Huaraz|287|469|1|10|14
+Ica|367|676|1|20|0
+Iquitos|487|204|1|0|-14
+Moquegua|588|819|1|15|14
+Moyobamba|314|307|1|20|-14
+Piura|140|271|1|0|14
+Pucallpa|424|413|1|20|14
+Puerto Maldonado|669|612|1|10|14
+Puno|627|763|1|0|14
+Tacna|617|860|1|0|14
+Trujillo|217|402|1|0|14
+Tumbes|147|195|1|0|-14
+# ciudades
+Azángaro|618|716|2|0|-14
+Bagua|235|286|2|0|-14
+Barranca|276|520|2|-50|0
+Caballococha|616|211|2|0|14
+Camana|517|796|2|-45|0
+Caraveli|476|762|2|-10|14
+Casma|251|467|2|-40|0
+Chimbote|240|446|2|-50|0
+Chincha Alta|353|647|2|-60|0
+Contamana|402|363|2|0|14
+Coracora|460|723|2|10|-14
+Cotahuasi|496|729|2|15|14
+Flor de Agosto|492|140|2|0|14
+Huacho|288|542|2|-45|0
+Huarmey|259|492|2|-45|0
+Iñapari|650|540|2|0|14
+Juliaca|623|744|2|10|-14
+La Oroya|361|563|2|40|0
+Macusani|613|679|2|0|-14
+Manú|593|593|2|0|-14
+Mollendo|540|812|2|-45|0
+Nauta|468|232|2|0|14
+Nazca|407|715|2|0|14
+Palpa|396|701|2|-35|0
+Pisco|355|667|2|-35|0
+Puerto Inca|408|460|2|25|14
+Requena|459|262|2|0|14
+San Pedro de Lloc|193|371|2|-80|0
+San Vicente de Cañete|342|631|2|-100|0
+Sullana|139|255|2|20|-14
+Talara|110|243|2|-20|-14
+Tarapoto|339|328|2|20|14
+Tingo Maria|361|449|2|-10|-14

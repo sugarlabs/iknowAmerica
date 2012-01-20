@@ -1,0 +1,26 @@
+Yukon River|254|45|183|-45
+Mackenzie River|253|133|320|-80
+Saskatchewan River|248|214|515|-20
+Nelson River|247|330|497|30
+Columbia River|246|91|591|60
+Lake Great Bear|252|194|309|-45
+Lake Great Slave|251|203|415|0
+Lake Athabasca|250|226|453|0
+Lake Reindeer|249|262|486|0
+St. Lawrence River|243|566|634|60
+Lake Superior|242|398|627|0
+Lake Michigan|241|406|714|-60
+Lake Huron|240|465|690|45
+Lake Erie|239|495|753|45
+Lake Ontario|238|533|710|0
+Lake Winnipeg|237|305|579|0
+Atlantic Ocean|236|683|776|60
+Pacific Ocean|235|19|419|90
+Beaufort Sea|234|167|179|-45
+Chukchi Sea|233|70|65|0
+Groenlandia Sea|232|673|50|0
+Labrador Sea|231|625|379|0
+Baffin Bay|230|492|240|-45
+Hudson Bay|229|413|455|0
+Arctic Ocean|228|268|66|0
+Noruega Sea|227|744|259|90

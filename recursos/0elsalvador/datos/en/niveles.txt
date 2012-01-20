@@ -1,0 +1,134 @@
+Prefijo = We have to look
+Prefijo = We have to find
+Prefijo = Now we have to look
+Prefijo = We need to find
+
+Sufijo = You can tell where is it?
+Sufijo = Where is it?
+Sufijo = Can you show me where is it?
+Sufijo = Can you find it?
+
+Correcto = Very well!
+Correcto = Brilliant!
+Correcto = You found it!
+Correcto = Yes!
+
+Mal = No, this is not
+Mal = Here it is not
+Mal = It seems that this is not
+Mal = That is not
+
+DespedidaB = Now I'm ready\for tomorrow...\I'm going to play...\Thanks for your help!
+DespedidaB = We made it!\I'm going to play ball...\Bye and thanks\for helping me!
+DespedidaB = We did it!\I'm ready for tomorrow...\I'm playing a while...\Until next time!
+
+DespedidaM = More luck next\I'll play a while...\Thanks!
+DespedidaM = The next time will be\I'm going to play ball...\Thanks!
+DespedidaM = Please try again...\I'm going to play...\Thanks!
+
+[Departaments]
+dibujoInicial = lineasDepto
+nombreInicial = 
+Pregunta = the departament of\Ahucachapán|1|Ahucachapán|Is west
+Pregunta = the departament of\Cabañas|1|Cabañas|Is north
+Pregunta = the departament of\Cuscatlán|1|Cuscatlán|Is northwest
+Pregunta = the departament of\Chalatenango|1|Chalatenango|Is northwest
+Pregunta = the departament of\La Libertad|1|La Libertad|Is west
+Pregunta = the departament of\La Paz|1|La Paz|Is southwest
+Pregunta = the departament of\La Unión|1|La Unión|Is east
+Pregunta = the departament of\Morazán|1|Morazán|Is east
+Pregunta = the departament of\San Miguel|1|San Miguel|Is east
+Pregunta = the departament of\San Salvador|1|San Salvador|Is west
+Pregunta = the departament of\San Vicente|1|San Vicente|Is southeast
+Pregunta = the departament of\Santa Ana|1|Santa Ana|Is northwest
+Pregunta = the departament of\Sonsonante|1|Sonsonante|Is west
+Pregunta = the departament of\Usulután|1|Usulután|Is southeast
+Pregunta = Guatemala|1|Guatemala|Is northwest
+Pregunta = Honduras|1|Honduras|Is northeast
+
+[Departamental capitals]
+dibujoInicial = lineasDepto, capitales
+nombreInicial = 
+Pregunta = the city of\San Salvador|2|San Salvador|Is west
+Pregunta = the city of\Ahuachapán|2|Ahuachapán|Is west
+Pregunta = the city of\Chalatenango|2|Chalatenango|Is north
+Pregunta = the city of\Cojutepeque|2|Cojutepeque|Is in the center
+Pregunta = the city of\La Unión|2|La Unión|Queda sureste
+Pregunta = the city of\Santa Tecla|2|Santa Tecla|Is west
+Pregunta = the city of\San Francisco|2|San Francisco|Is east
+Pregunta = the city of\San Miguel|2|San Miguel|Is east
+Pregunta = the city of\San Vicente|2|San Vicente|Is in the center
+Pregunta = the city of\Santa Ana|2|Santa Ana|Is northwest
+Pregunta = the city of\Sensuntepeque|2|Sensuntepeque|Is northeast
+Pregunta = the city of\Sonsonante|2|Sonsonante|Is west
+Pregunta = the city of\Usultán|2|Usultán|Is southeast
+Pregunta = the city of\Zacatecoluca|2|Zacatecoluca|Is south
+
+[Cities]
+dibujoInicial = lineasDepto, capitales, ciudades
+nombreInicial = 
+Pregunta = the city of\San Salvador|2|San Salvador|Is west
+Pregunta = the city of\Ahuachapán|2|Ahuachapán|Is west
+Pregunta = the city of\Chalatenango|2|Chalatenango|Is north
+Pregunta = the city of\Cojutepeque|2|Cojutepeque|Is in the center
+Pregunta = the city of\La Unión|2|La Unión|Queda sureste
+Pregunta = the city of\Santa Tecla|2|Santa Tecla|Is west
+Pregunta = the city of\San Francisco|2|San Francisco|Is east
+Pregunta = the city of\San Miguel|2|San Miguel|Is east
+Pregunta = the city of\San Vicente|2|San Vicente|Is in the center
+Pregunta = the city of\Santa Ana|2|Santa Ana|Is northwest
+Pregunta = the city of\Sensuntepeque|2|Sensuntepeque|Is northeast
+Pregunta = the city of\Sonsonante|2|Sonsonante|Is west
+Pregunta = the city of\Usultán|2|Usultán|Is southeast
+Pregunta = the city of\Zacatecoluca|2|Zacatecoluca|Is south
+Pregunta = the city of\Acajutla|2|Acajutla|Is west
+Pregunta = the city of\Armenia|2|Armenia|Is west
+Pregunta = the city of\Atiquizaya|2|Atiquizaya|Is west
+Pregunta = the city of\Cacaopera|2|Cacaopera|Is east
+Pregunta = the city of\Candelaria\de la Frontera|2|Candelaria de la Frontera|Is northwest
+Pregunta = the city of\Carolina|2|Carolina|Is northeast
+Pregunta = the city of\Chirilagua|2|Chirilagua|Is southeast
+Pregunta = the city of\Dulce Nombre\de María|2|Dulce Nombre de María|Is north
+Pregunta = the city of\El Tránsito|2|El Tránsito|Is southeast
+Pregunta = the city of\Izalco|2|Izalco|Is west
+Pregunta = the city of\Jucuapa|2|Jucuapa|Is southeast
+Pregunta = the city of\San Luis La Herradura|2|San Luis La Herradura|Is south
+Pregunta = the city of\La Libertad|2|La Libertad|Is southwest
+Pregunta = the city of\La Palma|2|La Palma|Is northwest
+Pregunta = the city of\La Reina|2|La Reina|Is northwest
+Pregunta = the city of\Ilobasco|2|Ilobasco|Is in the center
+Pregunta = the city of\Metapán|2|Metapán|Is northwest
+Pregunta = the city of\Nueva Concepción|2|Nueva Concepción|Is northwest
+Pregunta = the city of\Nueva Granada|2|Nueva Granada|Is east
+Pregunta = the city of\Pasaquina|2|Pasaquina|Is east
+Pregunta = the city of\Perquín|2|Perquín|Is northeast
+Pregunta = the city of\Polorós|2|Polorós|Is east
+Pregunta = the city of\San Agustín|2|San Agustín|Is southeast
+Pregunta = the city of\San Alejo|2|San Alejo|Is southeast
+Pregunta = the city of\San Jorge|2|San Jorge|Is southeast
+Pregunta = the city of\San Juan Opico|2|San Juan Opico|Is west
+Pregunta = the city of\San Luis Talpa|2|San Luis Talpa|Is southwest
+Pregunta = the city of\San Pablo\Tacachico|2|San Pablo Tacachico|Is northwest
+Pregunta = the city of\Santa Clara|2|Santa Clara|Is in the center
+Pregunta = the city of\Sesori|2|Sesori|Is east
+Pregunta = the city of\Suchitoto|2|Suchitoto|Is northwest
+Pregunta = the city of\Tecoluca|2|Tecoluca|Is south
+Pregunta = the city of\Victoria|2|Victoria|Is northeast
+
+[Waterways]
+dibujoInicial = rios
+nombreInicial = 
+Pregunta = the Paz River|3|Paz River|Is west
+Pregunta = the Lempa River|3|Lempa River|Is in the center
+Pregunta = the Sumpul River|3|Sumpul River|Is north
+Pregunta = the Torola River|3|Torola River|Is northeast
+Pregunta = the Jiboa River|3|Jiboa River|Is southwest
+Pregunta = the Grande\de San Miguel River|3|Gr. de San Miguel River|Is southeast
+Pregunta = the Goascorán River|3|Goascorán River|Is east
+Pregunta = the Guarajambala River|3|Guarajambala River|Is northeast
+Pregunta = the Lake of Güija|3|Lake of Güija|Is northwest
+Pregunta = the Lake of Coatepeque|3|Lake of Coatepeque|Is west
+Pregunta = of Lake de Ilopango|3|Lake of Ilompango|Is west
+Pregunta = the Olomega Lagoon|3|Olomega Lagoon|Is southeast
+Pregunta = the Cerrón Grande Reservoir|3|Cerrón Grande Reservoir|Is northwest
+Pregunta = the Pacific Ocean|3|Pacific Ocean|Is south

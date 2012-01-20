@@ -1,0 +1,33 @@
+# capitales
+Panamá|468|297|0|0|-14
+Bocas del Toro|115|250|1|40|-14
+Chitré|348|435|1|-25|14
+Colón|420|258|1|-15|-14
+David|93|374|1|0|14
+El Porvenir|542|228|1|20|-14
+La Palma|645|380|1|0|-14
+Las Tablas|371|461|1|-20|14
+Penonomé|360|365|1|0|14
+Santiago|280|416|1|0|14
+# ciudades
+Aguadulce|335|399|2|25|14
+Almirante|98|260|2|0|14
+Bajo Boquete|91|331|2|60|0
+Balboa|463|306|2|20|14
+Cañita|550|271|2|30|0
+Cerro Punta|74|319|2|0|-14
+Chepo|522|278|2|-25|-14
+El Copé|328|351|2|0|-14
+El Tigre|247|473|2|-25|-14
+El Valle|389|353|2|15|-14
+Elena|49|226|2|-10|-14
+La Chorrera|435|316|2|-45|-14
+Los Asientos|390|494|2|0|14
+Portobelo|451|228|2|-10|-14
+Puerto Armuelles|36|391|2|40|14
+Salud|389|275|2|-25|-14
+San Andrés|57|354|2|-10|-14
+Santa Fe|264|364|2|-10|-14
+Soloy|136|357|2|15|14
+Tolé|189|400|2|0|-14
+Yaviza|704|406|2|0|14

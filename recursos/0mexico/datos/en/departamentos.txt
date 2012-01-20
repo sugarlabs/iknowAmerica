@@ -1,0 +1,41 @@
+D.F.|254|437|560|0
+Aguascalientes|253|355|486|0
+Baja California Norte|252|44|230|-45
+Baja California Sur|251|122|376|-45
+Campeche|250|641|563|0
+Coahuila|249|365|340|90
+Colima|248|310|564|30
+Chiapas|247|611|630|30
+Chihuahua|246|259|298|0
+Durango|245|288|394|0
+Guanajuato|244|396|503|0
+Guerrero|243|417|609|0
+Hidalgo|242|490|535|0
+Jalisco|241|305|540|30
+México|240|414|543|0
+Michoacán|239|353|590|45
+#Morelos|238|441|573|0
+Nayarit|237|288|505|0
+Nuevo León|236|414|380|90
+Oxaca|235|511|630|0
+Puebla|234|472|585|0
+Querétaro|233|411|518|0
+Quintana Roo|232|719|544|60
+San Luis Potosí|231|415|470|0
+Sinaloa|230|234|409|-45
+Sonora|229|158|265|0
+Tabasco|228|600|585|0
+Tamaulipas|227|500|439|0
+#Tlaxcala|226|465|555|0
+Veracruz|225|525|580|-30
+Yucatán|224|698|506|30
+Zacatecas|223|347|434|20
+Estados Unidos|222|386|119|0
+Guatemala|221|675|663|30
+Belice|220|738|609|0
+Honduras|219|749|663|40
+El Salvador|218|718|714|0
+Is. Cedros|217|27|285|90
+Is. Revillagígedo|216|124|542|0
+Is. Marías|215|230|493|-50
+Is. Cozumel|214|767|511|90

@@ -1,0 +1,90 @@
+# Translation for I know America
+# Copyright (C) 2011, Alan Aguiar
+# This file is distributed under the same license
+# as the I know America package.
+# Alan Aguiar <alanjas@hotmail.com>, 2011.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: <alanjas@hotmail.com>\n"
+"POT-Creation-Date: 2011-08-06 17:16+0000\n"
+"PO-Revision-Date: 2011-08-06 17:20+0000\n"
+"Last-Translator:  <alanjas@hotmail.com>\n"
+"Language-Team: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: activity/activity.info:2
+msgid "Conozco America"
+msgstr "I know America"
+
+#: conozcoam.py:58
+msgid "datos/en"
+msgstr "datos/en"
+
+#: conozcoam.py:70
+msgid "nombreEN.txt"
+msgstr "nombreEN.txt"
+
+#: conozcoam.py:493
+msgid "About I know America"
+msgstr "About I know America"
+
+#: conozcoam.py:511
+msgid "Press any key to return"
+msgstr "Press any key to return"
+
+#: conozcoam.py:533 conozcoam.py:637
+msgid "I know America"
+msgstr "I know America"
+
+#: conozcoam.py:538
+msgid "You have chosen the map "
+msgstr "You have chosen the map "
+
+#: conozcoam.py:544
+msgid "Play"
+msgstr "Play"
+
+#: conozcoam.py:560
+msgid "Explore"
+msgstr "Explore"
+
+#: conozcoam.py:580 conozcoam.py:720
+msgid "About this game"
+msgstr "About this game"
+
+#: conozcoam.py:588
+msgid "Return"
+msgstr "Return"
+
+#: conozcoam.py:641
+msgid "Choose the map to use"
+msgstr "Choose the map to use"
+
+#: conozcoam.py:661
+msgid "<<< Previous page"
+msgstr "<<< Previous page"
+
+#: conozcoam.py:706
+msgid "Next page >>>"
+msgstr "Next page >>>"
+
+#: conozcoam.py:727
+msgid "Exit"
+msgstr "Exit"
+
+#: conozcoam.py:1197 conozcoam.py:1391
+msgid "End"
+msgstr "End"
+
+#: conozcoam.py:1208
+msgid "Show all"
+msgstr "Show all"
+
+#: conozcoam.py:1640 conozcoam.py:1747 conozcoam.py:1820
+msgid "Press any key to skip"
+msgstr "Press any key to skip"

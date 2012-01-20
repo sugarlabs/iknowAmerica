@@ -1,0 +1,146 @@
+Prefijo = Tenemos que buscar
+Prefijo = Tenemos que\encontrar
+Prefijo = Ahora tenemos\que buscar
+Prefijo = Tenemos que\hallar
+
+Sufijo = ¿Podés señalar dónde es?
+Sufijo = ¿Dónde queda?
+Sufijo = ¿Podés mostrarme dónde es?
+Sufijo = ¿Podés encontrarlo?
+
+Correcto = ¡Muy bien!
+Correcto = ¡Genial!
+Correcto = ¡Lo encontraste!
+Correcto = ¡Sí!
+
+Mal = No, ese no es
+Mal = Acá no es
+Mal = Parece que no es ese
+Mal = Ese no es
+
+DespedidaB = Ahora estoy\listo para mañana...\Me voy a jugar...\¡Gracias por tu ayuda!
+DespedidaB = ¡Lo hemos conseguido!\Me voy a jugar\con la pelota...\¡Chau y gracias por ayudarme!
+DespedidaB = ¡Lo hicimos!\Estoy listo para mañana...\Voy a jugar un rato...\¡Hasta la próxima!
+
+DespedidaM = Mas suerte la próxima\Voy a jugar un rato...\¡Gracias!
+DespedidaM = La próxima vez será\Me voy a jugar\con la pelota...\¡Gracias!
+DespedidaM = Vuelve a intentarlo...\Me voy a jugar...\¡Gracias!
+
+[Departamentos]
+dibujoInicial = lineasDepto
+nombreInicial = 
+Pregunta = el departamento\de Alto Paraguay|1|Alto Paraguay|Queda al noroeste
+Pregunta = el departamento\de Boquerón|1|Boquerón|Queda al noroeste
+Pregunta = el departamento\de Presidente Hayes|1|Presidente Hayes|Queda al oeste
+Pregunta = el departamento\de Concepción|1|Concepción|Queda al norte
+Pregunta = el departamento\de Amambay|1|Amambay|Queda al norte
+Pregunta = el departamento\de San Pedro|1|San Pedro|Queda al este
+Pregunta = el departamento\de Canindeyú|1|Canindeyú|Queda al este
+Pregunta = el departamento\de Alto Paraná|1|Alto Paraná|Queda al sureste
+Pregunta = el departamento\de Caaguazú|1|Caaguazú|Queda al sureste
+Pregunta = el departamento\de Cordillera|1|Cordillera|Queda al sur
+Pregunta = el departamento\de Asunción|1|Asunción|Queda al sur
+Pregunta = el departamento\de Paraguarí|1|Paraguarí|Queda al sur
+Pregunta = el departamento\de Neembucú|1|Neembucú|Queda al sur
+Pregunta = el departamento\de Misiones|1|Misiones|Queda al sur
+Pregunta = el departamento\de Guairá|1|Guairá|Queda al sureste
+Pregunta = el departamento\de Caazapá|1|Caazapá|Queda al sureste
+Pregunta = el departamento\de Itapuá|1|Itapuá|Queda al sureste
+Pregunta = a Brasil|1|Brasil|Queda al este
+Pregunta = a Argentina|1|Argentina|Queda al suroeste
+Pregunta = a Bolivia|1|Bolivia|Queda al noroeste
+
+[Capitales departamentales]
+dibujoInicial = lineasDepto, capitales
+nombreInicial = 
+Pregunta = la ciudad\de Asunción|2|Asunción|Queda al sur
+Pregunta = la ciudad\de Caacupé|2|Caacupé|Queda al sur
+Pregunta = la ciudad\de Caazapá|2|Caazapá|Queda al sur
+Pregunta = la ciudad\de Ciudad del Este|2|Ciudad del Este|Queda al sureste
+Pregunta = la ciudad\de Coronel Oviedo|2|Cnel. Oviedo|Queda al sur
+Pregunta = la ciudad\de Concepción|2|Concepción|Queda en el norte
+Pregunta = la ciudad\de Encarnación|2|Encarnación|Queda al sur
+Pregunta = la ciudad\de Fuerte Olimpo|2|Fuerte Olimpo|Queda al norte
+Pregunta = la ciudad de\Mariscal Estigarribia|2|Mariscal Estigarribia|Queda al noroeste
+Pregunta = la ciudad\de Paraguarí|2|Paraguarí|Queda al sur
+Pregunta = la ciudad\de Pedro Juan\Caballero|2|Pedro Juan Caballero|Queda al noreste
+Pregunta = la ciudad\de Pilar|2|Pilar|Queda al suroeste
+Pregunta = la ciudad\de Pozo Colorado|2|Pozo Colorado|Queda al oeste
+Pregunta = la ciudad de\Salto del Guaira|2|Salto del Guaira|Queda al este
+Pregunta = la ciudad de\San Juan Bautista|2|San Juan Bautista|Queda al sur
+Pregunta = la ciudad\de San Pedro|2|San Pedro|Queda en el centro
+Pregunta = la ciudad\de Villarica|2|Villarica|Queda al sur
+
+[Ciudades]
+dibujoInicial = lineasDepto, capitales, ciudades
+nombreInicial = 
+Pregunta = la ciudad\de Asunción|2|Asunción|Queda al sur
+Pregunta = la ciudad\de Caacupé|2|Caacupé|Queda al sur
+Pregunta = la ciudad\de Caazapá|2|Caazapá|Queda al sur
+Pregunta = la ciudad\de Ciudad del Este|2|Ciudad del Este|Queda al sureste
+Pregunta = la ciudad\de Coronel Oviedo|2|Cnel. Oviedo|Queda al sur
+Pregunta = la ciudad\de Concepción|2|Concepción|Queda en el norte
+Pregunta = la ciudad\de Encarnación|2|Encarnación|Queda al sur
+Pregunta = la ciudad\de Fuerte Olimpo|2|Fuerte Olimpo|Queda al norte
+Pregunta = la ciudad de\Mariscal Estigarribia|2|Mariscal Estigarribia|Queda al noroeste
+Pregunta = la ciudad\de Paraguarí|2|Paraguarí|Queda al sur
+Pregunta = la ciudad\de Pedro Juan\Caballero|2|Pedro Juan Caballero|Queda al noreste
+Pregunta = la ciudad\de Pilar|2|Pilar|Queda al suroeste
+Pregunta = la ciudad\de Pozo Colorado|2|Pozo Colorado|Queda al oeste
+Pregunta = la ciudad de\Salto del Guaira|2|Salto del Guaira|Queda al este
+Pregunta = la ciudad de\San Juan Bautista|2|San Juan Bautista|Queda al sur
+Pregunta = la ciudad\de San Pedro|2|San Pedro|Queda en el centro
+Pregunta = la ciudad\de Villarica|2|Villarica|Queda al sur
+Pregunta = la ciudad\de Abaí|2|Abaí|Queda al sureste
+Pregunta = la ciudad\de Alto Verá|2|Alto Verá|Queda al sureste
+Pregunta = la ciudad\de Bella Vista|2|Bella Vista|Queda al norte
+Pregunta = la ciudad\de Benjamin Aceval|2|Benjamin Aceval|Queda al sur
+Pregunta = la ciudad\de Capitán Bado|2|Capitán Bado|Queda al este
+Pregunta = la ciudad\de Capitán Meza|2|Capitán Meza|Queda al sureste
+Pregunta = la ciudad\de Capitán Pablo\Lagerenza|2|Capitán Pablo Lagerenza|Queda al noroeste
+Pregunta = la ciudad\de Coronel Bogado|2|Cnel. Bogado|Queda al sur
+Pregunta = la ciudad\de Curuguaty|2|Curuguaty|Queda al este
+Pregunta = la ciudad\de Doctor Pedro\P. Peña|2|Dr. Pedro P. Peña|Queda al oeste
+Pregunta = la ciudad\de Filadelfia|2|Filadelfia|Queda al noroeste
+Pregunta = la ciudad\de Fortín\Ávalos Sánchez|2|Fortín Ávalos Sánchez|Queda al oeste
+Pregunta = la ciudad de\Fortín General Diaz|2|Fortín Gral. Diaz|Queda al oeste
+Pregunta = la ciudad de\Fortin Infante Rivarola|2|Fortin Infante Rivarola|Queda al noroeste
+Pregunta = la ciudad\de General\Eugenio A. Garay|2|Gral. Eugenio A. Garay|Queda al noroeste
+Pregunta = la ciudad\de Hernandarias|2|Hernandarias|Queda al sureste
+Pregunta = la ciudad\de Horqueta|2|Horqueta|Queda en el centro
+Pregunta = la ciudad\de Itanara|2|Itanara|Queda al este
+Pregunta = la ciudad\de Km. 160|2|Km. 160|Queda al noroeste
+Pregunta = la ciudad\de Minas Cué|2|Minas Cué|Queda al noroeste
+Pregunta = la ciudad\de Puerto Bahia Negra|2|Puerto Bahia Negra|Queda al norte
+Pregunta = la ciudad\de Puerto Casado|2|Puerto Casado|Queda al norte
+Pregunta = la ciudad\de Puerto Guaraní|2|Puerto Guaraní|Queda al norte
+Pregunta = la ciudad\de Puerto Pinasco|2|Puerto Pinasco|Queda al norte
+Pregunta = la ciudad\de Rosario|2|Rosario|Queda en el centro
+Pregunta = la ciudad\de San Carlos|2|San Carlos|Queda al norte
+Pregunta = la ciudad\de San Estanislao|2|San Estanislao|Queda al sureste
+Pregunta = la ciudad\de San Lázaro|2|San Lázaro|Queda al norte
+Pregunta = la ciudad\de San Ygnacio|2|San Ygnacio|Queda al sur
+Pregunta = la ciudad\de Santa Rita|2|Santa Rita|Queda al sureste
+Pregunta = la ciudad\de Tacuatí|2|Tacuatí|Queda en el centro
+Pregunta = la ciudad\de Yby Yaú|2|Yby Yaú|Queda al noreste
+Pregunta = la ciudad\de Yhú|2|Yhú|Queda al sureste
+
+[Cursos de agua]
+dibujoInicial = rios
+nombreInicial = 
+Pregunta = el Río Verde|3|Río Verde|Queda al noroeste
+Pregunta = el Río Monte Lindo|3|Río Monte Lindo|Queda al oeste
+Pregunta = el Río Pilcomayo|3|Río Pilcomayo|Queda al oeste
+Pregunta = el Río González|3|Río González|Queda al noroeste
+Pregunta = el Río Negra|3|Río Negra|Queda en el sureste
+Pregunta = el Río Aguaray Guazú|3|Río Aguaray Guazú|Queda al sureste
+Pregunta = el Río Confuso|3|Río Confuso|Queda al sureste
+Pregunta = el Río Alegre|3|Río Alegre|Queda al norte
+Pregunta = el Río Apa|3|Río Apa|Queda al norte
+Pregunta = el Río Aquidabán|3|Río Aquidabán|Queda al noreste
+Pregunta = el Río Ipané|3|Río Ipané|Queda al noreste
+Pregunta = el Río Jejuí Guqzú|3|Río Jejuí Guqzú|Queda al este
+Pregunta = el Río Paraná|3|Río Paraná|Queda al sureste
+Pregunta = el Río Tebicuary|3|Río Tebicuary|Queda al sur
+Pregunta = el Río Paraguay|3|Río Paraguay|Queda en el centro
+Pregunta = el Río Yacuy Guazú|3|Río Yacuy Guazú|Queda al sureste

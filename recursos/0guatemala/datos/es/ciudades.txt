@@ -1,0 +1,80 @@
+# capitales
+Guatemala|335|674|0|40|14
+Antigua Guatemala|297|684|1|0|14
+Chimaltenango|283|666|1|15|-14
+Chiquimula|516|636|1|10|14
+Cobán|364|511|1|0|-14
+Cuilapa|377|737|1|10|-14
+Escuintla|288|732|1|20|-14
+Flores|451|236|1|0|-14
+Guastatoya|421|631|1|-25|-14
+Huehuetenango|163|539|1|0|-14
+Jalapa|434|669|1|0|-14
+Jutiapa|450|733|1|0|14
+Mazatenango|154|688|1|40|-14
+Puerto Barrios|691|460|1|30|-14
+Quetzaltenango|153|630|1|-75|0
+Retalhuleu|124|688|1|-10|14
+Salamá|374|582|1|10|-14
+San Marcos|103|607|1|-30|-14
+Santa Cruz del Quiché|221|594|1|-40|-14
+Sololá|215|643|1|0|-14
+Totonicapán|182|616|1|0|-14
+Zacapa|518|605|1|5|-14
+# ciudades
+Barillas|193|449|2|0|-14
+Cabañas|468|614|2|-15|-14
+Cahabón|465|485|2|0|-14
+Canillá|275|569|2|-10|-14
+Carmelita|423|130|2|0|-14
+Chajul|242|509|2|0|-14
+Champerico|81|732|2|0|-14
+Chisec|377|447|2|0|14
+Coatepeque|89|655|2|55|0
+Cuilco|75|522|2|0|-14
+Dos Lagunas|515|89|2|0|-14
+El Estor|552|500|2|-10|14
+El Naranjo|285|179|2|0|-14
+El Progreso|461|723|2|15|-14
+El Semillero|152|779|2|20|-14
+Esquipulas|550|682|2|15|14
+Finca la Inca|727|468|2|10|14
+Gualán|548|578|2|0|-14
+Iztapa|301|801|2|10|14
+Joyabaj|284|601|2|0|14
+La Libertad|410|260|2|-35|-14
+La Unión|562|606|2|20|14
+Lacandón|217|197|2|0|14
+Las Lisas|385|824|2|0|14
+Livingston|655|444|2|-20|-14
+Los Amantes|595|551|2|10|-14
+Masagua|276|751|2|0|14
+Melchor de Mencos|581|210|2|20|-14
+Modesto Méndez|566|435|2|-10|14
+Morales|643|509|2|0|-14
+Nentón|111|448|2|0|-14
+Ocós|31|690|2|0|14
+Paso Caballos|390|170|2|0|-14
+Paxbán|412|71|2|0|14
+Playa Grande|290|426|2|-20|-14
+Poptún|536|347|2|0|-14
+Rabinal|341|585|2|0|14
+Rubelsanto|349|413|2|25|-14
+San Francisco|442|258|2|0|14
+San José|281|801|2|-10|-14
+San Luis Ixcán|231|452|2|20|14
+San Luis|533|371|2|0|14
+Santa Ana|462|256|2|50|0
+Santa Cruz Verapaz|355|530|2|40|14
+Sayaxché|397|309|2|0|14
+Sipacate|220|801|2|0|14
+Siquinalá|254|731|2|-40|-14
+Soloma|170|473|2|0|14
+Taxisco|347|776|2|15|14
+Tecún Umán|40|660|2|15|14
+Tecojate|185|793|2|10|-14
+Tikal|501|179|2|0|-14
+Tiquisate|182|735|2|-20|14
+Tulate|117|757|2|-45|0
+Uspantán|274|535|2|0|-14
+Valle Nuevo|446|783|2|-10|-14

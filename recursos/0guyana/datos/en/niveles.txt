@@ -1,0 +1,100 @@
+Prefijo = We have to look
+Prefijo = We have to find
+Prefijo = Now we have to look
+Prefijo = We need to find
+
+Sufijo = You can tell where is it?
+Sufijo = Where is it?
+Sufijo = Can you show me where is it?
+Sufijo = Can you find it?
+
+Correcto = Very well!
+Correcto = Brilliant!
+Correcto = You found it!
+Correcto = Yes!
+
+Mal = No, this is not
+Mal = Here it is not
+Mal = It seems that this is not
+Mal = That is not
+
+DespedidaB = Now I'm ready\for tomorrow...\I'm going to play...\Thanks for your help!
+DespedidaB = We made it!\I'm going to play ball...\Bye and thanks\for helping me!
+DespedidaB = We did it!\I'm ready for tomorrow...\I'm playing a while...\Until next time!
+
+DespedidaM = More luck next\I'll play a while...\Thanks!
+DespedidaM = The next time will be\I'm going to play ball...\Thanks!
+DespedidaM = Please try again...\I'm going to play...\Thanks!
+
+[Regions]
+dibujoInicial = lineasDepto
+nombreInicial = 
+Pregunta = the region of\Barima-Waini|1|Barima-Waini|Is northwest
+Pregunta = the region of\Pomeroon-Supenaam|1|Pomeroon-Supenaam|Is northwest
+Pregunta = the region of\West-Demerara|1|West-Demerara|Is north
+Pregunta = the region of\Demerara-Mahaica|1|Demerara-Mahaica|Is north
+Pregunta = the region of\Mahaica-Berbice|1|Mahaica-Berbice|Is northeast
+Pregunta = the region of\Cuyuni-Mazaruni|1|Cuyuni-Mazaruni|Is northwest
+Pregunta = the region of\Potaro-Siparuni|1|Potaro-Siparuni|Is west
+Pregunta = the region of\Upper Takutu-Upper\Essequibo|1|Upper Takutu-Upper Essequibo|Is south
+Pregunta = the region of\Upper Demerara-Berbice|1|Upper Demerara-Berbice|Is northwest
+Pregunta = the region of\East Berbice-Corentyne|1|East Berbice-Corentyne|Is southeast
+Pregunta = Brazil|1|Brazil|Is south
+Pregunta = Venezuela|1|Venezuela|Is northwest
+Pregunta = Suriname|1|Suriname|Is southeast
+
+[Cities]
+dibujoInicial = lineasDepto, capitales, ciudades
+nombreInicial = 
+Pregunta = the city of\Georgetown|2|Georgetown|Is north
+Pregunta = the city of\Arimu Mine|2|Arimu Mine|Is north
+Pregunta = the city of\Bartica|2|Bartica|Is north
+Pregunta = the city of\Charity|2|Charity|Is north
+Pregunta = the city of\Corriverton|2|Corriverton|Is northeast
+Pregunta = the city of\Dadanawa|2|Dadanawa|Is southwest
+Pregunta = the city of\Good Hope|2|Good Hope|Is southwest
+Pregunta = the city of\Isherton|2|Isherton|Is south
+Pregunta = the city of\Issano|2|Issano|Is northwest
+Pregunta = the city of\Ituni|2|Ituni|Is northeast
+Pregunta = the city of\Kalkuni|2|Kalkuni|Is northeast
+Pregunta = the city of\Kartabu Point|2|Kartabu Point|Is north
+Pregunta = the city of\Kurupukari|2|Kurupukari|Is in the center
+Pregunta = the city of\Kwakwani|2|Kwakwani|Is east
+Pregunta = the city of\Lethem|2|Lethem|Is southwest
+Pregunta = the city of\Linden|2|Linden|Is north
+Pregunta = the city of\Mabaruma|2|Mabaruma|Is northwest
+Pregunta = the city of\Mahdia|2|Mahdia|Is in the center
+Pregunta = the city of\Mara|2|Mara|Is northeast
+Pregunta = the city of\Matthews Ridge|2|Matthews Ridge|Is northwest
+Pregunta = the city of\Orinduik|2|Orinduik|Is west
+Pregunta = the city of\Parika|2|Parika|Is north
+Pregunta = the city of\Peters Mine|2|Peters Mine|Is northwest
+Pregunta = the city of\Port Kaituma|2|Port Kaituma|Is northwest
+Pregunta = the city of\Potaro Landing|2|Potaro Landing|Is in the center
+Pregunta = the city of\Rockstone|2|Rockstone|Is north
+Pregunta = the city of\Rose Hall|2|Rose Hall|Is northeast
+Pregunta = the city of\Rosignol|2|Rosignol|Is northeast
+Pregunta = the city of\Spring Garden|2|Spring Garden|Is north
+Pregunta = the city of\Surama|2|Surama|Is south
+Pregunta = the city of\Takama|2|Takama|Is northeast
+
+[Waterways]
+dibujoInicial = rios
+nombreInicial = 
+Pregunta = the Cuyuni River|3|Cuyuni River|Is northwest
+Pregunta = the Wenamu River|3|Wenamu River|Is northwest
+Pregunta = the Mazaruni River|3|Mazaruni River|Is northwest
+Pregunta = the Essequibo River|3|Essequibo River|Is in the center
+Pregunta = the Kuyuwini River|3|Kuyuwini River|Is south
+Pregunta = the Rupununi River|3|Rupununi River|Is south
+Pregunta = the Rewa River|3|Rewa River|Is south
+Pregunta = the Potaro River|3|Potaro River|Is west
+Pregunta = the Tacutu River|3|Tacutu River|Is southwest
+Pregunta = the Demerara River|3|Demerara River|Is north
+Pregunta = the Courantyne River|3|Courantyne River|Is east
+Pregunta = the Berbice River|3|Berbice River|Is northeast
+Pregunta = the New River|3|New River|Is southeast
+Pregunta = the Amakura River|3|Amakura River|Is northwest
+Pregunta = the Barama River|3|Barama River|Is northwest
+Pregunta = the Barima River|3|Barima River|Is northwest
+Pregunta = the Atlantic Ocean|3|Atlantic Ocean|Is northeast

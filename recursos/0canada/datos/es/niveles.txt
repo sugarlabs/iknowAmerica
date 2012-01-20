@@ -1,0 +1,145 @@
+Prefijo = Tenemos que buscar
+Prefijo = Tenemos que\encontrar
+Prefijo = Ahora tenemos\que buscar
+Prefijo = Tenemos que\hallar
+
+Sufijo = ¿Podés señalar dónde es?
+Sufijo = ¿Dónde queda?
+Sufijo = ¿Podés mostrarme dónde es?
+Sufijo = ¿Podés encontrarlo?
+
+Correcto = ¡Muy bien!
+Correcto = ¡Genial!
+Correcto = ¡Lo encontraste!
+Correcto = ¡Sí!
+
+Mal = No, ese no es
+Mal = Acá no es
+Mal = Parece que no es ese
+Mal = Ese no es
+
+DespedidaB = Ahora estoy\listo para mañana...\Me voy a jugar...\¡Gracias por tu ayuda!
+DespedidaB = ¡Lo hemos conseguido!\Me voy a jugar\con la pelota...\¡Chau y gracias por ayudarme!
+DespedidaB = ¡Lo hicimos!\Estoy listo para mañana...\Voy a jugar un rato...\¡Hasta la próxima!
+
+DespedidaM = Mas suerte la próxima\Voy a jugar un rato...\¡Gracias!
+DespedidaM = La próxima vez será\Me voy a jugar\con la pelota...\¡Gracias!
+DespedidaM = Vuelve a intentarlo...\Me voy a jugar...\¡Gracias!
+
+[Provincias]
+dibujoInicial = lineasDepto
+nombreInicial = 
+Pregunta = la provincia\de Yukon|1|Yukon|Queda al noroeste
+Pregunta = la provincia\de British Columbia|1|British Columbia|Queda al oeste
+Pregunta = la provincia\de Alberta|1|Alberta|Queda al suroeste
+Pregunta = la provincia\de Saskatchewan|1|Saskatchewan|Queda al suroeste
+Pregunta = la provincia\de Manitoba|1|Manitoba|Queda al sur
+Pregunta = la provincia\de Ontario|1|Ontario|Queda al sureste
+Pregunta = la provincia\de Quebec|1|Quebec|Queda al sureste
+Pregunta = la provincia\de Newfoundland|1|Newfoundland|Queda al este
+Pregunta = la provincia\de New Brunswick|1|New Brunswick|Queda al sureste
+Pregunta = la provincia\de Northwest Territories|1|Northwest Territories|Queda al noroeste
+Pregunta = a las Bank Islands|1|Bank Islands|Queda al noroeste
+Pregunta = a  la Isla Victoria|1|Is. Victoria|Queda al noroeste
+Pregunta = a la Isla de Baffin|1|Is. de Baffin|Queda al noreste
+Pregunta = a la Isla Ellesmere|1|Is. Ellesmere|Queda al norte
+Pregunta = la provincia\de Nova Scotia|1|Nova Scotia|Queda al sureste
+Pregunta = a Groenlandia|1|Groenlandia|Queda al noreste
+Pregunta = a Islandia|1|Islandia|Queda al noreste
+Pregunta = a Alaska|1|Alaska|Queda al noroeste
+Pregunta = a Estados Unidos|1|Estados Unidos|Queda al sur
+Pregunta = a la Isla\Newfoundland|1|Is. Newfoundland|Queda al este
+
+[Capitales provinciales]
+dibujoInicial = lineasDepto, capitales
+nombreInicial = 
+Pregunta = la ciudad\de Ottawa|2|Ottawa|Queda al sureste
+Pregunta = la ciudad\de Charlottetown|2|Charlottetown|Queda al sureste
+Pregunta = la ciudad\de Edmonton|2|Edmonton|Queda al suroeste
+Pregunta = la ciudad\de Fredericton|2|Fredericton|Queda al sureste
+Pregunta = la ciudad\de Halifax|2|Halifax|Queda al sureste
+Pregunta = la ciudad\de Québec|2|Québec|Queda al sureste
+Pregunta = la ciudad\de Regina|2|Regina|Queda al suroeste
+Pregunta = la ciudad\de Saint John's|2|Saint John's|Queda al este
+Pregunta = la ciudad\de Toronto|2|Toronto|Queda al sureste
+Pregunta = la ciudad\de Victoria|2|Victoria|Queda al suroeste
+Pregunta = la ciudad\de Whitehorse|2|Whitehorse|Queda al noroeste
+Pregunta = la ciudad\de Winnipeg|2|Winnipeg|Queda al sur
+Pregunta = la ciudad\de Yellowknife|2|Yellowknife|Queda al noroeste
+
+[Ciudades]
+dibujoInicial = lineasDepto, capitales, ciudades
+nombreInicial = 
+Pregunta = la ciudad\de Ottawa|2|Ottawa|Queda al sureste
+Pregunta = la ciudad\de Charlottetown|2|Charlottetown|Queda al sureste
+Pregunta = la ciudad\de Edmonton|2|Edmonton|Queda al suroeste
+Pregunta = la ciudad\de Fredericton|2|Fredericton|Queda al sureste
+Pregunta = la ciudad\de Halifax|2|Halifax|Queda al sureste
+Pregunta = la ciudad\de Québec|2|Québec|Queda al sureste
+Pregunta = la ciudad\de Regina|2|Regina|Queda al suroeste
+Pregunta = la ciudad\de Saint John's|2|Saint John's|Queda al este
+Pregunta = la ciudad\de Toronto|2|Toronto|Queda al sureste
+Pregunta = la ciudad\de Victoria|2|Victoria|Queda al suroeste
+Pregunta = la ciudad\de Whitehorse|2|Whitehorse|Queda al noroeste
+Pregunta = la ciudad\de Winnipeg|2|Winnipeg|Queda al sur
+Pregunta = la ciudad\de Yellowknife|2|Yellowknife|Queda al noroeste
+Pregunta = la ciudad\de Alert|2|Alert|Queda al norte
+Pregunta = la ciudad\de Calgary|2|Calgary|Queda al suroeste
+Pregunta = la ciudad\de Cambridge Bay|2|Cambridge Bay|Queda al norte
+Pregunta = la ciudad\de Chibougamau|2|Chibougamau|Queda al sureste
+Pregunta = la ciudad\de Chisasibi|2|Chisasibi|Queda al sureste
+Pregunta = la ciudad\de Churchill|2|Churchill|Queda en el centro
+Pregunta = la ciudad\de Dawson|2|Dawson|Queda al noroeste
+Pregunta = la ciudad\de Echo Bay|2|Echo Bay|Queda al noroeste
+Pregunta = la ciudad\de Fort Smith|2|Fort Smith|Queda al oeste
+Pregunta = la ciudad\de Frobisher Bay|2|Frobisher Bay|Queda al noreste
+Pregunta = la ciudad\de Gander|2|Gander|Queda al este
+Pregunta = la ciudad\de Goose Bay|2|Goose Bay|Queda al este
+Pregunta = la ciudad\de Hamilton|2|Hamilton|Queda al sureste
+Pregunta = la ciudad\de Hay River|2|Hay River|Queda al oeste
+Pregunta = la ciudad\de Inuvik|2|Inuvik|Queda al noroeste
+Pregunta = la ciudad\de Lethbridge|2|Lethbridge|Queda al suroeste
+Pregunta = la ciudad\de Montreal|2|Montreal|Queda al sureste
+Pregunta = la ciudad\de Moosonee|2|Moosonee|Queda al sureste
+Pregunta = la ciudad\de Prince George|2|Prince George|Queda al oeste
+Pregunta = la ciudad\de Prince Rupert|2|Prince Rupert|Queda al oeste
+Pregunta = la ciudad\de Rankin Inlet|2|Rankin Inlet|Queda en el centro
+Pregunta = la ciudad\de Resolute|2|Resolute|Queda al norte
+Pregunta = la ciudad\de Saskatoon|2|Saskatoon|Queda al suroeste
+Pregunta = la ciudad\de Schefferville|2|Schefferville|Queda al este
+Pregunta = la ciudad\de Sudbury|2|Sudbury|Queda al sureste
+Pregunta = la ciudad\de Sydney|2|Sydney|Queda al sureste
+Pregunta = la ciudad\de Thunder Bay|2|Thunder Bay|Queda al sur
+Pregunta = la ciudad\de Vancouver|2|Vancouver|Queda al suroeste
+Pregunta = la ciudad\de Watson Lake|2|Watson Lake|Queda al oeste
+Pregunta = la ciudad\de Windsor|2|Windsor|Queda al sur
+
+[Cursos de agua]
+dibujoInicial = rios
+nombreInicial = 
+Pregunta = el Río Yukon|3|Río Yukon|Queda al noroeste
+Pregunta = el Río Mackenzie|3|Río Mackenzie|Queda al noroeste
+Pregunta = el Río Saskatchewan|3|Río Saskatchewan|Queda al suroeste
+Pregunta = el Río Nelson|3|Río Nelson|Queda al sur
+Pregunta = el Río Columbia|3|Río Columbia|Queda al suroeste
+Pregunta = el Lago Great Bear|3|Lago Great Bear|Queda al noroeste
+Pregunta = el Lago Great Slave|3|Lago Great Slave|Queda al noroeste
+Pregunta = el Lago Athabasca|3|Lago Athabasca|Queda al oeste
+Pregunta = el Lago Reindeer|3|Lago Reindeer|Queda al suroeste
+Pregunta = el Río Saint Lawrence|3|Río St. Lawrence|Queda al sureste
+Pregunta = el Lago Superior|3|Lago Superior|Queda al sur
+Pregunta = el Lago Michigan|3|Lago Michigan|Queda al sur
+Pregunta = el Lago Huron|3|Lago Huron|Queda al sureste
+Pregunta = el Lago Erie|3|Lago Erie|Queda al sureste
+Pregunta = el Lago Ontario|3|Lago Ontario|Queda al sureste
+Pregunta = el Lago Winnipeg|3|Lago Winnipeg|Queda al sur
+Pregunta = el Océano Atlántico|3|Océano Atlántico|Queda al sureste
+Pregunta = el Océano Pacífico|3|Océano Pacífico|Queda al oeste
+Pregunta = el Mar de Beaufort|3|Mar de Beaufort|Queda al noroeste
+Pregunta = el Mar de Chukchi|3|Mar de Chukchi|Queda al noroeste
+Pregunta = el Mar de Groenlandia|3|Mar de Groenlandia|Queda al noreste
+Pregunta = el Mar de Labrador|3|Mar de Labrador|Queda al noreste
+Pregunta = la Bahía de Baffin|3|Bahía de Baffin|Queda al noreste
+Pregunta = la Bahía de Hudson|3|Bahía de Hudson|Queda en el centro
+Pregunta = el Océano Ártico|3|Océano Ártico|Queda al norte
+Pregunta = el Mar de Noruega|3|Mar de Noruega|Queda al noreste

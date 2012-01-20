@@ -1,0 +1,43 @@
+# capitales
+Port au Prince|580|576|0|-60|-14
+Cap Haitien|608|236|1|10|-14
+Fort Liberte|706|263|1|-15|-14
+Gonaives|486|328|1|-10|14
+Hinche|660|412|1|0|-14
+Jacmel|526|663|1|0|14
+Jeremie|102|552|1|0|-14
+Les Cayes|198|675|1|0|-14
+Port de Paix|450|195|1|-10|-14
+# ciudades
+Anse a Galets|437|500|2|-20|14
+Anse d'Hainault|18|594|2|50|14
+Aquin|298|651|2|0|-14
+Baie de Henne|348|268|2|-10|14
+Bainet|468|677|2|-10|14
+Belle Anse|647|659|2|15|-14
+Cotes de Fer|410|676|2|-15|-14
+Croix des Bouquets|607|572|2|85|0
+Dame Marie|26|575|2|49|0
+Ennery|537|316|2|0|14
+Grande Riviere du Nord|615|284|2|30|14
+Kenscoff|593|606|2|10|14
+Lafond|498|407|2|0|-14
+Le Borgne|523|218|2|-15|14
+Leogane|498|589|2|20|14
+Les Anglais|80|641|2|-10|14
+Limbé|560|252|2|0|14
+Manneville|649|556|2|20|-14
+Marigot|585|660|2|15|14
+Miragoane|382|610|2|0|-14
+Mirebalais|639|497|2|-20|-14
+Mole Saint Nicolas|307|231|2|0|-14
+Montrouis|482|464|2|10|14
+Pestel|190|583|2|-20|14
+Petionville|592|587|2|47|0
+Petit Goave|444|612|2|-20|14
+Petit Trou de Nippes|269|587|2|30|-14
+Port Salut|156|704|2|0|14
+Saint Marc|483|424|2|-25|14
+Saint Raphael|609|324|2|30|14
+Trouin|494|630|2|-10|14
+Verrettes|543|433|2|15|14

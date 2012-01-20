@@ -1,0 +1,21 @@
+Gr. de Arecibo River|254|247|412|70
+Camuy River|253|197|349|90
+Guajatuca River|252|149|352|-50
+Calebrinas River|251|105|370|-20
+Añasco River|250|106|403|0
+Guanajibo River|249|90|486|-30
+Yarico River|248|185|496|-70
+Coamo River|247|397|510|45
+Gr. de Manati River|246|369|341|-60
+Plata River|245|474|400|60
+Bayamón River|244|510|383|90
+Lake Grande|243|514|450|0
+Gr. de Loíza|242|590|369|45
+Passage of Vieques|241|725|471|45
+Rincén Bay|240|461|556|0
+Guayanilla Bay|239|244|539|0
+Mayagüez Bay|238|29|444|90
+San Juan Bay|237|526|303|0
+Aguadilla Bay|236|28|290|90
+Caribbean Sea|235|327|711|0
+Atlantic Ocean|234|372|157|0

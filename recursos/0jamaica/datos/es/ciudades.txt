@@ -1,0 +1,37 @@
+# capitales
+Kingston|558|472|0|30|-14
+Black River|193|451|1|0|14
+Falmouth|260|289|1|20|-14
+Lucea|80|305|1|0|-14
+Mandeville|311|450|1|0|14
+May Pen|404|476|1|-15|14
+Montego Bay|170|295|1|0|-14
+Morant Bay|693|502|1|-10|14
+Port Antonio|677|399|1|10|14
+Port Maria|523|329|1|45|0
+Saint Ann's Bay|418|307|1|0|-14
+Savanna-la-Mar|93|385|1|20|-14
+Spanish Town|502|465|1|-25|-14
+# ciudades
+Albert Town|298|357|2|0|14
+Alligator Pond|296|507|2|0|14
+Annotto Bay|566|366|2|45|-14
+Bluefields|135|400|2|0|14
+Bog Walk|486|426|2|40|0
+Brown's Town|358|323|2|-20|14
+Buff Way|605|378|2|0|14
+Bull Bay|602|479|2|25|14
+Christiana|318|402|2|-30|14
+Duncans|302|295|2|0|14
+Frankfield|361|411|2|25|14
+Linstead|476|413|2|0|-14
+Moneague|446|366|2|0|14
+Montpelier|163|331|2|0|14
+Negril|22|364|2|5|-14
+Ocho Rios|451|318|2|0|14
+Oracabessa|503|320|2|30|-14
+Port Esquivel|443|499|2|10|14
+Port Morant|720|499|2|10|-14
+Portmore|532|474|2|0|14
+Reading|159|307|2|0|14
+The Alley|395|533|2|0|14

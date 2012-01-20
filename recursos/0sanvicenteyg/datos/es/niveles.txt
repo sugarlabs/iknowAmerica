@@ -1,0 +1,70 @@
+Prefijo = Tenemos que buscar
+Prefijo = Tenemos que\encontrar
+Prefijo = Ahora tenemos\que buscar
+Prefijo = Tenemos que\hallar
+
+Sufijo = ¿Podés señalar dónde es?
+Sufijo = ¿Dónde queda?
+Sufijo = ¿Podés mostrarme dónde es?
+Sufijo = ¿Podés encontrarlo?
+
+Correcto = ¡Muy bien!
+Correcto = ¡Genial!
+Correcto = ¡Lo encontraste!
+Correcto = ¡Sí!
+
+Mal = No, ese no es
+Mal = Acá no es
+Mal = Parece que no es ese
+Mal = Ese no es
+
+DespedidaB = Ahora estoy\listo para mañana...\Me voy a jugar...\¡Gracias por tu ayuda!
+DespedidaB = ¡Lo hemos conseguido!\Me voy a jugar\con la pelota...\¡Chau y gracias por ayudarme!
+DespedidaB = ¡Lo hicimos!\Estoy listo para mañana...\Voy a jugar un rato...\¡Hasta la próxima!
+
+DespedidaM = Mas suerte la próxima\Voy a jugar un rato...\¡Gracias!
+DespedidaM = La próxima vez será\Me voy a jugar\con la pelota...\¡Gracias!
+DespedidaM = Vuelve a intentarlo...\Me voy a jugar...\¡Gracias!
+
+[Parroquias]
+dibujoInicial = lineasDepto
+nombreInicial = 
+Pregunta = la parroquia\de San David|1|San David|Queda al noroeste
+Pregunta = la parroquia\de Carlota|1|Carlota|Queda al este
+Pregunta = la parroquia\de San Andrés|1|San Andrés|Queda al suroeste
+Pregunta = la parroquia\de San Patricio|1|San Patricio|Queda al oeste
+Pregunta = la parroquia\de San Jorge|1|an Jorge|Queda al sur
+Pregunta = la isla\de Bequia|1|Is. Bequia|Queda al norte
+Pregunta = la isla\de Quatre|1|Is. Quatre|Queda al norte
+Pregunta = la isla\de Mustique|1|Is. Mustique|Queda al noreste
+Pregunta = la isla\de Bettowia|1|Is. Bettowia|Queda al noreste
+Pregunta = la isla\de Baliceaux|1|Is. Baliceaux|Queda al noreste
+Pregunta = la isla\de Pillories|1|Is. Pillories|Queda al noreste
+Pregunta = la isla\de Petit Mustique|1|Is. Petit Mustique|Queda al noreste
+Pregunta = la isla\de Savan|1|Is. Savan|Queda en el centro
+Pregunta = la isla\de Petit Canouan|1|Is. Petit Canouan|Queda en el centro
+Pregunta = la isla\de Canouan|1|Is. Canouan|Queda en el centro
+Pregunta = la isla\de Mayreau|1|Is. Mayreau|Queda al suroeste
+Pregunta = la isla\de Union|1|Is. Union|Queda al suroeste
+Pregunta = la isla\de Prune|1|Is. Prune|Queda al suroeste
+Pregunta = la isla\de Petit Saint Vicent|1|Is. Petit Saint Vicent|Queda al suroeste
+
+[Ciudades]
+dibujoInicial = lineasDepto, capitales, ciudades
+nombreInicial = 
+Pregunta = la ciudad\de Kingstown|2|Kingstown|Queda al suroeste
+Pregunta = la ciudad\de Barrouallie|2|Barrouallie|Queda al oeste
+Pregunta = la ciudad\de Chateaubelair|2|Chateaubelair|Queda al oeste
+Pregunta = la ciudad\de Georgetown|2|Georgetown|Queda al este
+Pregunta = la ciudad\de Layou|2|Layou|Queda al suroeste
+Pregunta = la ciudad\de Port Elizabeth|2|Port Elizabeth|Queda al sur
+Pregunta = la ciudad\de Ashton|2|Ashton|Queda al suroeste
+Pregunta = la ciudad\de Biabou|2|Biabou|Queda al este
+Pregunta = la ciudad\de Calliaqua|2|Calliaqua|Queda al sur
+Pregunta = la ciudad\de Derrick|2|Derrick|Queda al norte
+Pregunta = la ciudad\de Dovers|2|Dovers|Queda al norte
+Pregunta = la ciudad\de Fancy|2|Fancy|Queda al norte
+Pregunta = la ciudad\de Mespotamia|2|Mespotamia|Queda al sureste
+Pregunta = la ciudad\de Orange Hill|2|Orange Hill|Queda al este
+Pregunta = la ciudad\de Stubbs|2|Stubbs|Queda al sur
+Pregunta = la ciudad\de Wallibou|2|Wallibou|Queda al noroeste

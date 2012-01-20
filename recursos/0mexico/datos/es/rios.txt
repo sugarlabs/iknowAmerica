@@ -1,0 +1,13 @@
+Río Colorado|254|102|130|45
+Río Yagui|253|170|283|70
+Río Grande|252|419|306|-45
+Río Conchos|251|255|300|40
+Río Balsas|250|419|606|0
+Río Lerma|249|384|547|-35
+Río Usumacinta|248|665|613|-50
+Océano Pacífico|247|238|776|0
+Golfo de Tehuantepec|246|557|665|0
+Bahía de Campeche|245|581|542|0
+Golfo de México|244|579|421|0
+Mar Caribe|243|753|391|90
+Golfo de California|242|142|339|-50

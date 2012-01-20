@@ -1,0 +1,15 @@
+Norte|254|587|283|0
+Noroeste|253|384|232|0
+Noreste|252|695|310|0
+Artibonite|251|532|361|0
+Oeste|250|628|583|0
+Sur|249|208|644|0
+Sudeste|248|552|650|0
+Grand'Anse|247|107|593|0
+Centro|246|673|421|0
+República Dominicana|245|765|550|90
+Cuba|244|33|68|0
+Is. de la Tortuga|243|454|150|0
+Is. de la Gonâve|242|384|493|-30
+Is. Gran Cayemite|241|199|544|0
+Is. de la Vaca|240|236|726|0

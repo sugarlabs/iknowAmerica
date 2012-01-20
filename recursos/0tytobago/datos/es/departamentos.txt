@@ -1,0 +1,10 @@
+Tobago|254|669|111|35
+Saint David|253|480|343|0
+Saint George|252|298|394|0
+Caron|251|300|509|0
+Saint Andrew|250|437|450|90
+Nariva|249|419|575|0
+Mayaro|248|449|665|0
+Victoria|247|324|642|0
+Saint Patrick|246|197|700|0
+Venezuela|245|99|884|0

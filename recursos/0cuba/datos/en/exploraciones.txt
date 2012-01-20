@@ -1,0 +1,19 @@
+[Provinces]
+dibujoInicial = lineasDepto
+nombreInicial = 
+elementosActivos = deptos
+
+[Provincial capitals]
+dibujoInicial = lineasDepto, capitales
+nombreInicial = 
+elementosActivos = capitales
+
+[Cities]
+dibujoInicial = lineasDepto, capitales, ciudades
+nombreInicial = 
+elementosActivos = capitales, ciudades
+
+[Routes]
+dibujoInicial = rutas, capitales
+nombreInicial = capitales
+elementosActivos = rutas

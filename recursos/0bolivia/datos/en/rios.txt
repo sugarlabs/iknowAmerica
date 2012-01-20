@@ -1,0 +1,29 @@
+Pilcomayo River|254|462|796|-45
+Parapetí River|253|444|690|30
+Sécure River|252|260|407|30
+Ichoa River|251|296|434|40
+Piray River|250|406|520|90
+Ichilo River|249|311|470|90
+Grande River|248|461|526|-80
+Yacuma River|247|204|302|30
+Madre de Dios River|246|133|158|40
+Desaguadero River|245|96|538|-40
+Gr. de Lípez River|244|171|773|90
+San Miguel River|243|400|392|-45
+San Martín River|242|505|332|-45
+Abuná River|241|176|41|30
+Orton River|240|188|88|20
+Madeira River|239|209|54|30
+Madidi River|238|123|238|30
+Tequeje River|237|118|275|20
+Beni River|236|166|299|60
+Viata River|235|207|213|70
+Apere River|234|260|338|30
+Mamoré River|233|338|346|-80
+Blanco River|232|474|366|-50
+Paraguá River|231|575|351|-70
+Guaporé River|230|524|244|-25
+Tucavaca River|229|682|563|-40
+Lateriquique River|228|613|610|-40
+Lake Titicaca River|227|47|424|-45
+Lake Poopo River|226|180|610|0

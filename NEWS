@@ -1,0 +1,120 @@
+22/10/11
+    Se termina San Vicente y Granadinas.
+    Se corrige una traducción.
+
+12/10/11
+    Se agrega a San Vicente y Granadinas.
+
+19/08/11
+    Se corrige problemas con el escalado en máquinas distintas a la
+        XO: como por ejemplo, la JumPC. El problema era con la barra
+        de puntajes y de la de avance. También en el texto mostrado
+        durante la presentación.
+    Se corrige el nombre de 2 provincias de Ecuador.
+
+17/08/11
+    Se termina de traducir las estadísticas al inglés.
+    También se realizan pequeños arreglos en otras traducciones.
+
+07/08/11
+    Se agrega: self.max_participants = 1
+    
+05/08/11
+    Se agrega barra de "avance" que va mostrando el avance del juego.
+    Se agrega imágen de JP a la pantalla "acerca de".
+
+04/08/11
+    Se completan las estadísticas para todos los países.
+
+02/08/11
+    Se cambia "datos.png". Ahora es sustituido por "bandera.png" (que
+        guarda la bandera del país correspondiente).
+    Se crea "estadisticas.txt". Este archivo guarda información que es
+        mostrada en el modo exploro.
+
+01/08/11
+    Se agrega la posibilidad de saltearse, habilitando el botón Regresar,
+        la animación de la despedida.
+    Cuando uno se equivocaba, mostraba la ayuda pero no volvía a mostrar
+        la pregunta. Ahora muestra la pregunta y debajo muestra la
+        ayuda.
+
+31/07/11
+    Se agrega botón "Mostrar todo" en el modo explorar.
+
+22/07/11
+    Iniciando el GIT
+
+21/07/11
+    Se cambia la internacionalización. Dentro de 'datos' se crea una
+        carpeta para cada idioma ('es' para español... 'en' para inglés).
+
+17/07/11
+    Se terminan los niveles.txt de todos los paises.
+    Se internacionaliza.
+
+10/07/11
+    Se agrega la posibilidad de no tener los archivos: "cuchillas.png",
+        "cuchillasDetectar.png" y "cuchillas.txt". Esto libera algo de
+        espacio innecesario, ya que Conozco América 1 solo tiene la
+        información de relieve de Uruguay. Se hace lo mismo con "rios"
+        y "rutas". Se borran 11 archivos y se liberan 553 kb.
+
+09/07/11
+    Se arregla bug que en caso de múltiples instancias de la actividad,
+        al intentar saltear la presentación se generaba un error (el
+        problema de los efectos de sonido).
+    Se arregla bug en el modo juego: si uno hacía click rápidamente en
+        la misma respuesta, sumaba puntos "demás".
+    Se crea una mini-animación para la despedida.
+
+08/07/11
+    Se agregan las escalas correspondientes a cada mapa.
+    Se prueba la internacionalización con éxito. Pero requiere corregir
+        detalles (codificación).
+
+06/07/11
+    Se quita la "doble penalización" en el puntaje. Si se acierta de una:
+        10 puntos. En caso de incorrecta, se muestra ayuda y si acierta
+        en esa segunda oportunidad, suma 5 y si erra, siguiente pregunta.
+
+12/06/11
+    Se sacan las estrellitas y se crea una barra de puntajes. En función de
+        esto, se cambia la forma de jugar. Se hace una pregunta, en caso de
+        acierto, suma 10 puntos; en caso de incorrecta, se restan 2 y se muestra
+        la ayuda y en caso de acierto se suma 5 y en caso de fallar nuevamente,
+        se hace otra pregunta.
+    Se modifica el codigo (y niveles.txt) para 2 tipos de despedidas, una en
+        caso de haber logrado el puntaje máximo, y una para los demás.
+
+08/06/11
+    Se agrega imágen distinta para capital nacional, para diferenciarla
+        de una capital departamental (o provincial, o estatal).
+
+07/06/11
+    Se termina de agregar los puntos cardinales.
+
+20/05/11
+    Se realiza revisión general de etiquetas de departamentos y ciudades.
+
+18/05/11
+    Prueba de lineas marrones en lugar de negras, mejora visibilidad.
+    Se cambia tamaño y color de fuente de departamentos.
+    Se modifica la librería olpcgames para que no se cree una entrada en
+        el diario cuando se usa la actividad (para evitar basura).
+
+21/04/11
+    Casi listo... recta final... Para versión 1.
+
+19/02/11
+    Prueba internacionalización. Problema con tildes dentro del código.
+        Fallas con la codificación. Se descarta internacionalizar
+        (momentáneamente).
+
+21/12/10
+    Prueba de algunos mapas.
+    Arreglo del sonido para múltiples instancias de la actividad y/o
+        para cuando hay otra actividad usando el sonido.
+
+06/09/10
+    Beta para prueba.

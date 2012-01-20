@@ -1,0 +1,22 @@
+Río Apure|254|268|413|0
+Río Arauca|253|204|467|0
+Río Meta|252|216|551|30
+Río Orinoco|251|346|554|0
+Río Ventuari|250|421|578|0
+Río Negro|249|346|747|-60
+Río Casiquiare|248|413|760|50
+Río Caroni|247|615|532|90
+Río Paragua|246|564|607|-50
+Río Gaura|245|475|493|-60
+Río Cuyuni|244|708|501|0
+Embalse de Sura|243|606|452|0
+Río Guarico|242|372|409|-40
+Embalse de Guarico|241|368|360|0
+Lago Valencia|240|324|300|0
+Lago de Maracaibo|239|108|320|0
+Río Cojedes|238|266|354|-55
+Golfo de Venezuela|237|139|220|0
+Golfo de Paria|236|646|286|0
+Mar Caribe|235|382|74|0
+Océano Atlántico|234|745|121|90
+Delta Amacuro|233|722|345|0

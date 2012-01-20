@@ -1,0 +1,14 @@
+Paz River|254|69|375|45
+Lempa River|253|470|477|50
+Sumpul River|252|392|269|-45
+Torola River|251|593|378|0
+Jiboa River|250|382|507|80
+Gr. de San Miguel River|249|582|511|45
+Goascorán River|248|741|434|80
+Guarajambala River|247|545|262|80
+Lake of Güija River|246|206|266|0
+Lake of Coatepeque River|245|200|392|0
+Lake of Ilopango River|244|352|452|45
+Olomega Lagoon|243|665|569|45
+Cerrón Grande Reservoir|242|354|324|-45
+Pacific Ocean|241|298|708|0

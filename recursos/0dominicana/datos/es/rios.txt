@@ -1,0 +1,17 @@
+Río Yaque del Norte|254|206|275|-20
+Río Artibonito|253|75|366|60
+Río Macasia|252|84|452|-40
+Río Yuna|251|415|410|30
+Río Camú|250|352|360|-20
+Río Yaque del Sur|249|234|481|80
+Río San Juan|248|170|478|-60
+Lago Enriquillo|247|90|550|0
+Río Ocoa|246|338|524|-80
+Río Haina|245|388|518|-45
+Río Ozama|244|458|459|-60
+Río Yuma|243|708|501|-65
+Río Chavón|242|656|502|70
+Río Soco|241|619|458|45
+Río Iguamo|240|575|475|65
+Mar Caribe|239|427|741|0
+Océano Atlántico|238|397|143|0

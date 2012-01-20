@@ -1,0 +1,52 @@
+# capitales
+Asunción|464|615|0|-40|14
+Caacupé|502|626|1|10|-14
+Caazapá|567|700|1|-10|14
+Ciudad del Este|709|642|1|-5|14
+Cnel. Oviedo|560|630|1|15|14
+Concepción|481|438|1|-15|14
+Encarnación|606|804|1|35|14
+Fuerte Olimpo|438|222|1|0|-14
+Mariscal Estigarribia|206|312|1|-20|14
+Paraguarí|500|647|1|-25|14
+Pedro Juan Caballero|616|360|1|45|-14
+Pilar|407|762|1|-10|14
+Pozo Colorado|352|447|1|-10|14
+Salto del Guaira|738|505|1|-40|-14
+San Juan Bautista|499|744|1|-30|-14
+San Pedro|507|503|1|0|-14
+Villarica|561|662|1|-10|14
+# ciudades
+Abaí|604|683|2|0|14
+Alto Verá|628|724|2|0|14
+Bella Vista|562|322|2|0|-14
+Benjamin Aceval|465|586|2|-35|-14
+Capitán Bado|636|428|2|30|-14
+Capitán Meza|660|769|2|40|-14
+Capitán Pablo Lagerenza|191|112|2|0|-14
+Cnel. Bogado|574|785|2|10|-14
+Curuguaty|628|539|2|20|-14
+Dr. Pedro P. Peña|54|351|2|40|14
+Filadelfia|247|343|2|0|14
+Fortín Ávalos Sánchez|255|452|2|-20|-14
+Fortín Gral. Diaz|211|460|2|0|14
+Fortin Infante Rivarola|51|287|2|50|-14
+Gral. Eugenio A. Garay|68|177|2|50|14
+Hernandarias|710|627|2|-15|-14
+Horqueta|511|436|2|20|-14
+Itanara|643|476|2|10|-14
+Km. 160|319|321|2|25|14
+Minas Cué|294|310|2|-10|-14
+Puerto Bahia Negra|414|145|2|0|-14
+Puerto Casado|434|339|2|-35|14
+Puerto Guaraní|437|238|2|-40|14
+Puerto Pinasco|444|368|2|-20|14
+Rosario|511|540|2|0|-14
+San Carlos|492|333|2|20|14
+San Estanislao|559|558|2|25|14
+San Lázaro|438|325|2|-15|-14
+San Ygnacio|516|769|2|-30|14
+Santa Rita|670|665|2|0|14
+Tacuatí|540|448|2|15|14
+Yby Yaú|554|403|2|0|-14
+Yhú|604|591|2|0|14

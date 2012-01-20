@@ -1,0 +1,14 @@
+Río Paz|254|69|375|45
+Río Lempa|253|470|477|50
+Río Sumpul|252|392|269|-45
+Río Torola|251|593|378|0
+Río Jiboa|250|382|507|80
+Río Gr. de San Miguel|249|582|511|45
+Río Goascorán|248|741|434|80
+Río Guarajambala|247|545|262|80
+Lago de Güija|246|206|266|0
+Lago de Coatepeque|245|200|392|0
+Lago de Ilopango|244|352|452|45
+Laguna de Olomega|243|665|569|45
+Embalse Cerrón Grande|242|354|324|-45
+Océano Pacífico|241|298|708|0

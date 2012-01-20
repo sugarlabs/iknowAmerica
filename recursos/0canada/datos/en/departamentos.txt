@@ -1,0 +1,20 @@
+Yukon|254|72|298|0
+British Columbia|253|74|467|60
+Alberta|252|155|489|0
+Saskatchewan|251|229|527|70
+Manitoba|250|305|542|70
+Ontario|249|403|594|0
+Quebec|248|547|560|0
+Newfoundland|247|634|501|0
+New Brunswick|246|634|625|45
+Northwest Territories|245|234|367|0
+Bank Islands|244|235|213|0
+Is. Victoria|243|280|272|0
+Is. de Baffin|242|475|293|-45
+Is. Ellesmere|241|406|142|70
+Nova Scotia|240|689|646|45
+Groenlandia|239|558|157|0
+Islandia|238|728|128|45
+Alaska|237|42|197|0
+Estados Unidos|236|195|775|0
+Is. Newfoundland|235|700|547|0
