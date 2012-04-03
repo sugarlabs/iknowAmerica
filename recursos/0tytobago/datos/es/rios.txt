@@ -1,8 +1,0 @@
-Río Ortoire|254|434|649|10
-Río Oropuche|253|280|650|0
-Río Poole|252|392|594|-25
-Río Coparo|251|289|505|-30
-Río Caroni|250|289|455|-20
-Golfo de Paria|249|103|545|0
-Mar Caribe|248|292|164|0
-Océano Atlántico|247|646|533|0

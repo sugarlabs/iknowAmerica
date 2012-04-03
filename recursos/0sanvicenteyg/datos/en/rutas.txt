@@ -1,1 +1,0 @@
-# Ruta|codigo color (rojo)|ubic. texto x|y|rotacion nombre

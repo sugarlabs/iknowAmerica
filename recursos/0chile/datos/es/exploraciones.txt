@@ -1,9 +1,0 @@
-[Regiones]
-dibujoInicial = lineasDepto
-nombreInicial = 
-elementosActivos = deptos
-
-[Capitales regionales]
-dibujoInicial = lineasDepto, capitales
-nombreInicial = 
-elementosActivos = capitales
