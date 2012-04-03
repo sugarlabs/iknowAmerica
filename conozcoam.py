@@ -358,15 +358,20 @@ class ConozcoAm():
         listaTemp.sort()
         for d in listaTemp:
             if not (d == 'comun'):
+                r_path = os.path.join(CAMINORECURSOS, d, 'datos', d + '.py')
+                a_path = os.path.abspath(r_path)
+                print a_path
+                f = None
                 try:
-                    r_path = os.path.join(CAMINORECURSOS, d, 'datos', d + '.py')
-                    a_path = os.path.abspath(r_path)
                     f = imp.load_source(d, a_path)
-                    pais = f.NAME
-                    self.listaNombreDirectorios.append(pais)
-                    self.listaDirectorios.append(d)
                 except:
-                    pass
+                    print _('Cannot open %s') % d
+                if f:
+                    self.listaNombreDirectorios.append(f.NAME)
+                    self.listaDirectorios.append(d)
+
+        print 'lista'
+        print self.listaNombreDirectorios
                 
 
     def cargarNiveles(self):
