@@ -29,6 +29,7 @@ import os
 import pygame
 import gtk
 import time
+import imp
 from gettext import gettext as _
 
 # constantes
