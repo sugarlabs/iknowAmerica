@@ -1,9 +1,9 @@
-#! /usr/bin/env python
+﻿#! /usr/bin/env python
 # -*- coding: utf-8 -*-
 #
 # Conozco America
 # Copyright (C) 2008,2009,2010 Gabriel Eirea
-# Copyright (C) 2011 Alan Aguiar
+# Copyright (C) 2011, 2012 Alan Aguiar
 #
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
@@ -54,7 +54,7 @@ ABARRA_A = DXPANEL-40
 CAMINORECURSOS = "recursos"
 CAMINOCOMUN = "comun"
 CAMINOFUENTES = "fuentes"
-CAMINODATOS = _("datos/en")
+CAMINODATOS = "datos"
 CAMINOIMAGENES = "imagenes"
 CAMINOSONIDOS = "sonidos"
 ARCHIVODEPTOS = "departamentos.txt"
@@ -357,15 +357,17 @@ class ConozcoAm():
         listaTemp = os.listdir(CAMINORECURSOS)
         listaTemp.sort()
         for d in listaTemp:
-            if d == "comun":
-                pass
-            else:
-                self.listaDirectorios.append(d)
-                f = open(os.path.join(CAMINORECURSOS,d,ARCHIVONOMBRE),"r")
-                linea = f.readline()
-                self.listaNombreDirectorios.append(\
-                    unicode(linea.strip(),'iso-8859-1'))
-                f.close()
+            if not (d == 'comun'):
+                try:
+                    r_path = os.path.join(CAMINORECURSOS, d, 'datos', d + '.py')
+                    a_path = os.path.abspath(r_path)
+                    f = imp.load_source(d, a_path)
+                    pais = f.NAME
+                    self.listaNombreDirectorios.append(pais)
+                    self.listaDirectorios.append(d)
+                except:
+                    pass
+                
 
     def cargarNiveles(self):
         """Carga los niveles del archivo de configuracion"""
@@ -1688,7 +1690,7 @@ class ConozcoAm():
         self.pantalla.blit(self.globo1,
                         (int(180*scale+shift_x),int(260*scale+shift_y)))
         yLinea = int(315*scale+shift_y)
-        # ma�ana tengo...
+        # mañana tengo...
         lineas = self.listaPresentacion[1].split("\\")
         for l in lineas:
             text = self.fuente40.render(l.strip(), 1, COLORPREGUNTAS)
