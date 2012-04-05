@@ -238,10 +238,8 @@ class ConozcoAm():
         textrect.center = posicion
         self.pantalla.blit(text, textrect)
 
-    def cargarDepartamentos(self):
-        """Carga las imagenes y los datos de los departamentos"""
-
-
+    def loadInfo(self):
+        """Carga las imagenes y los datos de cada pais"""
         r_path = os.path.join(self.camino_datos, self.directorio + '.py')
         a_path = os.path.abspath(r_path)
         f = None
@@ -250,111 +248,6 @@ class ConozcoAm():
         except:
             print _('Cannot open %s') % self.directorio
 
-        if f and hasattr(f, 'STATES'):
-            self.deptos = self.cargarImagen("deptos.png")
-            self.deptosLineas = self.cargarImagen("deptosLineas.png")
-            self.listaDeptos = list()
-            for d in f.STATES:
-                nombreDepto = d[0]
-                claveColor = d[1]
-                posx = d[2]
-                posy = d[3]
-                rotacion = d[4]
-                nuevoDepto = Zona(self.deptos, nombreDepto,
-                                claveColor,1,(posx,posy),rotacion)
-                self.listaDeptos.append(nuevoDepto)
-
-    def cargarRios(self):
-        """Carga las imagenes y los datos de los rios"""
-
-
-        r_path = os.path.join(self.camino_datos, self.directorio + '.py')
-        a_path = os.path.abspath(r_path)
-        f = None
-        try:
-            f = imp.load_source(self.directorio, a_path)
-        except:
-            print _('Cannot open %s') % self.directorio
-
-        if f and hasattr(f, 'RIVERS'):
-            self.rios = self.cargarImagen("rios.png")
-            self.riosDetectar = self.cargarImagen("riosDetectar.png")
-            self.listaRios = list()
-            for r in f.RIVERS:
-                nombreRio = r[0]
-                claveColor = r[1]
-                posx = r[2]
-                posy = r[3]
-                rotacion = r[4]
-                nuevoRio = Zona(self.riosDetectar, nombreRio,
-                                claveColor,3,(posx,posy),rotacion)
-                self.listaRios.append(nuevoRio)
-    
-
-    def cargarRutas(self):
-        """Carga las imagenes y los datos de las rutas"""
-
-
-        r_path = os.path.join(self.camino_datos, self.directorio + '.py')
-        a_path = os.path.abspath(r_path)
-        f = None
-        try:
-            f = imp.load_source(self.directorio, a_path)
-        except:
-            print _('Cannot open %s') % self.directorio
-
-        if f and hasattr(f, 'ROUTES'):
-            self.rutas = self.cargarImagen("rutas.png")
-            self.rutasDetectar = self.cargarImagen("rutasDetectar.png")
-            self.listaRutas = list()
-            for r in f.ROUTES:
-                nombreRuta = r[0]
-                claveColor = r[1]
-                posx = r[2]
-                posy = r[3]
-                rotacion = r[4]
-                nuevaRuta = Zona(self.rutasDetectar, nombreRuta,
-                            claveColor,6,(posx,posy),rotacion)
-                self.listaRutas.append(nuevaRuta)
-
-
-    def cargarCuchillas(self):
-        """Carga las imagenes y los datos de las cuchillas"""
-
-        r_path = os.path.join(self.camino_datos, self.directorio + '.py')
-        a_path = os.path.abspath(r_path)
-        f = None
-        try:
-            f = imp.load_source(self.directorio, a_path)
-        except:
-            print _('Cannot open %s') % self.directorio
-
-        if f and hasattr(f, 'CUCHILLAS'):
-            self.cuchillas = self.cargarImagen("cuchillas.png")
-            self.cuchillasDetectar = self.cargarImagen("cuchillasDetectar.png")
-            self.listaCuchillas = list()
-            for c in f.CUCHILLAS:
-                nombreCuchilla = c[0]
-                claveColor = c[1]
-                posx = c[2]
-                posy = c[3]
-                rotacion = c[4]
-                nuevaCuchilla = Zona(self.cuchillasDetectar, nombreCuchilla,
-                                claveColor,4,(posx,posy),rotacion)
-                self.listaCuchillas.append(nuevaCuchilla)
-
-
-    def cargarLugares(self):
-        """Carga los datos de las ciudades y otros puntos de interes"""
-        self.listaLugares = list()
-
-        r_path = os.path.join(self.camino_datos, self.directorio + '.py')
-        a_path = os.path.abspath(r_path)
-        f = None
-        try:
-            f = imp.load_source(self.directorio, a_path)
-        except:
-            print _('Cannot open %s') % self.directorio
         if f:
             lugares = []
             if hasattr(f, 'CAPITALS'):
@@ -363,7 +256,7 @@ class ConozcoAm():
                 lugares = lugares + f.CITIES
             if hasattr(f, 'HILLS'):
                 lugares = lugares + f.HILLS
-
+            self.listaLugares = list()
             for c in lugares:
                 nombreLugar = c[0]
                 posx = c[1]
@@ -385,6 +278,62 @@ class ConozcoAm():
                 nuevoLugar = Punto(nombreLugar, tipo, simbolo,
                             (posx,posy),(incx,incy))
                 self.listaLugares.append(nuevoLugar)
+
+            if hasattr(f, 'STATES'):
+                self.deptos = self.cargarImagen("deptos.png")
+                self.deptosLineas = self.cargarImagen("deptosLineas.png")
+                self.listaDeptos = list()
+                for d in f.STATES:
+                    nombreDepto = d[0]
+                    claveColor = d[1]
+                    posx = d[2]
+                    posy = d[3]
+                    rotacion = d[4]
+                    nuevoDepto = Zona(self.deptos, nombreDepto,
+                                    claveColor,1,(posx,posy),rotacion)
+                    self.listaDeptos.append(nuevoDepto)
+
+            if hasattr(f, 'CUCHILLAS'):
+                self.cuchillas = self.cargarImagen("cuchillas.png")
+                self.cuchillasDetectar = self.cargarImagen("cuchillasDetectar.png")
+                self.listaCuchillas = list()
+                for c in f.CUCHILLAS:
+                    nombreCuchilla = c[0]
+                    claveColor = c[1]
+                    posx = c[2]
+                    posy = c[3]
+                    rotacion = c[4]
+                    nuevaCuchilla = Zona(self.cuchillasDetectar, nombreCuchilla,
+                                    claveColor,4,(posx,posy),rotacion)
+                    self.listaCuchillas.append(nuevaCuchilla)
+
+            if hasattr(f, 'RIVERS'):
+                self.rios = self.cargarImagen("rios.png")
+                self.riosDetectar = self.cargarImagen("riosDetectar.png")
+                self.listaRios = list()
+                for r in f.RIVERS:
+                    nombreRio = r[0]
+                    claveColor = r[1]
+                    posx = r[2]
+                    posy = r[3]
+                    rotacion = r[4]
+                    nuevoRio = Zona(self.riosDetectar, nombreRio,
+                                    claveColor,3,(posx,posy),rotacion)
+                    self.listaRios.append(nuevoRio)
+
+            if hasattr(f, 'ROUTES'):
+                self.rutas = self.cargarImagen("rutas.png")
+                self.rutasDetectar = self.cargarImagen("rutasDetectar.png")
+                self.listaRutas = list()
+                for r in f.ROUTES:
+                    nombreRuta = r[0]
+                    claveColor = r[1]
+                    posx = r[2]
+                    posy = r[3]
+                    rotacion = r[4]
+                    nuevaRuta = Zona(self.rutasDetectar, nombreRuta,
+                                claveColor,6,(posx,posy),rotacion)
+                    self.listaRutas.append(nuevaRuta)
 
 
     def cargarListaDirectorios(self):
@@ -1015,13 +964,7 @@ class ConozcoAm():
         self.fondo = self.cargarImagen("fondo.png")
         self.bandera = self.cargarImagen("bandera.png")
 
-
-        self.cargarDepartamentos()
-        self.cargarRios()
-        self.cargarRutas()
-        self.cargarCuchillas()
-        self.cargarLugares()
-
+        self.loadInfo()
 
         self.cargarNiveles()
         self.cargarExploraciones()
