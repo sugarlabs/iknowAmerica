@@ -243,21 +243,25 @@ class ConozcoAm():
         self.deptos = self.cargarImagen("deptos.png")
         self.deptosLineas = self.cargarImagen("deptosLineas.png")
         self.listaDeptos = list()
-        # falta sanitizar manejo de archivo
-        f = open(os.path.join(self.camino_datos,ARCHIVODEPTOS),"r")
-        linea = f.readline()
-        while linea:
-            if linea[0] == "#":
-                linea = f.readline()
-                continue
-            [nombreDepto,claveColor,posx,posy,rotacion] = \
-                linea.strip().split("|")
-            nuevoDepto = Zona(self.deptos,
-                            unicode(nombreDepto,'iso-8859-1'),
-                            claveColor,1,(posx,posy),rotacion)
-            self.listaDeptos.append(nuevoDepto)
-            linea = f.readline()
-        f.close()
+
+        r_path = os.path.join(self.camino_datos, self.directorio + '.py')
+        a_path = os.path.abspath(r_path)
+        f = None
+        try:
+            f = imp.load_source(self.directorio, a_path)
+        except:
+            print _('Cannot open %s') % self.directorio
+        if f:
+            for d in f.STATES:
+                nombreDepto = d[0]
+                claveColor = d[1]
+                posx = d[2]
+                posy = d[3]
+                rotacion = d[4]
+
+                nuevoDepto = Zona(self.deptos, nombreDepto,
+                                claveColor,1,(posx,posy),rotacion)
+                self.listaDeptos.append(nuevoDepto)
 
     def cargarRios(self):
         """Carga las imagenes y los datos de los rios"""
@@ -361,7 +365,6 @@ class ConozcoAm():
             if not (d == 'comun'):
                 r_path = os.path.join(CAMINORECURSOS, d, 'datos', d + '.py')
                 a_path = os.path.abspath(r_path)
-                print a_path
                 f = None
                 try:
                     f = imp.load_source(d, a_path)
@@ -370,9 +373,6 @@ class ConozcoAm():
                 if f:
                     self.listaNombreDirectorios.append(f.NAME)
                     self.listaDirectorios.append(d)
-
-        print 'lista'
-        print self.listaNombreDirectorios
                 
 
     def cargarNiveles(self):
