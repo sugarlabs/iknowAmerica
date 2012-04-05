@@ -67,7 +67,7 @@ ARCHIVORUTAS = "rutas.txt"
 ARCHIVOCUCHILLAS = "cuchillas.txt"
 ARCHIVOCREDITOS = "creditos.txt"
 ARCHIVOPRESENTACION = "presentacion.txt"
-ARCHIVONOMBRE = _("nombreEN.txt")
+ARCHIVONOMBRE = "nombre.txt"
 ARCHIVOESTADISTICAS = "estadisticas.txt"
 COLORNOMBREDEPTO = (10,10,10)
 COLORNOMBRECAPITAL = (10,10,10)
@@ -354,17 +354,49 @@ class ConozcoAm():
                 if f:
                     self.listaNombreDirectorios.append(f.NAME)
                     self.listaDirectorios.append(d)
-                
 
-    def cargarNiveles(self):
-        """Carga los niveles del archivo de configuracion"""
-        self.listaNiveles = list()
+    def loadCommons(self):
+                
         self.listaPrefijos = list()
         self.listaSufijos = list()
         self.listaCorrecto = list()
         self.listaMal = list()
         self.listaDespedidasB = list()
         self.listaDespedidasM = list()
+
+        r_path = os.path.join(CAMINORECURSOS, CAMINOCOMUN, 'datos', 'commons.py')
+        a_path = os.path.abspath(r_path)
+        f = None
+        try:
+            f = imp.load_source('commons', a_path)
+        except:
+            print _('Cannot open %s') % 'commons'
+
+        if f:
+            if hasattr(f, 'PREFIX'):
+                self.listaPrefijos = f.PREFIX
+            if hasattr(f, 'SUFIX'):
+                self.listaSufijos =  f.SUFIX
+            if hasattr(f, 'CORRECT'):
+                self.listaCorrecto = f.CORRECT
+            if hasattr(f, 'WRONG'):
+                self.listaMal = f.WRONG
+            if hasattr(f, 'BYE_C'):
+                self.listaDespedidasB = f.BYE_C
+            if hasattr(f, 'BYE_W'):
+                self.listaDespedidasM = f.BYE_W
+
+        self.numeroSufijos = len(self.listaSufijos)
+        self.numeroPrefijos = len(self.listaPrefijos)
+        self.numeroCorrecto = len(self.listaCorrecto)
+        self.numeroMal = len(self.listaMal)
+        self.numeroDespedidasB = len(self.listaDespedidasB)
+        self.numeroDespedidasM = len(self.listaDespedidasM)
+
+    def cargarNiveles(self):
+        """Carga los niveles del archivo de configuracion"""
+        self.listaNiveles = list()
+
         # falta sanitizar manejo de archivo
         f = open(os.path.join(self.camino_datos,ARCHIVONIVELES),"r")
         linea = f.readline()
@@ -421,12 +453,7 @@ class ConozcoAm():
         f.close()
         self.indiceNivelActual = 0
         self.numeroNiveles = len(self.listaNiveles)
-        self.numeroSufijos = len(self.listaSufijos)
-        self.numeroPrefijos = len(self.listaPrefijos)
-        self.numeroCorrecto = len(self.listaCorrecto)
-        self.numeroMal = len(self.listaMal)
-        self.numeroDespedidasB = len(self.listaDespedidasB)
-        self.numeroDespedidasM = len(self.listaDespedidasM)
+
 
     def cargarExploraciones(self):
         """Carga los niveles de exploracion del archivo de configuracion"""
@@ -1871,6 +1898,9 @@ class ConozcoAm():
         global scale, shift_x, shift_y
         pygame.time.set_timer(EVENTOREFRESCO,TIEMPOREFRESCO)
         self.presentacion()
+        # cargo la info de prefijos, etc
+        self.loadCommons()
+
         self.paginaDir = 0
         while 1:
             self.pantallaDirectorios() # seleccion de mapa
