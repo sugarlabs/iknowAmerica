@@ -1037,10 +1037,8 @@ class ConozcoAm():
         # primero averiguar tipo
         if nivel.preguntaActual[1] == 1: # DEPTO
             # buscar depto correcto
-            encontrado = False
             for d in self.listaDeptos:
                 if d.nombre == respCorrecta:
-                    encontrado = True
                     break
             if d.estaAca(pos):
                 d.mostrarNombre(self.pantalla,
@@ -1052,10 +1050,8 @@ class ConozcoAm():
                 return False
         elif nivel.preguntaActual[1] == 2: # CAPITAL o CIUDAD
             # buscar lugar correcto
-            encontrado = False
             for l in self.listaLugares:
                 if l.nombre == respCorrecta:
-                    encontrado = True
                     break
             if l.estaAca(pos):
                 l.mostrarNombre(self.pantalla,
@@ -1067,10 +1063,8 @@ class ConozcoAm():
                 return False
         if nivel.preguntaActual[1] == 3: # RIO
             # buscar rio correcto
-            encontrado = False
             for d in self.listaRios:
                 if d.nombre == respCorrecta:
-                    encontrado = True
                     break
             if d.estaAca(pos):
                 d.mostrarNombre(self.pantalla,
@@ -1082,10 +1076,8 @@ class ConozcoAm():
                 return False
         if nivel.preguntaActual[1] == 4: # CUCHILLA
             # buscar cuchilla correcta
-            encontrado = False
             for d in self.listaCuchillas:
                 if d.nombre == respCorrecta:
-                    encontrado = True
                     break
             if d.estaAca(pos):
                 d.mostrarNombre(self.pantalla,
@@ -1097,10 +1089,8 @@ class ConozcoAm():
                 return False
         elif nivel.preguntaActual[1] == 5: # CERRO
             # buscar lugar correcto
-            encontrado = False
             for l in self.listaLugares:
                 if l.nombre == respCorrecta:
-                    encontrado = True
                     break
             if l.estaAca(pos):
                 l.mostrarNombre(self.pantalla,
@@ -1112,10 +1102,8 @@ class ConozcoAm():
                 return False
         if nivel.preguntaActual[1] == 6: # RUTA
             # buscar ruta correcta
-            encontrado = False
             for d in self.listaRutas:
                 if d.nombre == respCorrecta:
-                    encontrado = True
                     break
             if d.estaAca(pos):
                 d.mostrarNombre(self.pantalla,
@@ -1397,7 +1385,7 @@ class ConozcoAm():
                 self.listaSufijos,self.listaPrefijos)
         self.mostrarGlobito(self.lineasPregunta)
         # barra puntaje
-        rect = pygame.draw.rect(self.pantalla, (0,0,0),
+        pygame.draw.rect(self.pantalla, (0,0,0),
                                 (int(XBARRA_P*scale+shift_x),
                                 int((YBARRA_P-350)*scale+shift_y),
                                 int(ABARRA_P*scale),
@@ -1407,7 +1395,7 @@ class ConozcoAm():
             int(YBARRA_P+10)*scale+shift_y), COLORBARRA_P)
         # barra avance
         unidad = ABARRA_A / TOTALAVANCE
-        rect = pygame.draw.rect(self.pantalla, (0,0,0),
+        pygame.draw.rect(self.pantalla, (0,0,0),
                                 (int(XBARRA_A*scale+shift_x),
                                 int(YBARRA_A*scale+shift_y),
                                 int(ABARRA_A*scale),
@@ -1471,7 +1459,7 @@ class ConozcoAm():
                                         int(self.puntos*5*scale)
                                         )
                                         )
-                                rect = pygame.draw.rect(self.pantalla, (0,0,0),
+                                pygame.draw.rect(self.pantalla, (0,0,0),
                                     (int(XBARRA_P*scale+shift_x),
                                     int((YBARRA_P-350)*scale+shift_y),
                                     int(ABARRA_P*scale),
@@ -1519,7 +1507,7 @@ class ConozcoAm():
                                             int(ABARRA_P*scale)
                                             )
                                             )
-                            rect = pygame.draw.rect(self.pantalla, (0,0,0),
+                            pygame.draw.rect(self.pantalla, (0,0,0),
                                                 (int(XBARRA_A*scale+shift_x),
                                                 int(YBARRA_A*scale+shift_y),
                                                 int(ABARRA_A*scale),
@@ -1545,7 +1533,7 @@ class ConozcoAm():
                                         int(ABARRA_P*scale)
                                         )
                                         )
-                        rect = pygame.draw.rect(self.pantalla, (0,0,0),
+                        pygame.draw.rect(self.pantalla, (0,0,0),
                                             (int(XBARRA_A*scale+shift_x),
                                             int((YBARRA_A)*scale+shift_y),
                                             int(ABARRA_A*scale),
