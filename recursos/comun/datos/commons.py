@@ -2,6 +2,16 @@
 
 from gettext import gettext as _
 
+
+PRESENTATION = [
+    _('Hello friends...'),
+    _('...tomorrow I have a|test about America...'),
+    _('...and I know nothing!!!'),
+    _('...what I do???'),
+    _('I can ask you something?'),
+    _('Can you help me?')
+]
+
 PREFIX = [
     _('We have to look'),
     _('We have to find'),
@@ -42,4 +52,13 @@ BYE_W = [
     _("Please try again...|I'm going to play...|Thanks!")
 ]
 
+CREDITS = [
+    _("Author: Alan Aguiar"),
+    _("Send corrections, comments or suggestions to: alanjas@hotmail.com"),
+    _("This program is free software developed by the community"),
+    _("For more information visit http://ceibaljam.org"),
+    _("This program is based on 'Conozco Uruguay' (Author: Gabriel Eirea"),
+    _("Sounds downloaded from freesound.org: btn045.wav courtesy of junggle."),
+    _("Font: Share-Regular.ttf of urbanfonts.com")
+]
 
