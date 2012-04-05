@@ -33,7 +33,8 @@ WRONG = [
 BYE_C = [
     _("Now I'm ready|for tomorrow...|I'm going to play...|Thanks for your help!"),
     _("We made it!|I'm going to play ball...|Bye and thanks|for helping me!"),
-    _("We did it!|I'm ready for tomorrow...I'm playing a while...|Until next time!"),
+    _("We did it!|I'm ready for tomorrow...I'm playing a while...|Until next time!")
+]
 
 BYE_W = [
     _("More luck next|I'll play a while...|Thanks!"),
