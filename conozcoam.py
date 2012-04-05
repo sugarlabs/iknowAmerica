@@ -268,21 +268,25 @@ class ConozcoAm():
         self.rios = self.cargarImagen("rios.png")
         self.riosDetectar = self.cargarImagen("riosDetectar.png")
         self.listaRios = list()
-        # falta sanitizar manejo de archivo
-        f = open(os.path.join(self.camino_datos,ARCHIVORIOS),"r")
-        linea = f.readline()
-        while linea:
-            if linea[0] == "#":
-                linea = f.readline()
-                continue
-            [nombreRio,claveColor,posx,posy,rotacion] = \
-                linea.strip().split("|")
-            nuevoRio = Zona(self.riosDetectar,
-                            unicode(nombreRio,'iso-8859-1'),
-                            claveColor,3,(posx,posy),rotacion)
-            self.listaRios.append(nuevoRio)
-            linea = f.readline()
-        f.close()
+
+        r_path = os.path.join(self.camino_datos, self.directorio + '.py')
+        a_path = os.path.abspath(r_path)
+        f = None
+        try:
+            f = imp.load_source(self.directorio, a_path)
+        except:
+            print _('Cannot open %s') % self.directorio
+        if f:
+            for r in f.RIVERS:
+                nombreRio = r[0]
+                claveColor = r[1]
+                posx = r[2]
+                posy = r[3]
+                rotacion = r[4]
+                nuevoRio = Zona(self.riosDetectar, nombreRio,
+                                claveColor,3,(posx,posy),rotacion)
+                self.listaRios.append(nuevoRio)
+    
 
     def cargarRutas(self):
         """Carga las imagenes y los datos de las rutas"""
