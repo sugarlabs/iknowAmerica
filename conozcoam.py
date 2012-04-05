@@ -363,6 +363,8 @@ class ConozcoAm():
         self.listaMal = list()
         self.listaDespedidasB = list()
         self.listaDespedidasM = list()
+        self.listaPresentacion = list()
+        
 
         r_path = os.path.join(CAMINORECURSOS, CAMINOCOMUN, 'datos', 'commons.py')
         a_path = os.path.abspath(r_path)
@@ -385,6 +387,8 @@ class ConozcoAm():
                 self.listaDespedidasB = f.BYE_C
             if hasattr(f, 'BYE_W'):
                 self.listaDespedidasM = f.BYE_W
+            if hasattr(f, 'PRESENTATION'):
+                self.listaPresentacion = f.PRESENTATION
 
         self.numeroSufijos = len(self.listaSufijos)
         self.numeroPrefijos = len(self.listaPrefijos)
@@ -1625,14 +1629,7 @@ class ConozcoAm():
         pygame.display.flip()
         # esperar o no esperar, esa es la cuestion
         time.sleep(0.5)
-        # cargo el texto de la presentacion
-        self.listaPresentacion = list()
-        f = open(os.path.join(CAMINORECURSOS,
-                              CAMINOCOMUN,
-                              CAMINODATOS,ARCHIVOPRESENTACION),"r")
-        for linea in f:
-            self.listaPresentacion.append(unicode(linea,'iso-8859-1'))
-        f.close()
+
 
         # comienzo animacion
         self.pantalla.blit(self.globo1,
@@ -1874,9 +1871,11 @@ class ConozcoAm():
         """Este es el loop principal del juego"""
         global scale, shift_x, shift_y
         pygame.time.set_timer(EVENTOREFRESCO,TIEMPOREFRESCO)
-        self.presentacion()
+        
         # cargo la info de prefijos, etc
         self.loadCommons()
+
+        self.presentacion()
 
         self.paginaDir = 0
         while 1:
