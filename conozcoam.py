@@ -329,31 +329,38 @@ class ConozcoAm():
     def cargarLugares(self):
         """Carga los datos de las ciudades y otros puntos de interes"""
         self.listaLugares = list()
-        # falta sanitizar manejo de archivo
-        f = open(os.path.join(self.camino_datos,ARCHIVOLUGARES),"r")
-        linea = f.readline()
-        while linea:
-            if linea[0] == "#":
-                linea = f.readline()
-                continue
-            [nombreLugar,posx,posy,tipo,incx,incy] = \
-                linea.strip().split("|")
-            if int(tipo) == 0:
-                simbolo = self.simboloCapitalN
-            elif int(tipo) == 1:
-                simbolo = self.simboloCapitalD
-            elif int(tipo) == 2:
-                simbolo = self.simboloCiudad
-            elif int(tipo) == 5:
-                simbolo = self.simboloCerro
-            else:
-                simbolo = self.simboloCiudad
-            nuevoLugar = Punto(unicode(nombreLugar,'iso-8859-1'),
-                            int(tipo),simbolo,
+
+        r_path = os.path.join(self.camino_datos, self.directorio + '.py')
+        a_path = os.path.abspath(r_path)
+        f = None
+        try:
+            f = imp.load_source(self.directorio, a_path)
+        except:
+            print _('Cannot open %s') % self.directorio
+        if f:
+            lugares = f.CAPITALS + f.CITIES
+            for c in lugares:
+                nombreLugar = c[0]
+                posx = c[1]
+                posy = c[2]
+                tipo = c[3]
+                incx = c[4]
+                incy = c[5]
+                if tipo == 0:
+                    simbolo = self.simboloCapitalN
+                elif tipo == 1:
+                    simbolo = self.simboloCapitalD
+                elif tipo == 2:
+                    simbolo = self.simboloCiudad
+                elif tipo == 5:
+                    simbolo = self.simboloCerro
+                else:
+                    simbolo = self.simboloCiudad
+
+                nuevoLugar = Punto(nombreLugar, tipo, simbolo,
                             (posx,posy),(incx,incy))
-            self.listaLugares.append(nuevoLugar)
-            linea = f.readline()
-        f.close()
+                self.listaLugares.append(nuevoLugar)
+
 
     def cargarListaDirectorios(self):
         """Carga la lista de directorios con los distintos mapas"""
