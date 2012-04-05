@@ -60,7 +60,7 @@ CAMINOIMAGENES = "imagenes"
 CAMINOSONIDOS = "sonidos"
 ARCHIVODEPTOS = "departamentos.txt"
 ARCHIVOLUGARES = "ciudades.txt"
-ARCHIVONIVELES = "niveles.txt"
+ARCHIVONIVELES = "levels"
 ARCHIVOEXPLORACIONES = "exploraciones.txt"
 ARCHIVORIOS = "rios.txt"
 ARCHIVORUTAS = "rutas.txt"
@@ -397,60 +397,40 @@ class ConozcoAm():
         """Carga los niveles del archivo de configuracion"""
         self.listaNiveles = list()
 
-        # falta sanitizar manejo de archivo
-        f = open(os.path.join(self.camino_datos,ARCHIVONIVELES),"r")
-        linea = f.readline()
-        while linea:
-            if linea[0] == "#":
-                linea = f.readline()
-                continue
-            if linea[0] == "[":
-                # empieza nivel
-                nombreNivel = linea.strip("[]\n")
-                nombreNivel = unicode(nombreNivel,'iso-8859-1')
-                nuevoNivel = Nivel(nombreNivel)
-                self.listaNiveles.append(nuevoNivel)
-                linea = f.readline()
-                continue
-            if linea.find("=") == -1:
-                linea = f.readline()
-                continue
-            [var,valor] = linea.strip().split("=")
-            if var.startswith("Prefijo"):
-                self.listaPrefijos.append(
-                    unicode(valor.strip(),'iso-8859-1'))
-            elif var.startswith("Sufijo"):
-                self.listaSufijos.append(
-                    unicode(valor.strip(),'iso-8859-1'))
-            elif var.startswith("Correcto"):
-                self.listaCorrecto.append(
-                    unicode(valor.strip(),'iso-8859-1'))
-            elif var.startswith("Mal"):
-                self.listaMal.append(
-                    unicode(valor.strip(),'iso-8859-1'))
-            elif var.startswith("DespedidaB"):
-                self.listaDespedidasB.append(
-                    unicode(valor.strip(),'iso-8859-1'))
-            elif var.startswith("DespedidaM"):
-                self.listaDespedidasM.append(
-                    unicode(valor.strip(),'iso-8859-1'))
-            elif var.startswith("dibujoInicial"):
-                listaDibujos = valor.split(",")
-                for i in listaDibujos:
-                    nuevoNivel.dibujoInicial.append(i.strip())
-            elif var.startswith("nombreInicial"):
-                listaNombres = valor.split(",")
-                for i in listaNombres:
-                    nuevoNivel.nombreInicial.append(i.strip())
-            elif var.startswith("Pregunta"):
-                [texto,tipo,respuesta,ayuda] = valor.split("|")
-                nuevoNivel.preguntas.append(
-                    (unicode(texto.strip(),'iso-8859-1'),
-                    int(tipo),
-                    unicode(respuesta.strip(),'iso-8859-1'),
-                    unicode(ayuda.strip(),'iso-8859-1')))
-            linea = f.readline()
-        f.close()
+        r_path = os.path.join(self.camino_datos, ARCHIVONIVELES + '.py')
+        a_path = os.path.abspath(r_path)
+        f = None
+        try:
+            f = imp.load_source(ARCHIVONIVELES, a_path)
+        except:
+            print _('Cannot open %s') % ARCHIVONIVELES, a_path
+
+        if f:
+            if hasattr(f, 'LEVELS'):
+                for ln in f.LEVELS:
+                    nombreNivel = ln[0]
+                    nuevoNivel = Nivel(nombreNivel)
+
+                    listaDibujos = ln[1]
+                    for i in listaDibujos:
+                        nuevoNivel.dibujoInicial.append(i)
+
+                    listaNombres = ln[2]
+                    for i in listaNombres:
+                        nuevoNivel.nombreInicial.append(i)
+
+                    listpreguntas = ln[3]
+                    for i in listpreguntas:
+                        texto = i[0]
+                        tipo = i[1]
+                        respuesta = i[2]
+                        ayuda = i[3]
+                        nuevoNivel.preguntas.append((texto.strip(),
+                            tipo, respuesta.strip(), ayuda.strip()))
+
+                    self.listaNiveles.append(nuevoNivel)
+
+
         self.indiceNivelActual = 0
         self.numeroNiveles = len(self.listaNiveles)
 

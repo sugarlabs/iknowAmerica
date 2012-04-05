@@ -2,9 +2,8 @@
 
 from gettext import gettext as _
 
-
 LEVEL1 = [
-        [_('Departaments')],
+        _('Departaments'),
         ['lineasDepto'],
         [],
         [
@@ -31,9 +30,9 @@ LEVEL1 = [
 ]
 
 LEVEL2 = [
-        [_('Departamental capitals')],
+        _('Departamental capitals'),
         ['lineasDepto', 'capitales'],
-        []
+        [],
 [
     (_('the city of |%s') % _('Artigas'), 2, _('Artigas'), _("It's easy")),
     (_('the city of |%s') % _('Salto'), 2, _('Salto'), _("It's easy")),
@@ -58,9 +57,9 @@ LEVEL2 = [
 ]
 
 LEVEL3 = [
-        [_('Cities')],
+        _('Cities'),
         ['lineasDepto', 'capitales', 'ciudades'],
-        []
+        [],
 [
     (_('the city of |%s') % _('Aiguá'), 2, _('Aiguá'), _('Queda en Maldonado')),
     (_('the city of |%s') % _('Ansina'), 2, _('Ansina'), _('Queda en Tacuarembó')),
@@ -140,9 +139,9 @@ LEVEL3 = [
 ]
 
 LEVEL3 = [
-        [_('Waterways')]
-        ['lineasDepto', 'rios']
-        []
+        _('Waterways'),
+        ['lineasDepto', 'rios'],
+        [],
 [
     (_('the %s') % _('Arapey Chico River'), 3, _('Arapey Chico River'), _('Is north')),
     (_('the %s') % _('Arapey Grande River'), 3, _('Arapey Grande River'), _('Desemboca en the Uruguay')),
@@ -174,4 +173,6 @@ LEVEL3 = [
     (_('the %s') % _('Sauce Lagoon'), 3, _('Sauce Lagoon'), _('Queda en Maldonado'))
 ]
 ]
+
+LEVELS = [LEVEL1, LEVEL2, LEVEL3]
 
