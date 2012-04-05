@@ -502,6 +502,10 @@ class ConozcoAm():
                         (255,155,155))
         pygame.display.flip()
         while 1:
+            # Pump GTK messages.
+            while gtk.events_pending():
+                gtk.main_iteration()
+
             for event in wait_events():
                 if event.type == pygame.KEYDOWN or \
                         event.type == pygame.MOUSEBUTTONDOWN:
@@ -578,6 +582,10 @@ class ConozcoAm():
                         (100,200,100))
         pygame.display.flip()
         while 1:
+            # Pump GTK messages.
+            while gtk.events_pending():
+                gtk.main_iteration()
+
             for event in wait_events():
                 if event.type == pygame.KEYDOWN:
                     if event.key == 27: # escape: volver
@@ -718,6 +726,10 @@ class ConozcoAm():
             pygame.display.flip()
             cambiarPagina = False
             while not cambiarPagina:
+                # Pump GTK messages.
+                while gtk.events_pending():
+                    gtk.main_iteration()
+
                 for event in wait_events():
                     if event.type == pygame.KEYDOWN:
                         if event.key == 27: # escape: salir
@@ -794,14 +806,20 @@ class ConozcoAm():
         return imagen
 
     def __init__(self):
-        """Esta es la inicializacion del juego"""
+        pass
+
+
+    def loadAll(self):
         global scale, shift_x, shift_y, xo_resolution
         pygame.init()
+        pygame.display.init()
         # crear pantalla
         self.anchoPantalla = gtk.gdk.screen_width()
         self.altoPantalla = gtk.gdk.screen_height()
-        self.pantalla = pygame.display.set_mode((self.anchoPantalla,
-                                                self.altoPantalla))
+        #self.pantalla = pygame.display.set_mode((self.anchoPantalla,
+        #                                        self.altoPantalla))
+        self.pantalla = pygame.display.get_surface()
+        pygame.display.flip()
         if self.anchoPantalla==1200 and self.altoPantalla==900:
             xo_resolution = True
             scale = 1
@@ -1189,6 +1207,10 @@ class ConozcoAm():
         pygame.display.flip()
         # lazo principal de espera por acciones del usuario
         while 1:
+            # Pump GTK messages.
+            while gtk.events_pending():
+                gtk.main_iteration()
+
             for event in wait_events():
                 if event.type == pygame.KEYDOWN:
                     if event.key == 27: # escape: salir
@@ -1406,6 +1428,10 @@ class ConozcoAm():
         self.primera = False
         # leer eventos y ver si la respuesta es correcta
         while 1:
+            # Pump GTK messages.
+            while gtk.events_pending():
+                gtk.main_iteration()
+
             for event in wait_events():
                 if event.type == pygame.KEYDOWN:
                     if event.key == 27: # escape: salir
@@ -1640,6 +1666,10 @@ class ConozcoAm():
         terminar = False
         pygame.time.set_timer(EVENTORESPUESTA, 2000)
         while 1:
+            # Pump GTK messages.
+            while gtk.events_pending():
+                gtk.main_iteration()
+
             for event in wait_events():
                 if event.type == pygame.KEYDOWN or \
                         event.type == pygame.MOUSEBUTTONDOWN:
@@ -1670,6 +1700,10 @@ class ConozcoAm():
         terminar = False
         pygame.time.set_timer(EVENTORESPUESTA, 2000)
         while 1:
+            # Pump GTK messages.
+            while gtk.events_pending():
+                gtk.main_iteration()
+
             for event in wait_events():
                 if event.type == pygame.KEYDOWN or \
                         event.type == pygame.MOUSEBUTTONDOWN:
@@ -1692,6 +1726,10 @@ class ConozcoAm():
         terminar = False
         pygame.time.set_timer(EVENTORESPUESTA, 2000)
         while 1:
+            # Pump GTK messages.
+            while gtk.events_pending():
+                gtk.main_iteration()
+
             for event in wait_events():
                 if event.type == pygame.KEYDOWN or \
                         event.type == pygame.MOUSEBUTTONDOWN:
@@ -1735,6 +1773,10 @@ class ConozcoAm():
         terminar = False
         pygame.time.set_timer(EVENTORESPUESTA, 1000)
         while 1:
+            # Pump GTK messages.
+            while gtk.events_pending():
+                gtk.main_iteration()
+
             for event in wait_events():
                 if event.type == pygame.KEYDOWN or \
                         event.type == pygame.MOUSEBUTTONDOWN:
@@ -1766,6 +1808,10 @@ class ConozcoAm():
         terminar = False
         pygame.time.set_timer(EVENTORESPUESTA, 2000)
         while 1:
+            # Pump GTK messages.
+            while gtk.events_pending():
+                gtk.main_iteration()
+
             for event in wait_events():
                 if event.type == pygame.KEYDOWN or \
                         event.type == pygame.MOUSEBUTTONDOWN:
@@ -1811,6 +1857,10 @@ class ConozcoAm():
         terminar = False
         pygame.time.set_timer(EVENTORESPUESTA, 1500)
         while 1:
+            # Pump GTK messages.
+            while gtk.events_pending():
+                gtk.main_iteration()
+
             for event in wait_events():
                 if event.type == pygame.KEYDOWN or \
                         event.type == pygame.MOUSEBUTTONDOWN:
@@ -1841,6 +1891,10 @@ class ConozcoAm():
         terminar = False
         pygame.time.set_timer(EVENTORESPUESTA, 2000)
         while 1:
+            # Pump GTK messages.
+            while gtk.events_pending():
+                gtk.main_iteration()
+
             for event in wait_events():
                 if event.type == pygame.KEYDOWN or \
                         event.type == pygame.MOUSEBUTTONDOWN:
@@ -1862,8 +1916,9 @@ class ConozcoAm():
         """Este es el loop principal del juego"""
         global scale, shift_x, shift_y
         pygame.time.set_timer(EVENTOREFRESCO,TIEMPOREFRESCO)
-        
-        # cargo la info de prefijos, etc
+
+        self.loadAll()
+
         self.loadCommons()
 
         self.presentacion()
