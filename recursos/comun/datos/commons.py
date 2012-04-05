@@ -55,8 +55,10 @@ BYE_W = [
 CREDITS = [
     _("Author: Alan Aguiar"),
     _("Send corrections, comments or suggestions to: alanjas@hotmail.com"),
+    "",
     _("This program is free software developed by the community"),
     _("For more information visit http://ceibaljam.org"),
+    "",
     _("This program is based on 'Conozco Uruguay' (Author: Gabriel Eirea"),
     _("Sounds downloaded from freesound.org: btn045.wav courtesy of junggle."),
     _("Font: Share-Regular.ttf of urbanfonts.com")

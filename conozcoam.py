@@ -364,6 +364,7 @@ class ConozcoAm():
         self.listaDespedidasB = list()
         self.listaDespedidasM = list()
         self.listaPresentacion = list()
+        self.listaCreditos = list()
         
 
         r_path = os.path.join(CAMINORECURSOS, CAMINOCOMUN, 'datos', 'commons.py')
@@ -389,6 +390,8 @@ class ConozcoAm():
                 self.listaDespedidasM = f.BYE_W
             if hasattr(f, 'PRESENTATION'):
                 self.listaPresentacion = f.PRESENTATION
+            if hasattr(f, 'CREDITS'):
+                self.listaCreditos = f.CREDITS
 
         self.numeroSufijos = len(self.listaSufijos)
         self.numeroPrefijos = len(self.listaPrefijos)
@@ -491,19 +494,15 @@ class ConozcoAm():
                         (int(600*scale+shift_x),
                         int(100*scale+shift_y)),
                         (255,255,255))
-        # falta sanitizar acceso a archivo
-        f = open(os.path.join(CAMINORECURSOS,
-                            CAMINOCOMUN,
-                            CAMINODATOS,
-                            ARCHIVOCREDITOS),"r")
+
         yLinea = int(200*scale+shift_y)
-        for linea in f:
+        for linea in self.listaCreditos:
             self.mostrarTexto(linea.strip(),
                             self.fuente32,
                             (int(600*scale+shift_x),yLinea),
                             (155,155,255))
             yLinea = yLinea + int(40*scale)
-        f.close()
+
         self.mostrarTexto(_("Press any key to return"),
                         self.fuente32,
                         (int(600*scale+shift_x),
