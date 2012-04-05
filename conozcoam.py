@@ -251,7 +251,8 @@ class ConozcoAm():
             f = imp.load_source(self.directorio, a_path)
         except:
             print _('Cannot open %s') % self.directorio
-        if f:
+
+        if f and hasattr(f, 'STATES'):
             for d in f.STATES:
                 nombreDepto = d[0]
                 claveColor = d[1]
@@ -276,7 +277,8 @@ class ConozcoAm():
             f = imp.load_source(self.directorio, a_path)
         except:
             print _('Cannot open %s') % self.directorio
-        if f:
+
+        if f and hasattr(f, 'RIVERS'):
             for r in f.RIVERS:
                 nombreRio = r[0]
                 claveColor = r[1]
@@ -301,7 +303,8 @@ class ConozcoAm():
             f = imp.load_source(self.directorio, a_path)
         except:
             print _('Cannot open %s') % self.directorio
-        if f:
+
+        if f and hasattr(f, 'ROUTES'):
             for r in f.ROUTES:
                 nombreRuta = r[0]
                 claveColor = r[1]
@@ -318,21 +321,25 @@ class ConozcoAm():
         self.cuchillas = self.cargarImagen("cuchillas.png")
         self.cuchillasDetectar = self.cargarImagen("cuchillasDetectar.png")
         self.listaCuchillas = list()
-        # falta sanitizar manejo de archivo
-        f = open(os.path.join(self.camino_datos,ARCHIVOCUCHILLAS),"r")
-        linea = f.readline()
-        while linea:
-            if linea[0] == "#":
-                linea = f.readline()
-                continue
-            [nombreCuchilla,claveColor,posx,posy,rotacion] = \
-                linea.strip().split("|")
-            nuevaCuchilla = Zona(self.cuchillasDetectar,
-                                unicode(nombreCuchilla,'iso-8859-1'),
+        r_path = os.path.join(self.camino_datos, self.directorio + '.py')
+        a_path = os.path.abspath(r_path)
+        f = None
+        try:
+            f = imp.load_source(self.directorio, a_path)
+        except:
+            print _('Cannot open %s') % self.directorio
+
+        if f and hasattr(f, 'CUCHILLAS'):
+            for c in f.CUCHILLAS:
+                nombreCuchilla = c[0]
+                claveColor = c[1]
+                posx = c[2]
+                posy = c[3]
+                rotacion = c[4]
+                nuevaCuchilla = Zona(self.cuchillasDetectar, nombreCuchilla,
                                 claveColor,4,(posx,posy),rotacion)
-            self.listaCuchillas.append(nuevaCuchilla)
-            linea = f.readline()
-        f.close()
+                self.listaCuchillas.append(nuevaCuchilla)
+
 
     def cargarLugares(self):
         """Carga los datos de las ciudades y otros puntos de interes"""
@@ -346,7 +353,14 @@ class ConozcoAm():
         except:
             print _('Cannot open %s') % self.directorio
         if f:
-            lugares = f.CAPITALS + f.CITIES
+            lugares = []
+            if hasattr(f, 'CAPITALS'):
+                lugares = lugares + f.CAPITALS
+            if hasattr(f, 'CITIES'):
+                lugares = lugares + f.CITIES
+            if hasattr(f, 'HILLS'):
+                lugares = lugares + f.HILLS
+
             for c in lugares:
                 nombreLugar = c[0]
                 posx = c[1]
