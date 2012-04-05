@@ -213,9 +213,9 @@ class Nivel():
         self.preguntaActual = self.preguntas[self.indicePreguntaActual]
         self.sufijoActual = random.randint(1,len(listaSufijos))-1
         self.prefijoActual = random.randint(1,len(listaPrefijos))-1
-        lineas = listaPrefijos[self.prefijoActual].split("\\")
-        lineas.extend(self.preguntaActual[0].split("\\"))
-        lineas.extend(listaSufijos[self.sufijoActual].split("\\"))
+        lineas = listaPrefijos[self.prefijoActual].split("|")
+        lineas.extend(self.preguntaActual[0].split("|"))
+        lineas.extend(listaSufijos[self.sufijoActual].split("|"))
         self.indicePreguntaActual = self.indicePreguntaActual+1
         if self.indicePreguntaActual == len(self.preguntas):
             self.indicePreguntaActual = 0
@@ -224,7 +224,7 @@ class Nivel():
     def devolverAyuda(self):
         """Devuelve la linea de ayuda"""
         self.preguntaActual = self.preguntas[self.indicePreguntaActual-1]
-        return self.preguntaActual[3].split("\\")
+        return self.preguntaActual[3].split("|")
 
 class ConozcoAm():
     """Clase principal del juego.
@@ -1548,11 +1548,11 @@ class ConozcoAm():
                         if self.puntos == 70:
                             self.lineasPregunta =  self.listaDespedidasB[\
                                 random.randint(1,self.numeroDespedidasB)-1]\
-                                .split("\\")
+                                .split("|")
                         else:
                             self.lineasPregunta =  self.listaDespedidasM[\
                                 random.randint(1,self.numeroDespedidasM)-1]\
-                                .split("\\")
+                                .split("|")
                         self.mostrarGlobito(self.lineasPregunta)
                         pygame.time.set_timer(EVENTODESPEGUE,
                                             TIEMPORESPUESTA*2)
@@ -1639,7 +1639,7 @@ class ConozcoAm():
                         (int(180*scale+shift_x),int(260*scale+shift_y)))
         yLinea = int(330*scale+shift_y)
         # hola amigos
-        lineas = self.listaPresentacion[0].split("\\")
+        lineas = self.listaPresentacion[0].split("|")
         for l in lineas:
             text = self.fuente40.render(l.strip(), 1, COLORPREGUNTAS)
             textrect = text.get_rect()
@@ -1671,7 +1671,7 @@ class ConozcoAm():
                         (int(180*scale+shift_x),int(260*scale+shift_y)))
         yLinea = int(315*scale+shift_y)
         # mañana tengo...
-        lineas = self.listaPresentacion[1].split("\\")
+        lineas = self.listaPresentacion[1].split("|")
         for l in lineas:
             text = self.fuente40.render(l.strip(), 1, COLORPREGUNTAS)
             textrect = text.get_rect()
@@ -1736,7 +1736,7 @@ class ConozcoAm():
                         (int(160*scale+shift_x),int(240*scale+shift_y)))
         yLinea = int(310*scale+shift_y)
         # y no se nada
-        lineas = self.listaPresentacion[2].split("\\")
+        lineas = self.listaPresentacion[2].split("|")
         for l in lineas:
             text = self.fuente40.render(l.strip(), 1, COLORPREGUNTAS)
             textrect = text.get_rect()
@@ -1767,7 +1767,7 @@ class ConozcoAm():
                         (int(570*scale+shift_x),int(260*scale+shift_y)))
         yLinea = int(330*scale+shift_y)
         # que hago
-        lineas = self.listaPresentacion[3].split("\\")
+        lineas = self.listaPresentacion[3].split("|")
         for l in lineas:
             text = self.fuente40.render(l.strip(), 1, COLORPREGUNTAS)
             textrect = text.get_rect()
@@ -1810,7 +1810,7 @@ class ConozcoAm():
                         (int(160*scale+shift_x),int(240*scale+shift_y)))
         yLinea = int(310*scale+shift_y)
         # te puedo pedir
-        lineas = self.listaPresentacion[4].split("\\")
+        lineas = self.listaPresentacion[4].split("|")
         for l in lineas:
             text = self.fuente40.render(l.strip(), 1, COLORPREGUNTAS)
             textrect = text.get_rect()
@@ -1842,7 +1842,7 @@ class ConozcoAm():
                         (int(160*scale+shift_x),int(240*scale+shift_y)))
         yLinea = int(310*scale+shift_y)
         # me ayudas
-        lineas = self.listaPresentacion[5].split("\\")
+        lineas = self.listaPresentacion[5].split("|")
         for l in lineas:
             text = self.fuente40.render(l.strip(), 1, COLORPREGUNTAS)
             textrect = text.get_rect()
