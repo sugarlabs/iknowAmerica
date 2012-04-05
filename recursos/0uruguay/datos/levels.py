@@ -138,7 +138,7 @@ LEVEL3 = [
 ]
 ]
 
-LEVEL3 = [
+LEVEL4 = [
         _('Waterways'),
         ['lineasDepto', 'rios'],
         [],
@@ -174,5 +174,5 @@ LEVEL3 = [
 ]
 ]
 
-LEVELS = [LEVEL1, LEVEL2, LEVEL3]
+LEVELS = [LEVEL1, LEVEL2, LEVEL3, LEVEL4]
 
