@@ -3,10 +3,7 @@
 
 import sugargame
 import sugargame.canvas
-import pygame.camera
 from sugar.activity import activity
-
-from gettext import gettext as _
 
 import conozcoam
 
