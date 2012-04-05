@@ -293,21 +293,25 @@ class ConozcoAm():
         self.rutas = self.cargarImagen("rutas.png")
         self.rutasDetectar = self.cargarImagen("rutasDetectar.png")
         self.listaRutas = list()
-        # falta sanitizar manejo de archivo
-        f = open(os.path.join(self.camino_datos,ARCHIVORUTAS),"r")
-        linea = f.readline()
-        while linea:
-            if linea[0] == "#":
-                linea = f.readline()
-                continue
-            [nombreRuta,claveColor,posx,posy,rotacion] = \
-                linea.strip().split("|")
-            nuevaRuta = Zona(self.rutasDetectar,
-                            unicode(nombreRuta,'iso-8859-1'),
+
+        r_path = os.path.join(self.camino_datos, self.directorio + '.py')
+        a_path = os.path.abspath(r_path)
+        f = None
+        try:
+            f = imp.load_source(self.directorio, a_path)
+        except:
+            print _('Cannot open %s') % self.directorio
+        if f:
+            for r in f.ROUTES:
+                nombreRuta = r[0]
+                claveColor = r[1]
+                posx = r[2]
+                posy = r[3]
+                rotacion = r[4]
+                nuevaRuta = Zona(self.rutasDetectar, nombreRuta,
                             claveColor,6,(posx,posy),rotacion)
-            self.listaRutas.append(nuevaRuta)
-            linea = f.readline()
-        f.close()
+                self.listaRutas.append(nuevaRuta)
+
 
     def cargarCuchillas(self):
         """Carga las imagenes y los datos de las cuchillas"""
