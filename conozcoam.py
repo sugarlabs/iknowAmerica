@@ -240,9 +240,7 @@ class ConozcoAm():
 
     def cargarDepartamentos(self):
         """Carga las imagenes y los datos de los departamentos"""
-        self.deptos = self.cargarImagen("deptos.png")
-        self.deptosLineas = self.cargarImagen("deptosLineas.png")
-        self.listaDeptos = list()
+
 
         r_path = os.path.join(self.camino_datos, self.directorio + '.py')
         a_path = os.path.abspath(r_path)
@@ -253,22 +251,22 @@ class ConozcoAm():
             print _('Cannot open %s') % self.directorio
 
         if f and hasattr(f, 'STATES'):
+            self.deptos = self.cargarImagen("deptos.png")
+            self.deptosLineas = self.cargarImagen("deptosLineas.png")
+            self.listaDeptos = list()
             for d in f.STATES:
                 nombreDepto = d[0]
                 claveColor = d[1]
                 posx = d[2]
                 posy = d[3]
                 rotacion = d[4]
-
                 nuevoDepto = Zona(self.deptos, nombreDepto,
                                 claveColor,1,(posx,posy),rotacion)
                 self.listaDeptos.append(nuevoDepto)
 
     def cargarRios(self):
         """Carga las imagenes y los datos de los rios"""
-        self.rios = self.cargarImagen("rios.png")
-        self.riosDetectar = self.cargarImagen("riosDetectar.png")
-        self.listaRios = list()
+
 
         r_path = os.path.join(self.camino_datos, self.directorio + '.py')
         a_path = os.path.abspath(r_path)
@@ -279,6 +277,9 @@ class ConozcoAm():
             print _('Cannot open %s') % self.directorio
 
         if f and hasattr(f, 'RIVERS'):
+            self.rios = self.cargarImagen("rios.png")
+            self.riosDetectar = self.cargarImagen("riosDetectar.png")
+            self.listaRios = list()
             for r in f.RIVERS:
                 nombreRio = r[0]
                 claveColor = r[1]
@@ -292,9 +293,7 @@ class ConozcoAm():
 
     def cargarRutas(self):
         """Carga las imagenes y los datos de las rutas"""
-        self.rutas = self.cargarImagen("rutas.png")
-        self.rutasDetectar = self.cargarImagen("rutasDetectar.png")
-        self.listaRutas = list()
+
 
         r_path = os.path.join(self.camino_datos, self.directorio + '.py')
         a_path = os.path.abspath(r_path)
@@ -305,6 +304,9 @@ class ConozcoAm():
             print _('Cannot open %s') % self.directorio
 
         if f and hasattr(f, 'ROUTES'):
+            self.rutas = self.cargarImagen("rutas.png")
+            self.rutasDetectar = self.cargarImagen("rutasDetectar.png")
+            self.listaRutas = list()
             for r in f.ROUTES:
                 nombreRuta = r[0]
                 claveColor = r[1]
@@ -318,9 +320,7 @@ class ConozcoAm():
 
     def cargarCuchillas(self):
         """Carga las imagenes y los datos de las cuchillas"""
-        self.cuchillas = self.cargarImagen("cuchillas.png")
-        self.cuchillasDetectar = self.cargarImagen("cuchillasDetectar.png")
-        self.listaCuchillas = list()
+
         r_path = os.path.join(self.camino_datos, self.directorio + '.py')
         a_path = os.path.abspath(r_path)
         f = None
@@ -330,6 +330,9 @@ class ConozcoAm():
             print _('Cannot open %s') % self.directorio
 
         if f and hasattr(f, 'CUCHILLAS'):
+            self.cuchillas = self.cargarImagen("cuchillas.png")
+            self.cuchillasDetectar = self.cargarImagen("cuchillasDetectar.png")
+            self.listaCuchillas = list()
             for c in f.CUCHILLAS:
                 nombreCuchilla = c[0]
                 claveColor = c[1]
@@ -1011,20 +1014,15 @@ class ConozcoAm():
                                             CAMINODATOS)
         self.fondo = self.cargarImagen("fondo.png")
         self.bandera = self.cargarImagen("bandera.png")
+
+
         self.cargarDepartamentos()
-        try:
-            self.cargarRios()
-        except:
-            pass
-        try:
-            self.cargarRutas()
-        except:
-            pass
-        try:
-            self.cargarCuchillas()
-        except:
-            pass
+        self.cargarRios()
+        self.cargarRutas()
+        self.cargarCuchillas()
         self.cargarLugares()
+
+
         self.cargarNiveles()
         self.cargarExploraciones()
 
