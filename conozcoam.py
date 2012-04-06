@@ -421,7 +421,7 @@ class ConozcoAm():
                     listpreguntas = ln[3]
 
                     if (nombreNivel == _('Cities')) or (nombreNivel == _('Departamental capitals')) or \
-                        (nombreNivel == _('Capitals')):
+                        (nombreNivel == _('Capitals')) or (nombreNivel == _('Provincial capitals')):
                         for i in listpreguntas:
                             tipo = 2
                             respuesta = i[0]
@@ -438,6 +438,16 @@ class ConozcoAm():
                             texto = _('the departament of |%s') % respuesta
                             nuevoNivel.preguntas.append((texto,
                                 tipo, respuesta, ayuda))
+
+                    elif (nombreNivel == _('Provinces')):
+                        for i in listpreguntas:
+                            tipo = 1
+                            respuesta = i[0]
+                            ayuda = i[1]
+                            texto = _('the province of |%s') % respuesta
+                            nuevoNivel.preguntas.append((texto,
+                                tipo, respuesta, ayuda))
+
 
                     elif (nombreNivel == _('Waterways')):
                         for i in listpreguntas:
