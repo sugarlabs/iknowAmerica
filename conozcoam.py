@@ -419,13 +419,44 @@ class ConozcoAm():
                         nuevoNivel.nombreInicial.append(i.strip())
 
                     listpreguntas = ln[3]
-                    for i in listpreguntas:
-                        texto = i[0]
-                        tipo = i[1]
-                        respuesta = i[2]
-                        ayuda = i[3]
-                        nuevoNivel.preguntas.append((texto.strip(),
-                            tipo, respuesta.strip(), ayuda.strip()))
+
+                    if (nombreNivel == _('Cities')) or (nombreNivel == _('Departamental capitals')) or \
+                        (nombreNivel == _('Capitals')):
+                        for i in listpreguntas:
+                            tipo = 2
+                            respuesta = i[0]
+                            ayuda = i[1]
+                            texto = _('the city of |%s') % respuesta
+                            nuevoNivel.preguntas.append((texto,
+                                tipo, respuesta, ayuda))
+
+                    elif (nombreNivel == _('Departaments')):
+                        for i in listpreguntas:
+                            tipo = 1
+                            respuesta = i[0]
+                            ayuda = i[1]
+                            texto = _('the departament of |%s') % respuesta
+                            nuevoNivel.preguntas.append((texto,
+                                tipo, respuesta, ayuda))
+
+                    elif (nombreNivel == _('Waterways')):
+                        for i in listpreguntas:
+                            tipo = 3
+                            respuesta = i[0]
+                            ayuda = i[1]
+                            texto = _('the %s') % respuesta
+                            nuevoNivel.preguntas.append((texto,
+                                tipo, respuesta, ayuda))
+
+                    else:
+                        for i in listpreguntas:
+                            texto = i[0]
+                            tipo = i[1]
+                            respuesta = i[2]
+                            ayuda = i[3]
+
+                            nuevoNivel.preguntas.append((texto,
+                                tipo, respuesta, ayuda))
 
                     self.listaNiveles.append(nuevoNivel)
 
