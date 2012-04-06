@@ -6,7 +6,7 @@ LEVEL1 = [
         _('Departaments'),
         ['lineasDepto'],
         [],
-        [
+[
     (_('Artigas'), _("It's easy")),
     (_('Salto'), _("It's easy")),
     (_('Paysandú'), _("It's easy")),
