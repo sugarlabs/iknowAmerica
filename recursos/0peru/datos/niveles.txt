@@ -1,30 +1,3 @@
-Prefijo = We have to look
-Prefijo = We have to find
-Prefijo = Now we have to look
-Prefijo = We need to find
-
-Sufijo = You can tell where is it?
-Sufijo = Where is it?
-Sufijo = Can you show me where is it?
-Sufijo = Can you find it?
-
-Correcto = Very well!
-Correcto = Brilliant!
-Correcto = You found it!
-Correcto = Yes!
-
-Mal = No, this is not
-Mal = Here it is not
-Mal = It seems that this is not
-Mal = That is not
-
-DespedidaB = Now I'm ready\for tomorrow...\I'm going to play...\Thanks for your help!
-DespedidaB = We made it!\I'm going to play ball...\Bye and thanks\for helping me!
-DespedidaB = We did it!\I'm ready for tomorrow...\I'm playing a while...\Until next time!
-
-DespedidaM = More luck next\I'll play a while...\Thanks!
-DespedidaM = The next time will be\I'm going to play ball...\Thanks!
-DespedidaM = Please try again...\I'm going to play...\Thanks!
 
 [Departaments]
 dibujoInicial = lineasDepto
@@ -53,10 +26,7 @@ Pregunta = the departament of\Apurimac|1|Apurimac|Is southeast
 Pregunta = the departament of\Puno|1|Puno|Is southeast
 Pregunta = the departament of\Moquegua|1|Moquegua|Is southeast
 Pregunta = the departament of\Tacna|1|Tacna|Is southeast
-Pregunta = Brazil|1|Brazil|Is northeast
-Pregunta = Ecuador|1|Ecuador|Is northwest
-Pregunta = Colombia|1|Colombia|Is north
-Pregunta = Bolivia|1|Bolivia|Is southeast
+
 
 [Departamental capitals]
 dibujoInicial = lineasDepto, capitales
