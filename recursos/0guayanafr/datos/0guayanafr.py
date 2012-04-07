@@ -62,4 +62,15 @@ RIVERS = [
 
 ROUTES = []
 
+STATS = [
+    (_('Capital:'), _('Cayena') + _("(4º56' N - 52º19' W)")),
+    (_('Language:'), _('French')),
+    (_('Government:'), _('Overseas department')),
+    ('', _('from France')),
+    (_('Area:'), _('86.504 km² (112th)')),
+    (_('Population:'), _('230.000 (187th)')),
+    (_('GDP:'), _('USD 1.151 billion (181th)')),
+    (_('HDI:'), _('-- (--th)')),
+    (_('Currency:'), _('Euro'))
+]
 
