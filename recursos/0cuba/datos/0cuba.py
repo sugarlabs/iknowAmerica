@@ -78,8 +78,21 @@ CITIES = [
     (_('Santa Cruz del Sur'), 497, 490, 2, -85, 0)
 ]
 
-RIVERS = []
-
 ROUTES = []
+
+STATS = [
+    (_('Capital:'), _('La Habana') + _("(23º80' N - 82º23' W)")),
+    (_('Language:'), _('Spanish')),
+    (_('Government:'), _('Communist state')),
+    (_('President:'), _('Raúl Castro')),
+    (_('Vice President:'), _('José Ramón Machado')),
+    (_('Independence:'), _('from United States')),
+    ('', _('20 of may of 1902')),
+    (_('Area:'), _('110.860 km² (105th)')),
+    (_('Population:'), _('11.242.621 (71th)')),
+    (_('GDP:'), _('USD 110.800 billion (65th)')),
+    (_('HDI:'), _('High - 0,760 (53th)')),
+    (_('Currency:'), _('Cuban peso'))
+]
 
 
