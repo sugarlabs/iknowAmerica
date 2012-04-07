@@ -60,7 +60,6 @@ CAMINOIMAGENES = "imagenes"
 CAMINOSONIDOS = "sonidos"
 ARCHIVONIVELES = "levels"
 ARCHIVOEXPLORACIONES = "explorations"
-ARCHIVOESTADISTICAS = "estadisticas.txt"
 COLORNOMBREDEPTO = (10,10,10)
 COLORNOMBRECAPITAL = (10,10,10)
 COLORNOMBRERIO = (10,10,10)
@@ -329,6 +328,9 @@ class ConozcoAm():
                     nuevaRuta = Zona(self.rutasDetectar, nombreRuta,
                                 claveColor,6,(posx,posy),rotacion)
                     self.listaRutas.append(nuevaRuta)
+
+            if hasattr(f, 'STATS'):
+                self.lista_estadisticas = f.STATS
 
 
     def cargarListaDirectorios(self):
@@ -1993,23 +1995,17 @@ class ConozcoAm():
                     self.pantalla.blit(self.bandera,
                                     (int((XMAPAMAX+47)*scale+shift_x),
                                     int(155*scale+shift_y)))
-                    f = open(os.path.join(CAMINORECURSOS,
-                                        self.directorio,
-                                        CAMINODATOS,ARCHIVOESTADISTICAS),"r")
                     yLinea = int(YTEXTO*scale) + shift_y + \
                                 self.fuente9.get_height()
-                    linea = f.readline()
-                    while linea:
-                        [parte1,parte2] = linea.strip().split("|")
-                        text1 = self.fuente9.render(parte1, 1, COLORESTADISTICAS1)
+                    for par in self.lista_estadisticas:
+                        text1 = self.fuente9.render(par[0], 1, COLORESTADISTICAS1)
                         self.pantalla.blit(text1,
                                 ((XMAPAMAX+10)*scale+shift_x, yLinea))
-                        text2 = self.fuente9.render(parte2, 1, COLORESTADISTICAS2)
+                        text2 = self.fuente9.render(par[1], 1, COLORESTADISTICAS2)
                         self.pantalla.blit(text2,
                                 ((XMAPAMAX+135)*scale+shift_x, yLinea))
                         yLinea = yLinea+self.fuente9.get_height()+int(5*scale)
-                        linea = f.readline()
-                    f.close()
+
                     pygame.display.flip()
                     self.explorarNombres()
 
