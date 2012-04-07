@@ -151,4 +151,19 @@ RIVERS = [
 
 ROUTES = []
 
+STATS = [
+    (_('Capital:'), _('Guatemala') + _("(14º38' N - 90º33' W)")),
+    (_('Language:'), _('Spanish')),
+    (_('Government:'), _('Presidential republic')),
+    (_('President:'), _('Álvaro Colom')),
+    (_('Vice President:'), _('Rafael Espada')),
+    (_('Independence:'), _('from Spain')),
+    ('', _('declared: %s') % _('15 of september of 1821')),
+    ('', _('recognized: %s') % _('11 of october of 1825')),
+    (_('Area:'), _('108.889 km² (106th)')),
+    (_('Population:'), _('13.718.000 (67th)')),
+    (_('GDP:'), _('USD 73.022 billion (79th)')),
+    (_('HDI:'), _('Medium - 0,560 (116th)')),
+    (_('Currency:'), _('Quetzal'))
+]
 
