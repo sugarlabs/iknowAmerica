@@ -1486,6 +1486,7 @@ class ConozcoAm():
         self.estadodespedida = 0
         self.primera = False
         self.avanceNivel
+        pygame.time.set_timer(EVENTORESPUESTA,0)
         # leer eventos y ver si la respuesta es correcta
         while 1:
             # Pump GTK messages.
