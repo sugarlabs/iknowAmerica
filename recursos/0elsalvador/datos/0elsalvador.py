@@ -95,4 +95,19 @@ RIVERS = [
 
 ROUTES = []
 
+STATS = [
+    (_('Capital:'), _('San Salvador'), _("(13º40' N - 89º10' W)")),
+    (_('Language:'), _('Spanish')),
+    (_('Government:'), _('Presidential republic')),
+    (_('President:'), _('Mauricio Funes')),
+    (_('Vice President:'), _('Salvador Sánchez Cerén')),
+    (_('Independence:'), _('from Spain')),
+    ('', _('declared: %s') % _('15 of september of 1821')),
+    ('', _('recognized: %s') % _('12 of june of 1824')),
+    (_('Area:'), _('21.041 km² (152th)')),
+    (_('Population:'), _('5.744.113 (97th)')),
+    (_('GDP:'), _('USD 11.145 billion (88th)')),
+    (_('HDI:'), _('Medium - 0,659 (90th)')),
+    (_('Currency:'), _('United States Dollar'))
+]
 
