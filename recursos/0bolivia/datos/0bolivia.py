@@ -97,5 +97,19 @@ RIVERS = [
 ]
 
 
-ROUTES = []
+STATS = [
+    (_('Capital:'), _('Sucre') + _("(19º2' S - 65º15' W)")),
+    (_('Language:'), _('Spanish, Quechua, Guarani')),
+    (_('Government:'), _('Presidential republic')),
+    (_('President:'), _('Evo Morales Ayma')),
+    (_('Vice President:'), _('Álvaro García Linera')),
+    (_('Independence:'), _('from Spain')),
+    (_(''), _('declared: %s') % _('06 of august of 1825')),
+    (_(''), _('recognized: %s') % _('21 of july of 1847')),
+    (_('Area:'), _('1.098.581 km² (27th)')),
+    (_('Population:'), _('10.426.160 (87th)')),
+    (_('GDP:'), _('USD 47.980 billion (87th)')),
+    (_('HDI:'), _('Medium - 0,643 (95th)')),
+    (_('Currency:'), _('Boliviano'))
+]
 
