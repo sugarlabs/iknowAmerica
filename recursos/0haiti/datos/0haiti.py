@@ -95,4 +95,18 @@ RIVERS = [
 
 ROUTES = []
 
+STATS = [
+    (_('Capital:'), _('Port au Prince') + _("(18º32' N - 72º20' W)")),
+    (_('Language:'), _('French')),
+    (_('Government:'), _('Presidential republic')),
+    (_('President:'), _('Michel Martelly')),
+    (_('Prime Minister:'), _('Jean-Max Bellerive')),
+    (_('Independence:'), _('from France')),
+    ('', _('declared: %s') % _('1 of january of 1804')),
+    (_('Area:'), _('27.750 km² (147th)')),
+    (_('Population:'), _('9.800.000 (90th)')),
+    (_('GDP:'), _('USD 11.056 billion (138th)')),
+    (_('HDI:'), _('Low - 0,404 (145th)')),
+    (_('Currency:'), _('Gourde'))
+]
 
