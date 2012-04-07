@@ -83,6 +83,9 @@ ESTADOPESTANAS = 2
 ESTADOFRENTE = 3
 ESTADODESPEGUE = 4
 
+TO_CITIES = [_('Cities'), _('Departamental capitals'), _('Capitals'), _('Provincial capitals'),
+            _('Districts capitals')]
+
 # variables globales para adaptar la pantalla a distintas resoluciones
 scale = 1
 shift_x = 0
@@ -420,8 +423,7 @@ class ConozcoAm():
 
                     listpreguntas = ln[3]
 
-                    if (nombreNivel == _('Cities')) or (nombreNivel == _('Departamental capitals')) or \
-                        (nombreNivel == _('Capitals')) or (nombreNivel == _('Provincial capitals')):
+                    if (nombreNivel in TO_CITIES):
                         for i in listpreguntas:
                             tipo = 2
                             respuesta = i[0]
@@ -448,6 +450,14 @@ class ConozcoAm():
                             nuevoNivel.preguntas.append((texto,
                                 tipo, respuesta, ayuda))
 
+                    elif (nombreNivel == _('Districts')):
+                        for i in listpreguntas:
+                            tipo = 1
+                            respuesta = i[0]
+                            ayuda = i[1]
+                            texto = _('the district of |%s') % respuesta
+                            nuevoNivel.preguntas.append((texto,
+                                tipo, respuesta, ayuda))
 
                     elif (nombreNivel == _('Waterways')):
                         for i in listpreguntas:
@@ -1455,6 +1465,7 @@ class ConozcoAm():
         self.otorgado = False
         self.estadodespedida = 0
         self.primera = False
+        self.avanceNivel
         # leer eventos y ver si la respuesta es correcta
         while 1:
             # Pump GTK messages.
