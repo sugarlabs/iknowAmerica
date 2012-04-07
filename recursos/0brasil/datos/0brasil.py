@@ -132,6 +132,8 @@ RIVERS = [
     (_('Atlantic Ocean'), 234, 607, 760, 45)
 ]
 
+ROUTES = []
+
 STATS = [
     (_('Capital:'), _('Brasilia') + _("(15º45' S - 47º57' W)")),
     (_('Language:'), _('Portuguese')),

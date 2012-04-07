@@ -90,6 +90,8 @@ RIVERS = [
     (_('Lake Shiptesrn'), 237, 499, 108, 45)
 ]
 
+ROUTES = []
+
 STATS = [
     (_('Capital:'), _('Belmopán') + _("(17º15'N - 88º46'E)")),
     (_('Language:'), _('English (most speak: Spanish)')),

@@ -96,6 +96,7 @@ RIVERS = [
     (_('Lake Poopo River'), 226, 180, 610, 0)
 ]
 
+ROUTES = []
 
 STATS = [
     (_('Capital:'), _('Sucre') + _("(19º2' S - 65º15' W)")),

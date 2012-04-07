@@ -105,6 +105,8 @@ RIVERS = [
     (_('Pacific Ocean'), 238, 71, 338, 90)
 ]
 
+ROUTES = []
+
 STATS = [
     (_('Capital:'), _('Buenos Aires') + _("(34º40' S - 58º24' W)")),
     (_('Language:'), _('Spanish')),
