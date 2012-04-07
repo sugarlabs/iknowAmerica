@@ -109,4 +109,19 @@ RIVERS = [
 
 ROUTES = []
 
+STATS = [
+    (_('Capital:'), _('Santo Domingo') + _("(18º28' N - 69º54' W)")),
+    (_('Language:'), _('Spanish')),
+    (_('Government:'), _('Presidential republic')),
+    (_('President:'), _('Leonel Fernández')),
+    (_('Vice President:'), _('Rafael Alburquerque')),
+    (_('Independence:'), _('1844 (of Haiti)')),
+    ('', _('1865 (from Spain)')),
+    (_('Area:'), _('48.442 km² (131th)')),
+    (_('Population:'), _('10.090.000 (80th)')),
+    (_('GDP:'), _('USD 93.095 billion (71th)')),
+    (_('HDI:'), _('Medium - 0,783 (88th)')),
+    (_('Currency:'), _('Peso'))
+]
+
 
