@@ -178,7 +178,7 @@ ROUTES = [
 ]
 
 STATS = [
-    (_('Capital:'), _("Montevideo (34º53' S - 56º10' W)")),
+    (_('Capital:'), _('Montevideo') + _("(34º53' S - 56º10' W)")),
     (_('Language:'), _('Spanish')),
     (_('Government:'), _('Presidential republic')),
     (_('President:'), _('José Mujica')),

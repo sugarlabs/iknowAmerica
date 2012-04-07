@@ -106,7 +106,7 @@ RIVERS = [
 ]
 
 STATS = [
-    (_('Capital:'), _("Buenos Aires (34º40' S - 58º24' W)")),
+    (_('Capital:'), _('Buenos Aires') + _("(34º40' S - 58º24' W)")),
     (_('Language:'), _('Spanish')),
     (_('Government:'), _('Federal presidential republic')),
     (_('President:'), _('Cristina Fernández')),

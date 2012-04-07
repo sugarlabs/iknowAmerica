@@ -90,6 +90,19 @@ RIVERS = [
     (_('Lake Shiptesrn'), 237, 499, 108, 45)
 ]
 
-ROUTES = []
+STATS = [
+    (_('Capital:'), _('Belmopán') + _("(17º15'N - 88º46'E)")),
+    (_('Language:'), _('English (most speak: Spanish)')),
+    (_('Government:'), _('Parliamentary democracy')),
+    (_('Monarch:'), _('Queen Elizabeth II')),
+    (_('Governor:'), _('Sir Colville Young')),
+    (_('Independence:'), _('from the United Kingdom')),
+    ('', _('21 of september of 1981')),
+    (_('Area:'), _('22.966 km² (151th)')),
+    (_('Population:'), _('372.000 (170th)')),
+    (_('GDP:'), _('USD 2.046 billion (166th)')),
+    (_('HDI:'), _('High - 0,694 (78th)')),
+    (_('Currency:'), _('Belize Dollar'))
+]
 
 
