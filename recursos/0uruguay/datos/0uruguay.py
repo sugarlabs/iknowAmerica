@@ -176,3 +176,19 @@ ROUTES = [
     (_('Route 14'), 238, 370, 554, 0),
     (_('Route 26'), 237, 294, 312, 10)
 ]
+
+STATS = [
+    (_('Capital:'), _("Montevideo (34º53' S - 56º10' W)")),
+    (_('Official language:'), _('Spanish')),
+    (_('Government:'), _('Presidential republic')),
+    (_('President:'), _('José Mujica')),
+    (_('Vice President:'), _('Danilo Astori')),
+    (_('Independence:'), _('declared: %s') % _('25 of august of 1825')),
+    ('', _('recognized: %s') % _('28 of august of 1828')),
+    (_('Area:'), _('176.215 km² (90th)')),
+    (_('Population:'), _('3.424.595 (128th)')),
+    (_('GDP:'), _('USD 51.209 billion (86th)')),
+    (_('HDI:'), _('High - 0,765 (52th)')),
+    (_('Currency:'), _('Peso'))
+]
+
