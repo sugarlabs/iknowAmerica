@@ -79,4 +79,18 @@ RIVERS = [
 
 ROUTES = []
 
+STATS = [
+    (_('Capital:'), _('Georgetown') + _("(6º49' N - 58º9' W)")),
+    (_('Language:'), _('English')),
+    (_('Government:'), _('Semi-Presidential Republic')),
+    (_('President:'), _('Bharrat Jagdeo')),
+    (_('Vice President:'), _('Sam Hinds')),
+    (_('Independence:'), _('from United Kingdom')),
+    ('', _('26 of may of 1966')),
+    (_('Area:'), _('214.970 km² (81th)')),
+    (_('Population:'), _('784.894 (161th)')),
+    (_('GDP:'), _('USD 3.082 billion (158th)')),
+    (_('HDI:'), _('Medium - 0,611 (104th)')),
+    (_('Currency:'), _('Guyanese dollar'))
+]
 
