@@ -107,4 +107,19 @@ RIVERS = [
 
 ROUTES = []
 
+STATS = [
+    (_('Capital:'), _('Ottawa') + _("(45º24' N - 75º40' W)")),
+    (_('Language:'), _('English and French')),
+    (_('Government:'), _('Federal parliamentary monarch')),
+    (_('Monarch:'), _('Queen Elizabeth II')),
+    (_('Governor:'), _('David Johnston')),
+    (_('Independence:'), _('from United Kingdom')),
+    ('', _('declared: %s') % _('1st of july of 1867')),
+    ('', _('recognized: %s') % _('11 of december of 1931')),
+    (_('Area:'), _('9.984.670 km² (2nd)')),
+    (_('Population:'), _('34.124.781 (37th)')),
+    (_('GPD:'), _('USD 1.996.753 billion (13th)')),
+    (_('HDI:'), _('Very high - 0,888 (8th)')),
+    (_('Currency:'), _('Canadian dollar'))
+]
 
