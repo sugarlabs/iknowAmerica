@@ -132,6 +132,20 @@ RIVERS = [
     (_('Atlantic Ocean'), 234, 607, 760, 45)
 ]
 
-ROUTES = []
+STATS = [
+    (_('Capital:'), _('Brasilia') + _("(15º45' S - 47º57' W)")),
+    (_('Language:'), _('Portuguese')),
+    (_('Government:'), _('Federal presidential republic')),
+    (_('President:'), _('Dilma Rousseff')),
+    (_('Vice Presedint:'), _('Michel Temer')),
+    (_('Independence:'), _('from Portugal')),
+    ('', _('declared: %s') % _('7 of september of 1822')),
+    ('', _('recognized: %s') % _('29 of august of 1825')),
+    (_('Area:'), _('8.514.877 km² (5th)')),
+    (_('Population:'), _('190.732.694 (5th)')),
+    (_('GDP:'), _('USD 2.172 trillion (5th)')),
+    (_('HID:'), _('High - 0,699 (73th)')),
+    (_('Currency:'), _('Real'))
+]
 
 
