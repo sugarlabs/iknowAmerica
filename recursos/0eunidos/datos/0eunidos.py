@@ -173,4 +173,20 @@ RIVERS = [
 
 ROUTES = []
 
+STATS = [
+    (_('Capital:'), _('Washington') + _("(38º53' N - 77º02' W)")),
+    (_('Language:'), _('English')),
+    (_('Government:'), _('Federal presidential republic')),
+    (_('President:'), _('Barack Obama')),
+    (_('Vice President:'), _('Joe Biden')),
+    (_('Independence:'), _('from Great Britain')),
+    ('', _('declared: %s') % _('4 of july of 1776')),
+    ('', _('recognized: %s') % _('3 of september of 1783')),
+    (_('Area:'), _('9.826.675 km² (3rd)')),
+    (_('Population:'), _('308.745.538 (3rd)')),
+    (_('GDP:'), _('USD 14.204.322 billion (1st)')),
+    (_('HDI:'), _('Muy High - 0,902 (4th)')),
+    (_('Currency:'), _('United States Dollar'))
+]
+
 
