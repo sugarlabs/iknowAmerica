@@ -105,4 +105,21 @@ RIVERS = [
     (_('Pacific Ocean'), 238, 71, 338, 90)
 ]
 
-ROUTES = []
+STATS = [
+    (_('Capital:'), _("Buenos Aires (34º40' S - 58º24' W)")),
+    (_('Language:'), _('Spanish')),
+    (_('Government:'), _('Federal presidential republic')),
+    (_('President:'), _('Cristina Fernández')),
+    (_('Vice President:'), _('Julio Cobos')),
+    (_('Independence:'), _('from Spain')),
+    ('', _('declared: %s') % _('9 of july of 1816')),
+    ('', _('recognized: %s') % ('21 of september of 1863')),
+    (_('Area:'), _('2.780.400 km² (8th)')),
+    (_('Population:'), _('40.091.359 (32nd)')),
+    (_('GDP:'), _('USD 642.402 billion (22nd)')),
+    (_('HDI:'), _('High - 0,775 (46th)')),
+    (_('Currency:'), _('Peso'))
+]
+
+
+
