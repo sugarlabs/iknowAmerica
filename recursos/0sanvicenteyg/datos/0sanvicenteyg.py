@@ -52,4 +52,18 @@ RIVERS = []
 
 ROUTES = []
 
+STATS = [
+    (_('Capital:'), _('Kingston') + _("(13º10' N - 61º14' W)")),
+    (_('Language:'), _('English')),
+    (_('Government:'), _('Constitutional monarchy')),
+    (_('Monarch:'), _('Queen Elizabeth II')),
+    (_('Governor:'), _('Frederick Ballantyne')),
+    (_('Independence:'), _('from United Kingdom')),
+    ('', _('27 of october of 1979')),
+    (_('Area:'), _('389 km² (206th)')),
+    (_('Population:'), _('100.369 (193rd)')),
+    (_('GDP:'), _('USD 751 billion (181st)')),
+    (_('HDI:'), _('Medium - 0,791 (93rd)')),
+    (_('Currency:'), _('Caribbean Dollar'))
+]
 
