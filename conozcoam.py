@@ -83,7 +83,8 @@ ESTADOFRENTE = 3
 ESTADODESPEGUE = 4
 
 TO_CITIES = [_('Cities'),  _('Capitals'), _('Departamental capitals'), _('Provincial capitals'),
-            _('Districts capitals'), _('State capitals'), _('Regional capitals'), _('Parish capitals')]
+            _('Districts capitals'), _('State capitals'), _('Regional capitals'), _('Parish capitals'),
+            _('Municipal capitals') ]
 
 # variables globales para adaptar la pantalla a distintas resoluciones
 scale = 1
@@ -485,6 +486,15 @@ class ConozcoAm():
                             respuesta = i[0]
                             ayuda = i[1]
                             texto = _('the parish of |%s') % respuesta
+                            nuevoNivel.preguntas.append((texto,
+                                tipo, respuesta, ayuda))
+
+                    elif (nombreNivel == _('Municipalities')):
+                        for i in listpreguntas:
+                            tipo = 1
+                            respuesta = i[0]
+                            ayuda = i[1]
+                            texto = _('the municipality of |%s') % respuesta
                             nuevoNivel.preguntas.append((texto,
                                 tipo, respuesta, ayuda))
 

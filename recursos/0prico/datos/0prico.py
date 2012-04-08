@@ -180,4 +180,19 @@ RIVERS = [
 
 ROUTES = []
 
+STATS = [
+    (_('Capital:'), _('San Juan') + _("(18º29' N  - 66º08' W)")),
+    (_('Language:'), _('Spanish, English')),
+    (_('Government:'), _('Unincorporated territory')),
+    ('', _('from United States')),
+    (_('President:'), _('Barack Obama')),
+    (_('Governor:'), _('Luis Fortuño')),
+    (_('Ceded by Spain to the United States'), ''),
+    ('', _('13 of august of 1898 ')),
+    (_('Area:'), _('9.104 km² (170th)')),
+    (_('Population:'), _('3.725.789 (127th)')),
+    (_('GDP:'), _('USD 96.260 billion (--th)')),
+    (_('HDI:'), _('High - -- (--th)')),
+    (_('Currency:'), _('United States Dollar'))
+]
 
