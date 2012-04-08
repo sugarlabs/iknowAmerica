@@ -130,4 +130,19 @@ RIVERS = [
 
 ROUTES = []
 
+STATS = [
+    (_('Capital:'), _('Lima') + _("(12º02' S - 77º01' W)")),
+    (_('Language:'), _('Spanish, quechúa, aimará')),
+    (_('Government:'), _('Presidential republic')),
+    (_('President:'), _('Ollanta Humala Tasso')),
+    (_('Prime minister:'), _('Salomón Lerner Ghitis')),
+    (_('Independence:'), _('from Spain')),
+    ('', _('declared: %s') % _('28 of july of 1821')),
+    ('', _('recognized: %s') % _('14 of august of 1879')),
+    (_('Area:'), _('1.285.216 km² (20th)')),
+    (_('Population:'), _('30.165.000 (40th)')),
+    (_('GDP:'), _('USD 299.648 billion (41th)')),
+    (_('HDI:'), _('High - 0,723 (63th)')),
+    (_('Currency:'), _('Nuevo sol'))
+]
 
