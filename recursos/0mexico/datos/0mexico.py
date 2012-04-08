@@ -133,4 +133,18 @@ RIVERS = [
 
 ROUTES = []
 
+STATS = [
+    (_('Capital:'), _('México') + _("(19º26' N - 99º08' W)")),
+    (_('Official language:'), _('Spanish')),
+    (_('Government:'), _('Federal republic')),
+    (_('President:'), _('Felipe Calderón Hinojosa')),
+    (_('Independence:'), _('from Spain')),
+    ('', _('declared: %s') % _('16 of september of 1810')),
+    ('', _('recognized: %s') % _('28 of december of 1836')),
+    (_('Area:'), _('1.972.550 km² (14th)')),
+    (_('Population:'), _('112.322.757 (11th)')),
+    (_('GDP:'), _('USD 1.658.197 billion (11th)')),
+    (_('HDI:'), _('High - 0,750 (56th)')),
+    (_('Currency:'), _('Peso'))
+]
 
