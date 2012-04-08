@@ -253,7 +253,8 @@ class ConozcoAm():
                 lugares = lugares + f.HILLS
             self.listaLugares = list()
             for c in lugares:
-                nombreLugar = c[0]
+                #nombreLugar = c[0]
+                nombreLugar = unicode(c[0], 'UTF-8')
                 posx = c[1]
                 posy = c[2]
                 tipo = c[3]
@@ -279,7 +280,8 @@ class ConozcoAm():
                 self.deptosLineas = self.cargarImagen("deptosLineas.png")
                 self.listaDeptos = list()
                 for d in f.STATES:
-                    nombreDepto = d[0]
+                    #nombreDepto = d[0]
+                    nombreDepto = unicode(d[0], 'UTF-8')
                     claveColor = d[1]
                     posx = d[2]
                     posy = d[3]
@@ -293,7 +295,8 @@ class ConozcoAm():
                 self.cuchillasDetectar = self.cargarImagen("cuchillasDetectar.png")
                 self.listaCuchillas = list()
                 for c in f.CUCHILLAS:
-                    nombreCuchilla = c[0]
+                    #nombreCuchilla = c[0]
+                    nombreCuchilla = unicode(c[0], 'UTF-8')
                     claveColor = c[1]
                     posx = c[2]
                     posy = c[3]
@@ -307,7 +310,8 @@ class ConozcoAm():
                 self.riosDetectar = self.cargarImagen("riosDetectar.png")
                 self.listaRios = list()
                 for r in f.RIVERS:
-                    nombreRio = r[0]
+                    #nombreRio = r[0]
+                    nombreRio = unicode(r[0], 'UTF-8')
                     claveColor = r[1]
                     posx = r[2]
                     posy = r[3]
@@ -321,7 +325,8 @@ class ConozcoAm():
                 self.rutasDetectar = self.cargarImagen("rutasDetectar.png")
                 self.listaRutas = list()
                 for r in f.ROUTES:
-                    nombreRuta = r[0]
+                    #nombreRuta = r[0]
+                    nombreRuta = unicode(r[0], 'UTF-8')
                     claveColor = r[1]
                     posx = r[2]
                     posy = r[3]
@@ -331,7 +336,11 @@ class ConozcoAm():
                     self.listaRutas.append(nuevaRuta)
 
             if hasattr(f, 'STATS'):
-                self.lista_estadisticas = f.STATS
+                self.lista_estadisticas = list()
+                for e in f.STATS:
+                    p1 = unicode(e[0], 'UTF-8')
+                    p2 = unicode(e[1], 'UTF-8')
+                    self.lista_estadisticas.append((p1, p2))
 
 
     def cargarListaDirectorios(self):
@@ -413,7 +422,8 @@ class ConozcoAm():
         if f:
             if hasattr(f, 'LEVELS'):
                 for ln in f.LEVELS:
-                    nombreNivel = ln[0]
+                    #nombreNivel = ln[0]
+                    nombreNivel = unicode(ln[0], 'UTF-8')
                     nuevoNivel = Nivel(nombreNivel)
 
                     listaDibujos = ln[1]
@@ -429,7 +439,8 @@ class ConozcoAm():
                     if (nombreNivel in TO_CITIES):
                         for i in listpreguntas:
                             tipo = 2
-                            respuesta = i[0]
+                            #respuesta = i[0]
+                            respuesta = unicode(i[0], 'UTF-8')
                             ayuda = i[1]
                             texto = _('the city of |%s') % respuesta
                             nuevoNivel.preguntas.append((texto,
@@ -438,7 +449,8 @@ class ConozcoAm():
                     elif (nombreNivel == _('Departaments')):
                         for i in listpreguntas:
                             tipo = 1
-                            respuesta = i[0]
+                            #respuesta = i[0]
+                            respuesta = unicode(i[0], 'UTF-8')
                             ayuda = i[1]
                             texto = _('the departament of |%s') % respuesta
                             nuevoNivel.preguntas.append((texto,
@@ -447,7 +459,8 @@ class ConozcoAm():
                     elif (nombreNivel == _('Provinces')):
                         for i in listpreguntas:
                             tipo = 1
-                            respuesta = i[0]
+                            #respuesta = i[0]
+                            respuesta = unicode(i[0], 'UTF-8')
                             ayuda = i[1]
                             texto = _('the province of |%s') % respuesta
                             nuevoNivel.preguntas.append((texto,
@@ -456,7 +469,8 @@ class ConozcoAm():
                     elif (nombreNivel == _('Districts')):
                         for i in listpreguntas:
                             tipo = 1
-                            respuesta = i[0]
+                            #respuesta = i[0]
+                            respuesta = unicode(i[0], 'UTF-8')
                             ayuda = i[1]
                             texto = _('the district of |%s') % respuesta
                             nuevoNivel.preguntas.append((texto,
@@ -465,7 +479,8 @@ class ConozcoAm():
                     elif (nombreNivel == _('States')):
                         for i in listpreguntas:
                             tipo = 1
-                            respuesta = i[0]
+                            #respuesta = i[0]
+                            respuesta = unicode(i[0], 'UTF-8')
                             ayuda = i[1]
                             texto = _('the state of |%s') % respuesta
                             nuevoNivel.preguntas.append((texto,
@@ -474,7 +489,8 @@ class ConozcoAm():
                     elif (nombreNivel == _('Regions')):
                         for i in listpreguntas:
                             tipo = 1
-                            respuesta = i[0]
+                            #respuesta = i[0]
+                            respuesta = unicode(i[0], 'UTF-8')
                             ayuda = i[1]
                             texto = _('the region of |%s') % respuesta
                             nuevoNivel.preguntas.append((texto,
@@ -483,7 +499,8 @@ class ConozcoAm():
                     elif (nombreNivel == _('Parishes')):
                         for i in listpreguntas:
                             tipo = 1
-                            respuesta = i[0]
+                            #respuesta = i[0]
+                            respuesta = unicode(i[0], 'UTF-8')
                             ayuda = i[1]
                             texto = _('the parish of |%s') % respuesta
                             nuevoNivel.preguntas.append((texto,
@@ -492,7 +509,8 @@ class ConozcoAm():
                     elif (nombreNivel == _('Municipalities')):
                         for i in listpreguntas:
                             tipo = 1
-                            respuesta = i[0]
+                            #respuesta = i[0]
+                            respuesta = unicode(i[0], 'UTF-8')
                             ayuda = i[1]
                             texto = _('the municipality of |%s') % respuesta
                             nuevoNivel.preguntas.append((texto,
@@ -501,7 +519,8 @@ class ConozcoAm():
                     elif (nombreNivel == _('Waterways')):
                         for i in listpreguntas:
                             tipo = 3
-                            respuesta = i[0]
+                            #respuesta = i[0]
+                            respuesta = unicode(i[0], 'UTF-8')
                             ayuda = i[1]
                             texto = _('the %s') % respuesta
                             nuevoNivel.preguntas.append((texto,
@@ -511,7 +530,8 @@ class ConozcoAm():
                         for i in listpreguntas:
                             texto = i[0]
                             tipo = i[1]
-                            respuesta = i[2]
+                            #respuesta = i[0]
+                            respuesta = unicode(i[0], 'UTF-8')
                             ayuda = i[3]
 
                             nuevoNivel.preguntas.append((texto,
@@ -539,7 +559,8 @@ class ConozcoAm():
         if f:
             if hasattr(f, 'EXPLORATIONS'):
                 for e in f.EXPLORATIONS:
-                    nombreNivel = e[0]
+                    #nombreNivel = e[0]
+                    nombreNivel= unicode(e[0], 'UTF-8')
                     nuevoNivel = Nivel(nombreNivel)
 
                     listaDibujos = e[1]
