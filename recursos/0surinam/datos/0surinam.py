@@ -73,4 +73,18 @@ RIVERS = [
 
 ROUTES = []
 
+STATS = [
+    (_('Capital:'), _('Paramaribo') + _("(5º52' N - 55º10' W)")),
+    (_('Language:'), _('Dutch')),
+    (_('Government:'), _('Representative republic')),
+    (_('President:'), _('Dési Bouterse')),
+    (_('Vice President:'), _('Robert Ameerali')),
+    (_('Independence:'), _('from Netherlands')),
+    ('', _('25 of november of 1975')),
+    (_('Area:'), _('163.820 km² (91th)')),
+    (_('Population:'), _('542.000 (171th)')),
+    (_('GDP:'), _('USD 2.812 billion (161th)')),
+    (_('HDI:'), _('Medium - 0,646 (94th)')),
+    (_('Currency:'), _('Surinamese dollar'))
+]
 
