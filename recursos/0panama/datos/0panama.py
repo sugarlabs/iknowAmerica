@@ -85,4 +85,19 @@ RIVERS = [
 
 ROUTES = []
 
+STATS = [
+    (_('Capital:'), _('Panamá') + _("(8º58' N - 79º32' W)")),
+    (_('Language:'), _('Spanish')),
+    (_('Government:'), _('Presidential republic')),
+    (_('President:'), _('Ricardo Martinelli')),
+    (_('Vice President:'), _('Juan Carlos Varela')),
+    (_('Independence:'), _('from Spain')),
+    ('', _('28 of november of 1821')),
+    (_('from Colombia:'), _('3 of november of 1903')),
+    (_('Area:'), _('78.200 km² (118th)')),
+    (_('Population:'), _('3.405.813 (129th)')),
+    (_('GDP:'), _('USD 48.804 billion (85th)')),
+    (_('HDI:'), _('High - 0,755 (54th)')),
+    (_('Currency:'), _('Balboa'))
+]
 
