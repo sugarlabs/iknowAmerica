@@ -123,4 +123,18 @@ RIVERS = [
 
 ROUTES = []
 
+STATS = [
+    (_('Capital:'), _('Tegucigalpa') + _("(14º6' N - 87º13' W)")),
+    (_('Language:'), _('Spanish')),
+    (_('Government:'), _('Presidential republic')),
+    (_('President:'), _('Porfirio Lobo')),
+    (_('Independence:'), _('from Spain')),
+    ('', _('declared: %s') % _('15 of september of 1821')),
+    ('', _('recognized: %s') % _('11 of december of 1825')),
+    (_('Area:'), _('112.492 km² (102th)')),
+    (_('Population:'), _('8.144.000 (93th)')),
+    (_('GDP:'), _('USD 35.173 billion (98th)')),
+    (_('HDI:'), _('Medium - 0,604 (106th)')),
+    (_('Currency:'), _('Lempira'))
+]
 
