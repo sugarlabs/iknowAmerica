@@ -130,4 +130,19 @@ RIVERS = [
 
 ROUTES = []
 
+STATS = [
+    (_('Capital:'), _('Managua') + _("(13º0' N - 85º0' W)")),
+    (_('Language:'), _('Spanish')),
+    (_('Government:'), _('Presidential republic')),
+    (_('President:'), _('Daniel Ortega Saavedra')),
+    (_('Independence:'), _('from Spain')),
+    ('', _('declared: %s') % _('15 of september of 1821')),
+    ('', _('recognized: %s') % _('8 of april of 1826')),
+    (_('Area:'), _('129.494 km² (97th)')),
+    (_('Population:'), _('5.465.100 (108th)')),
+    (_('GDP:'), _('USD 18.533 billion (123th)')),
+    (_('HDI:'), _('Medium - 0,565 (115th)')),
+    (_('Currency:'), _('Córdoba'))
+]
+
 
