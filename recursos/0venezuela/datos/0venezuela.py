@@ -22,7 +22,7 @@ STATES = [
     (_('Miranda'), 240, 409, 294, 0),
     (_('Monagas'), 237, 591, 341, -45),
     (_('Portuguesa'), 245, 238, 365, 0),
-    (_('Sucre, 239'), 561, 279, 0),
+    (_('Sucre'), 239, 561, 279, 0),
     (_('Táchira'), 249, 81, 435, 0),
     (_('Trujillo'), 251, 171, 341, 0),
     (_('Yaracuy'), 248, 269, 288, 45),
@@ -116,4 +116,19 @@ RIVERS = [
 
 ROUTES = []
 
+STATS = [
+    (_('Capital:'), _('Caracas') + _("(10º30' N - 66º58' W)")),
+    (_('Language:'), _('Spanish')),
+    (_('Government:'), _('Federal republic')),
+    (_('President:'), _('Hugo Chávez Frías')),
+    (_('Vice President:'), _('Elías Jaua Milano')),
+    (_('Independence:'), _('from Spain')),
+    ('', _('declared: %s') % _('5 of july of 1811')),
+    ('', _('recognized: %s') % _('30 of march of 1845')),
+    (_('Area:'), _('916.445 km² (33th)')),
+    (_('Population:'), _('28.892.735 (41th)')),
+    (_('GDP:'), _('USD 350.276 billion (31th)')),
+    (_('HDI:'), _('High - 0,696 (75th)')),
+    (_('Currency:'), _('Bolívar'))
+]
 
