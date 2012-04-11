@@ -18,7 +18,7 @@ LEVEL1 = [
     (_('Colombia'), 1, _('Colombia'), _('Is northwest')),
     (_('Venezuela'), 1, _('Venezuela'), _('Is north')),
     (_('Guyana'), 1, _('Guyana'), _('Is north')),
-    (_('Surinam'), 1, _('Surinam'), _('Is north')),
+    (_('Suriname'), 1, _('Suriname'), _('Is north')),
     (_('Guayana Francesa'), 1, _('Guayana Fr.'), _('Is northeast')),
     (_('the Malvinas Islands'), 1, _('Is. Malvinas'), _('Is south')),
     (_('the Georgias del\Sur Islands'), 1, _('Is. Georgias del Sur'), _('Is southeast')),
