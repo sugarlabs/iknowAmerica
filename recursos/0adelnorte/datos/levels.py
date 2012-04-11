@@ -145,7 +145,7 @@ LEVEL3 = [
     (_('Saint Lawrence River'), _('Is east')),
     (_('Hudson Bay'), _('Is north')),
     (_('Baffin Bay'), _('Is north')),
-    (_('Estrait of Davis'), _('Is northeast')),
+    (_('Strait of Davis'), _('Is northeast')),
     (_('Labrador Sea'), _('Is northeast')),
     (_('Beaufort Sea'), _('Is northwest')),
     (_('Chukci Sea'), _('Is northwest')),

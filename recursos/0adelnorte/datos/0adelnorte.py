@@ -144,7 +144,7 @@ RIVERS = [
     (_('Saint Lawrence River'), 241, 634, 425, 60),
     (_('Hudson Bay'), 240, 495, 281, 0),
     (_('Baffin Bay'), 239, 527, 85, 0),
-    (_('Davis Strait'), 238, 637, 179, 0),
+    (_('Strait of Davis'), 238, 637, 179, 0),
     (_('Labrador Sea'), 237, 711, 241, -25),
     (_('Beaufort Sea'), 236, 255, 102, 0),
     (_('Chukci Sea'), 235, 123, 25, 0),
