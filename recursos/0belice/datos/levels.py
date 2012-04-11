@@ -107,7 +107,7 @@ LEVEL4 = [
     (_('Caribbean Sea'), _('Is east')),
     (_('Lake Southern'), _('Is east')),
     (_('Lake Northern'), _('Is east')),
-    (_('Lake Shiptesrn'), _('Is north'))
+    (_('Lake Shipstern'), _('Is north'))
 ]
 ]
 

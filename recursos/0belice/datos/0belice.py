@@ -87,7 +87,7 @@ RIVERS = [
     (_('Caribbean Sea'), 240, 655, 685, 45),
     (_('Lake Southern'), 239, 444, 444, 0),
     (_('Lake Northern'), 238, 447, 394, 0),
-    (_('Lake Shiptesrn'), 237, 499, 108, 45)
+    (_('Lake Shipstern'), 237, 499, 108, 45)
 ]
 
 ROUTES = []
