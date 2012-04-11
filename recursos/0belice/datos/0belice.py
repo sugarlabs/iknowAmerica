@@ -93,7 +93,7 @@ RIVERS = [
 ROUTES = []
 
 STATS = [
-    (_('Capital:'), _('Belmopán') + _("(17º15'N - 88º46'E)")),
+    (_('Capital:'), _('Belmopan') + _("(17º15'N - 88º46'E)")),
     (_('Language:'), _('English (most speak: Spanish)')),
     (_('Government:'), _('Parliamentary democracy')),
     (_('Monarch:'), _('Queen Elizabeth II')),
