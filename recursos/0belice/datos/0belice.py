@@ -2,15 +2,15 @@
 
 from gettext import gettext as _
 
-NAME = _('Belice')
+NAME = _('Belize')
 
 STATES = [
     (_('Orange Walk'), 254, 267, 286, 0),
     (_('Cayo'), 253, 259, 517, 0),
     (_('Toledo'), 252, 269, 737, 0),
     (_('Corozal'), 251, 433, 105, 0),
-    (_('Belice'), 250, 408, 333, 0),
-    (_('Staan Creek'), 249, 398, 560, 45),
+    (_('Belize'), 250, 408, 333, 0),
+    (_('Stann Creek'), 249, 398, 560, 45),
     (_('Mexico'), 248, 160, 91, 0),
     (_('Guatemala'), 247, 80, 548, 0),
     (_('Honduras'), 246, 628, 868, 0),

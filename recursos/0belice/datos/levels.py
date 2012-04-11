@@ -11,8 +11,8 @@ LEVEL1 = [
     (_('Cayo'), _('Is in the center')),
     (_('Toledo'), _('Is south')),
     (_('Corozal'), _('Is north')),
-    (_('Belice'), _('Is in the center')),
-    (_('Staan Creek'), _('Is in the center'))
+    (_('Belize'), _('Is in the center')),
+    (_('Stann Creek'), _('Is in the center'))
 ]
 ]
 
