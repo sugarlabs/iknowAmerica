@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-04-11 02:49-0300\n"
+"POT-Creation-Date: 2012-04-11 02:54-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1263,6 +1263,7 @@ msgstr ""
 #: /home/alan/Documentos/GIT/conozcoamerica/mainline/recursos/0bolivia/datos/0bolivia.py:111
 #: /home/alan/Documentos/GIT/conozcoamerica/mainline/recursos/0honduras/datos/0honduras.py:135
 #: /home/alan/Documentos/GIT/conozcoamerica/mainline/recursos/0guayanafr/datos/0guayanafr.py:71
+#: /home/alan/Documentos/GIT/conozcoamerica/mainline/recursos/0colombia/datos/0colombia.py:144
 #: /home/alan/Documentos/GIT/conozcoamerica/mainline/recursos/0jamaica/datos/0jamaica.py:98
 #: /home/alan/Documentos/GIT/conozcoamerica/mainline/recursos/0nicaragua/datos/0nicaragua.py:142
 #: /home/alan/Documentos/GIT/conozcoamerica/mainline/recursos/0mexico/datos/0mexico.py:145
@@ -13237,10 +13238,6 @@ msgstr ""
 
 #: /home/alan/Documentos/GIT/conozcoamerica/mainline/recursos/0colombia/datos/0colombia.py:143
 msgid "1.141.748 km² (26th)"
-msgstr ""
-
-#: /home/alan/Documentos/GIT/conozcoamerica/mainline/recursos/0colombia/datos/0colombia.py:144
-msgid "Populaton:"
 msgstr ""
 
 #: /home/alan/Documentos/GIT/conozcoamerica/mainline/recursos/0colombia/datos/0colombia.py:144
