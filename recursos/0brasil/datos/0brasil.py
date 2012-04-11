@@ -2,7 +2,7 @@
 
 from gettext import gettext as _
 
-NAME = _('Brasil')
+NAME = _('Brazil')
 
 STATES = [
     (_('Amazonas'), 254, 185, 283, 0),

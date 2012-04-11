@@ -7,7 +7,7 @@ LEVEL1 = [
         ['lineasDepto'],
         [],
 [
-    (_('Brasil'), 1, _('Brasil'), _('Is east')),
+    (_('Brazil'), 1, _('Brazil'), _('Is east')),
     (_('Argentina'), 1, _('Argentina'), _('Is southwest')),
     (_('Uruguay'), 1, _('Uruguay'), _('Is southeast')),
     (_('Chile'), 1, _('Chile'), _('Is southwest')),

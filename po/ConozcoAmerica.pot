@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-04-11 02:39-0300\n"
+"POT-Creation-Date: 2012-04-11 02:49-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -7705,9 +7705,15 @@ msgstr ""
 
 #: /home/alan/Documentos/GIT/conozcoamerica/mainline/recursos/0venezuela/datos/0venezuela.py:30
 #: /home/alan/Documentos/GIT/conozcoamerica/mainline/recursos/0peru/datos/0peru.py:32
+#: /home/alan/Documentos/GIT/conozcoamerica/mainline/recursos/0brasil/datos/0brasil.py:5
+#: /home/alan/Documentos/GIT/conozcoamerica/mainline/recursos/0bolivia/datos/0bolivia.py:17
 #: /home/alan/Documentos/GIT/conozcoamerica/mainline/recursos/0guayanafr/datos/0guayanafr.py:10
+#: /home/alan/Documentos/GIT/conozcoamerica/mainline/recursos/0colombia/datos/0colombia.py:41
+#: /home/alan/Documentos/GIT/conozcoamerica/mainline/recursos/0adelsur/datos/0adelsur.py:8
+#: /home/alan/Documentos/GIT/conozcoamerica/mainline/recursos/0adelsur/datos/levels.py:10
 #: /home/alan/Documentos/GIT/conozcoamerica/mainline/recursos/0guyana/datos/0guyana.py:18
 #: /home/alan/Documentos/GIT/conozcoamerica/mainline/recursos/0paraguay/datos/0paraguay.py:25
+#: /home/alan/Documentos/GIT/conozcoamerica/mainline/recursos/0argentina/datos/0argentina.py:32
 #: /home/alan/Documentos/GIT/conozcoamerica/mainline/recursos/0surinam/datos/0surinam.py:17
 msgid "Brazil"
 msgstr ""
@@ -10508,15 +10514,6 @@ msgstr ""
 
 #: /home/alan/Documentos/GIT/conozcoamerica/mainline/recursos/0ecuador/datos/levels.py:165
 msgid "Canal de Jambeli"
-msgstr ""
-
-#: /home/alan/Documentos/GIT/conozcoamerica/mainline/recursos/0brasil/datos/0brasil.py:5
-#: /home/alan/Documentos/GIT/conozcoamerica/mainline/recursos/0bolivia/datos/0bolivia.py:17
-#: /home/alan/Documentos/GIT/conozcoamerica/mainline/recursos/0colombia/datos/0colombia.py:41
-#: /home/alan/Documentos/GIT/conozcoamerica/mainline/recursos/0adelsur/datos/0adelsur.py:8
-#: /home/alan/Documentos/GIT/conozcoamerica/mainline/recursos/0adelsur/datos/levels.py:10
-#: /home/alan/Documentos/GIT/conozcoamerica/mainline/recursos/0argentina/datos/0argentina.py:32
-msgid "Brasil"
 msgstr ""
 
 #: /home/alan/Documentos/GIT/conozcoamerica/mainline/recursos/0brasil/datos/0brasil.py:9
