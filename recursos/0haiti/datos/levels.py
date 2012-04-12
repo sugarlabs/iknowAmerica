@@ -108,7 +108,7 @@ LEVEL4 = [
     (_('Mancenille Bay'), _('Is northeast')),
     (_('Canal of the Tortue'), _('Is north')),
     (_('Gulf of the Gonâve'), _('Is northwest')),
-    (_('Passage Windward'), _('Is northwest')),
+    (_('Windward Passage'), _('Is northwest')),
     (_('Caribbean Sea'), _('Is south')),
     (_('Atlantic Ocean'), _('Is north'))
 ]
