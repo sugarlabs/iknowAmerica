@@ -17,7 +17,7 @@ LEVEL1 = [
 ]
 
 LEVEL2 = [
-        _('Districts capitals'),
+        _('District capitals'),
         ['lineasDepto', 'capitales'],
         [],
 [

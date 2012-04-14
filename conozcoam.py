@@ -334,9 +334,8 @@ class ConozcoAm():
                     nuevaRuta = Zona(self.rutasDetectar, nombreRuta,
                                 claveColor,6,(posx,posy),rotacion)
                     self.listaRutas.append(nuevaRuta)
-
+            self.lista_estadisticas = list()
             if hasattr(f, 'STATS'):
-                self.lista_estadisticas = list()
                 for e in f.STATS:
                     p1 = unicode(e[0], 'UTF-8')
                     p2 = unicode(e[1], 'UTF-8')
