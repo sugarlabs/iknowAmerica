@@ -5,7 +5,7 @@ from gettext import gettext as _
 NAME = _('South America')
 
 STATES = [
-    (_('Brasil'), 254, 499, 320, 0),
+    (_('Brazil'), 254, 499, 320, 0),
     (_('Argentina'), 253, 349, 564, 0),
     (_('Uruguay'), 252, 445, 607, 0),
     (_('Chile'), 251, 287, 499, 90),
@@ -16,7 +16,7 @@ STATES = [
     (_('Colombia'), 246, 227, 150, 0),
     (_('Venezuela'), 245, 320, 103, 0),
     (_('Guyana'), 244, 406, 130, 90),
-    (_('Surinam'), 243, 447, 140, 90),
+    (_('Suriname'), 243, 447, 140, 90),
     (_('Guayana Fr.'), 242, 482, 144, 90),
     (_('Honduras'), 241, 58, 20, 0),
     (_('Nicaragua'), 240, 90, 58, 0),

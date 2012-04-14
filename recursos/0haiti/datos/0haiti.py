@@ -14,7 +14,7 @@ STATES = [
     (_('Sudeste'), 248, 552, 650, 0),
     (_("Grand'Anse"), 247, 107, 593, 0),
     (_('Centro'), 246, 673, 421, 0),
-    (_('República Dominicana'), 245, 765, 550, 90),
+    (_('Dominican Republic'), 245, 765, 550, 90),
     (_('Cuba'), 244, 33, 68, 0),
     (_('Is. de la Tortuga'), 243, 454, 150, 0),
     (_('Is. de la Gonâve'), 242, 384, 493, -30),
@@ -88,7 +88,7 @@ RIVERS = [
     (_('Mancenille Bay'), 239, 696, 235, 0),
     (_('Canal of the Tortue'), 238, 440, 179, 0),
     (_('Gulf of the Gonâve'), 237, 358, 379, 90),
-    (_('Passage Windward'), 236, 157, 148, -30),
+    (_('Windward Passage'), 236, 157, 148, -30),
     (_('Caribbean Sea'), 235, 440, 793, 0),
     (_('Atlantic Ocean'), 234, 561, 88, 0)
 ]

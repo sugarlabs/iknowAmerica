@@ -124,7 +124,7 @@ LEVEL3 = [
     (_('Ciudad Obregón'), _('Is northwest')),
     (_('Comitán'), _('Is southeast')),
     (_('Delicias'), _('Is north')),
-    (_('Guaymas'), _('Queda al noroste')),
+    (_('Guaymas'), _('Is northwest')),
     (_('Hidalgo del Parral'), _('Is north')),
     (_('Lázaro Cárdenas'), _('Is south')),
     (_('Loreto'), _('Is northwest')),

@@ -82,8 +82,8 @@ ESTADOPESTANAS = 2
 ESTADOFRENTE = 3
 ESTADODESPEGUE = 4
 
-TO_CITIES = [_('Cities'),  _('Capitals'), _('Departamental capitals'), _('Provincial capitals'),
-            _('Districts capitals'), _('State capitals'), _('Regional capitals'), _('Parish capitals'),
+TO_CITIES = [_('Cities'),  _('Capitals'), _('Departmental capitals'), _('Provincial capitals'),
+            _('District capitals'), _('State capitals'), _('Regional capitals'), _('Parish capitals'),
             _('Municipal capitals') ]
 
 # variables globales para adaptar la pantalla a distintas resoluciones
@@ -208,9 +208,9 @@ class Nivel():
         self.preguntaActual = self.preguntas[self.indicePreguntaActual]
         self.sufijoActual = random.randint(1,len(listaSufijos))-1
         self.prefijoActual = random.randint(1,len(listaPrefijos))-1
-        lineas = listaPrefijos[self.prefijoActual].split("|")
-        lineas.extend(self.preguntaActual[0].split("|"))
-        lineas.extend(listaSufijos[self.sufijoActual].split("|"))
+        lineas = listaPrefijos[self.prefijoActual].split("\n")
+        lineas.extend(self.preguntaActual[0].split("\n"))
+        lineas.extend(listaSufijos[self.sufijoActual].split("\n"))
         self.indicePreguntaActual = self.indicePreguntaActual+1
         if self.indicePreguntaActual == len(self.preguntas):
             self.indicePreguntaActual = 0
@@ -219,7 +219,7 @@ class Nivel():
     def devolverAyuda(self):
         """Devuelve la linea de ayuda"""
         self.preguntaActual = self.preguntas[self.indicePreguntaActual-1]
-        return self.preguntaActual[3].split("|")
+        return self.preguntaActual[3].split("\n")
 
 class ConozcoAm():
     """Clase principal del juego.
@@ -442,17 +442,17 @@ class ConozcoAm():
                             #respuesta = i[0]
                             respuesta = unicode(i[0], 'UTF-8')
                             ayuda = i[1]
-                            texto = _('the city of |%s') % respuesta
+                            texto = _('the city of\n%s') % respuesta
                             nuevoNivel.preguntas.append((texto,
                                 tipo, respuesta, ayuda))
 
-                    elif (nombreNivel == _('Departaments')):
+                    elif (nombreNivel == _('Departments')):
                         for i in listpreguntas:
                             tipo = 1
                             #respuesta = i[0]
                             respuesta = unicode(i[0], 'UTF-8')
                             ayuda = i[1]
-                            texto = _('the departament of |%s') % respuesta
+                            texto = _('the department of\n%s') % respuesta
                             nuevoNivel.preguntas.append((texto,
                                 tipo, respuesta, ayuda))
 
@@ -462,7 +462,7 @@ class ConozcoAm():
                             #respuesta = i[0]
                             respuesta = unicode(i[0], 'UTF-8')
                             ayuda = i[1]
-                            texto = _('the province of |%s') % respuesta
+                            texto = _('the province of\n%s') % respuesta
                             nuevoNivel.preguntas.append((texto,
                                 tipo, respuesta, ayuda))
 
@@ -472,7 +472,7 @@ class ConozcoAm():
                             #respuesta = i[0]
                             respuesta = unicode(i[0], 'UTF-8')
                             ayuda = i[1]
-                            texto = _('the district of |%s') % respuesta
+                            texto = _('the district of\n%s') % respuesta
                             nuevoNivel.preguntas.append((texto,
                                 tipo, respuesta, ayuda))
 
@@ -482,7 +482,7 @@ class ConozcoAm():
                             #respuesta = i[0]
                             respuesta = unicode(i[0], 'UTF-8')
                             ayuda = i[1]
-                            texto = _('the state of |%s') % respuesta
+                            texto = _('the state of\n%s') % respuesta
                             nuevoNivel.preguntas.append((texto,
                                 tipo, respuesta, ayuda))
 
@@ -492,7 +492,7 @@ class ConozcoAm():
                             #respuesta = i[0]
                             respuesta = unicode(i[0], 'UTF-8')
                             ayuda = i[1]
-                            texto = _('the region of |%s') % respuesta
+                            texto = _('the region of\n%s') % respuesta
                             nuevoNivel.preguntas.append((texto,
                                 tipo, respuesta, ayuda))
 
@@ -502,7 +502,7 @@ class ConozcoAm():
                             #respuesta = i[0]
                             respuesta = unicode(i[0], 'UTF-8')
                             ayuda = i[1]
-                            texto = _('the parish of |%s') % respuesta
+                            texto = _('the parish of\n%s') % respuesta
                             nuevoNivel.preguntas.append((texto,
                                 tipo, respuesta, ayuda))
 
@@ -512,7 +512,7 @@ class ConozcoAm():
                             #respuesta = i[0]
                             respuesta = unicode(i[0], 'UTF-8')
                             ayuda = i[1]
-                            texto = _('the municipality of |%s') % respuesta
+                            texto = _('the municipality of\n%s') % respuesta
                             nuevoNivel.preguntas.append((texto,
                                 tipo, respuesta, ayuda))
 
@@ -1670,11 +1670,11 @@ class ConozcoAm():
                         if self.puntos == 70:
                             self.lineasPregunta =  self.listaDespedidasB[\
                                 random.randint(1,self.numeroDespedidasB)-1]\
-                                .split("|")
+                                .split("\n")
                         else:
                             self.lineasPregunta =  self.listaDespedidasM[\
                                 random.randint(1,self.numeroDespedidasM)-1]\
-                                .split("|")
+                                .split("\n")
                         self.mostrarGlobito(self.lineasPregunta)
                         pygame.time.set_timer(EVENTODESPEGUE,
                                             TIEMPORESPUESTA*2)
@@ -1754,7 +1754,7 @@ class ConozcoAm():
                         (int(180*scale+shift_x),int(260*scale+shift_y)))
         yLinea = int(330*scale+shift_y)
         # hola amigos
-        lineas = self.listaPresentacion[0].split("|")
+        lineas = self.listaPresentacion[0].split("\n")
         for l in lineas:
             text = self.fuente40.render(l.strip(), 1, COLORPREGUNTAS)
             textrect = text.get_rect()
@@ -1790,7 +1790,7 @@ class ConozcoAm():
                         (int(180*scale+shift_x),int(260*scale+shift_y)))
         yLinea = int(315*scale+shift_y)
         # mañana tengo...
-        lineas = self.listaPresentacion[1].split("|")
+        lineas = self.listaPresentacion[1].split("\n")
         for l in lineas:
             text = self.fuente40.render(l.strip(), 1, COLORPREGUNTAS)
             textrect = text.get_rect()
@@ -1863,7 +1863,7 @@ class ConozcoAm():
                         (int(160*scale+shift_x),int(240*scale+shift_y)))
         yLinea = int(310*scale+shift_y)
         # y no se nada
-        lineas = self.listaPresentacion[2].split("|")
+        lineas = self.listaPresentacion[2].split("\n")
         for l in lineas:
             text = self.fuente40.render(l.strip(), 1, COLORPREGUNTAS)
             textrect = text.get_rect()
@@ -1898,7 +1898,7 @@ class ConozcoAm():
                         (int(570*scale+shift_x),int(260*scale+shift_y)))
         yLinea = int(330*scale+shift_y)
         # que hago
-        lineas = self.listaPresentacion[3].split("|")
+        lineas = self.listaPresentacion[3].split("\n")
         for l in lineas:
             text = self.fuente40.render(l.strip(), 1, COLORPREGUNTAS)
             textrect = text.get_rect()
@@ -1945,7 +1945,7 @@ class ConozcoAm():
                         (int(160*scale+shift_x),int(240*scale+shift_y)))
         yLinea = int(310*scale+shift_y)
         # te puedo pedir
-        lineas = self.listaPresentacion[4].split("|")
+        lineas = self.listaPresentacion[4].split("\n")
         for l in lineas:
             text = self.fuente40.render(l.strip(), 1, COLORPREGUNTAS)
             textrect = text.get_rect()
@@ -1981,7 +1981,7 @@ class ConozcoAm():
                         (int(160*scale+shift_x),int(240*scale+shift_y)))
         yLinea = int(310*scale+shift_y)
         # me ayudas
-        lineas = self.listaPresentacion[5].split("|")
+        lineas = self.listaPresentacion[5].split("\n")
         for l in lineas:
             text = self.fuente40.render(l.strip(), 1, COLORPREGUNTAS)
             textrect = text.get_rect()
