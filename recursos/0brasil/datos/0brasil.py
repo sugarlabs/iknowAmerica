@@ -2,7 +2,7 @@
 
 from gettext import gettext as _
 
-NAME = _('Brazil')
+NAME = _('Brasil')
 
 STATES = [
     (_('Amazonas'), 254, 185, 283, 0),
@@ -20,7 +20,7 @@ STATES = [
     (_('Santa Catarina'), 242, 507, 716, 0),
     (_('Paraná'), 241, 433, 663, 0),
     (_('Sao Paulo'), 240, 480, 613, 0),
-    (_('Rio de Janeiro'), 239, 670, 628, 0),
+    (_('Río de Janeiro'), 239, 670, 628, 0),
     (_('Espírito Santo'), 238, 680, 575, 0),
     (_('Minas Gerais'), 237, 573, 544, 30),
     (_('Bahia'), 236, 616, 433, 0),
@@ -32,7 +32,7 @@ STATES = [
     (_('Paraíba'), 230, 721, 337, 0),
     (_('Río Grande do Norte'), 229, 725, 200, 90),
     (_('Guayana Fr.'), 228, 439, 115, 0),
-    (_('Suriname'), 227, 355, 111, 90),
+    (_('Surinam'), 227, 355, 111, 90),
     (_('Guyana'), 226, 298, 101, 90),
     (_('Venezuela'), 225, 177, 52, 0),
     (_('Colombia'), 224, 52, 136, 0),

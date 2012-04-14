@@ -11,8 +11,8 @@ LEVEL1 = [
     (_('Cayo'), _('Is in the center')),
     (_('Toledo'), _('Is south')),
     (_('Corozal'), _('Is north')),
-    (_('Belize'), _('Is in the center')),
-    (_('Stann Creek'), _('Is in the center'))
+    (_('Belice'), _('Is in the center')),
+    (_('Staan Creek'), _('Is in the center'))
 ]
 ]
 
@@ -107,7 +107,7 @@ LEVEL4 = [
     (_('Caribbean Sea'), _('Is east')),
     (_('Lake Southern'), _('Is east')),
     (_('Lake Northern'), _('Is east')),
-    (_('Lake Shipstern'), _('Is north'))
+    (_('Lake Shiptesrn'), _('Is north'))
 ]
 ]
 

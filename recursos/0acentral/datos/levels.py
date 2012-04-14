@@ -8,7 +8,7 @@ LEVEL1 = [
         [],
 [
     (_('Guatemala'), 1, _('Guatemala'), _('Is west')),
-    (_('Belize'), 1, _('Belize'), _('Is west')),
+    (_('Belice'), 1, _('Belice'), _('Is west')),
     (_('Honduras'), 1, _('Honduras'), _('Is southwest')),
     (_('El Salvador'), 1, _('El Salvador'), _('Is southwest')),
     (_('Nicaragua'), 1, _('Nicaragua'), _('Is southwest')),

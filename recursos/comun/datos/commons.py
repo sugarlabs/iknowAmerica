@@ -5,7 +5,7 @@ from gettext import gettext as _
 
 PRESENTATION = [
     _('Hello friends...'),
-    _('...tomorrow I have a\ntest about America...'),
+    _('...tomorrow I have a|test about America...'),
     _('...and I know nothing!!!'),
     _('...what I do???'),
     _('I can ask you something?'),
@@ -41,15 +41,15 @@ WRONG = [
 ]
 
 BYE_C = [
-    _("Now I'm ready\nfor tomorrow...\nI'm going to play...\nThanks for your help!"),
-    _("We made it!\nI'm going to play ball...\nBye and thanks\nfor helping me!"),
-    _("We did it!\nI'm ready for tomorrow...\nI'm playing a while...\nUntil next time!")
+    _("Now I'm ready|for tomorrow...|I'm going to play...|Thanks for your help!"),
+    _("We made it!|I'm going to play ball...|Bye and thanks|for helping me!"),
+    _("We did it!|I'm ready for tomorrow...I'm playing a while...|Until next time!")
 ]
 
 BYE_W = [
-    _("More luck next\nI'll play a while...\nThanks!"),
-    _("The next time will be\nI'm going to play ball...\nThanks!"),
-    _("Please try again...\nI'm going to play...\nThanks!")
+    _("More luck next|I'll play a while...|Thanks!"),
+    _("The next time will be|I'm going to play ball...|Thanks!"),
+    _("Please try again...|I'm going to play...|Thanks!")
 ]
 
 CREDITS = [

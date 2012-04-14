@@ -3,14 +3,14 @@
 from gettext import gettext as _
 
 EXP1 = [
-    _('Departments'),
+    _('Departaments'),
     ['lineasDepto'],
     [],
     ['deptos']
 ]
 
 EXP2 = [
-    _('Departmental capitals'),
+    _('Departamental capitals'),
     ['lineasDepto', 'capitales'],
     [],
     ['capitales']

@@ -6,7 +6,7 @@ NAME = _('Central America')
 
 STATES = [
     (_('Guatemala'), 254, 81, 554, 0),
-    (_('Belize'), 253, 155, 487, 0),
+    (_('Belice'), 253, 155, 487, 0),
     (_('Honduras'), 252, 219, 582, 0),
     (_('El Salvador'), 251, 142, 627, 0),
     (_('Nicaragua'), 250, 292, 673, 0),

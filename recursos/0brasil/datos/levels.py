@@ -22,7 +22,7 @@ LEVEL1 = [
     (_('Santa Catarina'), _('Is south')),
     (_('Paraná'), _('Is south')),
     (_('Sao Paulo'), _('Is south')),
-    (_('Rio de Janeiro'), _('Is southeast')),
+    (_('Río de Janeiro'), _('Is southeast')),
     (_('Espírito Santo'), _('Is southeast')),
     (_('Minas Gerais'), _('Is southeast')),
     (_('Bahia'), _('Is east')),

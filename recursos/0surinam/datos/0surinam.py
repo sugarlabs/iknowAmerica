@@ -2,7 +2,7 @@
 
 from gettext import gettext as _
 
-NAME = _('Suriname')
+NAME = _('Surinam')
 
 STATES = [
     (_('Nickerie'), 254, 261, 152, 0),

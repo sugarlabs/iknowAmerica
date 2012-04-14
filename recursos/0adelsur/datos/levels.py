@@ -7,7 +7,7 @@ LEVEL1 = [
         ['lineasDepto'],
         [],
 [
-    (_('Brazil'), 1, _('Brazil'), _('Is east')),
+    (_('Brasil'), 1, _('Brasil'), _('Is east')),
     (_('Argentina'), 1, _('Argentina'), _('Is southwest')),
     (_('Uruguay'), 1, _('Uruguay'), _('Is southeast')),
     (_('Chile'), 1, _('Chile'), _('Is southwest')),
@@ -18,7 +18,7 @@ LEVEL1 = [
     (_('Colombia'), 1, _('Colombia'), _('Is northwest')),
     (_('Venezuela'), 1, _('Venezuela'), _('Is north')),
     (_('Guyana'), 1, _('Guyana'), _('Is north')),
-    (_('Suriname'), 1, _('Suriname'), _('Is north')),
+    (_('Surinam'), 1, _('Surinam'), _('Is north')),
     (_('Guayana Francesa'), 1, _('Guayana Fr.'), _('Is northeast')),
     (_('Falkland Islands'), 1, _('Falkland Islands'), _('Is south')),
     (_('South Georgia Islands'), 1, _('South Georgia Islands'), _('Is southeast')),
