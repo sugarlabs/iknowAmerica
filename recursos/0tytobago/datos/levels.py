@@ -27,7 +27,7 @@ LEVEL3 = [
     (_('Port of Spain'), _('Is northwest')),
     (_('Arima'), _('Is north')),
     (_('Arouca'), _('Is north')),
-    (_('Basse Terre'), _('Is south')),
+    (_('Basse-Terre'), _('Is south')),
     (_('Brighton'), _('Is southwest')),
     (_('Canaan'), _('Is northeast')),
     (_('Chaguanas'), _('Is west')),

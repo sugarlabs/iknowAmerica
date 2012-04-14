@@ -8,7 +8,7 @@ LEVEL1 = [
         [],
 [
     (_('Pinar del Río'), _('Is west')),
-    (_('La Habana'), _('Is west')),
+    (_('Habana'), _('Is west')),
     (_('Cienfuegos'), _('Is west')),
     (_('Ciudad de la Habana'), _('Is west')),
     (_('Matanzas'), _('Is west')),
@@ -29,7 +29,7 @@ LEVEL2 = [
         ['lineasDepto', 'capitales'],
         [],
 [
-    (_('La Habana'), _('Is northwest')),
+    (_('Havana'), _('Is northwest')),
     (_('Camagüey'), _('Is southeast')),
     (_('Ciego de Ávila'), _('Is in the center')),
     (_('Cienfuegos'), _('Is west')),
@@ -50,7 +50,7 @@ LEVEL3 = [
         ['lineasDepto', 'capitales', 'ciudades'],
         [],
 [
-    (_('La Habana'), _('Is northwest')),
+    (_('Havana'), _('Is northwest')),
     (_('Camagüey'), _('Is southeast')),
     (_('Ciego de Ávila'), _('Is in the center')),
     (_('Cienfuegos'), _('Is west')),

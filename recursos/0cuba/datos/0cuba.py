@@ -6,7 +6,7 @@ NAME = _('Cuba')
 
 STATES = [
     (_('Pinar del Río'), 254, 105, 357, 30),
-    (_('La Habana'), 253, 213, 333, 0),
+    (_('Havana'), 253, 213, 333, 0),
     (_('Cienfuegos'), 252, 324, 382, 0),
     (_('Ciudad de la Habana'), 251, 197, 300, 10),
     (_('Matanzas'), 250, 275, 350, 0),
@@ -20,9 +20,9 @@ STATES = [
     (_('Santiago de Cuba'), 242, 616, 558, 0),
     (_('Holguín'), 241, 626, 484, 0),
     (_('Is. de la Juventud'), 240, 156, 447, 0),
-    (_('Is. Caimán'), 239, 312, 581, 0),
-    (_('Estados Unidos'), 238, 308, 134, 0),
-    (_('Is. Andros'), 237, 501, 216, -60),
+    (_('Cayman Islands'), 239, 312, 581, 0),
+    (_('United States'), 238, 308, 134, 0),
+    (_('Andros Island'), 237, 501, 216, -60),
     (_('Is. Nueva Providencia'), 236, 538, 154, -45),
     (_('Is. Eleuthera'), 235, 599, 156, -45),
     (_('Is. Gato'), 234, 665, 216, 0),
@@ -33,12 +33,12 @@ STATES = [
     (_('Haiti'), 229, 754, 662, 90),
     (_('Jamaica'), 228, 545, 685, 0),
     (_('Honduras'), 227, 87, 857, 0),
-    (_('Is. Gran Bahama'), 226, 444, 68, 0),
+    (_('Grand Bahama Island'), 226, 444, 68, 0),
     (_('Is. Abaco'), 225, 591, 48, 90)
 ]
 
 CAPITALS = [
-    (_('La Habana'), 195, 311, 0, -30, -14),
+    (_('Havana'), 195, 311, 0, -30, -14),
     (_('Camagüey'), 502, 442, 1, 0, 14),
     (_('Ciego de Ávila'), 443, 408, 1, 60, 0),
     (_('Cienfuegos'), 327, 381, 1, -55, 0),
@@ -81,7 +81,7 @@ CITIES = [
 ROUTES = []
 
 STATS = [
-    (_('Capital:'), _('La Habana') + _("(23º80' N - 82º23' W)")),
+    (_('Capital:'), _('Havana') + _("(23º80' N - 82º23' W)")),
     (_('Language:'), _('Spanish')),
     (_('Government:'), _('Communist state')),
     (_('President:'), _('Raúl Castro')),

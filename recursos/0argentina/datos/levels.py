@@ -136,7 +136,7 @@ LEVEL4 = [
     (_('Bermejo River'), _('Is north')),
     (_('Río de la Plata River'), _('Is east')),
     (_('San Blas Bay'), _('Is east')),
-    (_('San Matias Gulf'), _('Is east')),
+    (_('San Matías Gulf'), _('Is east')),
     (_('Atlantic Ocean'), _('Is east')),
     (_('Pacific Ocean'), _('Is west'))
 ]

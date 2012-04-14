@@ -100,7 +100,7 @@ RIVERS = [
     (_('Bermejo River'), 243, 400, 92, -40),
     (_('Río de la Plata'), 242, 503, 357, 0),
     (_('San Blas Bay'), 241, 413, 489, 0),
-    (_('Gulf San Matias'), 240, 348, 531, 0),
+    (_('San Matías Gulf'), 240, 348, 531, 0),
     (_('Atlantic Ocean'), 239, 584, 591, 0),
     (_('Pacific Ocean'), 238, 71, 338, 90)
 ]

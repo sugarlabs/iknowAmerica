@@ -7,8 +7,6 @@ LEVEL1 = [
         ['lineasDepto'],
         [],
 [
-    (_(' '), _(' ')),
-
     (_('Atlántida'), _('Is north')),
     (_('Colón'), _('Is northeast')),
     (_('Comayagua'), _('Is west')),

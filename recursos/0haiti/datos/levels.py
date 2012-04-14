@@ -24,7 +24,7 @@ LEVEL2 = [
         ['lineasDepto', 'capitales'],
         [],
 [
-    (_('Port au Prince'), _('Is southeast')),
+    (_('Port-au-Prince'), _('Is southeast')),
     (_('Cap Haitien'), _('Is northeast')),
     (_('Fort Liberte'), _('Is northeast')),
     (_('Gonaives'), _('Is north')),
@@ -41,7 +41,7 @@ LEVEL3 = [
         ['lineasDepto', 'capitales', 'ciudades'],
         [],
 [
-    (_('Port au Prince'), _('Is southeast')),
+    (_('Port-au-Prince'), _('Is southeast')),
     (_('Cap Haitien'), _('Is northeast')),
     (_('Fort Liberte'), _('Is northeast')),
     (_('Gonaives'), _('Is north')),

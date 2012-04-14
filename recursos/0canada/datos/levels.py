@@ -13,7 +13,7 @@ LEVEL1 = [
     (_('Saskatchewan'), _('Is southwest')),
     (_('Manitoba'), _('Is south')),
     (_('Ontario'), _('Is southeast')),
-    (_('Quebec'), _('Is southeast')),
+    (_('Québec'), _('Is southeast')),
     (_('Newfoundland'), _('Is east')),
     (_('New Brunswick'), _('Is southeast')),
     (_('Northwest Territories'), _('Is northwest')),
@@ -118,11 +118,11 @@ LEVEL4 = [
     (_('Pacific Ocean'), _('Is west')),
     (_('Beaufort Sea'), _('Is northwest')),
     (_('Chukchi Sea'), _('Is northwest')),
-    (_('Groenlandia Sea'), _('Is northeast')),
+    (_('Greenland Sea'), _('Is northeast')),
     (_('Labrador Sea'), _('Is northeast')),
     (_('Baffin Bay'), _('Is northeast')),
     (_('Hudson Bay'), _('Is in the center')),
-    (_('Artic Ocean'), _('Is north')),
+    (_('Arctic Ocean'), _('Is north')),
     (_('Noruega Sea'), _('Is northeast'))
 ]
 ]

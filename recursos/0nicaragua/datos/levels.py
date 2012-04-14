@@ -7,8 +7,6 @@ LEVEL1 = [
         ['lineasDepto'],
         [],
 [
-    (_(' '), _(' ')),
-
     (_('Boaco'), _('Is in the center')),
     (_('Carazo'), _('Is southwest')),
     (_('Chinadega'), _('Is west')),
@@ -149,8 +147,8 @@ LEVEL4 = [
     (_('Bocay River'), _('Is north')),
     (_('Amaka River'), _('Is north')),
     (_('Estero Real River'), _('Is west')),
-    (_('Lake de Managua'), _('Is west')),
-    (_('Lake de Nicaragua'), _('Is south')),
+    (_('Lake Managua'), _('Is west')),
+    (_('Lake Nicaragua'), _('Is south')),
     (_('Perlas Lagoon'), _('Is east')),
     (_('Bluefields Bay'), _('Is east')),
     (_('Gulf of Fonseca'), _('Is northwest')),

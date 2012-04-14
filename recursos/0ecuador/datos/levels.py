@@ -13,7 +13,7 @@ LEVEL1 = [
     (_('Manabí'), _('Is west')),
     (_('Esmeraldas'), _('Is northwest')),
     (_('El Oro'), _('Is southwest')),
-    (_('Los Ríos'), _('Is southwest')),
+    (_('Los Rios'), _('Is southwest')),
     (_('Loja'), _('Is southwest')),
     (_('Cañar'), _('Is southwest')),
     (_('Chimborazo'), _('Is in the center')),

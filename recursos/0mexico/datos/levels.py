@@ -25,7 +25,7 @@ LEVEL1 = [
     (_('Michoacán'), _('Is southwest')),
     (_('Nayarit'), _('Is west')),
     (_('Nuevo León'), _('Is north')),
-    (_('Oxaca'), _('Is southeast')),
+    (_('Oaxaca'), _('Is southeast')),
     (_('Puebla'), _('Is southeast')),
     (_('Querétaro'), _('Is southeast')),
     (_('Quintana Roo'), _('Is east')),

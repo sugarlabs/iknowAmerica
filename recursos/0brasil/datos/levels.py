@@ -43,7 +43,7 @@ LEVEL2 = [
 [
     (_('Brasilia'), _('Is in the center')),
     (_('Aracaju'), _('Is east')),
-    (_('Belem'), _('Is north')),
+    (_('Belém'), _('Is north')),
     (_('Belo Horizonte'), _('Is southeast')),
     (_('Boa Vista'), _('Is northwest')),
     (_('Campo Grande'), _('Is southwest')),
@@ -78,7 +78,7 @@ LEVEL3 = [
 [
     (_('Brasilia'), _('Is in the center')),
     (_('Aracaju'), _('Is east')),
-    (_('Belem'), _('Is north')),
+    (_('Belém'), _('Is north')),
     (_('Belo Horizonte'), _('Is southeast')),
     (_('Boa Vista'), _('Is northwest')),
     (_('Campo Grande'), _('Is southwest')),

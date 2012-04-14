@@ -11,20 +11,20 @@ STATES = [
     (_('Saskatchewan'), 251, 229, 527, 70),
     (_('Manitoba'), 250, 305, 542, 70),
     (_('Ontario'), 249, 403, 594, 0),
-    (_('Quebec'), 248, 547, 560, 0),
+    (_('Québec'), 248, 547, 560, 0),
     (_('Newfoundland'), 247, 634, 501, 0),
     (_('New Brunswick'), 246, 634, 625, 45),
     (_('Northwest Territories'), 245, 234, 367, 0),
     (_('Bank Islands'), 244, 235, 213, 0),
-    (_('Is. Victoria'), 243, 280, 272, 0),
-    (_('Is. de Baffin'), 242, 475, 293, -45),
-    (_('Is. Ellesmere'), 241, 406, 142, 70),
+    (_('Victoria Island'), 243, 280, 272, 0),
+    (_('Baffin Island'), 242, 475, 293, -45),
+    (_('Ellesmere Island'), 241, 406, 142, 70),
     (_('Nova Scotia'), 240, 689, 646, 45),
-    (_('Groenlandia'), 239, 558, 157, 0),
+    (_('Greenland'), 239, 558, 157, 0),
     (_('Islandia'), 238, 728, 128, 45),
-    (_('Alaska'), 237, 42, 197, 0),
-    (_('Estados Unidos'), 236, 195, 775, 0),
-    (_('Is. Newfoundland'), 235, 700, 547, 0)
+    (_('Alaska (USA)'), 237, 42, 197, 0),
+    (_('United States'), 236, 195, 775, 0),
+    (_('Newfoundland'), 235, 700, 547, 0)
 ]
 
 CAPITALS = [
@@ -97,7 +97,7 @@ RIVERS = [
     (_('Pacific Ocean'), 235, 19, 419, 90),
     (_('Beaufort Sea'), 234, 167, 179, -45),
     (_('Chukchi Sea'), 233, 70, 65, 0),
-    (_('Groenlandia Sea'), 232, 673, 50, 0),
+    (_('Greenland Sea'), 232, 673, 50, 0),
     (_('Labrador Sea'), 231, 625, 379, 0),
     (_('Baffin Bay'), 230, 492, 240, -45),
     (_('Hudson Bay'), 229, 413, 455, 0),

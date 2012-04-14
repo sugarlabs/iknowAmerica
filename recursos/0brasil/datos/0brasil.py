@@ -48,7 +48,7 @@ STATES = [
 CAPITALS = [
     (_('Brasilia'), 506, 493, 0, -10, -14),
     (_('Aracaju'), 710, 408, 1, 10, 14),
-    (_('Belem'), 509, 215, 1, 0, 14),
+    (_('Belém'), 509, 215, 1, 0, 14),
     (_('Belo Horizonte'), 577, 576, 1, 20, -14),
     (_('Boa Vista'), 264, 135, 1, 0, 14),
     (_('Campo Grande'), 383, 583, 1, -30, 14),
@@ -139,7 +139,7 @@ STATS = [
     (_('Language:'), _('Portuguese')),
     (_('Government:'), _('Federal presidential republic')),
     (_('President:'), _('Dilma Rousseff')),
-    (_('Vice Presedint:'), _('Michel Temer')),
+    (_('Vice President:'), _('Michel Temer')),
     (_('Independence:'), _('from Portugal')),
     ('', _('declared: %s') % _('7 of september of 1822')),
     ('', _('recognized: %s') % _('29 of august of 1825')),

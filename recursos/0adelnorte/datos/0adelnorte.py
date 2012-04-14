@@ -5,9 +5,9 @@ from gettext import gettext as _
 NAME = _('North America')
 
 STATES = [
-    (_('Estados Unidos'), 254, 388, 540, 0),
-    (_('Canadá'), 253, 320, 283, 0),
-    (_('Alaska (EE.UU.)'), 252, 133, 144, 0),
+    (_('United States'), 254, 388, 540, 0),
+    (_('Canada'), 253, 320, 283, 0),
+    (_('Alaska (USA)'), 252, 133, 144, 0),
     (_('México'), 251, 398, 791, 0),
     (_('Cuba'), 250, 681, 728, 0),
     (_('Guatemala'), 249, 554, 845, 80),
@@ -15,15 +15,15 @@ STATES = [
     (_('Nicaragua'), 247, 651, 878, 0),
     (_('Jamaica'), 246, 714, 773, 0),
     (_('Haiti'), 245, 770, 737, 90),
-    (_('Rusia'), 242, 56, 41, 0),
-    (_('Groenlandia'), 241, 591, 29, 0),
-    (_('Is. Bahamas'), 244, 716, 675, -30),
-    (_('Is. Revillagigedo'), 243, 242, 808, 0),
-    (_('Is. Baffin'), 240, 534, 146, -45),
-    (_('Is. Victoria'), 239, 357, 150, 0),
-    (_('Is. Banks'), 238, 312, 105, 0),
-    (_('Is. Ellesmere'), 237, 452, 70, 90),
-    (_('Is. Elizabeth'), 236, 370, 68, 0)
+    (_('Russia'), 242, 56, 41, 0),
+    (_('Greenland'), 241, 591, 29, 0),
+    (_('Bahamas Island'), 244, 716, 675, -30),
+    (_('Revillagigedo Island'), 243, 242, 808, 0),
+    (_('Baffin Island'), 240, 534, 146, -45),
+    (_('Victoria Island'), 239, 357, 150, 0),
+    (_('Banks Island'), 238, 312, 105, 0),
+    (_('Ellesmere Island'), 237, 452, 70, 90),
+    (_('Elizabeth Island'), 236, 370, 68, 0)
 ]
 
 CAPITALS = [

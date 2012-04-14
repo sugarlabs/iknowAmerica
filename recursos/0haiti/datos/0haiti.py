@@ -23,7 +23,7 @@ STATES = [
 ]
 
 CAPITALS = [
-    (_('Port au Prince'), 580, 576, 0, -60, -14),
+    (_('Port-au-Prince'), 580, 576, 0, -60, -14),
     (_('Cap Haitien'), 608, 236, 1, 10, -14),
     (_('Fort Liberte'), 706, 263, 1, -15, -14),
     (_('Gonaives'), 486, 328, 1, -10, 14),
@@ -96,7 +96,7 @@ RIVERS = [
 ROUTES = []
 
 STATS = [
-    (_('Capital:'), _('Port au Prince') + _("(18º32' N - 72º20' W)")),
+    (_('Capital:'), _('Port-au-Prince') + _("(18º32' N - 72º20' W)")),
     (_('Language:'), _('French')),
     (_('Government:'), _('Presidential republic')),
     (_('President:'), _('Michel Martelly')),

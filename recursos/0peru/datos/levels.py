@@ -7,8 +7,6 @@ LEVEL1 = [
         ['lineasDepto'],
         [],
 [
-    (_(' '), _(' ')),
-
     (_('Tumbes'), _('Is northwest')),
     (_('Loreto'), _('Is north')),
     (_('Piura'), _('Is northwest')),
@@ -21,7 +19,7 @@ LEVEL1 = [
     (_('Huanuco'), _('Is in the center')),
     (_('Lima'), _('Is southwest')),
     (_('Cerro de Pasco'), _('Is in the center')),
-    (_('Junin'), _('Is south')),
+    (_('Junín'), _('Is south')),
     (_('Ucayali'), _('Is east')),
     (_('Madre de Dios'), _('Is southeast')),
     (_('Cuzco'), _('Is southeast')),
@@ -155,7 +153,7 @@ LEVEL4 = [
     (_('Piedras River'), _('Is northeast')),
     (_('Inambari River'), _('Is southeast')),
     (_('Putumayo River'), _('Is northeast')),
-    (_('Marañon River'), _('Is northwest')),
+    (_('Marañón River'), _('Is northwest')),
     (_('Santiago River'), _('Is northwest')),
     (_('Huallaga River'), _('Is in the center')),
     (_('Ucayali River'), _('Is in the center')),

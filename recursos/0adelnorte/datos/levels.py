@@ -7,16 +7,16 @@ LEVEL1 = [
         ['lineasDepto'],
         [],
 [
-    (_('Estados Unidos'), 1, _('Estados Unidos'), _('Is in the center')),
-    (_('Canadá'), 1, _('Canadá'), _('Is north')),
-    (_('Alaska (EE.UU.)'), 1, _('Alaska (EE.UU.)'), _('Is northwest')),
+    (_('United States'), 1, _('United States'), _('Is in the center')),
+    (_('Canada'), 1, _('Canada'), _('Is north')),
+    (_('Alaska (USA)'), 1, _('Alaska (USA)'), _('Is northwest')),
     (_('México'), 1, _('México'), _('Is south')),
-    (_('the Revillagigedo Island'), 1, _('Is. Revillagigedo'), _('Is southwest')),
-    (_('the Baffin Island'), 1, _('Is. Baffin'), _('Is northeast')),
-    (_('the Victoria Island'), 1, _('Is. Victoria'), _('Is north')),
-    (_('the Banks Island'), 1, _('Is. Banks'), _('Is north')),
-    (_('the Ellesmere Island'), 1, _('Is. Ellesmere'), _('Is north')),
-    (_('the Elizabeth Island'), 1, _('Is. Elizabeth'), _('Is north'))
+    (_('the %s') % _('Revillagigedo Island'), 1, _('Revillagigedo Island'), _('Is southwest')),
+    (_('the %s') % _('Baffin Island'), 1, _('Baffin Island'), _('Is northeast')),
+    (_('the %s') % _('Victoria Island'), 1, _('Victoria Island'), _('Is north')),
+    (_('the %s') % _('Banks Island'), 1, _('Banks Island'), _('Is north')),
+    (_('the %s') % _('Ellesmere Island'), 1, _('Ellesmere Island'), _('Is north')),
+    (_('the %s') % _('Elizabeth Island'), 1, _('Elizabeth Island'), _('Is north'))
 ]
 ]
 
@@ -149,7 +149,7 @@ LEVEL3 = [
     (_('Labrador Sea'), _('Is northeast')),
     (_('Beaufort Sea'), _('Is northwest')),
     (_('Chukci Sea'), _('Is northwest')),
-    (_('Artic Ocean'), _('Is north')),
+    (_('Arctic Ocean'), _('Is north')),
     (_('Bering Sea'), _('Is northwest')),
     (_('Gulf of Alaska'), _('Is northwest')),
     (_('Gulf of California'), _('Is southwest')),

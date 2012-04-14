@@ -74,7 +74,7 @@ LEVEL3 = [
     (_('S. Antonio'), _('Is south')),
     (_('San Antonio'), _('Is west')),
     (_('San Estevan'), _('Is north')),
-    (_('San Jose'), _('Is north')),
+    (_('San José'), _('Is north')),
     (_('San Narciso'), _('Is north')),
     (_('San Pedro'), _('Is northeast')),
     (_('Sarteneja'), _('Is north')),
