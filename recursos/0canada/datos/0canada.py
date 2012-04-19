@@ -15,14 +15,14 @@ STATES = [
     (_('Newfoundland'), 247, 634, 501, 0),
     (_('New Brunswick'), 246, 634, 625, 45),
     (_('Northwest Territories'), 245, 234, 367, 0),
-    (_('Bank Islands'), 244, 235, 213, 0),
+    (_('Banks Island'), 244, 235, 213, 0),
     (_('Victoria Island'), 243, 280, 272, 0),
     (_('Baffin Island'), 242, 475, 293, -45),
     (_('Ellesmere Island'), 241, 406, 142, 70),
     (_('Nova Scotia'), 240, 689, 646, 45),
     (_('Greenland'), 239, 558, 157, 0),
-    (_('Islandia'), 238, 728, 128, 45),
-    (_('Alaska (USA)'), 237, 42, 197, 0),
+    (_('Iceland'), 238, 728, 128, 45),
+    (_('Alaska'), 237, 42, 197, 0),
     (_('United States'), 236, 195, 775, 0),
     (_('Newfoundland'), 235, 700, 547, 0)
 ]
@@ -102,7 +102,7 @@ RIVERS = [
     (_('Baffin Bay'), 230, 492, 240, -45),
     (_('Hudson Bay'), 229, 413, 455, 0),
     (_('Arctic Ocean'), 228, 268, 66, 0),
-    (_('Noruega Sea'), 227, 744, 259, 90)
+    (_('Norwegian Sea'), 227, 744, 259, 90)
 ]
 
 ROUTES = []

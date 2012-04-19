@@ -7,7 +7,7 @@ NAME = _('North America')
 STATES = [
     (_('United States'), 254, 388, 540, 0),
     (_('Canada'), 253, 320, 283, 0),
-    (_('Alaska (USA)'), 252, 133, 144, 0),
+    (_('Alaska'), 252, 133, 144, 0),
     (_('México'), 251, 398, 791, 0),
     (_('Cuba'), 250, 681, 728, 0),
     (_('Guatemala'), 249, 554, 845, 80),
@@ -18,7 +18,7 @@ STATES = [
     (_('Russia'), 242, 56, 41, 0),
     (_('Greenland'), 241, 591, 29, 0),
     (_('Bahamas Island'), 244, 716, 675, -30),
-    (_('Revillagigedo Island'), 243, 242, 808, 0),
+    (_('Revillagigedo Islands'), 243, 242, 808, 0),
     (_('Baffin Island'), 240, 534, 146, -45),
     (_('Victoria Island'), 239, 357, 150, 0),
     (_('Banks Island'), 238, 312, 105, 0),
@@ -162,6 +162,6 @@ RIVERS = [
     (_('Lake Superior'), 223, 505, 428, 30),
     (_('Lake Michigan'), 222, 524, 487, 90),
     (_('Lake Huron'), 221, 561, 450, 70),
-    (_('Noruega Sea'), 220, 738, 90, 70)
+    (_('Norwegian Sea'), 220, 738, 90, 70)
 ]
 

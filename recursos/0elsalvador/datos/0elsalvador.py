@@ -82,7 +82,7 @@ RIVERS = [
     (_('Sumpul River'), 252, 392, 269, -45),
     (_('Torola River'), 251, 593, 378, 0),
     (_('Jiboa River'), 250, 382, 507, 80),
-    (_('Gr. de San Miguel River'), 249, 582, 511, 45),
+    (_('Grande de San Miguel River'), 249, 582, 511, 45),
     (_('Goascorán River'), 248, 741, 434, 80),
     (_('Guarajambala River'), 247, 545, 262, 80),
     (_('Lake of Güija River'), 246, 206, 266, 0),

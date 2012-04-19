@@ -17,7 +17,7 @@ STATES = [
     (_('Hato Mayor'), 245, 561, 453, 90),
     (_('Independencia'), 244, 101, 548, -30),
     (_('María Trinidad Sánchez'), 243, 525, 318, 0),
-    (_('Monsr. Nouel'), 242, 343, 441, 0),
+    (_('Monseñor Nouel'), 242, 343, 441, 0),
     (_('Monte Cristi'), 241, 126, 261, 0),
     (_('Monte Plata'), 240, 472, 456, 0),
     (_('Pedernales'), 239, 107, 638, -50),
@@ -31,15 +31,15 @@ STATES = [
     (_('San Pedro de Macorís'), 231, 560, 559, 45),
     (_('Sánchez Ramírez'), 230, 396, 413, 0),
     (_('Santiago'), 229, 249, 347, 45),
-    (_('Stgo. Rodríguez'), 228, 148, 339, 10),
+    (_('Santiago Rodríguez'), 228, 148, 339, 10),
     (_('El Seibo'), 227, 626, 458, 45),
     (_('Valverde'), 226, 213, 293, 0),
     (_('La Vega'), 225, 298, 400, 45),
-    (_('S.J.de Ocoa'), 224, 318, 503, 60),
-    (_('Sto. Domingo'), 223, 456, 503, -15),
+    (_('San José de Ocoa'), 224, 318, 503, 60),
+    (_('Santo Domingo'), 223, 456, 503, -15),
     (_('Haití'), 222, 37, 380, 0),
-    (_('Is. Beata'), 221, 113, 736, 0),
-    (_('Is. Saona'), 220, 700, 613, 0)
+    (_('Beata Island'), 221, 113, 736, 0),
+    (_('Saona Island'), 220, 700, 613, 0)
 ]
 
 CAPITALS = [
@@ -69,7 +69,7 @@ CAPITALS = [
     (_('Sabaneta'), 151, 313, 1, 0, 14),
     (_('Salcedo'), 342, 335, 1, 25, -14),
     (_('San Cristóbal'), 405, 543, 1, -15, 14),
-    (_('San Fsco. de Macoris'), 376, 351, 1, 60, 14),
+    (_('San Francisco de Macorís'), 376, 351, 1, 60, 14),
     (_('San José de Ocoa'), 327, 514, 1, -25, -14),
     (_('San Juan'), 175, 459, 1, 0, -14),
     (_('San Pedro de Macoris'), 572, 533, 1, -20, 14),

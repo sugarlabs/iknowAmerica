@@ -28,7 +28,7 @@ LEVEL1 = [
     (_('Napo'), _('Is in the center')),
     (_('Orellana'), _('Is northeast')),
     (_('Sucumbíos'), _('Is east')),
-    (_('Sto. Dom. de los Tsáchilas'), _('Is northwest'))
+    (_('Santo Domingo de los Tsáchilas'), _('Is northwest'))
 ]
 ]
 
@@ -111,7 +111,7 @@ LEVEL3 = [
     (_('Salinas'), _('Is west')),
     (_('San Gabriel'), _('Is north')),
     (_('San Lorenzo'), _('Is north')),
-    (_('Sto. Domingo'), _('Is north')),
+    (_('Santo Domingo'), _('Is north')),
     (_('Zumba'), _('Is south'))
 ]
 ]

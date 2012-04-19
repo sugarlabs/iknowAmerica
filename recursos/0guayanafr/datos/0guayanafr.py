@@ -6,14 +6,14 @@ NAME = _('French Guiana')
 
 STATES = [
     (_('Cayena'), 254, 495, 433, 0),
-    (_('Saint-Laurent du Maroni'), 253, 208, 447, 90),
+    (_('Saint-Laurent-du-Maroni'), 253, 208, 447, 90),
     (_('Brazil'), 252, 650, 736, 45),
     (_('Suriname'), 251, 72, 554, 0)
 ]
 
 CAPITALS = [
     (_('Cayena'), 555, 212, 0, 20, -14),
-    (_('Saint-Laurent du Maroni'), 158, 78, 1, 10, -14)
+    (_('Saint-Laurent-du-Maroni'), 158, 78, 1, 10, -14)
 ]
 
 CITIES = [

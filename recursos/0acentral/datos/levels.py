@@ -27,12 +27,12 @@ LEVEL1 = [
     (_('Dominica'), 1, _('Dominica'), _('Is east')),
     (_('Guadalupe'), 1, _('Guadalupe'), _('Is northeast')),
     (_('Antigua and Barbuda'), 1, _('Antigua and Barbuda'), _('Is northeast')),
-    (_('Saint Lucia'), 1, _('St. Lucia'), _('Is east')),
-    (_('St. Vincent and the Grenadines'), 1, _('St. Vincent and the Grenadines'), _('Is east')),
+    (_('Saint Lucia'), 1, _('Saint Lucia'), _('Is east')),
+    (_('Saint Vincent and the Grenadines'), 1, _('Saint Vincent and the Grenadines'), _('Is east')),
     (_('Granada'), 1, _('Granada'), _('Is east')),
     (_('San Salvador'), 1, _('San Salvador'), _('Is north')),
     (_('Gran Inagua'), 1, _('Gran Inagua'), _('Is north')),
-    (_('Isla Margarita'), 1, _('Is. Margarita'), _('Is east'))
+    (_('Margarita Island'), 1, _('Margarita Island'), _('Is east'))
 ]
 ]
 
@@ -59,7 +59,7 @@ LEVEL2 = [
     (_('San Juan'), _('Is northeast')),
     (_('San Salvador'), _('Is southeast')),
     (_('Santo Domingo'), _('Is north')),
-    (_("St. George's"), _('Is east')),
+    (_("Saint George"), _('Is east')),
     (_("St. John's"), _('Is northeast')),
     (_('Tegucigalpa'), _('Is southwest'))
 ]
@@ -88,12 +88,12 @@ LEVEL3 = [
     (_('San Juan'), _('Is northeast')),
     (_('San Salvador'), _('Is southeast')),
     (_('Santo Domingo'), _('Is north')),
-    (_("St. George's"), _('Is east')),
+    (_("Saint George"), _('Is east')),
     (_("St. John's"), _('Is northeast')),
     (_('Tegucigalpa'), _('Is southwest')),
     (_('Bluefields'), _('Is south')),
     (_('Camagüey'), _('Is northwest')),
-    (_('Cap Haitien'), _('Is north')),
+    (_('Cap-Haïtien'), _('Is north')),
     (_('Cienfuegos'), _('Is northwest')),
     (_('Colón'), _('Is south')),
     (_('David'), _('Is south')),
@@ -115,7 +115,7 @@ LEVEL3 = [
     (_('Quetzaltenango'), _('Is west')),
     (_('San Pedro Sula'), _('Is west')),
     (_('Santiago'), _('Is south')),
-    (_('Sta. Clara'), _('Is northwest'))
+    (_('Santa Clara'), _('Is northwest'))
 ]
 ]
 

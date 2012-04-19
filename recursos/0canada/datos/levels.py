@@ -123,7 +123,7 @@ LEVEL4 = [
     (_('Baffin Bay'), _('Is northeast')),
     (_('Hudson Bay'), _('Is in the center')),
     (_('Arctic Ocean'), _('Is north')),
-    (_('Noruega Sea'), _('Is northeast'))
+    (_('Norwegian Sea'), _('Is northeast'))
 ]
 ]
 

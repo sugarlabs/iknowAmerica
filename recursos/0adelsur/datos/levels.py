@@ -19,13 +19,13 @@ LEVEL1 = [
     (_('Venezuela'), 1, _('Venezuela'), _('Is north')),
     (_('Guyana'), 1, _('Guyana'), _('Is north')),
     (_('Suriname'), 1, _('Suriname'), _('Is north')),
-    (_('Guayana Francesa'), 1, _('Guayana Fr.'), _('Is northeast')),
+    (_('French Guiana'), 1, _('French Guiana'), _('Is northeast')),
     (_('Falkland Islands'), 1, _('Falkland Islands'), _('Is south')),
     (_('South Georgia Islands'), 1, _('South Georgia Islands'), _('Is southeast')),
-    (_('the Juan Fernández Island'), 1, _('Is. Juan Fernández'), _('Is southwest')),
-    (_('the San Félix Island'), 1, _('Is. San Félix'), _('Is west')),
-    (_('the San Ambrosio\Island'), 1, _('Is. San Ambrosio'), _('Is west')),
-    (_('the Malpelo Island'), 1, _('Is. de Malpelo'), _('Is northwest'))
+    (_('the %s') % _('Juan Fernández Islands'), 1, _('Juan Fernández Islands'), _('Is southwest')),
+    (_('the %s') % _('San Félix Island'), 1, _('San Félix Island'), _('Is west')),
+    (_('the %s') % _('San Ambrosio Island'), 1, _('San Ambrosio Island'), _('Is west')),
+    (_('the %s') % _('Malpelo Island'), 1, _('Malpelo Island'), _('Is northwest'))
 ]
 ]
 

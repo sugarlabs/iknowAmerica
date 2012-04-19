@@ -9,9 +9,9 @@ LEVEL1 = [
 [
     (_('United States'), 1, _('United States'), _('Is in the center')),
     (_('Canada'), 1, _('Canada'), _('Is north')),
-    (_('Alaska (USA)'), 1, _('Alaska (USA)'), _('Is northwest')),
+    (_('Alaska'), 1, _('Alaska'), _('Is northwest')),
     (_('México'), 1, _('México'), _('Is south')),
-    (_('the %s') % _('Revillagigedo Island'), 1, _('Revillagigedo Island'), _('Is southwest')),
+    (_('the %s') % _('Revillagigedo Islands'), 1, _('Revillagigedo Islands'), _('Is southwest')),
     (_('the %s') % _('Baffin Island'), 1, _('Baffin Island'), _('Is northeast')),
     (_('the %s') % _('Victoria Island'), 1, _('Victoria Island'), _('Is north')),
     (_('the %s') % _('Banks Island'), 1, _('Banks Island'), _('Is north')),
@@ -163,7 +163,7 @@ LEVEL3 = [
     (_('Lake Superior'), _('Is in the center')),
     (_('Lake Michigan'), _('Is in the center')),
     (_('Lake Huron'), _('Is in the center')),
-    (_('Noruega Sea'), _('Is northeast'))
+    (_('Norwegian Sea'), _('Is northeast'))
 ]
 ]
 

@@ -25,7 +25,7 @@ LEVEL2 = [
         [],
 [
     (_('Port-au-Prince'), _('Is southeast')),
-    (_('Cap Haitien'), _('Is northeast')),
+    (_('Cap-Haïtien'), _('Is northeast')),
     (_('Fort Liberte'), _('Is northeast')),
     (_('Gonaives'), _('Is north')),
     (_('Hinche'), _('Is east')),
@@ -42,7 +42,7 @@ LEVEL3 = [
         [],
 [
     (_('Port-au-Prince'), _('Is southeast')),
-    (_('Cap Haitien'), _('Is northeast')),
+    (_('Cap-Haïtien'), _('Is northeast')),
     (_('Fort Liberte'), _('Is northeast')),
     (_('Gonaives'), _('Is north')),
     (_('Hinche'), _('Is east')),
@@ -99,7 +99,7 @@ LEVEL4 = [
     (_('Lake of Pélicre'), _('Is east')),
     (_('Lake Étang Saumâtre'), _('Is southeast')),
     (_('Jacmel Bay'), _('Is south')),
-    (_('Port au Prince Bay'), _('Is southeast')),
+    (_('Port-au-Prince Bay'), _('Is southeast')),
     (_('Canal of Saint Marc'), _('Is in the center')),
     (_('Canal of the Gonâve'), _('Is southwest')),
     (_('Henne Bay'), _('Is northwest')),
@@ -107,7 +107,7 @@ LEVEL4 = [
     (_('Grand Pierre Bay'), _('Is in the center')),
     (_('Mancenille Bay'), _('Is northeast')),
     (_('Canal of the Tortue'), _('Is north')),
-    (_('Gulf of the Gonâve'), _('Is northwest')),
+    (_('Gulf of Gonâve'), _('Is northwest')),
     (_('Windward Passage'), _('Is northwest')),
     (_('Caribbean Sea'), _('Is south')),
     (_('Atlantic Ocean'), _('Is north'))

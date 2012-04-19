@@ -105,7 +105,7 @@ LEVEL3 = [
     (_('Puerto Sandino'), _('Is west')),
     (_('Punta Gorda'), _('Is southeast')),
     (_('Quilalí'), _('Is northwest')),
-    (_('Río Gr.'), _('Is northwest')),
+    (_('Río Grande'), _('Is northwest')),
     (_('Rama'), _('Is east')),
     (_('Sébaco'), _('Is west')),
     (_('San Benito'), _('Is west')),
@@ -114,12 +114,12 @@ LEVEL3 = [
     (_('San Sebastián de Yalí'), _('Is northwest')),
     (_('San Ubaldo'), _('Is south')),
     (_('Santa María'), _('Is northwest')),
-    (_('Santo Dom.'), _('Is southeast')),
+    (_('Santo Domingo'), _('Is southeast')),
     (_('Siuna'), _('Is northeast')),
     (_('Somotillo'), _('Is northwest')),
     (_('Teotecacinte'), _('Is north')),
     (_('Tipitapa'), _('Is west')),
-    (_('Wasparn'), _('Is northeast')),
+    (_('Waspán'), _('Is northeast')),
     (_('Wiwilí'), _('Is north'))
 ]
 ]

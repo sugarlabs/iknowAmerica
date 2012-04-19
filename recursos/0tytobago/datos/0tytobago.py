@@ -74,7 +74,7 @@ STATS = [
     (_('Language:'), _('English')),
     (_('Government:'), _('Parliamentary republic')),
     (_('President:'), _('George Maxwell Richards')),
-    (_('Prime minister:'), _('Kamla Persad-Bissessar')),
+    (_('Prime Minister:'), _('Kamla Persad-Bissessar')),
     (_('Independence:'), _('from United Kingdom')),
     ('', _('31 of august of 1962')),
     (_('Area:'), _('5.128 km² (172th)')),

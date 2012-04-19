@@ -135,7 +135,7 @@ STATS = [
     (_('Language:'), _('Spanish, quechúa, aimará')),
     (_('Government:'), _('Presidential republic')),
     (_('President:'), _('Ollanta Humala Tasso')),
-    (_('Prime minister:'), _('Salomón Lerner Ghitis')),
+    (_('Prime Minister:'), _('Oscar Valdés Dancuart')),
     (_('Independence:'), _('from Spain')),
     ('', _('declared: %s') % _('28 of july of 1821')),
     ('', _('recognized: %s') % _('14 of august of 1879')),

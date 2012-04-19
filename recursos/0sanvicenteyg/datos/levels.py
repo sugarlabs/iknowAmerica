@@ -46,7 +46,7 @@ LEVEL3 = [
     (_('Derrick'), _('Is north')),
     (_('Dovers'), _('Is north')),
     (_('Fancy'), _('Is north')),
-    (_('Mespotamia'), _('Is southeast')),
+    (_('Mesopotamia'), _('Is southeast')),
     (_('Orange Hill'), _('Is east')),
     (_('Stubbs'), _('Is south')),
     (_('Wallibou'), _('Is northwest'))

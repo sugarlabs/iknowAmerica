@@ -75,7 +75,7 @@ RIVERS = [
     (_('Yacuma River'), 247, 204, 302, 30),
     (_('Madre de Dios River'), 246, 133, 158, 40),
     (_('Desaguadero River'), 245, 96, 538, -40),
-    (_('Gr. de Lípez River'), 244, 171, 773, 90),
+    (_('Grande de Lípez River'), 244, 171, 773, 90),
     (_('San Miguel River'), 243, 400, 392, -45),
     (_('San Martín River'), 242, 505, 332, -45),
     (_('Abuná River'), 241, 176, 41, 30),

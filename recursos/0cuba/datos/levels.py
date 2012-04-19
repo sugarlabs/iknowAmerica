@@ -8,9 +8,8 @@ LEVEL1 = [
         [],
 [
     (_('Pinar del Río'), _('Is west')),
-    (_('Habana'), _('Is west')),
+    (_('Havana'), _('Is west')),
     (_('Cienfuegos'), _('Is west')),
-    (_('Ciudad de la Habana'), _('Is west')),
     (_('Matanzas'), _('Is west')),
     (_('Sanctí Spiritus'), _('Is in the center')),
     (_('Villa Clara'), _('Is west')),

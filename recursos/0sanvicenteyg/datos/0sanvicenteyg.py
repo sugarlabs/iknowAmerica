@@ -2,7 +2,7 @@
 
 from gettext import gettext as _
 
-NAME = _('Saint Vincent and Grenadines')
+NAME = _('Saint Vincent and the Grenadines')
 
 STATES = [
     (_('Saint David'), 254, 176, 173, 60),
@@ -42,7 +42,7 @@ CITIES = [
     (_('Derrick'), 563, 112, 2, 0, -14),
     (_('Dovers'), 672, 280, 2, 0, -14),
     (_('Fancy'), 245, 19, 2, 0, 14),
-    (_('Mespotamia'), 250, 440, 2, 0, 14),
+    (_('Mesopotamia'), 250, 440, 2, 0, 14),
     (_('Orange Hill'), 344, 148, 2, 0, -14),
     (_('Stubbs'), 268, 502, 2, 0, -14),
     (_('Wallibou'), 137, 148, 2, 0, -14)

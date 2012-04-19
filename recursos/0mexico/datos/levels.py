@@ -142,7 +142,7 @@ LEVEL3 = [
     (_('Rosarito'), _('Is northwest')),
     (_('Salina Cruz'), _('Is southeast')),
     (_('San Lucas'), _('Is west')),
-    (_('San Quintin'), _('Is northwest')),
+    (_('San Quintín'), _('Is northwest')),
     (_('Santa Rosalía'), _('Is northwest')),
     (_('Tapachula'), _('Is southeast')),
     (_('Tijuana'), _('Is northwest')),
@@ -157,7 +157,7 @@ LEVEL4 = [
         [],
 [
     (_('Colorado River'), _('Is northwest')),
-    (_('Yagui River'), _('Is northwest')),
+    (_('Yaqui River'), _('Is northwest')),
     (_('Grande River'), _('Is north')),
     (_('Conchos River'), _('Is north')),
     (_('Balsas River'), _('Is south')),

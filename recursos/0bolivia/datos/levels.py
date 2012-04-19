@@ -96,7 +96,7 @@ LEVEL4 = [
     (_('Yacuma River'), _('Is north')),
     (_('Madre de Dios River'), _('Is north')),
     (_('Desaguadero River'), _('Is west')),
-    (_('Gr. de Lípez River'), _('Is southwest')),
+    (_('Grande de Lípez River'), _('Is southwest')),
     (_('San Miguel River'), _('Is east')),
     (_('San Martín River'), _('Is east')),
     (_('Abuná River'), _('Is north')),

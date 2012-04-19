@@ -16,15 +16,15 @@ STATES = [
     (_('Centro'), 246, 673, 421, 0),
     (_('Dominican Republic'), 245, 765, 550, 90),
     (_('Cuba'), 244, 33, 68, 0),
-    (_('Is. de la Tortuga'), 243, 454, 150, 0),
-    (_('Is. de la Gonâve'), 242, 384, 493, -30),
-    (_('Is. Gran Cayemite'), 241, 199, 544, 0),
-    (_('Is. de la Vaca'), 240, 236, 726, 0)
+    (_('Tortuga Island'), 243, 454, 150, 0),
+    (_('Gonâve Island'), 242, 384, 493, -30),
+    (_('Grande Cayemite Island'), 241, 199, 544, 0),
+    (_('Cow Island'), 240, 236, 726, 0)
 ]
 
 CAPITALS = [
     (_('Port-au-Prince'), 580, 576, 0, -60, -14),
-    (_('Cap Haitien'), 608, 236, 1, 10, -14),
+    (_('Cap-Haïtien'), 608, 236, 1, 10, -14),
     (_('Fort Liberte'), 706, 263, 1, -15, -14),
     (_('Gonaives'), 486, 328, 1, -10, 14),
     (_('Hinche'), 660, 412, 1, 0, -14),
@@ -79,7 +79,7 @@ RIVERS = [
     (_('Lake of Pélicre'), 248, 679, 481, 0),
     (_('Lake Étang Saumâtre'), 247, 667, 581, 0),
     (_('Jacmel Bay'), 246, 532, 682, 0),
-    (_('Port au Prince Bay'), 245, 523, 555, 0),
+    (_('Port-au-Prince Bay'), 245, 523, 555, 0),
     (_('Canal of Saint Marc'), 244, 456, 481, -40),
     (_('Canal of the Gonâve'), 243, 384, 561, -20),
     (_('Henne Bay'), 242, 349, 283, 0),
@@ -87,7 +87,7 @@ RIVERS = [
     (_('Grand Pierre Bay'), 240, 458, 375, 0),
     (_('Mancenille Bay'), 239, 696, 235, 0),
     (_('Canal of the Tortue'), 238, 440, 179, 0),
-    (_('Gulf of the Gonâve'), 237, 358, 379, 90),
+    (_('Gulf of Gonâve'), 237, 358, 379, 90),
     (_('Windward Passage'), 236, 157, 148, -30),
     (_('Caribbean Sea'), 235, 440, 793, 0),
     (_('Atlantic Ocean'), 234, 561, 88, 0)

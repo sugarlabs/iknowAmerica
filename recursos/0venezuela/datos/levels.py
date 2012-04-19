@@ -111,7 +111,7 @@ LEVEL3 = [
     (_('Riecito'), _('Is northwest')),
     (_('San Fernando de Atabapo'), _('Is southwest')),
     (_('San Juan de Manapiare'), _('Is south')),
-    (_('Sta. Elena de Uairén'), _('Is southeast')),
+    (_('Santa Elena de Uairén'), _('Is southeast')),
     (_('Tumeremo'), _('Is east'))
 ]
 ]

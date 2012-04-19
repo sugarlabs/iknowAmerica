@@ -8,7 +8,7 @@ LEVEL3 = [
         [],
 [
     (_('Cayena'), _('Is northeast')),
-    (_('Saint-Laurent du Maroni'), _('Is northwest')),
+    (_('Saint-Laurent-du-Maroni'), _('Is northwest')),
     (_('Apatou'), _('Is northwest')),
     (_('Camopi'), _('Is southeast')),
     (_('Gare Tigre'), _('Is north')),

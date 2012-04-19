@@ -86,7 +86,7 @@ LEVEL4 = [
     (_('San Pablo River'), _('Is southwest')),
     (_('Santa María River'), _('Is southwest')),
     (_('Indio River'), _('Is in the center')),
-    (_('Canal of Panamá'), _('Is in the center')),
+    (_('Panamá Canal'), _('Is in the center')),
     (_('Chepo River'), _('Is east')),
     (_('Lake Bayano'), _('Is east')),
     (_('Chucunaque River'), _('Is east')),

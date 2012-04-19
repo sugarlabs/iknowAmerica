@@ -111,7 +111,7 @@ LEVEL4 = [
     (_('Sumpul River'), _('Is north')),
     (_('Torola River'), _('Is northeast')),
     (_('Jiboa River'), _('Is southwest')),
-    (_('Gr. de San Miguel River'), _('Is southeast')),
+    (_('Grande de San Miguel River'), _('Is southeast')),
     (_('Goascorán River'), _('Is east')),
     (_('Guarajambala River'), _('Is northeast')),
     (_('Lake of Güija'), _('Is northwest')),

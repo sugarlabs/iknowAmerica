@@ -30,12 +30,12 @@ STATES = [
     (_('Brazil'), 233, 575, 860, 0),
     (_('Colombia'), 232, 146, 654, 0),
     (_('Guyana'), 231, 745, 531, 0),
-    (_('T. and Tobago'), 230, 700, 281, 0),
-    (_('Is. Aruba'), 229, 197, 151, 0),
-    (_('Is. Curacao'), 228, 256, 191, 0),
-    (_('Is. Bonaire'), 227, 292, 169, 0),
-    (_('Is. Tortuga'), 225, 460, 247, 0),
-    (_('Is. Margarita'), 224, 532, 230, 0)
+    (_('Trinidad and Tobago'), 230, 700, 281, 0),
+    (_('Aruba'), 229, 197, 151, 0),
+    (_('Curaçao'), 228, 256, 191, 0),
+    (_('Bonaire'), 227, 292, 169, 0),
+    (_('Tortuga'), 225, 460, 247, 0),
+    (_('Margarita Island'), 224, 532, 230, 0)
 ]
 
 CAPITALS = [
@@ -85,7 +85,7 @@ CITIES = [
     (_('Riecito'), 265, 252, 2, 10, -14),
     (_('San Fernando de Atabapo'), 332, 649, 2, 0, 14),
     (_('San Juan de Manapiare'), 412, 582, 2, 40, 14),
-    (_('Sta. Elena de Uairén'), 706, 614, 2, -5, 14),
+    (_('Santa Elena de Uairén'), 706, 614, 2, -5, 14),
     (_('Tumeremo'), 682, 463, 2, 0, 14)
 ]
 

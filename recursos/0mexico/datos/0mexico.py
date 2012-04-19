@@ -41,7 +41,7 @@ STATES = [
     (_('Honduras'), 219, 749, 663, 40),
     (_('El Salvador'), 218, 718, 714, 0),
     (_('Is. Cedros'), 217, 27, 285, 90),
-    (_('Is. Revillagígedo'), 216, 124, 542, 0),
+    (_('Revillagigedo Islands'), 216, 124, 542, 0),
     (_('Is. Marías'), 215, 230, 493, -50),
     (_('Is. Cozumel'), 214, 767, 511, 90)
 ]
@@ -107,7 +107,7 @@ CITIES = [
     (_('Rosarito'), 75, 285, 2, -20, 14),
     (_('Salina Cruz'), 545, 643, 2, 10, 14),
     (_('San Lucas'), 164, 450, 2, -15, 14),
-    (_('San Quintin'), 35, 229, 2, 15, 14),
+    (_('San Quintín'), 35, 229, 2, 15, 14),
     (_('Santa Rosalía'), 110, 327, 2, -45, 14),
     (_('Tapachula'), 625, 676, 2, 0, 14),
     (_('Tijuana'), 16, 174, 2, 15, 14),
@@ -117,7 +117,7 @@ CITIES = [
 
 RIVERS = [
     (_('Colorado River'), 254, 102, 130, 45),
-    (_('Yagui River'), 253, 170, 283, 70),
+    (_('Yaqui River'), 253, 170, 283, 70),
     (_('Grande River'), 252, 419, 306, -45),
     (_('Conchos River'), 251, 255, 300, 40),
     (_('Balsas River'), 250, 419, 606, 0),
@@ -135,7 +135,7 @@ ROUTES = []
 
 STATS = [
     (_('Capital:'), _('México') + _("(19º26' N - 99º08' W)")),
-    (_('Official language:'), _('Spanish')),
+    (_('Language:'), _('Spanish')),
     (_('Government:'), _('Federal republic')),
     (_('President:'), _('Felipe Calderón Hinojosa')),
     (_('Independence:'), _('from Spain')),

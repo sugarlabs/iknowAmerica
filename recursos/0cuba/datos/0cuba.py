@@ -8,7 +8,6 @@ STATES = [
     (_('Pinar del Río'), 254, 105, 357, 30),
     (_('Havana'), 253, 213, 333, 0),
     (_('Cienfuegos'), 252, 324, 382, 0),
-    (_('Ciudad de la Habana'), 251, 197, 300, 10),
     (_('Matanzas'), 250, 275, 350, 0),
     (_('Sanctí Spiritus'), 249, 394, 404, 45),
     (_('Villa Clara'), 248, 357, 349, -30),
@@ -19,22 +18,22 @@ STATES = [
     (_('Granma'), 243, 577, 527, 0),
     (_('Santiago de Cuba'), 242, 616, 558, 0),
     (_('Holguín'), 241, 626, 484, 0),
-    (_('Is. de la Juventud'), 240, 156, 447, 0),
+    (_('Isla de la Juventud'), 240, 156, 447, 0),
     (_('Cayman Islands'), 239, 312, 581, 0),
     (_('United States'), 238, 308, 134, 0),
     (_('Andros Island'), 237, 501, 216, -60),
-    (_('Is. Nueva Providencia'), 236, 538, 154, -45),
-    (_('Is. Eleuthera'), 235, 599, 156, -45),
-    (_('Is. Gato'), 234, 665, 216, 0),
+    (_('New Providence'), 236, 538, 154, -45),
+    (_('Eleuthera'), 235, 599, 156, -45),
+    (_('Cat Island'), 234, 665, 216, 0),
     (_('San Salvador'), 233, 716, 236, 0),
-    (_('Is. Gran Exuma'), 232, 613, 273, -45),
+    (_('Great Exuma'), 232, 613, 273, -45),
     (_('Long Island'), 231, 690, 306, -45),
-    (_('Is. Crooked'), 230, 737, 329, -45),
+    (_('Crooked Island'), 230, 737, 329, -45),
     (_('Haiti'), 229, 754, 662, 90),
     (_('Jamaica'), 228, 545, 685, 0),
     (_('Honduras'), 227, 87, 857, 0),
     (_('Grand Bahama Island'), 226, 444, 68, 0),
-    (_('Is. Abaco'), 225, 591, 48, 90)
+    (_('Abaco Islands'), 225, 591, 48, 90)
 ]
 
 CAPITALS = [

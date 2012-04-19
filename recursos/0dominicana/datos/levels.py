@@ -19,7 +19,7 @@ LEVEL1 = [
     (_('Hato Mayor'), _('Is east')),
     (_('Independencia'), _('Is southwest')),
     (_('María Trinidad Sánchez'), _('Is north')),
-    (_('Monsr. Nouel'), _('Is in the center')),
+    (_('Monseñor Nouel'), _('Is in the center')),
     (_('Monte Cristi'), _('Is northwest')),
     (_('Monte Plata'), _('Is east')),
     (_('Pedernales'), _('Is southwest')),
@@ -33,12 +33,12 @@ LEVEL1 = [
     (_('San Pedro de Macorís'), _('Is southeast')),
     (_('Sánchez Ramírez'), _('Is in the center')),
     (_('Santiago'), _('Is northwest')),
-    (_('Stgo. Rodríguez'), _('Is northwest')),
+    (_('Santiago Rodríguez'), _('Is northwest')),
     (_('El Seibo'), _('Is east')),
     (_('Valverde'), _('Is northwest')),
     (_('La Vega'), _('Is northwest')),
-    (_('S.J.de Ocoa'), _('Is south')),
-    (_('Sto. Domingo'), _('Is southeast'))
+    (_('San José de Ocoa'), _('Is south')),
+    (_('Santo Domingo'), _('Is southeast'))
 ]
 ]
 
@@ -73,7 +73,7 @@ LEVEL2 = [
     (_('Sabaneta'), _('Is northwest')),
     (_('Salcedo'), _('Is north')),
     (_('San Cristóbal'), _('Is south')),
-    (_('San Fsco. de Macoris'), _('Is north')),
+    (_('San Francisco de Macorís'), _('Is north')),
     (_('San José de Ocoa'), _('Is south')),
     (_('San Juan'), _('Is west')),
     (_('San Pedro de Macoris'), _('Is southeast')),
@@ -113,7 +113,7 @@ LEVEL3 = [
     (_('Sabaneta'), _('Is northwest')),
     (_('Salcedo'), _('Is north')),
     (_('San Cristóbal'), _('Is south')),
-    (_('San Fsco. de Macoris'), _('Is north')),
+    (_('San Francisco de Macorís'), _('Is north')),
     (_('San José de Ocoa'), _('Is south')),
     (_('San Juan'), _('Is west')),
     (_('San Pedro de Macoris'), _('Is southeast')),

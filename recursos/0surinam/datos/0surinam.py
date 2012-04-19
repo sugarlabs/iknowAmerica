@@ -9,7 +9,7 @@ STATES = [
     (_('Coronie'), 253, 355, 150, 0),
     (_('Saramacca'), 252, 454, 136, 45),
     (_('Wanica'), 251, 519, 126, 0),
-    (_('Comme-Wijne'), 250, 587, 114, 90),
+    (_('Commewijne'), 250, 587, 114, 90),
     (_('Para'), 249, 527, 177, 0),
     (_('Marowijne'), 248, 661, 152, 45),
     (_('Brokopondo'), 247, 540, 294, 90),
@@ -52,8 +52,8 @@ CITIES = [
 ]
 
 RIVERS = [
-    (_('Satamacca River'), 254, 444, 293, 70),
-    (_('Neckerie River'), 253, 268, 235, 35),
+    (_('Saramacca River'), 254, 444, 293, 70),
+    (_('Nickerie River'), 253, 268, 235, 35),
     (_('Coppename River'), 252, 404, 216, 75),
     (_('Suriname River'), 251, 441, 468, 40),
     (_('Commewijne River'), 250, 622, 146, -60),

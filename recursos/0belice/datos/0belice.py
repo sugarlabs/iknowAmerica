@@ -14,7 +14,7 @@ STATES = [
     (_('Mexico'), 248, 160, 91, 0),
     (_('Guatemala'), 247, 80, 548, 0),
     (_('Honduras'), 246, 628, 868, 0),
-    (_('Is. Turneffe'), 245, 646, 416, 60)
+    (_('Turneffe Islands'), 245, 646, 416, 60)
 ]
 
 CAPITALS = [
@@ -56,7 +56,6 @@ CITIES = [
     (_('Neustadt'), 219, 216, 2, -25, -14),
     (_('Pachacan'), 403, 50, 2, -50, 0),
     (_('Riversdale'), 452, 612, 2, -45, -14),
-    (_('S. Antonio'), 224, 760, 2, -25, -14),
     (_('San Antonio'), 226, 485, 2, 45, -14),
     (_('San Estevan'), 390, 131, 2, 45, 14),
     (_('San José'), 369, 120, 2, -50, 0),
@@ -76,7 +75,7 @@ RIVERS = [
     (_('Bravo River'), 251, 206, 284, 50),
     (_('Boothis River'), 250, 280, 305, 60),
     (_('Sibun River'), 249, 348, 449, 60),
-    (_('Belice River'), 248, 274, 412, 30),
+    (_('Belize River'), 248, 274, 412, 30),
     (_('Macal River'), 247, 232, 510, -80),
     (_('Raspaculo Branch River'), 246, 303, 588, 30),
     (_('Sarstoon River'), 245, 195, 864, 0),

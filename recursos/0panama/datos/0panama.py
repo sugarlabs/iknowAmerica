@@ -63,7 +63,7 @@ RIVERS = [
     (_('San Pablo River'), 253, 219, 399, -70),
     (_('Santa María River'), 252, 295, 397, -20),
     (_('Indio River'), 251, 372, 314, -80),
-    (_('Canal of Panamá'), 250, 449, 290, -50),
+    (_('Panamá Canal'), 250, 449, 290, -50),
     (_('Chepo River'), 249, 517, 281, 45),
     (_('Lake Bayano'), 248, 573, 275, 45),
     (_('Chucunaque River'), 247, 686, 340, -60),
