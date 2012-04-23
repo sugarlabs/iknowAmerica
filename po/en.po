@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-04-20 00:32-0400\n"
-"PO-Revision-Date: 2012-04-21 07:23+0200\n"
+"PO-Revision-Date: 2012-04-23 06:30+0200\n"
 "Last-Translator: Chris <cjl@laptop.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: en\n"
@@ -6827,7 +6827,7 @@ msgstr "USD 2.172 trillion (5th)"
 
 #: recursos/0brasil/datos/0brasil.py:149
 msgid "IDH:"
-msgstr ""
+msgstr "IDH:"
 
 #: recursos/0brasil/datos/0brasil.py:149
 msgid "High - 0,699 (73th)"
@@ -7020,7 +7020,7 @@ msgstr "34.124.781 (37th)"
 
 #: recursos/0canada/datos/0canada.py:121
 msgid "GPD:"
-msgstr ""
+msgstr "GPD:"
 
 #: recursos/0canada/datos/0canada.py:121
 msgid "USD 1.996.753 billion (13th)"
@@ -11398,7 +11398,6 @@ msgid "Donald Ramotar"
 msgstr "Donald Ramotar"
 
 #: recursos/0guyana/datos/0guyana.py:87
-#, fuzzy
 msgid "Prime minister:"
 msgstr "Prime Minister:"
 
