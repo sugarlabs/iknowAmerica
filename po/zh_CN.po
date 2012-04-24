@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-04-20 00:32-0400\n"
-"PO-Revision-Date: 2012-04-22 12:50+0200\n"
+"PO-Revision-Date: 2012-04-24 04:34+0200\n"
 "Last-Translator: lite <litekok@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: zh_CN\n"
@@ -3817,7 +3817,7 @@ msgstr "俄亥俄河"
 #: recursos/0eunidos/datos/0eunidos.py:160
 #: recursos/0eunidos/datos/levels.py:218
 msgid "Snake River"
-msgstr "蛇河"
+msgstr "斯内克河"
 
 #: recursos/0adelnorte/datos/0adelnorte.py:138
 #: recursos/0adelnorte/datos/levels.py:139
@@ -3835,29 +3835,29 @@ msgstr "萨斯喀彻温河"
 #: recursos/0adelnorte/datos/levels.py:141
 #: recursos/0canada/datos/0canada.py:83 recursos/0canada/datos/levels.py:104
 msgid "Nelson River"
-msgstr ""
+msgstr "纳尔逊河"
 
 #: recursos/0adelnorte/datos/0adelnorte.py:141
 #: recursos/0adelnorte/datos/levels.py:142
 #: recursos/0canada/datos/0canada.py:80 recursos/0canada/datos/levels.py:101
 msgid "Yukon River"
-msgstr ""
+msgstr "育空河"
 
 #: recursos/0adelnorte/datos/0adelnorte.py:142
 #: recursos/0adelnorte/datos/levels.py:143
 #: recursos/0canada/datos/0canada.py:81 recursos/0canada/datos/levels.py:102
 msgid "Mackenzie River"
-msgstr ""
+msgstr "麦肯齐河"
 
 #: recursos/0adelnorte/datos/0adelnorte.py:143
 #: recursos/0adelnorte/datos/levels.py:144
 msgid "Peace River"
-msgstr ""
+msgstr "皮斯河"
 
 #: recursos/0adelnorte/datos/0adelnorte.py:144
 #: recursos/0adelnorte/datos/levels.py:145
 msgid "Saint Lawrence River"
-msgstr ""
+msgstr "圣劳伦斯河"
 
 #: recursos/0adelnorte/datos/0adelnorte.py:145
 #: recursos/0adelnorte/datos/levels.py:146
@@ -3865,57 +3865,57 @@ msgstr ""
 #: recursos/0eunidos/datos/0eunidos.py:166
 #: recursos/0eunidos/datos/levels.py:224
 msgid "Hudson Bay"
-msgstr ""
+msgstr "哈德森湾"
 
 #: recursos/0adelnorte/datos/0adelnorte.py:146
 #: recursos/0adelnorte/datos/levels.py:147
 #: recursos/0canada/datos/0canada.py:102 recursos/0canada/datos/levels.py:123
 msgid "Baffin Bay"
-msgstr ""
+msgstr "巴芬湾"
 
 #: recursos/0adelnorte/datos/0adelnorte.py:147
 #: recursos/0adelnorte/datos/levels.py:148
 msgid "Strait of Davis"
-msgstr ""
+msgstr "戴维斯海峡"
 
 #: recursos/0adelnorte/datos/0adelnorte.py:148
 #: recursos/0adelnorte/datos/levels.py:149
 #: recursos/0canada/datos/0canada.py:101 recursos/0canada/datos/levels.py:122
 msgid "Labrador Sea"
-msgstr ""
+msgstr "拉布拉多海"
 
 #: recursos/0adelnorte/datos/0adelnorte.py:149
 #: recursos/0adelnorte/datos/levels.py:150
 #: recursos/0canada/datos/0canada.py:98 recursos/0canada/datos/levels.py:119
 msgid "Beaufort Sea"
-msgstr ""
+msgstr "波弗特海"
 
 #: recursos/0adelnorte/datos/0adelnorte.py:150
 #: recursos/0adelnorte/datos/levels.py:151
 msgid "Chukci Sea"
-msgstr ""
+msgstr "楚科奇海"
 
 #: recursos/0adelnorte/datos/0adelnorte.py:151
 #: recursos/0adelnorte/datos/levels.py:152
 #: recursos/0canada/datos/0canada.py:104 recursos/0canada/datos/levels.py:125
 msgid "Arctic Ocean"
-msgstr ""
+msgstr "北冰洋"
 
 #: recursos/0adelnorte/datos/0adelnorte.py:152
 #: recursos/0adelnorte/datos/levels.py:153
 msgid "Bering Sea"
-msgstr ""
+msgstr "白令海"
 
 #: recursos/0adelnorte/datos/0adelnorte.py:153
 #: recursos/0adelnorte/datos/levels.py:154
 msgid "Gulf of Alaska"
-msgstr ""
+msgstr "阿拉斯加湾"
 
 #: recursos/0adelnorte/datos/0adelnorte.py:154
 #: recursos/0adelnorte/datos/levels.py:155
 #: recursos/0mexico/datos/0mexico.py:131 recursos/0mexico/datos/levels.py:171
 msgid "Gulf of California"
-msgstr ""
+msgstr "加利福尼亚湾"
 
 #: recursos/0adelnorte/datos/0adelnorte.py:155
 #: recursos/0adelnorte/datos/levels.py:156
@@ -3923,14 +3923,14 @@ msgstr ""
 #: recursos/0eunidos/datos/levels.py:226 recursos/0mexico/datos/0mexico.py:128
 #: recursos/0mexico/datos/levels.py:168
 msgid "Campeche Bay"
-msgstr ""
+msgstr "坎佩切湾"
 
 #: recursos/0adelnorte/datos/0adelnorte.py:156
 #: recursos/0adelnorte/datos/levels.py:157
 #: recursos/0eunidos/datos/0eunidos.py:167
 #: recursos/0eunidos/datos/levels.py:225
 msgid "Gulf of Mexico"
-msgstr ""
+msgstr "墨西哥湾"
 
 #: recursos/0adelnorte/datos/0adelnorte.py:157
 #: recursos/0adelnorte/datos/levels.py:158
@@ -3962,7 +3962,7 @@ msgstr ""
 #: recursos/0venezuela/datos/0venezuela.py:112
 #: recursos/0venezuela/datos/levels.py:143
 msgid "Caribbean Sea"
-msgstr ""
+msgstr "加勒比海"
 
 #: recursos/0adelnorte/datos/0adelnorte.py:158
 #: recursos/0adelnorte/datos/levels.py:159
@@ -3991,12 +3991,12 @@ msgstr ""
 #: recursos/0venezuela/datos/0venezuela.py:113
 #: recursos/0venezuela/datos/levels.py:144
 msgid "Atlantic Ocean"
-msgstr ""
+msgstr "大西洋"
 
 #: recursos/0adelnorte/datos/0adelnorte.py:159
 #: recursos/0adelnorte/datos/levels.py:160
 msgid "St. Lawrence Gulf"
-msgstr ""
+msgstr "圣劳伦斯湾"
 
 #: recursos/0adelnorte/datos/0adelnorte.py:160
 #: recursos/0adelnorte/datos/levels.py:161
@@ -4026,13 +4026,13 @@ msgstr ""
 #: recursos/0panama/datos/0panama.py:83 recursos/0panama/datos/levels.py:106
 #: recursos/0peru/datos/0peru.py:128 recursos/0peru/datos/levels.py:166
 msgid "Pacific Ocean"
-msgstr ""
+msgstr "太平洋"
 
 #: recursos/0adelnorte/datos/0adelnorte.py:161
 #: recursos/0adelnorte/datos/levels.py:162
 #: recursos/0canada/datos/0canada.py:95 recursos/0canada/datos/levels.py:116
 msgid "Lake Winnipeg"
-msgstr ""
+msgstr "温尼伯湖"
 
 #: recursos/0adelnorte/datos/0adelnorte.py:162
 #: recursos/0adelnorte/datos/levels.py:163
@@ -4040,7 +4040,7 @@ msgstr ""
 #: recursos/0eunidos/datos/0eunidos.py:161
 #: recursos/0eunidos/datos/levels.py:219
 msgid "Lake Superior"
-msgstr ""
+msgstr "苏必利尔湖"
 
 #: recursos/0adelnorte/datos/0adelnorte.py:163
 #: recursos/0adelnorte/datos/levels.py:164
@@ -4048,7 +4048,7 @@ msgstr ""
 #: recursos/0eunidos/datos/0eunidos.py:162
 #: recursos/0eunidos/datos/levels.py:220
 msgid "Lake Michigan"
-msgstr ""
+msgstr "密歇根湖"
 
 #: recursos/0adelnorte/datos/0adelnorte.py:164
 #: recursos/0adelnorte/datos/levels.py:165
@@ -4056,13 +4056,13 @@ msgstr ""
 #: recursos/0eunidos/datos/0eunidos.py:165
 #: recursos/0eunidos/datos/levels.py:223
 msgid "Lake Huron"
-msgstr ""
+msgstr "休伦湖"
 
 #: recursos/0adelnorte/datos/0adelnorte.py:165
 #: recursos/0adelnorte/datos/levels.py:166
 #: recursos/0canada/datos/0canada.py:105 recursos/0canada/datos/levels.py:126
 msgid "Norwegian Sea"
-msgstr ""
+msgstr "挪威海"
 
 #: recursos/0adelnorte/datos/levels.py:10
 #: recursos/0adelnorte/datos/levels.py:33
@@ -4302,12 +4302,11 @@ msgstr ""
 #: recursos/0venezuela/datos/levels.py:97
 #: recursos/0venezuela/datos/levels.py:133
 msgid "Is in the center"
-msgstr ""
+msgstr "在中心"
 
 #: recursos/0adelsur/datos/0adelsur.py:5
-#, fuzzy
 msgid "South America"
-msgstr "北美"
+msgstr "南美"
 
 #: recursos/0adelsur/datos/0adelsur.py:8 recursos/0adelsur/datos/levels.py:10
 #: recursos/0argentina/datos/0argentina.py:32
@@ -4319,99 +4318,99 @@ msgstr "北美"
 #: recursos/0surinam/datos/0surinam.py:17
 #: recursos/0venezuela/datos/0venezuela.py:30
 msgid "Brazil"
-msgstr ""
+msgstr "巴西"
 
 #: recursos/0adelsur/datos/0adelsur.py:9 recursos/0adelsur/datos/levels.py:11
 #: recursos/0argentina/datos/0argentina.py:5
 #: recursos/0bolivia/datos/0bolivia.py:21 recursos/0brasil/datos/0brasil.py:43
 #: recursos/0chile/datos/0chile.py:23 recursos/0paraguay/datos/0paraguay.py:26
 msgid "Argentina"
-msgstr ""
+msgstr "阿根廷"
 
 #: recursos/0adelsur/datos/0adelsur.py:10 recursos/0adelsur/datos/levels.py:12
 #: recursos/0argentina/datos/0argentina.py:33
 #: recursos/0brasil/datos/0brasil.py:44 recursos/0uruguay/datos/0uruguay.py:5
 msgid "Uruguay"
-msgstr ""
+msgstr "乌拉圭"
 
 #: recursos/0adelsur/datos/0adelsur.py:11 recursos/0adelsur/datos/levels.py:13
 #: recursos/0argentina/datos/0argentina.py:34
 #: recursos/0bolivia/datos/0bolivia.py:19 recursos/0brasil/datos/0brasil.py:42
 #: recursos/0chile/datos/0chile.py:5
 msgid "Chile"
-msgstr ""
+msgstr "智利"
 
 #: recursos/0adelsur/datos/0adelsur.py:12 recursos/0adelsur/datos/levels.py:14
 #: recursos/0argentina/datos/0argentina.py:35
 #: recursos/0bolivia/datos/0bolivia.py:20 recursos/0brasil/datos/0brasil.py:41
 #: recursos/0paraguay/datos/0paraguay.py:5
 msgid "Paraguay"
-msgstr ""
+msgstr "巴拉圭"
 
 #: recursos/0adelsur/datos/0adelsur.py:13 recursos/0adelsur/datos/levels.py:15
 #: recursos/0bolivia/datos/0bolivia.py:5 recursos/0brasil/datos/0brasil.py:40
 #: recursos/0paraguay/datos/0paraguay.py:27 recursos/0peru/datos/0peru.py:35
 msgid "Bolivia"
-msgstr ""
+msgstr "玻利维亚"
 
 #: recursos/0adelsur/datos/0adelsur.py:14 recursos/0adelsur/datos/levels.py:16
 #: recursos/0bolivia/datos/0bolivia.py:18 recursos/0brasil/datos/0brasil.py:39
 #: recursos/0chile/datos/0chile.py:24 recursos/0colombia/datos/0colombia.py:43
 #: recursos/0ecuador/datos/0ecuador.py:31
 msgid "Perú"
-msgstr ""
+msgstr "秘鲁"
 
 #: recursos/0adelsur/datos/0adelsur.py:15 recursos/0adelsur/datos/levels.py:17
 #: recursos/0colombia/datos/0colombia.py:42
 #: recursos/0ecuador/datos/0ecuador.py:5 recursos/0peru/datos/0peru.py:33
 msgid "Ecuador"
-msgstr ""
+msgstr "厄瓜多尔"
 
 #: recursos/0adelsur/datos/0adelsur.py:18 recursos/0adelsur/datos/levels.py:20
 #: recursos/0brasil/datos/0brasil.py:36 recursos/0guyana/datos/0guyana.py:5
 #: recursos/0surinam/datos/0surinam.py:18
 #: recursos/0venezuela/datos/0venezuela.py:32
 msgid "Guyana"
-msgstr ""
+msgstr "圭亚那"
 
 #: recursos/0adelsur/datos/0adelsur.py:19 recursos/0adelsur/datos/levels.py:21
 #: recursos/0brasil/datos/0brasil.py:35
 #: recursos/0guayanafr/datos/0guayanafr.py:11
 #: recursos/0guyana/datos/0guyana.py:20 recursos/0surinam/datos/0surinam.py:5
 msgid "Suriname"
-msgstr ""
+msgstr "苏里南"
 
 #: recursos/0adelsur/datos/0adelsur.py:20 recursos/0adelsur/datos/levels.py:22
 #: recursos/0brasil/datos/0brasil.py:34
 #: recursos/0guayanafr/datos/0guayanafr.py:5
 #: recursos/0surinam/datos/0surinam.py:19
 msgid "French Guiana"
-msgstr ""
+msgstr "法属圭亚那"
 
 #: recursos/0adelsur/datos/0adelsur.py:25 recursos/0adelsur/datos/levels.py:23
 #: recursos/0argentina/datos/0argentina.py:30
 msgid "Falkland Islands"
-msgstr ""
+msgstr "福克兰群岛"
 
 #: recursos/0adelsur/datos/0adelsur.py:26 recursos/0adelsur/datos/levels.py:24
 msgid "South Georgia Islands"
-msgstr ""
+msgstr "南乔治亚岛"
 
 #: recursos/0adelsur/datos/0adelsur.py:27 recursos/0adelsur/datos/levels.py:25
 msgid "Juan Fernández Islands"
-msgstr ""
+msgstr "胡安·费尔南德斯群岛"
 
 #: recursos/0adelsur/datos/0adelsur.py:28 recursos/0adelsur/datos/levels.py:26
 msgid "San Félix Island"
-msgstr ""
+msgstr "圣费利克斯岛"
 
 #: recursos/0adelsur/datos/0adelsur.py:29 recursos/0adelsur/datos/levels.py:27
 msgid "San Ambrosio Island"
-msgstr ""
+msgstr "圣安布罗西奥岛"
 
 #: recursos/0adelsur/datos/0adelsur.py:30 recursos/0adelsur/datos/levels.py:28
 msgid "Malpelo Island"
-msgstr ""
+msgstr "马尔佩洛岛"
 
 #: recursos/0adelsur/datos/0adelsur.py:37 recursos/0adelsur/datos/levels.py:37
 #: recursos/0adelsur/datos/levels.py:58 recursos/0bolivia/datos/0bolivia.py:42
@@ -4422,7 +4421,7 @@ msgstr ""
 #: recursos/0paraguay/datos/levels.py:20 recursos/0paraguay/datos/levels.py:35
 #: recursos/0paraguay/datos/levels.py:60
 msgid "Asunción"
-msgstr ""
+msgstr "亚松森"
 
 #: recursos/0adelsur/datos/0adelsur.py:38 recursos/0adelsur/datos/levels.py:38
 #: recursos/0adelsur/datos/levels.py:59
@@ -4432,14 +4431,14 @@ msgstr ""
 #: recursos/0colombia/datos/levels.py:41 recursos/0colombia/datos/levels.py:50
 #: recursos/0colombia/datos/levels.py:89
 msgid "Bogotá"
-msgstr ""
+msgstr "波哥大"
 
 #: recursos/0adelsur/datos/0adelsur.py:39 recursos/0adelsur/datos/levels.py:39
 #: recursos/0adelsur/datos/levels.py:60 recursos/0brasil/datos/0brasil.py:45
 #: recursos/0brasil/datos/0brasil.py:49 recursos/0brasil/datos/0brasil.py:138
 #: recursos/0brasil/datos/levels.py:44 recursos/0brasil/datos/levels.py:79
 msgid "Brasilia"
-msgstr ""
+msgstr "巴西利亚"
 
 #: recursos/0adelsur/datos/0adelsur.py:40 recursos/0adelsur/datos/levels.py:40
 #: recursos/0adelsur/datos/levels.py:61
@@ -4452,7 +4451,7 @@ msgstr ""
 #: recursos/0costarica/datos/0costarica.py:35
 #: recursos/0costarica/datos/levels.py:52
 msgid "Buenos Aires"
-msgstr ""
+msgstr "布宜诺斯艾利斯"
 
 #: recursos/0adelsur/datos/0adelsur.py:41 recursos/0adelsur/datos/levels.py:41
 #: recursos/0adelsur/datos/levels.py:62
@@ -4461,7 +4460,7 @@ msgstr ""
 #: recursos/0venezuela/datos/levels.py:40
 #: recursos/0venezuela/datos/levels.py:71
 msgid "Caracas"
-msgstr ""
+msgstr "加拉加斯"
 
 #: recursos/0adelsur/datos/0adelsur.py:42 recursos/0adelsur/datos/levels.py:42
 #: recursos/0adelsur/datos/levels.py:63
@@ -4470,7 +4469,7 @@ msgstr ""
 #: recursos/0guayanafr/datos/0guayanafr.py:66
 #: recursos/0guayanafr/datos/levels.py:10
 msgid "Cayena"
-msgstr ""
+msgstr "卡纳海滩"
 
 #: recursos/0adelsur/datos/0adelsur.py:43 recursos/0adelsur/datos/levels.py:43
 #: recursos/0adelsur/datos/levels.py:64 recursos/0guyana/datos/0guyana.py:24
@@ -4478,7 +4477,7 @@ msgstr ""
 #: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:33
 #: recursos/0sanvicenteyg/datos/levels.py:40
 msgid "Georgetown"
-msgstr ""
+msgstr "乔治敦"
 
 #: recursos/0adelsur/datos/0adelsur.py:45 recursos/0adelsur/datos/levels.py:45
 #: recursos/0adelsur/datos/levels.py:66 recursos/0peru/datos/0peru.py:18
@@ -4486,7 +4485,7 @@ msgstr ""
 #: recursos/0peru/datos/levels.py:20 recursos/0peru/datos/levels.py:42
 #: recursos/0peru/datos/levels.py:75
 msgid "Lima"
-msgstr ""
+msgstr "利马"
 
 #: recursos/0adelsur/datos/0adelsur.py:46 recursos/0adelsur/datos/levels.py:46
 #: recursos/0adelsur/datos/levels.py:67 recursos/0uruguay/datos/0uruguay.py:23
@@ -4495,63 +4494,63 @@ msgstr ""
 #: recursos/0uruguay/datos/levels.py:28 recursos/0uruguay/datos/levels.py:55
 #: recursos/0uruguay/datos/levels.py:101
 msgid "Montevideo"
-msgstr ""
+msgstr "蒙得维的亚"
 
 #: recursos/0adelsur/datos/0adelsur.py:47 recursos/0adelsur/datos/levels.py:47
 #: recursos/0adelsur/datos/levels.py:68 recursos/0surinam/datos/0surinam.py:23
 #: recursos/0surinam/datos/0surinam.py:77 recursos/0surinam/datos/levels.py:27
 #: recursos/0surinam/datos/levels.py:44
 msgid "Paramaribo"
-msgstr ""
+msgstr "帕拉马里博"
 
 #: recursos/0adelsur/datos/0adelsur.py:48 recursos/0adelsur/datos/levels.py:48
 #: recursos/0adelsur/datos/levels.py:69 recursos/0ecuador/datos/0ecuador.py:35
 #: recursos/0ecuador/datos/0ecuador.py:140
 #: recursos/0ecuador/datos/levels.py:40 recursos/0ecuador/datos/levels.py:68
 msgid "Quito"
-msgstr ""
+msgstr "基多"
 
 #: recursos/0adelsur/datos/0adelsur.py:53 recursos/0adelsur/datos/levels.py:71
 #: recursos/0chile/datos/0chile.py:9 recursos/0chile/datos/0chile.py:30
 #: recursos/0chile/datos/levels.py:11 recursos/0chile/datos/levels.py:35
 msgid "Antofagasta"
-msgstr ""
+msgstr "安托法加斯塔"
 
 #: recursos/0adelsur/datos/0adelsur.py:54 recursos/0adelsur/datos/levels.py:72
 #: recursos/0peru/datos/0peru.py:27 recursos/0peru/datos/0peru.py:41
 #: recursos/0peru/datos/levels.py:29 recursos/0peru/datos/levels.py:44
 #: recursos/0peru/datos/levels.py:77
 msgid "Arequipa"
-msgstr ""
+msgstr "阿雷基帕"
 
 #: recursos/0adelsur/datos/0adelsur.py:55 recursos/0adelsur/datos/levels.py:73
 #: recursos/0chile/datos/0chile.py:41 recursos/0chile/datos/levels.py:46
 msgid "Arica"
-msgstr ""
+msgstr "阿里卡"
 
 #: recursos/0adelsur/datos/0adelsur.py:56 recursos/0adelsur/datos/levels.py:74
 #: recursos/0argentina/datos/0argentina.py:66
 #: recursos/0argentina/datos/levels.py:97
 msgid "Bahía Blanca"
-msgstr ""
+msgstr "布兰卡港"
 
 #: recursos/0adelsur/datos/0adelsur.py:57 recursos/0adelsur/datos/levels.py:75
 #: recursos/0brasil/datos/0brasil.py:51 recursos/0brasil/datos/levels.py:46
 #: recursos/0brasil/datos/levels.py:81
 msgid "Belém"
-msgstr ""
+msgstr "贝伦"
 
 #: recursos/0adelsur/datos/0adelsur.py:58 recursos/0adelsur/datos/levels.py:76
 #: recursos/0brasil/datos/0brasil.py:52 recursos/0brasil/datos/levels.py:47
 #: recursos/0brasil/datos/levels.py:82
 msgid "Belo Horizonte"
-msgstr ""
+msgstr "贝洛奥里藏特"
 
 #: recursos/0adelsur/datos/0adelsur.py:59 recursos/0adelsur/datos/levels.py:77
 #: recursos/0brasil/datos/0brasil.py:53 recursos/0brasil/datos/levels.py:48
 #: recursos/0brasil/datos/levels.py:83
 msgid "Boa Vista"
-msgstr ""
+msgstr "博阿维斯塔"
 
 #: recursos/0adelsur/datos/0adelsur.py:60 recursos/0adelsur/datos/levels.py:78
 #: recursos/0argentina/datos/0argentina.py:20
@@ -4563,38 +4562,38 @@ msgstr ""
 #: recursos/0colombia/datos/levels.py:16
 #: recursos/0nicaragua/datos/0nicaragua.py:145
 msgid "Córdoba"
-msgstr ""
+msgstr "科尔多瓦"
 
 #: recursos/0adelsur/datos/0adelsur.py:61 recursos/0adelsur/datos/levels.py:79
 #: recursos/0colombia/datos/0colombia.py:54
 #: recursos/0colombia/datos/levels.py:56 recursos/0colombia/datos/levels.py:95
 msgid "Cali"
-msgstr ""
+msgstr "卡利"
 
 #: recursos/0adelsur/datos/0adelsur.py:62 recursos/0adelsur/datos/levels.py:80
 #: recursos/0brasil/datos/0brasil.py:54 recursos/0brasil/datos/levels.py:49
 #: recursos/0brasil/datos/levels.py:84
 msgid "Campo Grande"
-msgstr ""
+msgstr "大坎普"
 
 #: recursos/0adelsur/datos/0adelsur.py:63 recursos/0adelsur/datos/levels.py:81
 #: recursos/0colombia/datos/0colombia.py:55
 #: recursos/0colombia/datos/levels.py:57 recursos/0colombia/datos/levels.py:96
 msgid "Cartagena"
-msgstr ""
+msgstr "卡塔赫纳"
 
 #: recursos/0adelsur/datos/0adelsur.py:64 recursos/0adelsur/datos/levels.py:82
 #: recursos/0bolivia/datos/0bolivia.py:13
 #: recursos/0bolivia/datos/0bolivia.py:28 recursos/0bolivia/datos/levels.py:15
 #: recursos/0bolivia/datos/levels.py:30 recursos/0bolivia/datos/levels.py:47
 msgid "Cochabamba"
-msgstr ""
+msgstr "科恰班巴"
 
 #: recursos/0adelsur/datos/0adelsur.py:65 recursos/0adelsur/datos/levels.py:83
 #: recursos/0argentina/datos/0argentina.py:67
 #: recursos/0argentina/datos/levels.py:98
 msgid "Comodoro Rivadavia"
-msgstr ""
+msgstr "科莫多罗·里瓦达维亚"
 
 #: recursos/0adelsur/datos/0adelsur.py:66 recursos/0adelsur/datos/levels.py:84
 #: recursos/0bolivia/datos/0bolivia.py:50 recursos/0bolivia/datos/levels.py:66
@@ -4606,97 +4605,97 @@ msgstr ""
 #: recursos/0paraguay/datos/levels.py:13 recursos/0paraguay/datos/levels.py:40
 #: recursos/0paraguay/datos/levels.py:65
 msgid "Concepción"
-msgstr ""
+msgstr "康塞普西翁"
 
 #: recursos/0adelsur/datos/0adelsur.py:67 recursos/0adelsur/datos/levels.py:85
 #: recursos/0brasil/datos/0brasil.py:55 recursos/0brasil/datos/levels.py:50
 #: recursos/0brasil/datos/levels.py:85
 msgid "Cuiabá"
-msgstr ""
+msgstr "库亚巴"
 
 #: recursos/0adelsur/datos/0adelsur.py:68 recursos/0adelsur/datos/levels.py:86
 #: recursos/0brasil/datos/0brasil.py:56 recursos/0brasil/datos/levels.py:51
 #: recursos/0brasil/datos/levels.py:86
 msgid "Curitiba"
-msgstr ""
+msgstr "库里蒂巴"
 
 #: recursos/0adelsur/datos/0adelsur.py:69 recursos/0adelsur/datos/levels.py:87
 #: recursos/0peru/datos/0peru.py:48 recursos/0peru/datos/levels.py:51
 #: recursos/0peru/datos/levels.py:84
 msgid "Cusco"
-msgstr ""
+msgstr "库斯科"
 
 #: recursos/0adelsur/datos/0adelsur.py:70 recursos/0adelsur/datos/levels.py:88
 #: recursos/0brasil/datos/0brasil.py:57 recursos/0brasil/datos/levels.py:52
 #: recursos/0brasil/datos/levels.py:87
 msgid "Florianópolis"
-msgstr ""
+msgstr "弗洛里亚诺波利斯"
 
 #: recursos/0adelsur/datos/0adelsur.py:71 recursos/0adelsur/datos/levels.py:89
 #: recursos/0brasil/datos/0brasil.py:58 recursos/0brasil/datos/levels.py:53
 #: recursos/0brasil/datos/levels.py:88
 msgid "Fortaleza"
-msgstr ""
+msgstr "福塔莱萨"
 
 #: recursos/0adelsur/datos/0adelsur.py:72 recursos/0adelsur/datos/levels.py:90
 #: recursos/0brasil/datos/0brasil.py:59 recursos/0brasil/datos/levels.py:54
 #: recursos/0brasil/datos/levels.py:89
 msgid "Goiania"
-msgstr ""
+msgstr "戈亚尼亚"
 
 #: recursos/0adelsur/datos/0adelsur.py:73 recursos/0adelsur/datos/levels.py:91
 #: recursos/0ecuador/datos/0ecuador.py:42 recursos/0ecuador/datos/levels.py:47
 #: recursos/0ecuador/datos/levels.py:75
 msgid "Guayaquil"
-msgstr ""
+msgstr "瓜亚基尔"
 
 #: recursos/0adelsur/datos/0adelsur.py:74 recursos/0adelsur/datos/levels.py:92
 #: recursos/0peru/datos/0peru.py:49 recursos/0peru/datos/levels.py:52
 #: recursos/0peru/datos/levels.py:85
 msgid "Huánuco"
-msgstr ""
+msgstr "瓦努科"
 
 #: recursos/0adelsur/datos/0adelsur.py:75 recursos/0adelsur/datos/levels.py:93
 #: recursos/0chile/datos/0chile.py:29 recursos/0chile/datos/levels.py:34
 msgid "Iquique"
-msgstr ""
+msgstr "伊基克"
 
 #: recursos/0adelsur/datos/0adelsur.py:76 recursos/0adelsur/datos/levels.py:94
 #: recursos/0peru/datos/0peru.py:54 recursos/0peru/datos/levels.py:57
 #: recursos/0peru/datos/levels.py:90
 msgid "Iquitos"
-msgstr ""
+msgstr "伊基托斯"
 
 #: recursos/0adelsur/datos/0adelsur.py:77 recursos/0adelsur/datos/levels.py:95
 #: recursos/0brasil/datos/0brasil.py:61 recursos/0brasil/datos/levels.py:56
 #: recursos/0brasil/datos/levels.py:91
 msgid "Macapá"
-msgstr ""
+msgstr "马卡帕"
 
 #: recursos/0adelsur/datos/0adelsur.py:78 recursos/0adelsur/datos/levels.py:96
 #: recursos/0brasil/datos/0brasil.py:62 recursos/0brasil/datos/levels.py:57
 #: recursos/0brasil/datos/levels.py:92
 msgid "Maceió"
-msgstr ""
+msgstr "马塞约"
 
 #: recursos/0adelsur/datos/0adelsur.py:79 recursos/0adelsur/datos/levels.py:97
 #: recursos/0brasil/datos/0brasil.py:63 recursos/0brasil/datos/levels.py:58
 #: recursos/0brasil/datos/levels.py:93
 msgid "Manaus"
-msgstr ""
+msgstr "马瑙斯"
 
 #: recursos/0adelsur/datos/0adelsur.py:80 recursos/0adelsur/datos/levels.py:98
 #: recursos/0argentina/datos/0argentina.py:74
 #: recursos/0argentina/datos/levels.py:105
 msgid "Mar del Plata"
-msgstr ""
+msgstr "马德普拉塔"
 
 #: recursos/0adelsur/datos/0adelsur.py:81 recursos/0adelsur/datos/levels.py:99
 #: recursos/0colombia/datos/0colombia.py:61
 #: recursos/0colombia/datos/levels.py:63
 #: recursos/0colombia/datos/levels.py:102
 msgid "Medellín"
-msgstr ""
+msgstr "麦德林"
 
 #: recursos/0adelsur/datos/0adelsur.py:82
 #: recursos/0adelsur/datos/levels.py:100
@@ -4706,32 +4705,32 @@ msgstr ""
 #: recursos/0argentina/datos/levels.py:48
 #: recursos/0argentina/datos/levels.py:80
 msgid "Mendoza"
-msgstr ""
+msgstr "门多萨"
 
 #: recursos/0adelsur/datos/0adelsur.py:83
 #: recursos/0adelsur/datos/levels.py:101 recursos/0brasil/datos/0brasil.py:64
 #: recursos/0brasil/datos/levels.py:59 recursos/0brasil/datos/levels.py:94
 msgid "Natal"
-msgstr ""
+msgstr "纳塔尔"
 
 #: recursos/0adelsur/datos/0adelsur.py:84
 #: recursos/0adelsur/datos/levels.py:102 recursos/0peru/datos/0peru.py:10
 #: recursos/0peru/datos/0peru.py:57 recursos/0peru/datos/levels.py:12
 #: recursos/0peru/datos/levels.py:60 recursos/0peru/datos/levels.py:93
 msgid "Piura"
-msgstr ""
+msgstr "皮乌拉"
 
 #: recursos/0adelsur/datos/0adelsur.py:85
 #: recursos/0adelsur/datos/levels.py:103 recursos/0brasil/datos/0brasil.py:66
 #: recursos/0brasil/datos/levels.py:61 recursos/0brasil/datos/levels.py:96
 msgid "Porto Alegre"
-msgstr ""
+msgstr "阿雷格里港"
 
 #: recursos/0adelsur/datos/0adelsur.py:86
 #: recursos/0adelsur/datos/levels.py:104 recursos/0brasil/datos/0brasil.py:67
 #: recursos/0brasil/datos/levels.py:62 recursos/0brasil/datos/levels.py:97
 msgid "Porto Velho"
-msgstr ""
+msgstr "波多韦柳"
 
 #: recursos/0adelsur/datos/0adelsur.py:87
 #: recursos/0adelsur/datos/levels.py:105
@@ -4741,25 +4740,25 @@ msgstr ""
 #: recursos/0nicaragua/datos/0nicaragua.py:78
 #: recursos/0nicaragua/datos/levels.py:103
 msgid "Potosí"
-msgstr ""
+msgstr "波托西"
 
 #: recursos/0adelsur/datos/0adelsur.py:88
 #: recursos/0adelsur/datos/levels.py:106 recursos/0chile/datos/0chile.py:38
 #: recursos/0chile/datos/levels.py:43
 msgid "Puerto Montt"
-msgstr ""
+msgstr "蒙特港"
 
 #: recursos/0adelsur/datos/0adelsur.py:89
 #: recursos/0adelsur/datos/levels.py:107 recursos/0chile/datos/0chile.py:40
 #: recursos/0chile/datos/levels.py:45
 msgid "Punta Arenas"
-msgstr ""
+msgstr "蓬塔阿雷纳斯"
 
 #: recursos/0adelsur/datos/0adelsur.py:90
 #: recursos/0adelsur/datos/levels.py:108 recursos/0brasil/datos/0brasil.py:68
 #: recursos/0brasil/datos/levels.py:63 recursos/0brasil/datos/levels.py:98
 msgid "Recife"
-msgstr ""
+msgstr "累西腓"
 
 #: recursos/0adelsur/datos/0adelsur.py:91
 #: recursos/0adelsur/datos/levels.py:109
@@ -4767,25 +4766,25 @@ msgstr ""
 #: recursos/0argentina/datos/levels.py:54
 #: recursos/0argentina/datos/levels.py:86
 msgid "Resistencia"
-msgstr ""
+msgstr "雷西斯滕"
 
 #: recursos/0adelsur/datos/0adelsur.py:92
 #: recursos/0adelsur/datos/levels.py:110 recursos/0brasil/datos/0brasil.py:69
 #: recursos/0brasil/datos/levels.py:64 recursos/0brasil/datos/levels.py:99
 msgid "Rio Branco"
-msgstr ""
+msgstr "里约布兰科"
 
 #: recursos/0adelsur/datos/0adelsur.py:93
 #: recursos/0adelsur/datos/levels.py:111 recursos/0brasil/datos/0brasil.py:23
 #: recursos/0brasil/datos/0brasil.py:70 recursos/0brasil/datos/levels.py:25
 #: recursos/0brasil/datos/levels.py:65 recursos/0brasil/datos/levels.py:100
 msgid "Rio de Janeiro"
-msgstr ""
+msgstr "里约热内卢"
 
 #: recursos/0adelsur/datos/0adelsur.py:94
 #: recursos/0adelsur/datos/levels.py:112
 msgid "Rio Gallegos"
-msgstr ""
+msgstr "里奥加耶戈斯"
 
 #: recursos/0adelsur/datos/0adelsur.py:95
 #: recursos/0adelsur/datos/levels.py:113
@@ -4795,7 +4794,7 @@ msgstr ""
 #: recursos/0argentina/datos/levels.py:55
 #: recursos/0argentina/datos/levels.py:87
 msgid "Salta"
-msgstr ""
+msgstr "萨尔塔"
 
 #: recursos/0adelsur/datos/0adelsur.py:96
 #: recursos/0adelsur/datos/levels.py:114 recursos/0uruguay/datos/0uruguay.py:9
@@ -4803,7 +4802,7 @@ msgstr ""
 #: recursos/0uruguay/datos/levels.py:38 recursos/0uruguay/datos/levels.py:70
 #: recursos/0uruguay/datos/levels.py:80 recursos/0uruguay/datos/levels.py:119
 msgid "Salto"
-msgstr ""
+msgstr "萨尔托"
 
 #: recursos/0adelsur/datos/0adelsur.py:97
 #: recursos/0adelsur/datos/levels.py:115 recursos/0brasil/datos/0brasil.py:71
