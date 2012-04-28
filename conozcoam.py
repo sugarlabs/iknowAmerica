@@ -358,7 +358,8 @@ class ConozcoAm():
                 except:
                     print _('Cannot open %s') % d
                 if f:
-                    self.listaNombreDirectorios.append(f.NAME)
+                    name = unicode(f.NAME, 'UTF-8')
+                    self.listaNombreDirectorios.append(name)
                     self.listaDirectorios.append(d)
 
     def loadCommons(self):
@@ -383,21 +384,37 @@ class ConozcoAm():
 
         if f:
             if hasattr(f, 'PREFIX'):
-                self.listaPrefijos = f.PREFIX
+                for e in f.PREFIX:
+                    e1 = unicode(e, 'UTF-8')
+                    self.listaPrefijos.append(e1)
             if hasattr(f, 'SUFIX'):
-                self.listaSufijos =  f.SUFIX
+                for e in f.SUFIX:
+                    e1 = unicode(e, 'UTF-8')
+                    self.listaSufijos.append(e1)  
             if hasattr(f, 'CORRECT'):
-                self.listaCorrecto = f.CORRECT
+                for e in f.CORRECT:
+                    e1 = unicode(e, 'UTF-8')
+                    self.listaCorrecto.append(e1)
             if hasattr(f, 'WRONG'):
-                self.listaMal = f.WRONG
+                for e in f.WRONG:
+                    e1 = unicode(e, 'UTF-8')
+                    self.listaMal.append(e1)
             if hasattr(f, 'BYE_C'):
-                self.listaDespedidasB = f.BYE_C
+                for e in f.BYE_C:
+                    e1 = unicode(e, 'UTF-8')
+                    self.listaDespedidasB.append(e1)
             if hasattr(f, 'BYE_W'):
-                self.listaDespedidasM = f.BYE_W
+                for e in f.BYE_W:
+                    e1 = unicode(e, 'UTF-8')
+                    self.listaDespedidasB.append(e1)
             if hasattr(f, 'PRESENTATION'):
-                self.listaPresentacion = f.PRESENTATION
+                for e in f.PRESENTATION:
+                    e1 = unicode(e, 'UTF-8')
+                    self.listaPresentacion.append(e1)
             if hasattr(f, 'CREDITS'):
-                self.listaCreditos = f.CREDITS
+                for e in f.CREDITS:
+                    e1 = unicode(e, 'UTF-8')
+                    self.listaCreditos.append(e1)
 
         self.numeroSufijos = len(self.listaSufijos)
         self.numeroPrefijos = len(self.listaPrefijos)
