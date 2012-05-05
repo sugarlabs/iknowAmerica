@@ -7,8 +7,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-04-25 00:32-0400\n"
-"PO-Revision-Date: 2012-05-03 09:53+0200\n"
-"Last-Translator: lite <litekok@gmail.com>\n"
+"PO-Revision-Date: 2012-05-05 07:32+0200\n"
+"Last-Translator: Xin <dram.wang@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
@@ -6597,267 +6597,264 @@ msgstr "阿拉卡茹"
 #: recursos/0brasil/datos/0brasil.py:60 recursos/0brasil/datos/levels.py:55
 #: recursos/0brasil/datos/levels.py:90
 msgid "Joao Pessoa"
-msgstr ""
+msgstr "若昂佩索阿"
 
 #: recursos/0brasil/datos/0brasil.py:65 recursos/0brasil/datos/levels.py:60
 #: recursos/0brasil/datos/levels.py:95
 msgid "Palmas"
-msgstr ""
+msgstr "拉斯帕尔马斯"
 
 #: recursos/0brasil/datos/0brasil.py:79 recursos/0brasil/datos/levels.py:106
 msgid "Altamira"
-msgstr ""
+msgstr "阿尔塔米拉"
 
 #: recursos/0brasil/datos/0brasil.py:80 recursos/0brasil/datos/levels.py:107
 msgid "Araguaina"
-msgstr ""
+msgstr "阿拉瓜伊纳"
 
 #: recursos/0brasil/datos/0brasil.py:81 recursos/0brasil/datos/levels.py:108
 msgid "Assis Brasil"
-msgstr ""
+msgstr "阿西斯巴西"
 
 #: recursos/0brasil/datos/0brasil.py:82 recursos/0brasil/datos/levels.py:109
 msgid "Barreiras"
-msgstr ""
+msgstr "巴雷拉斯"
 
 #: recursos/0brasil/datos/0brasil.py:83 recursos/0brasil/datos/levels.py:110
 msgid "Benjamín Constant"
-msgstr ""
+msgstr "邦雅曼·贡斯当"
 
 #: recursos/0brasil/datos/0brasil.py:84 recursos/0brasil/datos/levels.py:111
 msgid "Cáceres"
-msgstr ""
+msgstr "卡塞雷斯"
 
 #: recursos/0brasil/datos/0brasil.py:85 recursos/0brasil/datos/levels.py:112
 msgid "Cachimbó"
-msgstr ""
+msgstr "卡欣布"
 
 #: recursos/0brasil/datos/0brasil.py:86 recursos/0brasil/datos/levels.py:113
 msgid "Carajás"
-msgstr ""
+msgstr "卡拉加斯"
 
 #: recursos/0brasil/datos/0brasil.py:87 recursos/0brasil/datos/levels.py:114
 msgid "Careiro"
-msgstr ""
+msgstr "卡瑞罗"
 
 #: recursos/0brasil/datos/0brasil.py:88 recursos/0brasil/datos/levels.py:115
 msgid "Corumbá"
-msgstr ""
+msgstr "科伦巴"
 
 #: recursos/0brasil/datos/0brasil.py:89 recursos/0brasil/datos/levels.py:116
 msgid "Cruzeiro do Sul"
-msgstr ""
+msgstr "南克鲁塞罗"
 
 #: recursos/0brasil/datos/0brasil.py:90 recursos/0brasil/datos/levels.py:117
 msgid "Foz do Iguazú"
-msgstr ""
+msgstr "福斯伊瓜苏"
 
 #: recursos/0brasil/datos/0brasil.py:91 recursos/0brasil/datos/levels.py:118
 msgid "Guajara-Mirim"
-msgstr ""
+msgstr "瓜雅拉米林"
 
 #: recursos/0brasil/datos/0brasil.py:92 recursos/0brasil/datos/levels.py:119
 msgid "Humaitá"
-msgstr ""
+msgstr "乌迈塔"
 
 #: recursos/0brasil/datos/0brasil.py:93 recursos/0brasil/datos/levels.py:120
 msgid "Itaituba"
-msgstr ""
+msgstr "伊泰图巴"
 
 #: recursos/0brasil/datos/0brasil.py:94 recursos/0brasil/datos/levels.py:121
 msgid "Juazeiro"
-msgstr ""
+msgstr "儒亚泽罗"
 
 #: recursos/0brasil/datos/0brasil.py:95 recursos/0brasil/datos/levels.py:122
 #: recursos/0colombia/datos/0colombia.py:59
 #: recursos/0colombia/datos/levels.py:61
 #: recursos/0colombia/datos/levels.py:100
 msgid "Leticia"
-msgstr ""
+msgstr "莱蒂西亚"
 
 #: recursos/0brasil/datos/0brasil.py:96 recursos/0brasil/datos/levels.py:123
 msgid "Llhéus"
-msgstr ""
+msgstr "卢荷斯"
 
 #: recursos/0brasil/datos/0brasil.py:97 recursos/0brasil/datos/levels.py:124
 msgid "Marabá"
-msgstr ""
+msgstr "马拉巴"
 
 #: recursos/0brasil/datos/0brasil.py:98 recursos/0brasil/datos/levels.py:125
 msgid "Oiapoque"
-msgstr ""
+msgstr "奥亚波基"
 
 #: recursos/0brasil/datos/0brasil.py:99 recursos/0brasil/datos/levels.py:126
-#, fuzzy
 msgid "Panorama"
-msgstr "巴拿马"
+msgstr "帕诺马"
 
 #: recursos/0brasil/datos/0brasil.py:100 recursos/0brasil/datos/levels.py:127
 msgid "Parnaiba"
-msgstr ""
+msgstr "巴纳伊巴"
 
 #: recursos/0brasil/datos/0brasil.py:101 recursos/0brasil/datos/levels.py:128
 msgid "Picos"
-msgstr ""
+msgstr "皮库斯"
 
 #: recursos/0brasil/datos/0brasil.py:102 recursos/0brasil/datos/levels.py:129
 msgid "Ponta Pora"
-msgstr ""
+msgstr "蓬波拉"
 
 #: recursos/0brasil/datos/0brasil.py:103 recursos/0brasil/datos/levels.py:130
 msgid "Rio Grande"
-msgstr ""
+msgstr "里约格兰德"
 
 #: recursos/0brasil/datos/0brasil.py:104 recursos/0brasil/datos/levels.py:131
 msgid "Rondonópolis"
-msgstr ""
+msgstr "龙多诺波利斯"
 
 #: recursos/0brasil/datos/0brasil.py:105 recursos/0brasil/datos/levels.py:132
 msgid "Salgueiro"
-msgstr ""
+msgstr "萨尔盖罗"
 
 #: recursos/0brasil/datos/0brasil.py:106 recursos/0brasil/datos/levels.py:133
 msgid "Santa Fe do Sul"
-msgstr ""
+msgstr "南圣达菲"
 
 #: recursos/0brasil/datos/0brasil.py:107 recursos/0brasil/datos/levels.py:134
 msgid "Santa Maria"
-msgstr ""
+msgstr "圣玛丽亚"
 
 #: recursos/0brasil/datos/0brasil.py:109 recursos/0brasil/datos/levels.py:136
 msgid "Santos"
-msgstr ""
+msgstr "桑托斯"
 
 #: recursos/0brasil/datos/0brasil.py:111 recursos/0brasil/datos/levels.py:138
 msgid "Vitoria da Conquista"
-msgstr ""
+msgstr "维多利亚大孔基斯塔"
 
 #: recursos/0brasil/datos/0brasil.py:117 recursos/0brasil/datos/levels.py:149
 msgid "Purus River"
-msgstr ""
+msgstr "普鲁斯河"
 
 #: recursos/0brasil/datos/0brasil.py:120 recursos/0brasil/datos/levels.py:152
 msgid "Tapajos River"
-msgstr ""
+msgstr "塔帕若斯河"
 
 #: recursos/0brasil/datos/0brasil.py:121 recursos/0brasil/datos/levels.py:153
 msgid "Juruena River"
-msgstr ""
+msgstr "茹鲁埃纳河"
 
 #: recursos/0brasil/datos/0brasil.py:122 recursos/0brasil/datos/levels.py:154
 msgid "Teles Pires River"
-msgstr ""
+msgstr "特莱斯皮雷斯河"
 
 #: recursos/0brasil/datos/0brasil.py:124 recursos/0brasil/datos/levels.py:156
 msgid "Araguaia River"
-msgstr ""
+msgstr "阿拉瓜亚河"
 
 #: recursos/0brasil/datos/0brasil.py:125 recursos/0brasil/datos/levels.py:157
-#, fuzzy
 msgid "Tocantins River"
 msgstr "托坎廷斯河"
 
 #: recursos/0brasil/datos/0brasil.py:126 recursos/0brasil/datos/levels.py:158
-#, fuzzy
 msgid "Sao Francsico River"
 msgstr "圣弗朗西斯科河"
 
 #: recursos/0brasil/datos/0brasil.py:128 recursos/0brasil/datos/levels.py:160
 msgid "Paranaiba River"
-msgstr ""
+msgstr "巴拉那伊巴河"
 
 #: recursos/0brasil/datos/0brasil.py:138
 msgid "(15º45' S - 47º57' W)"
-msgstr ""
+msgstr "(15º45' 南 - 47º57' 西)"
 
 #: recursos/0brasil/datos/0brasil.py:139
 msgid "Portuguese"
-msgstr ""
+msgstr "葡萄牙"
 
 #: recursos/0brasil/datos/0brasil.py:141
 msgid "Dilma Rousseff"
-msgstr ""
+msgstr "迪尔玛罗塞夫"
 
 #: recursos/0brasil/datos/0brasil.py:142
 msgid "Michel Temer"
-msgstr ""
+msgstr "米歇尔·特梅尔"
 
 #: recursos/0brasil/datos/0brasil.py:143
 msgid "from Portugal"
-msgstr ""
+msgstr "自葡萄牙"
 
 #: recursos/0brasil/datos/0brasil.py:144
 msgid "7 of september of 1822"
-msgstr ""
+msgstr "1822年9月7日"
 
 #: recursos/0brasil/datos/0brasil.py:145
 msgid "29 of august of 1825"
-msgstr ""
+msgstr "1825年8月29日"
 
 #: recursos/0brasil/datos/0brasil.py:146
 msgid "8.514.877 km² (5th)"
-msgstr ""
+msgstr "8,514,877 平方公里 (第5名)"
 
 #: recursos/0brasil/datos/0brasil.py:147
 msgid "190.732.694 (5th)"
-msgstr ""
+msgstr "190,732,694 (第5名)"
 
 #: recursos/0brasil/datos/0brasil.py:148
 msgid "USD 2.172 trillion (5th)"
-msgstr ""
+msgstr "2.172万亿美元（第5名）"
 
 #: recursos/0brasil/datos/0brasil.py:149
 msgid "High - 0,699 (73th)"
-msgstr ""
+msgstr "高 - 0,699 (第73名)"
 
 #: recursos/0brasil/datos/0brasil.py:150
 msgid "Real"
-msgstr ""
+msgstr "瑞尔"
 
 #: recursos/0canada/datos/0canada.py:8 recursos/0canada/datos/levels.py:10
 msgid "Yukon"
-msgstr ""
+msgstr "育空"
 
 #: recursos/0canada/datos/0canada.py:9 recursos/0canada/datos/levels.py:11
 msgid "British Columbia"
-msgstr ""
+msgstr "不列颠哥伦比亚"
 
 #: recursos/0canada/datos/0canada.py:10 recursos/0canada/datos/levels.py:12
 msgid "Alberta"
-msgstr ""
+msgstr "阿尔伯塔"
 
 #: recursos/0canada/datos/0canada.py:11 recursos/0canada/datos/levels.py:13
 msgid "Saskatchewan"
-msgstr ""
+msgstr "萨斯喀彻温"
 
 #: recursos/0canada/datos/0canada.py:12 recursos/0canada/datos/levels.py:14
 msgid "Manitoba"
-msgstr ""
+msgstr "马尼托巴"
 
 #: recursos/0canada/datos/0canada.py:13 recursos/0canada/datos/levels.py:15
 msgid "Ontario"
-msgstr ""
+msgstr "安大略"
 
 #: recursos/0canada/datos/0canada.py:15 recursos/0canada/datos/0canada.py:27
 #: recursos/0canada/datos/levels.py:17
 msgid "Newfoundland"
-msgstr ""
+msgstr "纽芬兰"
 
 #: recursos/0canada/datos/0canada.py:16 recursos/0canada/datos/levels.py:18
 msgid "New Brunswick"
-msgstr ""
+msgstr "新不伦瑞克"
 
 #: recursos/0canada/datos/0canada.py:17 recursos/0canada/datos/levels.py:19
 msgid "Northwest Territories"
-msgstr ""
+msgstr "西北地区"
 
 #: recursos/0canada/datos/0canada.py:22 recursos/0canada/datos/levels.py:20
 msgid "Nova Scotia"
-msgstr ""
+msgstr "新斯科舍"
 
 #: recursos/0canada/datos/0canada.py:24
 msgid "Iceland"
-msgstr ""
+msgstr "冰岛"
 
 #: recursos/0canada/datos/0canada.py:40 recursos/0canada/datos/levels.py:38
 #: recursos/0canada/datos/levels.py:59
@@ -6871,11 +6868,11 @@ msgstr "维多利亚"
 
 #: recursos/0canada/datos/0canada.py:47 recursos/0canada/datos/levels.py:63
 msgid "Alert"
-msgstr ""
+msgstr "阿勒特"
 
 #: recursos/0canada/datos/0canada.py:50 recursos/0canada/datos/levels.py:66
 msgid "Chibougamau"
-msgstr ""
+msgstr "希布加莫"
 
 #: recursos/0canada/datos/0canada.py:51 recursos/0canada/datos/levels.py:67
 msgid "Chisasibi"
@@ -6883,59 +6880,57 @@ msgstr ""
 
 #: recursos/0canada/datos/0canada.py:55 recursos/0canada/datos/levels.py:71
 msgid "Fort Smith"
-msgstr ""
+msgstr "史密斯堡"
 
 #: recursos/0canada/datos/0canada.py:57 recursos/0canada/datos/levels.py:73
 msgid "Gander"
-msgstr ""
+msgstr "甘德"
 
 #: recursos/0canada/datos/0canada.py:59 recursos/0canada/datos/levels.py:75
 msgid "Hamilton"
-msgstr ""
+msgstr "汉密尔顿"
 
 #: recursos/0canada/datos/0canada.py:62 recursos/0canada/datos/levels.py:78
 msgid "Lethbridge"
-msgstr ""
+msgstr "莱斯布里奇"
 
 #: recursos/0canada/datos/0canada.py:63 recursos/0canada/datos/levels.py:79
-#, fuzzy
 msgid "Montreal"
 msgstr "蒙特利尔"
 
 #: recursos/0canada/datos/0canada.py:67 recursos/0canada/datos/levels.py:83
 msgid "Rankin Inlet"
-msgstr ""
+msgstr "兰金因莱特"
 
 #: recursos/0canada/datos/0canada.py:68 recursos/0canada/datos/levels.py:84
 msgid "Resolute"
-msgstr ""
+msgstr "雷索卢特"
 
 #: recursos/0canada/datos/0canada.py:71 recursos/0canada/datos/levels.py:87
 msgid "Sudbury"
-msgstr ""
+msgstr "萨德伯里"
 
 #: recursos/0canada/datos/0canada.py:76 recursos/0canada/datos/levels.py:92
 msgid "Windsor"
-msgstr ""
+msgstr "温莎"
 
 #: recursos/0canada/datos/0canada.py:85 recursos/0canada/datos/levels.py:106
 msgid "Lake Great Bear"
-msgstr ""
+msgstr "大熊湖"
 
 #: recursos/0canada/datos/0canada.py:86 recursos/0canada/datos/levels.py:107
 msgid "Lake Great Slave"
-msgstr ""
+msgstr "大奴湖"
 
 #: recursos/0canada/datos/0canada.py:87 recursos/0canada/datos/levels.py:108
 msgid "Lake Athabasca"
-msgstr ""
+msgstr "阿萨巴斯卡湖"
 
 #: recursos/0canada/datos/0canada.py:88 recursos/0canada/datos/levels.py:109
 msgid "Lake Reindeer"
-msgstr ""
+msgstr "赖恩迪尔湖"
 
 #: recursos/0canada/datos/0canada.py:89 recursos/0canada/datos/levels.py:110
-#, fuzzy
 msgid "St. Lawrence River"
 msgstr "圣劳伦斯河"
 
@@ -6943,26 +6938,25 @@ msgstr "圣劳伦斯河"
 #: recursos/0eunidos/datos/0eunidos.py:163
 #: recursos/0eunidos/datos/levels.py:221
 msgid "Lake Erie"
-msgstr ""
+msgstr "伊利湖"
 
 #: recursos/0canada/datos/0canada.py:94 recursos/0canada/datos/levels.py:115
 #: recursos/0eunidos/datos/0eunidos.py:164
 #: recursos/0eunidos/datos/levels.py:222
 msgid "Lake Ontario"
-msgstr ""
+msgstr "安大略湖"
 
 #: recursos/0canada/datos/0canada.py:99 recursos/0canada/datos/levels.py:120
-#, fuzzy
 msgid "Chukchi Sea"
 msgstr "楚科奇海"
 
 #: recursos/0canada/datos/0canada.py:100 recursos/0canada/datos/levels.py:121
 msgid "Greenland Sea"
-msgstr ""
+msgstr "格陵兰海"
 
 #: recursos/0canada/datos/0canada.py:111
 msgid "(45º24' N - 75º40' W)"
-msgstr ""
+msgstr "(45º24' N - 75º40' W)"
 
 #: recursos/0canada/datos/0canada.py:112
 msgid "English and French"
@@ -6981,15 +6975,15 @@ msgstr ""
 #: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:61
 #: recursos/0tytobago/datos/0tytobago.py:78
 msgid "from United Kingdom"
-msgstr ""
+msgstr "来自英国"
 
 #: recursos/0canada/datos/0canada.py:117
 msgid "1st of july of 1867"
-msgstr ""
+msgstr "1867年7月1日"
 
 #: recursos/0canada/datos/0canada.py:118
 msgid "11 of december of 1931"
-msgstr ""
+msgstr "1931年12月11日"
 
 #: recursos/0canada/datos/0canada.py:119
 msgid "9.984.670 km² (2nd)"
@@ -7013,19 +7007,19 @@ msgstr ""
 
 #: recursos/0canada/datos/0canada.py:123
 msgid "Canadian dollar"
-msgstr ""
+msgstr "加拿大元"
 
 #: recursos/0chile/datos/0chile.py:8 recursos/0chile/datos/levels.py:10
 msgid "Tarapacá"
-msgstr ""
+msgstr "塔拉帕卡"
 
 #: recursos/0chile/datos/0chile.py:10 recursos/0chile/datos/levels.py:12
 msgid "Atacama"
-msgstr ""
+msgstr "阿塔卡马"
 
 #: recursos/0chile/datos/0chile.py:11 recursos/0chile/datos/levels.py:13
 msgid "Coquimbo"
-msgstr ""
+msgstr "科金博"
 
 #: recursos/0chile/datos/0chile.py:13 recursos/0chile/datos/levels.py:15
 msgid "Metropolitana"
@@ -7329,8 +7323,9 @@ msgstr ""
 #: recursos/0colombia/datos/0colombia.py:64
 #: recursos/0colombia/datos/levels.py:66
 #: recursos/0colombia/datos/levels.py:105
+#, fuzzy
 msgid "Monteria"
-msgstr ""
+msgstr "蒙特罗"
 
 #: recursos/0colombia/datos/0colombia.py:65
 #: recursos/0colombia/datos/levels.py:67
@@ -7385,8 +7380,9 @@ msgstr ""
 #: recursos/0colombia/datos/0colombia.py:73
 #: recursos/0colombia/datos/levels.py:75
 #: recursos/0colombia/datos/levels.py:114
+#, fuzzy
 msgid "Santa Marta"
-msgstr ""
+msgstr "圣玛丽亚"
 
 #: recursos/0colombia/datos/0colombia.py:74
 #: recursos/0colombia/datos/levels.py:76
@@ -7553,8 +7549,9 @@ msgstr "马德拉河"
 
 #: recursos/0colombia/datos/0colombia.py:110
 #: recursos/0colombia/datos/levels.py:153
+#, fuzzy
 msgid "Vichada River"
-msgstr ""
+msgstr "维阿塔河"
 
 #: recursos/0colombia/datos/0colombia.py:111
 #: recursos/0colombia/datos/levels.py:154
@@ -7601,8 +7598,9 @@ msgstr ""
 
 #: recursos/0colombia/datos/0colombia.py:120
 #: recursos/0colombia/datos/levels.py:163
+#, fuzzy
 msgid "Cauca River"
-msgstr ""
+msgstr "马莫雷河"
 
 #: recursos/0colombia/datos/0colombia.py:122
 #: recursos/0colombia/datos/levels.py:165
@@ -7623,13 +7621,15 @@ msgstr ""
 
 #: recursos/0colombia/datos/0colombia.py:123
 #: recursos/0colombia/datos/levels.py:166
+#, fuzzy
 msgid "Atrato River"
-msgstr ""
+msgstr "布拉沃河"
 
 #: recursos/0colombia/datos/0colombia.py:124
 #: recursos/0colombia/datos/levels.py:167
+#, fuzzy
 msgid "Sinú River"
-msgstr ""
+msgstr "奇科河"
 
 #: recursos/0colombia/datos/0colombia.py:125
 #: recursos/0colombia/datos/levels.py:168
@@ -7640,8 +7640,9 @@ msgstr ""
 #: recursos/0colombia/datos/levels.py:169
 #: recursos/0venezuela/datos/0venezuela.py:94
 #: recursos/0venezuela/datos/levels.py:125
+#, fuzzy
 msgid "Arauca River"
-msgstr ""
+msgstr "阿拉瓜亚河"
 
 #: recursos/0colombia/datos/0colombia.py:135
 msgid "(4º39' N - 74º3' W)"
@@ -7661,8 +7662,9 @@ msgid "20 of july of 1810"
 msgstr "1816年7月9日"
 
 #: recursos/0colombia/datos/0colombia.py:142
+#, fuzzy
 msgid "7 of august of 1819"
-msgstr ""
+msgstr "1825年8月6日"
 
 #: recursos/0colombia/datos/0colombia.py:143
 msgid "1.141.748 km² (26th)"
@@ -7673,12 +7675,14 @@ msgid "45.925.397 (28th)"
 msgstr ""
 
 #: recursos/0colombia/datos/0colombia.py:145
+#, fuzzy
 msgid "USD 404.995 billion (27th)"
-msgstr ""
+msgstr "479.80亿美元（第87名）"
 
 #: recursos/0colombia/datos/0colombia.py:146
+#, fuzzy
 msgid "High - 0,689 (79th)"
-msgstr ""
+msgstr "高 - 0,699 (第73名)"
 
 #: recursos/0costarica/datos/0costarica.py:8
 #: recursos/0costarica/datos/levels.py:10
@@ -7726,8 +7730,9 @@ msgstr "蓬塔阿雷纳斯"
 #: recursos/0costarica/datos/0costarica.py:24
 #: recursos/0costarica/datos/levels.py:29
 #: recursos/0costarica/datos/levels.py:44
+#, fuzzy
 msgid "Liberia"
-msgstr ""
+msgstr "利伯塔德"
 
 #: recursos/0costarica/datos/0costarica.py:30
 #: recursos/0costarica/datos/levels.py:47
@@ -8172,8 +8177,9 @@ msgstr ""
 
 #: recursos/0costarica/datos/0costarica.py:126
 #: recursos/0costarica/datos/levels.py:148
+#, fuzzy
 msgid "San Carlos River"
-msgstr ""
+msgstr "圣马丁河"
 
 #: recursos/0costarica/datos/0costarica.py:127
 #: recursos/0costarica/datos/levels.py:149
@@ -8272,8 +8278,9 @@ msgstr ""
 #: recursos/0guatemala/datos/0guatemala.py:161
 #: recursos/0honduras/datos/0honduras.py:132
 #: recursos/0nicaragua/datos/0nicaragua.py:139
+#, fuzzy
 msgid "15 of september of 1821"
-msgstr ""
+msgstr "1822年9月7日"
 
 #: recursos/0costarica/datos/0costarica.py:156
 msgid "51.100 km² (129th)"
@@ -8284,8 +8291,9 @@ msgid "4.615.518 (115th)"
 msgstr ""
 
 #: recursos/0costarica/datos/0costarica.py:158
+#, fuzzy
 msgid "USD 52.885 billion (84th)"
-msgstr ""
+msgstr "479.80亿美元（第87名）"
 
 #: recursos/0costarica/datos/0costarica.py:159
 #, fuzzy
@@ -8622,8 +8630,9 @@ msgstr ""
 #: recursos/0dominicana/datos/levels.py:27
 #: recursos/0dominicana/datos/levels.py:72
 #: recursos/0dominicana/datos/levels.py:112
+#, fuzzy
 msgid "Puerto Plata"
-msgstr ""
+msgstr "波多黎各希思"
 
 #: recursos/0dominicana/datos/0dominicana.py:26
 #: recursos/0dominicana/datos/0dominicana.py:59
@@ -8715,8 +8724,9 @@ msgstr ""
 #: recursos/0dominicana/datos/0dominicana.py:48
 #: recursos/0dominicana/datos/levels.py:52
 #: recursos/0dominicana/datos/levels.py:92
+#, fuzzy
 msgid "Bani"
-msgstr ""
+msgstr "贝尼"
 
 #: recursos/0dominicana/datos/0dominicana.py:50
 #: recursos/0dominicana/datos/levels.py:54
@@ -8867,13 +8877,15 @@ msgstr ""
 
 #: recursos/0dominicana/datos/0dominicana.py:93
 #: recursos/0dominicana/datos/levels.py:139
+#, fuzzy
 msgid "Macasia River"
-msgstr ""
+msgstr "马可河"
 
 #: recursos/0dominicana/datos/0dominicana.py:94
 #: recursos/0dominicana/datos/levels.py:140
+#, fuzzy
 msgid "Yuna River"
-msgstr ""
+msgstr "马德拉河"
 
 #: recursos/0dominicana/datos/0dominicana.py:95
 #: recursos/0dominicana/datos/levels.py:141
@@ -8892,13 +8904,15 @@ msgstr ""
 
 #: recursos/0dominicana/datos/0dominicana.py:99
 #: recursos/0dominicana/datos/levels.py:145
+#, fuzzy
 msgid "Ocoa River"
-msgstr ""
+msgstr "伊乔阿河"
 
 #: recursos/0dominicana/datos/0dominicana.py:100
 #: recursos/0dominicana/datos/levels.py:146
+#, fuzzy
 msgid "Haina River"
-msgstr ""
+msgstr "马德拉河"
 
 #: recursos/0dominicana/datos/0dominicana.py:101
 #: recursos/0dominicana/datos/levels.py:147
@@ -8908,8 +8922,9 @@ msgstr "巴拉那河"
 
 #: recursos/0dominicana/datos/0dominicana.py:102
 #: recursos/0dominicana/datos/levels.py:148
+#, fuzzy
 msgid "Yuma River"
-msgstr ""
+msgstr "雅库马河"
 
 #: recursos/0dominicana/datos/0dominicana.py:103
 #: recursos/0dominicana/datos/levels.py:149
@@ -8919,13 +8934,15 @@ msgstr "马拉尼翁河"
 
 #: recursos/0dominicana/datos/0dominicana.py:104
 #: recursos/0dominicana/datos/levels.py:150
+#, fuzzy
 msgid "Soco River"
-msgstr ""
+msgstr "奇科河"
 
 #: recursos/0dominicana/datos/0dominicana.py:105
 #: recursos/0dominicana/datos/levels.py:151
+#, fuzzy
 msgid "Iguamo River"
-msgstr ""
+msgstr "马莫雷河"
 
 #: recursos/0dominicana/datos/0dominicana.py:113
 msgid "(18º28' N - 69º54' W)"
@@ -8960,8 +8977,9 @@ msgid "USD 93.095 billion (71th)"
 msgstr ""
 
 #: recursos/0dominicana/datos/0dominicana.py:123
+#, fuzzy
 msgid "Medium - 0,783 (88th)"
-msgstr ""
+msgstr "中 - 0,643（第95名）"
 
 #: recursos/0dominicana/datos/levels.py:144
 msgid "Lake Enriquillo"
@@ -9272,13 +9290,15 @@ msgstr ""
 
 #: recursos/0ecuador/datos/0ecuador.py:91
 #: recursos/0ecuador/datos/levels.py:126
+#, fuzzy
 msgid "Guayusa River"
-msgstr ""
+msgstr "马莫雷河"
 
 #: recursos/0ecuador/datos/0ecuador.py:92
 #: recursos/0ecuador/datos/levels.py:127
+#, fuzzy
 msgid "Cunambo River"
-msgstr ""
+msgstr "马莫雷河"
 
 #: recursos/0ecuador/datos/0ecuador.py:93
 #: recursos/0ecuador/datos/levels.py:128 recursos/0peru/datos/0peru.py:106
@@ -9317,8 +9337,9 @@ msgstr ""
 
 #: recursos/0ecuador/datos/0ecuador.py:99
 #: recursos/0ecuador/datos/levels.py:134
+#, fuzzy
 msgid "Numbala River"
-msgstr ""
+msgstr "巴拉那河"
 
 #: recursos/0ecuador/datos/0ecuador.py:100
 #: recursos/0ecuador/datos/levels.py:135
@@ -9429,8 +9450,9 @@ msgstr ""
 
 #: recursos/0ecuador/datos/0ecuador.py:122
 #: recursos/0ecuador/datos/levels.py:157
+#, fuzzy
 msgid "Coca River"
-msgstr ""
+msgstr "奇科河"
 
 #: recursos/0ecuador/datos/0ecuador.py:124
 #: recursos/0ecuador/datos/levels.py:159
@@ -9439,8 +9461,9 @@ msgstr ""
 
 #: recursos/0ecuador/datos/0ecuador.py:125
 #: recursos/0ecuador/datos/levels.py:160
+#, fuzzy
 msgid "Aguarico River"
-msgstr ""
+msgstr "俄亥俄河"
 
 #: recursos/0ecuador/datos/0ecuador.py:126
 #: recursos/0ecuador/datos/levels.py:161
@@ -9787,8 +9810,9 @@ msgstr "海里弗"
 
 #: recursos/0elsalvador/datos/0elsalvador.py:81
 #: recursos/0elsalvador/datos/levels.py:110
+#, fuzzy
 msgid "Lempa River"
-msgstr ""
+msgstr "巴拉那河"
 
 #: recursos/0elsalvador/datos/0elsalvador.py:82
 #: recursos/0elsalvador/datos/levels.py:111
@@ -9797,8 +9821,9 @@ msgstr ""
 
 #: recursos/0elsalvador/datos/0elsalvador.py:83
 #: recursos/0elsalvador/datos/levels.py:112
+#, fuzzy
 msgid "Torola River"
-msgstr ""
+msgstr "马莫雷河"
 
 #: recursos/0elsalvador/datos/0elsalvador.py:84
 #: recursos/0elsalvador/datos/levels.py:113
@@ -9867,12 +9892,14 @@ msgid "5.744.113 (97th)"
 msgstr ""
 
 #: recursos/0elsalvador/datos/0elsalvador.py:109
+#, fuzzy
 msgid "USD 11.145 billion (88th)"
-msgstr ""
+msgstr "479.80亿美元（第87名）"
 
 #: recursos/0elsalvador/datos/0elsalvador.py:110
+#, fuzzy
 msgid "Medium - 0,659 (90th)"
-msgstr ""
+msgstr "中 - 0,643（第95名）"
 
 #: recursos/0elsalvador/datos/levels.py:36
 #: recursos/0elsalvador/datos/levels.py:58
@@ -10357,8 +10384,9 @@ msgid "4 of july of 1776"
 msgstr "1816年7月9日"
 
 #: recursos/0eunidos/datos/0eunidos.py:184
+#, fuzzy
 msgid "3 of september of 1783"
-msgstr ""
+msgstr "1981年9月21日"
 
 #: recursos/0eunidos/datos/0eunidos.py:185
 msgid "9.826.675 km² (3rd)"
@@ -10859,8 +10887,9 @@ msgstr "奇科河"
 
 #: recursos/0guatemala/datos/0guatemala.py:137
 #: recursos/0guatemala/datos/levels.py:172
+#, fuzzy
 msgid "Sarstún River"
-msgstr ""
+msgstr "沙士顿河"
 
 #: recursos/0guatemala/datos/0guatemala.py:138
 #: recursos/0guatemala/datos/levels.py:173
@@ -11101,8 +11130,9 @@ msgstr ""
 
 #: recursos/0guayanafr/datos/0guayanafr.py:50
 #: recursos/0guayanafr/datos/levels.py:47
+#, fuzzy
 msgid "Arataya River"
-msgstr ""
+msgstr "阿拉瓜亚河"
 
 #: recursos/0guayanafr/datos/0guayanafr.py:51
 #: recursos/0guayanafr/datos/levels.py:48
@@ -11134,8 +11164,9 @@ msgstr "马莫雷河"
 
 #: recursos/0guayanafr/datos/0guayanafr.py:56
 #: recursos/0guayanafr/datos/levels.py:53
+#, fuzzy
 msgid "Tanpok River"
-msgstr ""
+msgstr "马莫雷河"
 
 #: recursos/0guayanafr/datos/0guayanafr.py:57
 #: recursos/0guayanafr/datos/levels.py:54
@@ -11152,12 +11183,14 @@ msgstr ""
 #: recursos/0guayanafr/datos/0guayanafr.py:59
 #: recursos/0guayanafr/datos/levels.py:56
 #: recursos/0surinam/datos/0surinam.py:61 recursos/0surinam/datos/levels.py:84
+#, fuzzy
 msgid "Lawa River"
-msgstr ""
+msgstr "马德拉河"
 
 #: recursos/0guayanafr/datos/0guayanafr.py:66
+#, fuzzy
 msgid "(4º56' N - 52º19' W)"
-msgstr ""
+msgstr "(34º40' 南 - 58º24' 西)"
 
 #: recursos/0guayanafr/datos/0guayanafr.py:67
 #: recursos/0haiti/datos/0haiti.py:100
@@ -11182,8 +11215,9 @@ msgid "230.000 (187th)"
 msgstr ""
 
 #: recursos/0guayanafr/datos/0guayanafr.py:72
+#, fuzzy
 msgid "USD 1.151 billion (181th)"
-msgstr ""
+msgstr "2,046亿美元（第166名）"
 
 #: recursos/0guayanafr/datos/0guayanafr.py:73
 msgid "-- (--th)"
@@ -11302,8 +11336,9 @@ msgid "Mahdia"
 msgstr ""
 
 #: recursos/0guyana/datos/0guyana.py:45 recursos/0guyana/datos/levels.py:48
+#, fuzzy
 msgid "Mara"
-msgstr ""
+msgstr "帕拉"
 
 #: recursos/0guyana/datos/0guyana.py:46 recursos/0guyana/datos/levels.py:49
 msgid "Matthews Ridge"
@@ -11374,24 +11409,28 @@ msgid "Essequibo River"
 msgstr ""
 
 #: recursos/0guyana/datos/0guyana.py:65 recursos/0guyana/datos/levels.py:73
+#, fuzzy
 msgid "Kuyuwini River"
-msgstr ""
+msgstr "巴拉那河"
 
 #: recursos/0guyana/datos/0guyana.py:66 recursos/0guyana/datos/levels.py:74
 msgid "Rupununi River"
 msgstr ""
 
 #: recursos/0guyana/datos/0guyana.py:67 recursos/0guyana/datos/levels.py:75
+#, fuzzy
 msgid "Rewa River"
-msgstr ""
+msgstr "新河"
 
 #: recursos/0guyana/datos/0guyana.py:68 recursos/0guyana/datos/levels.py:76
+#, fuzzy
 msgid "Potaro River"
-msgstr ""
+msgstr "马莫雷河"
 
 #: recursos/0guyana/datos/0guyana.py:69 recursos/0guyana/datos/levels.py:77
+#, fuzzy
 msgid "Tacutu River"
-msgstr ""
+msgstr "雅库马河"
 
 #: recursos/0guyana/datos/0guyana.py:70 recursos/0guyana/datos/levels.py:78
 msgid "Demerara River"
@@ -11408,8 +11447,9 @@ msgid "Berbice River"
 msgstr "贝尼河"
 
 #: recursos/0guyana/datos/0guyana.py:74 recursos/0guyana/datos/levels.py:82
+#, fuzzy
 msgid "Amakura River"
-msgstr ""
+msgstr "马莫雷河"
 
 #: recursos/0guyana/datos/0guyana.py:75 recursos/0guyana/datos/levels.py:83
 #, fuzzy
@@ -11426,8 +11466,9 @@ msgid "(6º49' N - 58º9' W)"
 msgstr ""
 
 #: recursos/0guyana/datos/0guyana.py:85
+#, fuzzy
 msgid "Semi-Presidential Republic"
-msgstr ""
+msgstr "总统制共和国"
 
 #: recursos/0guyana/datos/0guyana.py:86
 msgid "Donald Ramotar"
@@ -11454,12 +11495,14 @@ msgid "784.894 (161th)"
 msgstr ""
 
 #: recursos/0guyana/datos/0guyana.py:92
+#, fuzzy
 msgid "USD 3.082 billion (158th)"
-msgstr ""
+msgstr "2,046亿美元（第166名）"
 
 #: recursos/0guyana/datos/0guyana.py:93
+#, fuzzy
 msgid "Medium - 0,611 (104th)"
-msgstr ""
+msgstr "中 - 0,643（第95名）"
 
 #: recursos/0guyana/datos/0guyana.py:94
 msgid "Guyanese dollar"
@@ -11783,8 +11826,9 @@ msgid "9.800.000 (90th)"
 msgstr ""
 
 #: recursos/0haiti/datos/0haiti.py:108
+#, fuzzy
 msgid "USD 11.056 billion (138th)"
-msgstr ""
+msgstr "2,046亿美元（第166名）"
 
 #: recursos/0haiti/datos/0haiti.py:109
 msgid "Low - 0,404 (145th)"
@@ -12116,8 +12160,9 @@ msgstr ""
 
 #: recursos/0honduras/datos/0honduras.py:103
 #: recursos/0honduras/datos/levels.py:129
+#, fuzzy
 msgid "Grande de Otoro River"
-msgstr ""
+msgstr "大德里皮茨河"
 
 #: recursos/0honduras/datos/0honduras.py:104
 #: recursos/0honduras/datos/levels.py:130
@@ -12126,8 +12171,9 @@ msgstr ""
 
 #: recursos/0honduras/datos/0honduras.py:105
 #: recursos/0honduras/datos/levels.py:131
+#, fuzzy
 msgid "Humuya River"
-msgstr ""
+msgstr "马莫雷河"
 
 #: recursos/0honduras/datos/0honduras.py:106
 #: recursos/0honduras/datos/levels.py:132
@@ -12158,8 +12204,9 @@ msgstr ""
 
 #: recursos/0honduras/datos/0honduras.py:111
 #: recursos/0honduras/datos/levels.py:137
+#, fuzzy
 msgid "Patuca River"
-msgstr ""
+msgstr "巴拉圭河"
 
 #: recursos/0honduras/datos/0honduras.py:112
 #: recursos/0honduras/datos/levels.py:138
@@ -12168,8 +12215,9 @@ msgstr ""
 
 #: recursos/0honduras/datos/0honduras.py:113
 #: recursos/0honduras/datos/levels.py:139
+#, fuzzy
 msgid "Jalán River"
-msgstr ""
+msgstr "马拉尼翁河"
 
 #: recursos/0honduras/datos/0honduras.py:114
 #: recursos/0honduras/datos/levels.py:140
@@ -12215,8 +12263,9 @@ msgid "Porfirio Lobo"
 msgstr ""
 
 #: recursos/0honduras/datos/0honduras.py:133
+#, fuzzy
 msgid "11 of december of 1825"
-msgstr ""
+msgstr "1931年12月11日"
 
 #: recursos/0honduras/datos/0honduras.py:134
 msgid "112.492 km² (102th)"
@@ -12231,8 +12280,9 @@ msgid "USD 35.173 billion (98th)"
 msgstr ""
 
 #: recursos/0honduras/datos/0honduras.py:137
+#, fuzzy
 msgid "Medium - 0,604 (106th)"
-msgstr ""
+msgstr "中 - 0,643（第95名）"
 
 #: recursos/0jamaica/datos/0jamaica.py:8 recursos/0jamaica/datos/levels.py:10
 msgid "Hanover"
@@ -12289,8 +12339,9 @@ msgstr ""
 #: recursos/0jamaica/datos/0jamaica.py:26
 #: recursos/0jamaica/datos/0jamaica.py:70 recursos/0jamaica/datos/levels.py:33
 #: recursos/0jamaica/datos/levels.py:54 recursos/0jamaica/datos/levels.py:100
+#, fuzzy
 msgid "Black River"
-msgstr ""
+msgstr "布兰科河"
 
 #: recursos/0jamaica/datos/0jamaica.py:27 recursos/0jamaica/datos/levels.py:34
 #: recursos/0jamaica/datos/levels.py:55
@@ -12431,8 +12482,9 @@ msgid "Great River"
 msgstr ""
 
 #: recursos/0jamaica/datos/0jamaica.py:68 recursos/0jamaica/datos/levels.py:98
+#, fuzzy
 msgid "Montego River"
-msgstr ""
+msgstr "猴子河"
 
 #: recursos/0jamaica/datos/0jamaica.py:69 recursos/0jamaica/datos/levels.py:99
 msgid "Martha Brae River"
@@ -12446,8 +12498,9 @@ msgstr "马德拉河"
 
 #: recursos/0jamaica/datos/0jamaica.py:72
 #: recursos/0jamaica/datos/levels.py:102
+#, fuzzy
 msgid "Minho River"
-msgstr ""
+msgstr "摩虎河"
 
 #: recursos/0jamaica/datos/0jamaica.py:73
 #: recursos/0jamaica/datos/levels.py:103
@@ -12514,8 +12567,9 @@ msgid "Patrick Allen"
 msgstr ""
 
 #: recursos/0jamaica/datos/0jamaica.py:96
+#, fuzzy
 msgid "6 of august of 1962"
-msgstr ""
+msgstr "1825年8月6日"
 
 #: recursos/0jamaica/datos/0jamaica.py:97
 msgid "10.991 km² (166th)"
@@ -12530,8 +12584,9 @@ msgid "USD 11.690 billion (131st)"
 msgstr ""
 
 #: recursos/0jamaica/datos/0jamaica.py:100
+#, fuzzy
 msgid "High - 0,688 (80th)"
-msgstr ""
+msgstr "高 - 0,694（第78名）"
 
 #: recursos/0jamaica/datos/0jamaica.py:101
 msgid "Jamaican dollar"
@@ -12708,8 +12763,9 @@ msgstr ""
 
 #: recursos/0mexico/datos/0mexico.py:71 recursos/0mexico/datos/levels.py:69
 #: recursos/0mexico/datos/levels.py:109
+#, fuzzy
 msgid "Pachuca"
-msgstr ""
+msgstr "帕卡肯"
 
 #: recursos/0mexico/datos/0mexico.py:74 recursos/0mexico/datos/levels.py:72
 #: recursos/0mexico/datos/levels.py:112
@@ -12837,12 +12893,14 @@ msgid "Tijuana"
 msgstr ""
 
 #: recursos/0mexico/datos/0mexico.py:120 recursos/0mexico/datos/levels.py:160
+#, fuzzy
 msgid "Yaqui River"
-msgstr ""
+msgstr "雅库马河"
 
 #: recursos/0mexico/datos/0mexico.py:122 recursos/0mexico/datos/levels.py:162
+#, fuzzy
 msgid "Conchos River"
-msgstr ""
+msgstr "奇科河"
 
 #: recursos/0mexico/datos/0mexico.py:124 recursos/0mexico/datos/levels.py:164
 #, fuzzy
@@ -12872,12 +12930,14 @@ msgid "Felipe Calderón Hinojosa"
 msgstr ""
 
 #: recursos/0mexico/datos/0mexico.py:142
+#, fuzzy
 msgid "16 of september of 1810"
-msgstr ""
+msgstr "1822年9月7日"
 
 #: recursos/0mexico/datos/0mexico.py:143
+#, fuzzy
 msgid "28 of december of 1836"
-msgstr ""
+msgstr "1931年12月11日"
 
 #: recursos/0mexico/datos/0mexico.py:144
 msgid "1.972.550 km² (14th)"
@@ -13180,8 +13240,9 @@ msgstr ""
 #: recursos/0nicaragua/datos/levels.py:108 recursos/0prico/datos/0prico.py:64
 #: recursos/0prico/datos/0prico.py:107 recursos/0prico/datos/levels.py:66
 #: recursos/0prico/datos/levels.py:114 recursos/0prico/datos/levels.py:159
+#, fuzzy
 msgid "Río Grande"
-msgstr ""
+msgstr "里约格兰德"
 
 #: recursos/0nicaragua/datos/0nicaragua.py:84
 #: recursos/0nicaragua/datos/levels.py:109
@@ -13220,8 +13281,9 @@ msgstr ""
 
 #: recursos/0nicaragua/datos/0nicaragua.py:91
 #: recursos/0nicaragua/datos/levels.py:116
+#, fuzzy
 msgid "Santa María"
-msgstr ""
+msgstr "圣玛丽亚"
 
 #: recursos/0nicaragua/datos/0nicaragua.py:93
 #: recursos/0nicaragua/datos/levels.py:118
@@ -13255,8 +13317,9 @@ msgstr ""
 
 #: recursos/0nicaragua/datos/0nicaragua.py:102
 #: recursos/0nicaragua/datos/levels.py:132
+#, fuzzy
 msgid "Wawa River"
-msgstr ""
+msgstr "马德拉河"
 
 #: recursos/0nicaragua/datos/0nicaragua.py:103
 #: recursos/0nicaragua/datos/levels.py:133
@@ -13276,8 +13339,9 @@ msgstr ""
 
 #: recursos/0nicaragua/datos/0nicaragua.py:106
 #: recursos/0nicaragua/datos/levels.py:136
+#, fuzzy
 msgid "Tuma River"
-msgstr ""
+msgstr "马德拉河"
 
 #: recursos/0nicaragua/datos/0nicaragua.py:107
 #: recursos/0nicaragua/datos/levels.py:137
@@ -13291,8 +13355,9 @@ msgstr ""
 
 #: recursos/0nicaragua/datos/0nicaragua.py:109
 #: recursos/0nicaragua/datos/levels.py:139
+#, fuzzy
 msgid "Siquia River"
-msgstr ""
+msgstr "席本河"
 
 #: recursos/0nicaragua/datos/0nicaragua.py:110
 #: recursos/0nicaragua/datos/levels.py:140
@@ -13388,8 +13453,9 @@ msgid "USD 18.533 billion (123th)"
 msgstr ""
 
 #: recursos/0nicaragua/datos/0nicaragua.py:144
+#, fuzzy
 msgid "Medium - 0,565 (115th)"
-msgstr ""
+msgstr "中 - 0,643（第95名）"
 
 #: recursos/0panama/datos/0panama.py:5
 #, fuzzy
@@ -13548,8 +13614,9 @@ msgid "San Pablo River"
 msgstr ""
 
 #: recursos/0panama/datos/0panama.py:64 recursos/0panama/datos/levels.py:87
+#, fuzzy
 msgid "Santa María River"
-msgstr ""
+msgstr "圣马丁河"
 
 #: recursos/0panama/datos/0panama.py:66 recursos/0panama/datos/levels.py:89
 msgid "Panamá Canal"
@@ -13646,8 +13713,9 @@ msgid "3.405.813 (129th)"
 msgstr ""
 
 #: recursos/0panama/datos/0panama.py:99
+#, fuzzy
 msgid "USD 48.804 billion (85th)"
-msgstr ""
+msgstr "479.80亿美元（第87名）"
 
 #: recursos/0panama/datos/0panama.py:100
 #, fuzzy
@@ -14010,12 +14078,14 @@ msgid "Federico Franco"
 msgstr ""
 
 #: recursos/0paraguay/datos/0paraguay.py:114
+#, fuzzy
 msgid "15 of may of 1811"
-msgstr ""
+msgstr "1816年7月9日"
 
 #: recursos/0paraguay/datos/0paraguay.py:115
+#, fuzzy
 msgid "10 of september of 1880"
-msgstr ""
+msgstr "1822年9月7日"
 
 #: recursos/0paraguay/datos/0paraguay.py:116
 msgid "406.752 km² (59th)"
@@ -14026,12 +14096,14 @@ msgid "6.459.000 (103th)"
 msgstr ""
 
 #: recursos/0paraguay/datos/0paraguay.py:118
+#, fuzzy
 msgid "USD 30.943 billion (102th)"
-msgstr ""
+msgstr "2,046亿美元（第166名）"
 
 #: recursos/0paraguay/datos/0paraguay.py:119
+#, fuzzy
 msgid "Medium - 0,640 (96th)"
-msgstr ""
+msgstr "中 - 0,643（第95名）"
 
 #: recursos/0paraguay/datos/0paraguay.py:120
 msgid "Guaraní"
@@ -14190,8 +14262,9 @@ msgid "Bagua"
 msgstr ""
 
 #: recursos/0peru/datos/0peru.py:69 recursos/0peru/datos/levels.py:102
+#, fuzzy
 msgid "Barranca"
-msgstr ""
+msgstr "巴兰科"
 
 #: recursos/0peru/datos/0peru.py:70 recursos/0peru/datos/levels.py:103
 msgid "Caballococha"
@@ -14323,8 +14396,9 @@ msgid "Javari River"
 msgstr ""
 
 #: recursos/0peru/datos/0peru.py:110 recursos/0peru/datos/levels.py:148
+#, fuzzy
 msgid "Juruá River"
-msgstr ""
+msgstr "普鲁斯河"
 
 #: recursos/0peru/datos/0peru.py:111 recursos/0peru/datos/levels.py:149
 #, fuzzy
@@ -14332,8 +14406,9 @@ msgid "Acre River"
 msgstr "内格罗河"
 
 #: recursos/0peru/datos/0peru.py:112 recursos/0peru/datos/levels.py:150
+#, fuzzy
 msgid "Iaco River"
-msgstr ""
+msgstr "奇科河"
 
 #: recursos/0peru/datos/0peru.py:113 recursos/0peru/datos/levels.py:151
 #, fuzzy
@@ -14391,8 +14466,9 @@ msgid "28 of july of 1821"
 msgstr "1816年7月9日"
 
 #: recursos/0peru/datos/0peru.py:141
+#, fuzzy
 msgid "14 of august of 1879"
-msgstr ""
+msgstr "1825年8月6日"
 
 #: recursos/0peru/datos/0peru.py:142
 msgid "1.285.216 km² (20th)"
@@ -14809,8 +14885,9 @@ msgid "Culebrinas River"
 msgstr ""
 
 #: recursos/0prico/datos/0prico.py:162 recursos/0prico/datos/levels.py:216
+#, fuzzy
 msgid "Añasco River"
-msgstr ""
+msgstr "布兰科河"
 
 #: recursos/0prico/datos/0prico.py:163 recursos/0prico/datos/levels.py:217
 msgid "Guanajibo River"
@@ -14844,8 +14921,9 @@ msgid "Lake Grande"
 msgstr ""
 
 #: recursos/0prico/datos/0prico.py:170 recursos/0prico/datos/levels.py:224
+#, fuzzy
 msgid "Grande de Loíza River"
-msgstr ""
+msgstr "大德里皮茨河"
 
 #: recursos/0prico/datos/0prico.py:171 recursos/0prico/datos/levels.py:225
 msgid "Passage of Vieques"
@@ -14893,8 +14971,9 @@ msgid "Ceded by Spain to the United States"
 msgstr ""
 
 #: recursos/0prico/datos/0prico.py:191
+#, fuzzy
 msgid "13 of august of 1898 "
-msgstr ""
+msgstr "1825年8月6日"
 
 #: recursos/0prico/datos/0prico.py:192
 msgid "9.104 km² (170th)"
@@ -14905,8 +14984,9 @@ msgid "3.725.789 (127th)"
 msgstr ""
 
 #: recursos/0prico/datos/0prico.py:194
+#, fuzzy
 msgid "USD 96.260 billion (--th)"
-msgstr ""
+msgstr "479.80亿美元（第87名）"
 
 #: recursos/0prico/datos/0prico.py:195
 msgid "Very High - 0.905 (53th)"
@@ -15299,8 +15379,9 @@ msgid "Kutari River"
 msgstr ""
 
 #: recursos/0surinam/datos/0surinam.py:77
+#, fuzzy
 msgid "(5º52' N - 55º10' W)"
-msgstr ""
+msgstr "(45º24' N - 75º40' W)"
 
 #: recursos/0surinam/datos/0surinam.py:78
 msgid "Dutch"
@@ -15331,16 +15412,19 @@ msgid "163.820 km² (91th)"
 msgstr ""
 
 #: recursos/0surinam/datos/0surinam.py:85
+#, fuzzy
 msgid "542.000 (171th)"
-msgstr ""
+msgstr "372,000 (第170名)"
 
 #: recursos/0surinam/datos/0surinam.py:86
+#, fuzzy
 msgid "USD 2.812 billion (161th)"
-msgstr ""
+msgstr "2,046亿美元（第166名）"
 
 #: recursos/0surinam/datos/0surinam.py:87
+#, fuzzy
 msgid "Medium - 0,646 (94th)"
-msgstr ""
+msgstr "中 - 0,643（第95名）"
 
 #: recursos/0surinam/datos/0surinam.py:88
 msgid "Surinamese dollar"
@@ -15524,8 +15608,9 @@ msgstr ""
 
 #: recursos/0tytobago/datos/0tytobago.py:60
 #: recursos/0tytobago/datos/levels.py:68
+#, fuzzy
 msgid "Ortoire River"
-msgstr ""
+msgstr "奥顿河"
 
 #: recursos/0tytobago/datos/0tytobago.py:61
 #: recursos/0tytobago/datos/levels.py:69
@@ -15539,8 +15624,9 @@ msgstr ""
 
 #: recursos/0tytobago/datos/0tytobago.py:63
 #: recursos/0tytobago/datos/levels.py:71
+#, fuzzy
 msgid "Coparo River"
-msgstr ""
+msgstr "马莫雷河"
 
 #: recursos/0tytobago/datos/0tytobago.py:64
 #: recursos/0tytobago/datos/levels.py:72
@@ -15574,8 +15660,9 @@ msgid "Kamla Persad-Bissessar"
 msgstr ""
 
 #: recursos/0tytobago/datos/0tytobago.py:79
+#, fuzzy
 msgid "31 of august of 1962"
-msgstr ""
+msgstr "1825年8月6日"
 
 #: recursos/0tytobago/datos/0tytobago.py:80
 msgid "5.128 km² (172th)"
@@ -15586,8 +15673,9 @@ msgid "1.299.953 (153th)"
 msgstr ""
 
 #: recursos/0tytobago/datos/0tytobago.py:82
+#, fuzzy
 msgid "USD 26.536 billion (115th)"
-msgstr ""
+msgstr "2,046亿美元（第166名）"
 
 #: recursos/0tytobago/datos/0tytobago.py:83
 #, fuzzy
@@ -15843,8 +15931,9 @@ msgstr ""
 
 #: recursos/0uruguay/datos/0uruguay.py:84
 #: recursos/0uruguay/datos/levels.py:106
+#, fuzzy
 msgid "Palmitas"
-msgstr ""
+msgstr "拉斯帕尔马斯"
 
 #: recursos/0uruguay/datos/0uruguay.py:85
 #: recursos/0uruguay/datos/levels.py:107
@@ -16187,12 +16276,14 @@ msgid "Danilo Astori"
 msgstr ""
 
 #: recursos/0uruguay/datos/0uruguay.py:186
+#, fuzzy
 msgid "25 of august of 1825"
-msgstr ""
+msgstr "1825年8月29日"
 
 #: recursos/0uruguay/datos/0uruguay.py:187
+#, fuzzy
 msgid "28 of august of 1828"
-msgstr ""
+msgstr "1825年8月29日"
 
 #: recursos/0uruguay/datos/0uruguay.py:188
 msgid "176.215 km² (90th)"
@@ -16203,8 +16294,9 @@ msgid "3.424.595 (128th)"
 msgstr ""
 
 #: recursos/0uruguay/datos/0uruguay.py:190
+#, fuzzy
 msgid "USD 51.209 billion (86th)"
-msgstr ""
+msgstr "479.80亿美元（第87名）"
 
 #: recursos/0uruguay/datos/0uruguay.py:191
 #, fuzzy
@@ -16405,8 +16497,9 @@ msgstr ""
 
 #: recursos/0venezuela/datos/0venezuela.py:20
 #: recursos/0venezuela/datos/levels.py:22
+#, fuzzy
 msgid "Lara"
-msgstr ""
+msgstr "帕拉"
 
 #: recursos/0venezuela/datos/0venezuela.py:22
 #: recursos/0venezuela/datos/levels.py:24
@@ -16420,8 +16513,9 @@ msgstr ""
 
 #: recursos/0venezuela/datos/0venezuela.py:24
 #: recursos/0venezuela/datos/levels.py:26
+#, fuzzy
 msgid "Portuguesa"
-msgstr ""
+msgstr "葡萄牙"
 
 #: recursos/0venezuela/datos/0venezuela.py:26
 #: recursos/0venezuela/datos/levels.py:28
@@ -16685,8 +16779,9 @@ msgstr ""
 
 #: recursos/0venezuela/datos/0venezuela.py:105
 #: recursos/0venezuela/datos/levels.py:136
+#, fuzzy
 msgid "Guarico River"
-msgstr ""
+msgstr "俄亥俄河"
 
 #: recursos/0venezuela/datos/0venezuela.py:106
 msgid "Reservoir de Guarico"
@@ -16751,8 +16846,9 @@ msgid "USD 350.276 billion (31th)"
 msgstr ""
 
 #: recursos/0venezuela/datos/0venezuela.py:131
+#, fuzzy
 msgid "High - 0,696 (75th)"
-msgstr ""
+msgstr "高 - 0,694（第78名）"
 
 #: recursos/0venezuela/datos/levels.py:137
 msgid "Reservoir of Guarico"
