@@ -7,8 +7,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-04-25 00:32-0400\n"
-"PO-Revision-Date: 2012-05-05 07:32+0200\n"
-"Last-Translator: Xin <dram.wang@gmail.com>\n"
+"PO-Revision-Date: 2012-05-07 09:37+0200\n"
+"Last-Translator: Chris <cjl@laptop.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
@@ -398,7 +398,7 @@ msgstr "按任意键返回"
 
 #: conozcoam.py:639
 msgid "You have chosen the map "
-msgstr "你选择了地图"
+msgstr "你选择了地图 "
 
 #: conozcoam.py:645
 msgid "Play"
@@ -6862,7 +6862,6 @@ msgstr "冰岛"
 #: recursos/0elsalvador/datos/levels.py:100
 #: recursos/0tytobago/datos/0tytobago.py:15
 #: recursos/0tytobago/datos/levels.py:17
-#, fuzzy
 msgid "Victoria"
 msgstr "维多利亚"
 
@@ -6876,7 +6875,7 @@ msgstr "希布加莫"
 
 #: recursos/0canada/datos/0canada.py:51 recursos/0canada/datos/levels.py:67
 msgid "Chisasibi"
-msgstr ""
+msgstr "齐萨斯比"
 
 #: recursos/0canada/datos/0canada.py:55 recursos/0canada/datos/levels.py:71
 msgid "Fort Smith"
@@ -6960,15 +6959,15 @@ msgstr "(45º24' N - 75º40' W)"
 
 #: recursos/0canada/datos/0canada.py:112
 msgid "English and French"
-msgstr ""
+msgstr "英语和法语"
 
 #: recursos/0canada/datos/0canada.py:113
 msgid "Federal parliamentary monarch"
-msgstr ""
+msgstr "联邦议会君主制"
 
 #: recursos/0canada/datos/0canada.py:115
 msgid "David Johnston"
-msgstr ""
+msgstr "戴维·约翰斯顿"
 
 #: recursos/0canada/datos/0canada.py:116 recursos/0guyana/datos/0guyana.py:88
 #: recursos/0jamaica/datos/0jamaica.py:95
@@ -6987,23 +6986,23 @@ msgstr "1931年12月11日"
 
 #: recursos/0canada/datos/0canada.py:119
 msgid "9.984.670 km² (2nd)"
-msgstr ""
+msgstr "9,984,670平方公里 (第2名)"
 
 #: recursos/0canada/datos/0canada.py:120
 msgid "34.124.781 (37th)"
-msgstr ""
+msgstr "34,124,781 (第37名)"
 
 #: recursos/0canada/datos/0canada.py:121
 msgid "GPD:"
-msgstr ""
+msgstr "国内生产总值："
 
 #: recursos/0canada/datos/0canada.py:121
 msgid "USD 1.996.753 billion (13th)"
-msgstr ""
+msgstr "19,967.53亿美元（第13名）"
 
 #: recursos/0canada/datos/0canada.py:122
 msgid "Very high - 0,888 (8th)"
-msgstr ""
+msgstr "非常高 - 0,888（第8名）"
 
 #: recursos/0canada/datos/0canada.py:123
 msgid "Canadian dollar"
@@ -7023,121 +7022,119 @@ msgstr "科金博"
 
 #: recursos/0chile/datos/0chile.py:13 recursos/0chile/datos/levels.py:15
 msgid "Metropolitana"
-msgstr ""
+msgstr "梅特罗波利塔纳"
 
 #: recursos/0chile/datos/0chile.py:14 recursos/0chile/datos/levels.py:16
 msgid "Libertador General Bernardo O'Higgins"
-msgstr ""
+msgstr "奥伊金斯将军解放者"
 
 #: recursos/0chile/datos/0chile.py:15 recursos/0chile/datos/levels.py:17
 msgid "Maule"
-msgstr ""
+msgstr "马乌莱"
 
 #: recursos/0chile/datos/0chile.py:16 recursos/0chile/datos/levels.py:18
 msgid "Bío-Bío"
-msgstr ""
+msgstr "比奥比奥"
 
 #: recursos/0chile/datos/0chile.py:17 recursos/0chile/datos/levels.py:19
 msgid "La Araucanía"
-msgstr ""
+msgstr "阿劳卡尼亚"
 
 #: recursos/0chile/datos/0chile.py:18 recursos/0chile/datos/levels.py:20
 msgid "Los Lagos"
-msgstr ""
+msgstr "洛斯拉戈斯"
 
 #: recursos/0chile/datos/0chile.py:19 recursos/0chile/datos/levels.py:21
 msgid "Aysén"
-msgstr ""
+msgstr "艾森"
 
 #: recursos/0chile/datos/0chile.py:20 recursos/0chile/datos/levels.py:22
 msgid "Magallanes"
-msgstr ""
+msgstr "麦哲伦"
 
 #: recursos/0chile/datos/0chile.py:21 recursos/0chile/datos/levels.py:23
 msgid "Arica Parinacota"
-msgstr ""
+msgstr "阿里卡和帕里纳科塔"
 
 #: recursos/0chile/datos/0chile.py:22 recursos/0chile/datos/levels.py:24
 #: recursos/0ecuador/datos/0ecuador.py:14 recursos/0ecuador/datos/levels.py:16
 msgid "Los Rios"
-msgstr ""
+msgstr "洛斯里奥斯"
 
 #: recursos/0chile/datos/0chile.py:31 recursos/0chile/datos/levels.py:36
 msgid "Copiapó"
-msgstr ""
+msgstr "科皮亚波"
 
 #: recursos/0chile/datos/0chile.py:32 recursos/0chile/datos/levels.py:37
 msgid "La Serena"
-msgstr ""
+msgstr "拉塞雷纳"
 
 #: recursos/0chile/datos/0chile.py:34 recursos/0chile/datos/levels.py:39
-#, fuzzy
 msgid "Rancagua"
-msgstr "马那瓜"
+msgstr "兰卡瓜"
 
 #: recursos/0chile/datos/0chile.py:35 recursos/0chile/datos/levels.py:40
 msgid "Talca"
-msgstr ""
+msgstr "塔尔卡"
 
 #: recursos/0chile/datos/0chile.py:37 recursos/0chile/datos/levels.py:42
 msgid "Temuco"
-msgstr ""
+msgstr "特木科"
 
 #: recursos/0chile/datos/0chile.py:39 recursos/0chile/datos/levels.py:44
 msgid "Coihaique"
-msgstr ""
+msgstr "科伊向海"
 
 #: recursos/0chile/datos/0chile.py:42 recursos/0chile/datos/levels.py:47
 msgid "Valdivia"
-msgstr ""
+msgstr "瓦尔迪维亚"
 
 #: recursos/0chile/datos/0chile.py:46
 msgid "(33º26' S - 70º39' W)"
-msgstr ""
+msgstr "(33º26' 南 - 70º39' 西)"
 
 #: recursos/0chile/datos/0chile.py:49
 msgid "Sebastián Piñera"
-msgstr ""
+msgstr "塞巴斯蒂安·皮涅拉"
 
 #: recursos/0chile/datos/0chile.py:51
 msgid "12 of february of 1818"
-msgstr ""
+msgstr "1818年2月12日"
 
 #: recursos/0chile/datos/0chile.py:52
 msgid "24 of february of 1844"
-msgstr ""
+msgstr "1844年2月24日"
 
 #: recursos/0chile/datos/0chile.py:53
 msgid "756.096 km² (38th)"
-msgstr ""
+msgstr "756,096 平方公里 (第38名)"
 
 #: recursos/0chile/datos/0chile.py:54
 msgid "17.248.450 (59th)"
-msgstr ""
+msgstr "17,248,450 (第59名)"
 
 #: recursos/0chile/datos/0chile.py:55
 msgid "USD 276.338 billion (43rd)"
-msgstr ""
+msgstr "2,763.38亿美元（第43名）"
 
 #: recursos/0chile/datos/0chile.py:56
-#, fuzzy
 msgid "High - 0,783 (45th)"
-msgstr "高 - 0,775 (第46名)"
+msgstr "高 - 0,783 (第45名)"
 
 #: recursos/0colombia/datos/0colombia.py:8
 #: recursos/0colombia/datos/levels.py:10
 msgid "La Guajira"
-msgstr ""
+msgstr "拉瓜希拉"
 
 #: recursos/0colombia/datos/0colombia.py:9
 #: recursos/0colombia/datos/levels.py:11
 msgid "César"
-msgstr ""
+msgstr "塞萨尔"
 
 #: recursos/0colombia/datos/0colombia.py:11
 #: recursos/0colombia/datos/levels.py:13
 msgid "Atlántico"
-msgstr ""
+msgstr "大西洋"
 
 #: recursos/0colombia/datos/0colombia.py:12
 #: recursos/0colombia/datos/levels.py:14
@@ -7146,156 +7143,156 @@ msgstr ""
 #: recursos/0venezuela/datos/0venezuela.py:132
 #: recursos/0venezuela/datos/levels.py:15
 msgid "Bolívar"
-msgstr ""
+msgstr "玻利瓦尔"
 
 #: recursos/0colombia/datos/0colombia.py:15
 #: recursos/0colombia/datos/levels.py:17
 msgid "Antioquia"
-msgstr ""
+msgstr "安蒂奥基亚"
 
 #: recursos/0colombia/datos/0colombia.py:16
 #: recursos/0colombia/datos/levels.py:18
 msgid "Santander"
-msgstr ""
+msgstr "桑坦德"
 
 #: recursos/0colombia/datos/0colombia.py:17
 #: recursos/0colombia/datos/levels.py:19
 msgid "Norte de Santander"
-msgstr ""
+msgstr "北桑坦德"
 
 #: recursos/0colombia/datos/0colombia.py:18
 #: recursos/0colombia/datos/levels.py:20
 msgid "Chocó"
-msgstr ""
+msgstr "乔科"
 
 #: recursos/0colombia/datos/0colombia.py:19
 #: recursos/0colombia/datos/0colombia.py:49
 #: recursos/0colombia/datos/levels.py:21 recursos/0colombia/datos/levels.py:51
 #: recursos/0colombia/datos/levels.py:90
 msgid "Arauca"
-msgstr ""
+msgstr "阿劳卡"
 
 #: recursos/0colombia/datos/0colombia.py:20
 #: recursos/0colombia/datos/levels.py:22
 msgid "Boyacá"
-msgstr ""
+msgstr "博亚卡"
 
 #: recursos/0colombia/datos/0colombia.py:21
 #: recursos/0colombia/datos/levels.py:23
 msgid "Casanare"
-msgstr ""
+msgstr "卡萨纳雷"
 
 #: recursos/0colombia/datos/0colombia.py:22
 #: recursos/0colombia/datos/levels.py:24
 msgid "Vichada"
-msgstr ""
+msgstr "比查达"
 
 #: recursos/0colombia/datos/0colombia.py:23
 #: recursos/0colombia/datos/levels.py:25
 msgid "Guainía"
-msgstr ""
+msgstr "瓜伊尼亚"
 
 #: recursos/0colombia/datos/0colombia.py:24
 #: recursos/0colombia/datos/levels.py:26
 msgid "Meta"
-msgstr ""
+msgstr "梅塔"
 
 #: recursos/0colombia/datos/0colombia.py:25
 #: recursos/0colombia/datos/levels.py:27
 msgid "Guaviare"
-msgstr ""
+msgstr "瓜维亚雷"
 
 #: recursos/0colombia/datos/0colombia.py:26
 #: recursos/0colombia/datos/levels.py:28
 msgid "Vaupés"
-msgstr ""
+msgstr "沃佩斯"
 
 #: recursos/0colombia/datos/0colombia.py:27
 #: recursos/0colombia/datos/levels.py:29
 msgid "Caquetá"
-msgstr ""
+msgstr "卡克塔"
 
 #: recursos/0colombia/datos/0colombia.py:28
 #: recursos/0colombia/datos/levels.py:30
 msgid "Putumayo"
-msgstr ""
+msgstr "普图马约"
 
 #: recursos/0colombia/datos/0colombia.py:30
 #: recursos/0colombia/datos/levels.py:32
 msgid "Nariño"
-msgstr ""
+msgstr "纳里尼奥"
 
 #: recursos/0colombia/datos/0colombia.py:31
 #: recursos/0colombia/datos/levels.py:33
 msgid "Cauca"
-msgstr ""
+msgstr "考卡"
 
 #: recursos/0colombia/datos/0colombia.py:32
 #: recursos/0colombia/datos/levels.py:34
 msgid "Huila"
-msgstr ""
+msgstr "威拉"
 
 #: recursos/0colombia/datos/0colombia.py:33
 #: recursos/0colombia/datos/levels.py:35
 msgid "Valle del Cauca"
-msgstr ""
+msgstr "考卡山谷"
 
 #: recursos/0colombia/datos/0colombia.py:34
 #: recursos/0colombia/datos/levels.py:36
 msgid "Tolima"
-msgstr ""
+msgstr "托利马"
 
 #: recursos/0colombia/datos/0colombia.py:35
 #: recursos/0colombia/datos/levels.py:37
 msgid "Cundinamarca"
-msgstr ""
+msgstr "昆迪纳马卡"
 
 #: recursos/0colombia/datos/0colombia.py:36
 #: recursos/0colombia/datos/levels.py:38
 msgid "Risaralda"
-msgstr ""
+msgstr "里萨拉尔达"
 
 #: recursos/0colombia/datos/0colombia.py:37
 #: recursos/0colombia/datos/levels.py:39
 msgid "Caldas"
-msgstr ""
+msgstr "卡尔达斯"
 
 #: recursos/0colombia/datos/0colombia.py:38
 #: recursos/0colombia/datos/levels.py:40
 msgid "Quindio"
-msgstr ""
+msgstr "金迪奥"
 
 #: recursos/0colombia/datos/0colombia.py:50
 #: recursos/0colombia/datos/levels.py:52 recursos/0colombia/datos/levels.py:91
 #: recursos/0elsalvador/datos/0elsalvador.py:45
 #: recursos/0elsalvador/datos/levels.py:69
 msgid "Armenia"
-msgstr ""
+msgstr "亚美尼亚"
 
 #: recursos/0colombia/datos/0colombia.py:51
 #: recursos/0colombia/datos/levels.py:53 recursos/0colombia/datos/levels.py:92
 msgid "Barranquilla"
-msgstr ""
+msgstr "巴兰基亚"
 
 #: recursos/0colombia/datos/0colombia.py:52
 #: recursos/0colombia/datos/levels.py:54 recursos/0colombia/datos/levels.py:93
 msgid "Bucaramanga"
-msgstr ""
+msgstr "布卡拉曼加"
 
 #: recursos/0colombia/datos/0colombia.py:53
 #: recursos/0colombia/datos/levels.py:55 recursos/0colombia/datos/levels.py:94
 msgid "Cúcuta"
-msgstr ""
+msgstr "库库塔"
 
 #: recursos/0colombia/datos/0colombia.py:56
 #: recursos/0colombia/datos/levels.py:58 recursos/0colombia/datos/levels.py:97
 msgid "Florencia"
-msgstr ""
+msgstr "佛罗伦萨"
 
 #: recursos/0colombia/datos/0colombia.py:57
 #: recursos/0colombia/datos/levels.py:59 recursos/0colombia/datos/levels.py:98
 msgid "Ibagué"
-msgstr ""
+msgstr "伊瓦格"
 
 #: recursos/0colombia/datos/0colombia.py:58
 #: recursos/0colombia/datos/levels.py:60 recursos/0colombia/datos/levels.py:99
@@ -10979,7 +10976,7 @@ msgstr ""
 #: recursos/0guatemala/datos/levels.py:111
 #, fuzzy
 msgid "Is in the center "
-msgstr "在中心"
+msgstr "在中心 "
 
 #: recursos/0guatemala/datos/levels.py:177
 msgid "Lake Izabal River"
@@ -14971,9 +14968,8 @@ msgid "Ceded by Spain to the United States"
 msgstr ""
 
 #: recursos/0prico/datos/0prico.py:191
-#, fuzzy
 msgid "13 of august of 1898 "
-msgstr "1825年8月6日"
+msgstr ""
 
 #: recursos/0prico/datos/0prico.py:192
 msgid "9.104 km² (170th)"
