@@ -7,8 +7,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-04-25 00:32-0400\n"
-"PO-Revision-Date: 2012-05-07 09:37+0200\n"
-"Last-Translator: Chris <cjl@laptop.org>\n"
+"PO-Revision-Date: 2012-05-08 01:22+0200\n"
+"Last-Translator: Xin <dram.wang@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
@@ -7303,50 +7303,49 @@ msgstr ""
 #: recursos/0colombia/datos/levels.py:62
 #: recursos/0colombia/datos/levels.py:101
 msgid "Manizales"
-msgstr ""
+msgstr "马尼萨莱斯"
 
 #: recursos/0colombia/datos/0colombia.py:62
 #: recursos/0colombia/datos/levels.py:64
 #: recursos/0colombia/datos/levels.py:103
 msgid "Mitú"
-msgstr ""
+msgstr "米图"
 
 #: recursos/0colombia/datos/0colombia.py:63
 #: recursos/0colombia/datos/levels.py:65
 #: recursos/0colombia/datos/levels.py:104
 msgid "Mocoa"
-msgstr ""
+msgstr "莫科阿"
 
 #: recursos/0colombia/datos/0colombia.py:64
 #: recursos/0colombia/datos/levels.py:66
 #: recursos/0colombia/datos/levels.py:105
-#, fuzzy
 msgid "Monteria"
-msgstr "蒙特罗"
+msgstr "蒙特里亚"
 
 #: recursos/0colombia/datos/0colombia.py:65
 #: recursos/0colombia/datos/levels.py:67
 #: recursos/0colombia/datos/levels.py:106
 msgid "Neiva"
-msgstr ""
+msgstr "内瓦"
 
 #: recursos/0colombia/datos/0colombia.py:66
 #: recursos/0colombia/datos/levels.py:68
 #: recursos/0colombia/datos/levels.py:107
 msgid "Pasto"
-msgstr ""
+msgstr "帕斯托"
 
 #: recursos/0colombia/datos/0colombia.py:67
 #: recursos/0colombia/datos/levels.py:69
 #: recursos/0colombia/datos/levels.py:108
 msgid "Pereira"
-msgstr ""
+msgstr "佩雷拉"
 
 #: recursos/0colombia/datos/0colombia.py:68
 #: recursos/0colombia/datos/levels.py:70
 #: recursos/0colombia/datos/levels.py:109
 msgid "Popayán"
-msgstr ""
+msgstr "波帕扬"
 
 #: recursos/0colombia/datos/0colombia.py:69
 #: recursos/0colombia/datos/levels.py:71
@@ -7354,62 +7353,61 @@ msgstr ""
 #: recursos/0venezuela/datos/0venezuela.py:83
 #: recursos/0venezuela/datos/levels.py:109
 msgid "Puerto Carreño"
-msgstr ""
+msgstr "波多黎各卡雷尼奥"
 
 #: recursos/0colombia/datos/0colombia.py:70
 #: recursos/0colombia/datos/levels.py:72
 #: recursos/0colombia/datos/levels.py:111
 msgid "Quibdó"
-msgstr ""
+msgstr "基布多"
 
 #: recursos/0colombia/datos/0colombia.py:71
 #: recursos/0colombia/datos/levels.py:73
 #: recursos/0colombia/datos/levels.py:112
 msgid "Riohacha"
-msgstr ""
+msgstr "里奥阿查"
 
 #: recursos/0colombia/datos/0colombia.py:72
 #: recursos/0colombia/datos/levels.py:74
 #: recursos/0colombia/datos/levels.py:113
 msgid "San José del Guaviare"
-msgstr ""
+msgstr "瓜维亚雷河畔圣何塞"
 
 #: recursos/0colombia/datos/0colombia.py:73
 #: recursos/0colombia/datos/levels.py:75
 #: recursos/0colombia/datos/levels.py:114
-#, fuzzy
 msgid "Santa Marta"
-msgstr "圣玛丽亚"
+msgstr "圣玛尔塔"
 
 #: recursos/0colombia/datos/0colombia.py:74
 #: recursos/0colombia/datos/levels.py:76
 #: recursos/0colombia/datos/levels.py:115
 msgid "Sincelejo"
-msgstr ""
+msgstr "辛塞莱霍"
 
 #: recursos/0colombia/datos/0colombia.py:75
 #: recursos/0colombia/datos/levels.py:77
 #: recursos/0colombia/datos/levels.py:116
 msgid "Tunja"
-msgstr ""
+msgstr "通哈"
 
 #: recursos/0colombia/datos/0colombia.py:76
 #: recursos/0colombia/datos/levels.py:78
 #: recursos/0colombia/datos/levels.py:117
 msgid "Valledupar"
-msgstr ""
+msgstr "巴耶杜帕尔"
 
 #: recursos/0colombia/datos/0colombia.py:77
 #: recursos/0colombia/datos/levels.py:79
 #: recursos/0colombia/datos/levels.py:118
 msgid "Villavicencio"
-msgstr ""
+msgstr "比亚维森西奥"
 
 #: recursos/0colombia/datos/0colombia.py:78
 #: recursos/0colombia/datos/levels.py:80
 #: recursos/0colombia/datos/levels.py:119
 msgid "Yopal"
-msgstr ""
+msgstr "约帕尔"
 
 #: recursos/0colombia/datos/0colombia.py:82
 #: recursos/0colombia/datos/levels.py:120
