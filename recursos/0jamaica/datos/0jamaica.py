@@ -90,7 +90,7 @@ STATS = [
     (_('Capital:'), _('Kingston') + _("(17º59' N - 76º48' W)")),
     (_('Language:'), _('English')),
     (_('Government:'), _('Constitutional monarchy')),
-    (_('Monarch:'), _('Reina Isabel II')),
+    (_('Monarch:'), _('Queen Elizabeth II')),
     (_('Governor:'), _('Patrick Allen')),
     (_('Independence:'), _('from United Kingdom')),
     ('', _('6 of august of 1962')),
