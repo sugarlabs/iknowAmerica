@@ -106,7 +106,7 @@ ROUTES = []
 
 STATS = [
     (_('Capital:'), _('Asunción') + _("(25º16' S - 57º40' W)")),
-    (_('Language:'), _('Spanish and Guaraní')),
+    (_('Language:'), _('Spanish') + ' , ' + _('Guaraní')),
     (_('Government:'), _('Presidential republic')),
     (_('President:'), _('Fernando Lugo')),
     (_('Vice President:'), _('Federico Franco')),

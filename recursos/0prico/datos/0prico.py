@@ -182,7 +182,7 @@ ROUTES = []
 
 STATS = [
     (_('Capital:'), _('San Juan') + _("(18º29' N - 66º08' W)")),
-    (_('Language:'), _('Spanish, English')),
+    (_('Language:'), _('Spanish') + ' , ' + _('English')),
     (_('Government:'), _('Unincorporated territory')),
     ('', _('from United States')),
     (_('President:'), _('Barack Obama')),

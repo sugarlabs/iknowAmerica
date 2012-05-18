@@ -132,7 +132,7 @@ ROUTES = []
 
 STATS = [
     (_('Capital:'), _('Lima') + _("(12º02' S - 77º01' W)")),
-    (_('Language:'), _('Spanish, quechúa, aimará')),
+    (_('Language:'), _('Spanish') + ' , ' + _('Quechua') + ' , ' + _('Aimará')),
     (_('Government:'), _('Presidential republic')),
     (_('President:'), _('Ollanta Humala Tasso')),
     (_('Prime Minister:'), _('Oscar Valdés Dancuart')),

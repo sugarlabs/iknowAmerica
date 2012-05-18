@@ -100,7 +100,7 @@ ROUTES = []
 
 STATS = [
     (_('Capital:'), _('Sucre') + _("(19º2' S - 65º15' W)")),
-    (_('Language:'), _('Spanish, Quechua, Guarani')),
+    (_('Language:'), _('Spanish') + ' , ' + _('Quechua') + ' , ' + _('Guarani')),
     (_('Government:'), _('Presidential republic')),
     (_('President:'), _('Evo Morales Ayma')),
     (_('Vice President:'), _('Álvaro García Linera')),

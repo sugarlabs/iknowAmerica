@@ -109,7 +109,7 @@ ROUTES = []
 
 STATS = [
     (_('Capital:'), _('Ottawa') + _("(45º24' N - 75º40' W)")),
-    (_('Language:'), _('English and French')),
+    (_('Language:'), _('English') + ' , ' + _('French')),
     (_('Government:'), _('Federal parliamentary monarch')),
     (_('Monarch:'), _('Queen Elizabeth II')),
     (_('Governor:'), _('David Johnston')),
