@@ -17,7 +17,7 @@ STATES = [
     (_('Haiti'), 245, 770, 737, 90),
     (_('Russia'), 242, 56, 41, 0),
     (_('Greenland'), 241, 591, 29, 0),
-    (_('Bahamas Island'), 244, 716, 675, -30),
+    (_('The Bahamas'), 244, 716, 675, -30),
     (_('Revillagigedo Islands'), 243, 242, 808, 0),
     (_('Baffin Island'), 240, 534, 146, -45),
     (_('Victoria Island'), 239, 357, 150, 0),
