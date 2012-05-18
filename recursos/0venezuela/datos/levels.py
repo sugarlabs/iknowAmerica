@@ -15,7 +15,7 @@ LEVEL1 = [
     (_('Bolívar'), _('Is southeast')),
     (_('Carabobo'), _('Is northwest')),
     (_('Cojedes'), _('Is northwest')),
-    (_('D.F.'), _('Is north')),
+    (_('Distrito Federal'), _('Is north')),
     (_('Delta Amacuro'), _('Is east')),
     (_('Falcón'), _('Is northwest')),
     (_('Guárico'), _('Is north')),
