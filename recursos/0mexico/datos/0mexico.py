@@ -5,7 +5,7 @@ from gettext import gettext as _
 NAME = _('Mexico')
 
 STATES = [
-    (_('D.F.'), 254, 437, 560, 0),
+    (_('Distrito Federal'), 254, 437, 560, 0),
     (_('Aguascalientes'), 253, 355, 486, 0),
     (_('Baja California Norte'), 252, 44, 230, -45),
     (_('Baja California Sur'), 251, 122, 376, -45),

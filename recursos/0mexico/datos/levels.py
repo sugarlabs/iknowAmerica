@@ -7,7 +7,7 @@ LEVEL1 = [
         ['lineasDepto'],
         [],
 [
-    (_('D.F.'), _('Is in the center')),
+    (_('Distrito Federal'), _('Is in the center')),
     (_('Aguascalientes'), _('Is west')),
     (_('Baja California Norte'), _('Is northwest')),
     (_('Baja California Sur'), _('Is northwest')),
