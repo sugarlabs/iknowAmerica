@@ -5,7 +5,7 @@ from gettext import gettext as _
 NAME = _('Dominicana')
 
 STATES = [
-    (_('D.N.'), 254, 453, 542, 0),
+    (_('Distrito Nacional'), 254, 453, 542, 0),
     (_('Altagracia'), 253, 706, 503, 45),
     (_('Azua'), 252, 265, 511, 0),
     (_('Bahoruco'), 251, 150, 521, -10),

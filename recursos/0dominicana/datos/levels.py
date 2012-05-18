@@ -7,7 +7,7 @@ LEVEL1 = [
         ['lineasDepto'],
         [],
 [
-    (_('D.N.'), _('Is southeast')),
+    (_('Distrito Nacional'), _('Is southeast')),
     (_('Altagracia'), _('Is east')),
     (_('Azua'), _('Is southwest')),
     (_('Bahoruco'), _('Is southwest')),
