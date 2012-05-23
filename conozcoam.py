@@ -82,10 +82,6 @@ ESTADOPESTANAS = 2
 ESTADOFRENTE = 3
 ESTADODESPEGUE = 4
 
-TO_CITIES = [_('Cities'),  _('Capitals'), _('Departmental capitals'), _('Provincial capitals'),
-            _('District capitals'), _('State capitals'), _('Regional capitals'), _('Parish capitals'),
-            _('Municipal capitals') ]
-
 # variables globales para adaptar la pantalla a distintas resoluciones
 scale = 1
 shift_x = 0
