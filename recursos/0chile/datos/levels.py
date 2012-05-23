@@ -3,6 +3,7 @@
 from gettext import gettext as _
 
 LEVEL1 = [
+        11,
         _('Regions'),
         ['lineasDepto'],
         [],
@@ -26,6 +27,7 @@ LEVEL1 = [
 ]
 
 LEVEL2 = [
+        2,
         _('Regional capitals'),
         ['lineasDepto', 'capitales'],
         [],
