@@ -1,3 +1,8 @@
+23/05/12
+    Se cambia la forma de enumerar los niveles. Se utiliza
+        un número, que evita problemas. Sobre todo en Sugar
+        nuevo (0.96.1)
+
 17/05/12
     Se hacen algunas correciones en los archivos de datos.
 
