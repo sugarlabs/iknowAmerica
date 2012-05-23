@@ -518,7 +518,7 @@ class ConozcoAm():
                             nuevoNivel.preguntas.append((texto,
                                 tipo, respuesta, ayuda))
 
-                    elif (index == 13):
+                    elif (index == 6):
                         for i in listpreguntas:
                             tipo = 1
                             #respuesta = i[0]
