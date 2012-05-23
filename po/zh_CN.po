@@ -7,8 +7,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-05-18 00:34-0400\n"
-"PO-Revision-Date: 2012-05-22 16:38+0200\n"
-"Last-Translator: lite <litekok@gmail.com>\n"
+"PO-Revision-Date: 2012-05-23 18:08+0200\n"
+"Last-Translator: Chris <cjl@laptop.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
@@ -3117,7 +3117,7 @@ msgstr "格陵兰"
 #: recursos/0adelnorte/datos/0adelnorte.py:20
 #: recursos/0eunidos/datos/0eunidos.py:11
 msgid "The Bahamas"
-msgstr ""
+msgstr "巴哈马"
 
 #: recursos/0adelnorte/datos/0adelnorte.py:21
 #: recursos/0adelnorte/datos/levels.py:14 recursos/0mexico/datos/0mexico.py:44
@@ -6426,11 +6426,11 @@ msgstr "(19º2' 南 - 65º15' 西)"
 
 #: recursos/0bolivia/datos/0bolivia.py:103 recursos/0peru/datos/0peru.py:135
 msgid "Quechua"
-msgstr ""
+msgstr "克丘亚语"
 
 #: recursos/0bolivia/datos/0bolivia.py:103
 msgid "Guarani"
-msgstr ""
+msgstr "瓜拉尼"
 
 #: recursos/0bolivia/datos/0bolivia.py:104 recursos/0chile/datos/0chile.py:48
 #: recursos/0colombia/datos/0colombia.py:137
@@ -6971,13 +6971,13 @@ msgstr "(45º24' N - 75º40' W)"
 #: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:57
 #: recursos/0tytobago/datos/0tytobago.py:74
 msgid "English"
-msgstr ""
+msgstr "英语"
 
 #: recursos/0canada/datos/0canada.py:112
 #: recursos/0guayanafr/datos/0guayanafr.py:67
 #: recursos/0haiti/datos/0haiti.py:100
 msgid "French"
-msgstr ""
+msgstr "法语"
 
 #: recursos/0canada/datos/0canada.py:113
 msgid "Federal parliamentary monarch"
@@ -8514,7 +8514,7 @@ msgstr "古巴比索"
 #: recursos/0dominicana/datos/0dominicana.py:8
 #: recursos/0dominicana/datos/levels.py:10
 msgid "Distrito Nacional"
-msgstr ""
+msgstr "国家特区"
 
 #: recursos/0dominicana/datos/0dominicana.py:9
 #: recursos/0dominicana/datos/levels.py:11
@@ -8702,7 +8702,7 @@ msgstr "邵纳岛"
 #: recursos/0dominicana/datos/levels.py:51
 #: recursos/0dominicana/datos/levels.py:91
 msgid "Azua de Compostela"
-msgstr "阿苏阿德孔波斯特拉 "
+msgstr "阿苏阿德孔波斯特拉"
 
 #: recursos/0dominicana/datos/0dominicana.py:48
 #: recursos/0dominicana/datos/levels.py:52
@@ -8898,132 +8898,123 @@ msgstr "奥萨马河"
 
 #: recursos/0dominicana/datos/0dominicana.py:102
 #: recursos/0dominicana/datos/levels.py:148
-#, fuzzy
 msgid "Yuma River"
-msgstr "雅库马河"
+msgstr "尤马河"
 
 #: recursos/0dominicana/datos/0dominicana.py:103
 #: recursos/0dominicana/datos/levels.py:149
-#, fuzzy
 msgid "Chavón River"
-msgstr "马拉尼翁河"
+msgstr "查翁河"
 
 #: recursos/0dominicana/datos/0dominicana.py:104
 #: recursos/0dominicana/datos/levels.py:150
-#, fuzzy
 msgid "Soco River"
-msgstr "奇科河"
+msgstr "索科河"
 
 #: recursos/0dominicana/datos/0dominicana.py:105
 #: recursos/0dominicana/datos/levels.py:151
-#, fuzzy
 msgid "Iguamo River"
-msgstr "马莫雷河"
+msgstr "伊瓜莫河"
 
 #: recursos/0dominicana/datos/0dominicana.py:113
-#, fuzzy
 msgid "(18º28' N - 69º54' W)"
-msgstr "(4º39' 北 - 74º3' 西)"
+msgstr "(18º28' 北 - 69º54' 西)"
 
 #: recursos/0dominicana/datos/0dominicana.py:116
 msgid "Leonel Fernández"
-msgstr ""
+msgstr "莱昂内尔·费尔南德斯"
 
 #: recursos/0dominicana/datos/0dominicana.py:117
 msgid "Rafael Alburquerque"
-msgstr ""
+msgstr "拉斐尔·阿尔布克"
 
 #: recursos/0dominicana/datos/0dominicana.py:118
 msgid "1844 (of Haiti)"
-msgstr ""
+msgstr "1844（海地）"
 
 #: recursos/0dominicana/datos/0dominicana.py:119
 msgid "1865 (from Spain)"
-msgstr ""
+msgstr "1865 (自西班牙)"
 
 #: recursos/0dominicana/datos/0dominicana.py:120
 msgid "48.442 km² (131th)"
-msgstr ""
+msgstr "48，442平方公里(第131名)"
 
 #: recursos/0dominicana/datos/0dominicana.py:121
 msgid "10.090.000 (80th)"
-msgstr ""
+msgstr "10,090,000 (第80名)"
 
 #: recursos/0dominicana/datos/0dominicana.py:122
-#, fuzzy
 msgid "USD 93.095 billion (71th)"
-msgstr "479.80亿美元（第87名）"
+msgstr "930.95亿美元（第71名）"
 
 #: recursos/0dominicana/datos/0dominicana.py:123
-#, fuzzy
 msgid "Medium - 0,783 (88th)"
-msgstr "中 - 0,643（第95名）"
+msgstr "中 - 0,783（第88名）"
 
 #: recursos/0dominicana/datos/levels.py:144
 msgid "Lake Enriquillo"
-msgstr ""
+msgstr "恩里基湖"
 
 #: recursos/0ecuador/datos/0ecuador.py:8 recursos/0ecuador/datos/levels.py:10
 msgid "Pichincha"
-msgstr ""
+msgstr "皮钦查"
 
 #: recursos/0ecuador/datos/0ecuador.py:9 recursos/0ecuador/datos/levels.py:11
-#, fuzzy
 msgid "Guayas"
-msgstr "瓜亚沃斯"
+msgstr "瓜亚斯"
 
 #: recursos/0ecuador/datos/0ecuador.py:10 recursos/0ecuador/datos/levels.py:12
-#, fuzzy
 msgid "Azuay"
-msgstr "阿苏阿"
+msgstr "阿苏艾"
 
 #: recursos/0ecuador/datos/0ecuador.py:11 recursos/0ecuador/datos/levels.py:13
 msgid "Manabí"
-msgstr ""
+msgstr "马纳维"
 
 #: recursos/0ecuador/datos/0ecuador.py:12
 #: recursos/0ecuador/datos/0ecuador.py:40 recursos/0ecuador/datos/levels.py:14
 #: recursos/0ecuador/datos/levels.py:45 recursos/0ecuador/datos/levels.py:73
 msgid "Esmeraldas"
-msgstr ""
+msgstr "埃斯梅拉达"
 
 #: recursos/0ecuador/datos/0ecuador.py:13 recursos/0ecuador/datos/levels.py:15
 msgid "El Oro"
-msgstr ""
+msgstr "埃尔奥罗"
 
 #: recursos/0ecuador/datos/0ecuador.py:15
 #: recursos/0ecuador/datos/0ecuador.py:45 recursos/0ecuador/datos/levels.py:17
 #: recursos/0ecuador/datos/levels.py:50 recursos/0ecuador/datos/levels.py:78
 msgid "Loja"
-msgstr ""
+msgstr "洛哈"
 
 #: recursos/0ecuador/datos/0ecuador.py:16 recursos/0ecuador/datos/levels.py:18
 msgid "Cañar"
-msgstr ""
+msgstr "卡尼亚尔"
 
 #: recursos/0ecuador/datos/0ecuador.py:17 recursos/0ecuador/datos/levels.py:19
 msgid "Chimborazo"
-msgstr ""
+msgstr "钦博拉索"
 
 #: recursos/0ecuador/datos/0ecuador.py:19 recursos/0ecuador/datos/levels.py:21
 msgid "Tungurahua"
-msgstr ""
+msgstr "通古拉瓦"
 
 #: recursos/0ecuador/datos/0ecuador.py:20 recursos/0ecuador/datos/levels.py:22
 msgid "Cotopaxi"
-msgstr ""
+msgstr "科托帕希"
 
 #: recursos/0ecuador/datos/0ecuador.py:21 recursos/0ecuador/datos/levels.py:23
 msgid "Imbabura"
-msgstr ""
+msgstr "因巴布拉"
 
 #: recursos/0ecuador/datos/0ecuador.py:22 recursos/0ecuador/datos/levels.py:24
 msgid "Carchi"
-msgstr ""
+msgstr "卡尔奇"
 
 #: recursos/0ecuador/datos/0ecuador.py:23 recursos/0ecuador/datos/levels.py:25
 msgid "Zamora Chinchipe"
-msgstr ""
+msgstr "萨莫拉钦奇佩"
 
 #: recursos/0ecuador/datos/0ecuador.py:24 recursos/0ecuador/datos/levels.py:26
 msgid "Morona Santiago"
@@ -14993,9 +14984,8 @@ msgid "Ceded by Spain to the United States"
 msgstr ""
 
 #: recursos/0prico/datos/0prico.py:191
-#, fuzzy
 msgid "13 of august of 1898 "
-msgstr "1825年8月6日"
+msgstr ""
 
 #: recursos/0prico/datos/0prico.py:192
 msgid "9.104 km² (170th)"
