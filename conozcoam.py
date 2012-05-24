@@ -531,10 +531,10 @@ class ConozcoAm():
 
                     elif (index == 1):
                         for i in listpreguntas:
-                            texto = i[0]
+                            texto = unicode(i[0], 'UTF-8')
                             tipo = i[1]
-                            respuesta = unicode(i[0], 'UTF-8')
-                            ayuda = i[3]
+                            respuesta = unicode(i[2], 'UTF-8')
+                            ayuda = unicode(i[3], 'UTF-8')
 
                             nuevoNivel.preguntas.append((texto,
                                 tipo, respuesta, ayuda))
