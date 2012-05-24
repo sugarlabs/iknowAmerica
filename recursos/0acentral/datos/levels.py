@@ -68,7 +68,7 @@ LEVEL2 = [
 ]
 
 LEVEL3 = [
-        3,
+        2,
         _('Cities'),
         ['lineasDepto', 'capitales', 'ciudades'],
         [],

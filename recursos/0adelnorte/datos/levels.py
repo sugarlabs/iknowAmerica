@@ -127,7 +127,7 @@ LEVEL2 = [
 ]
 
 LEVEL3 = [
-        3,
+        4,
         _('Waterways'),
         ['rios'],
         [],
