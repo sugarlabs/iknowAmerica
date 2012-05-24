@@ -985,7 +985,7 @@ class ConozcoAm():
         self.sound = True
         try:
             self.click = pygame.mixer.Sound(os.path.join(\
-                            self.camino_sonidos,"junggle_btn045.wav"))
+                            self.camino_sonidos,"junggle_btn117.wav"))
             self.click.set_volume(0.2)
         except:
             self.sound = False
