@@ -6,8 +6,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-04-20 00:32-0400\n"
-"PO-Revision-Date: 2012-04-23 06:32+0200\n"
+"POT-Creation-Date: 2012-05-18 00:34-0400\n"
+"PO-Revision-Date: 2012-05-24 18:05+0200\n"
 "Last-Translator: Chris <cjl@laptop.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: en_GB\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.0.5\n"
 
-#: activity/activity.info:2 conozcoam.py:634 conozcoam.py:742
+#: activity/activity.info:2 conozcoam.py:651 conozcoam.py:759
 msgid "I know America"
 msgstr "I Know the Americas"
 
@@ -165,13 +165,13 @@ msgstr "Parish capitals"
 msgid "Municipal capitals"
 msgstr "Municipal capitals"
 
-#: conozcoam.py:244 conozcoam.py:359 conozcoam.py:382 conozcoam.py:419
-#: conozcoam.py:556
+#: conozcoam.py:244 conozcoam.py:359 conozcoam.py:383 conozcoam.py:436
+#: conozcoam.py:573
 #, python-format
 msgid "Cannot open %s"
 msgstr "Cannot open %s"
 
-#: conozcoam.py:444
+#: conozcoam.py:461
 #, python-format
 #, python-format,
 msgid ""
@@ -181,7 +181,7 @@ msgstr ""
 "the city of\n"
 "%s"
 
-#: conozcoam.py:448 recursos/0bolivia/datos/explorations.py:6
+#: conozcoam.py:465 recursos/0bolivia/datos/explorations.py:6
 #: recursos/0bolivia/datos/levels.py:6
 #: recursos/0colombia/datos/explorations.py:6
 #: recursos/0colombia/datos/levels.py:6
@@ -199,7 +199,7 @@ msgstr ""
 msgid "Departments"
 msgstr "Departments"
 
-#: conozcoam.py:454
+#: conozcoam.py:471
 #, python-format
 #, python-format,
 msgid ""
@@ -209,7 +209,7 @@ msgstr ""
 "the department of\n"
 "%s"
 
-#: conozcoam.py:458 recursos/0argentina/datos/explorations.py:6
+#: conozcoam.py:475 recursos/0argentina/datos/explorations.py:6
 #: recursos/0argentina/datos/levels.py:6
 #: recursos/0canada/datos/explorations.py:6 recursos/0canada/datos/levels.py:6
 #: recursos/0costarica/datos/explorations.py:6
@@ -225,7 +225,7 @@ msgstr ""
 msgid "Provinces"
 msgstr "Provinces"
 
-#: conozcoam.py:464
+#: conozcoam.py:481
 #, python-format
 #, python-format,
 msgid ""
@@ -235,7 +235,7 @@ msgstr ""
 "the province of\n"
 "%s"
 
-#: conozcoam.py:468 recursos/0belice/datos/explorations.py:6
+#: conozcoam.py:485 recursos/0belice/datos/explorations.py:6
 #: recursos/0belice/datos/levels.py:6
 #: recursos/0guayanafr/datos/explorations.py:6
 #: recursos/0surinam/datos/explorations.py:6
@@ -243,7 +243,7 @@ msgstr ""
 msgid "Districts"
 msgstr "Districts"
 
-#: conozcoam.py:474
+#: conozcoam.py:491
 #, python-format
 #, python-format,
 msgid ""
@@ -253,7 +253,7 @@ msgstr ""
 "the district of\n"
 "%s"
 
-#: conozcoam.py:478 recursos/0brasil/datos/explorations.py:6
+#: conozcoam.py:495 recursos/0brasil/datos/explorations.py:6
 #: recursos/0brasil/datos/levels.py:6
 #: recursos/0eunidos/datos/explorations.py:6
 #: recursos/0eunidos/datos/levels.py:6
@@ -263,7 +263,7 @@ msgstr ""
 msgid "States"
 msgstr "States"
 
-#: conozcoam.py:484
+#: conozcoam.py:501
 #, python-format
 #, python-format,
 msgid ""
@@ -273,7 +273,7 @@ msgstr ""
 "the state of\n"
 "%s"
 
-#: conozcoam.py:488 recursos/0chile/datos/explorations.py:6
+#: conozcoam.py:505 recursos/0chile/datos/explorations.py:6
 #: recursos/0chile/datos/levels.py:6 recursos/0guyana/datos/explorations.py:6
 #: recursos/0guyana/datos/levels.py:6
 #: recursos/0tytobago/datos/explorations.py:6
@@ -281,7 +281,7 @@ msgstr ""
 msgid "Regions"
 msgstr "Regions"
 
-#: conozcoam.py:494
+#: conozcoam.py:511
 #, python-format
 #, python-format,
 msgid ""
@@ -291,13 +291,13 @@ msgstr ""
 "the region of\n"
 "%s"
 
-#: conozcoam.py:498 recursos/0jamaica/datos/explorations.py:6
+#: conozcoam.py:515 recursos/0jamaica/datos/explorations.py:6
 #: recursos/0jamaica/datos/levels.py:6
 #: recursos/0sanvicenteyg/datos/explorations.py:6
 msgid "Parishes"
 msgstr "Parishes"
 
-#: conozcoam.py:504 recursos/0sanvicenteyg/datos/levels.py:10
+#: conozcoam.py:521 recursos/0sanvicenteyg/datos/levels.py:10
 #: recursos/0sanvicenteyg/datos/levels.py:11
 #: recursos/0sanvicenteyg/datos/levels.py:12
 #: recursos/0sanvicenteyg/datos/levels.py:13
@@ -310,12 +310,12 @@ msgstr ""
 "the parish of\n"
 "%s"
 
-#: conozcoam.py:508 recursos/0prico/datos/explorations.py:6
+#: conozcoam.py:525 recursos/0prico/datos/explorations.py:6
 #: recursos/0prico/datos/levels.py:6
 msgid "Municipalities"
 msgstr "Municipalities"
 
-#: conozcoam.py:514
+#: conozcoam.py:531
 #, python-format
 #, python-format,
 msgid ""
@@ -325,7 +325,7 @@ msgstr ""
 "the municipality of\n"
 "%s"
 
-#: conozcoam.py:518 recursos/0adelnorte/datos/explorations.py:27
+#: conozcoam.py:535 recursos/0adelnorte/datos/explorations.py:27
 #: recursos/0adelnorte/datos/levels.py:128
 #: recursos/0adelsur/datos/explorations.py:27
 #: recursos/0adelsur/datos/levels.py:135
@@ -385,7 +385,7 @@ msgstr ""
 msgid "Waterways"
 msgstr "Waterways"
 
-#: conozcoam.py:524 recursos/0adelnorte/datos/levels.py:14
+#: conozcoam.py:541 recursos/0adelnorte/datos/levels.py:14
 #: recursos/0adelnorte/datos/levels.py:15
 #: recursos/0adelnorte/datos/levels.py:16
 #: recursos/0adelnorte/datos/levels.py:17
@@ -411,59 +411,59 @@ msgstr "Waterways"
 msgid "the %s"
 msgstr "the %s"
 
-#: conozcoam.py:594
+#: conozcoam.py:611
 msgid "About I know America"
 msgstr "About I Know the Americas"
 
-#: conozcoam.py:608
+#: conozcoam.py:625
 msgid "Press any key to return"
 msgstr "Press any key to return"
 
-#: conozcoam.py:639
+#: conozcoam.py:656
 msgid "You have chosen the map "
 msgstr "You have chosen the map "
 
-#: conozcoam.py:645
+#: conozcoam.py:662
 msgid "Play"
 msgstr "Play"
 
-#: conozcoam.py:661
+#: conozcoam.py:678
 msgid "Explore"
 msgstr "Explore"
 
-#: conozcoam.py:681 conozcoam.py:825
+#: conozcoam.py:698 conozcoam.py:842
 msgid "About this game"
 msgstr "About this game"
 
-#: conozcoam.py:689
+#: conozcoam.py:706
 msgid "Return"
 msgstr "Return"
 
-#: conozcoam.py:746
+#: conozcoam.py:763
 msgid "Choose the map to use"
 msgstr "Choose the map to use"
 
-#: conozcoam.py:766
+#: conozcoam.py:783
 msgid "<<< Previous page"
 msgstr "<<< Previous page"
 
-#: conozcoam.py:811
+#: conozcoam.py:828
 msgid "Next page >>>"
 msgstr "Next page >>>"
 
-#: conozcoam.py:832
+#: conozcoam.py:849
 msgid "Exit"
 msgstr "Exit"
 
-#: conozcoam.py:1289 conozcoam.py:1487
+#: conozcoam.py:1306 conozcoam.py:1504
 msgid "End"
 msgstr "End"
 
-#: conozcoam.py:1300
+#: conozcoam.py:1317
 msgid "Show all"
 msgstr "Show all"
 
-#: conozcoam.py:1742 conozcoam.py:1854 conozcoam.py:1935
+#: conozcoam.py:1759 conozcoam.py:1871 conozcoam.py:1952
 msgid "Press any key to skip"
 msgstr "Press any key to skip"
 
@@ -3138,8 +3138,9 @@ msgid "Greenland"
 msgstr "Greenland"
 
 #: recursos/0adelnorte/datos/0adelnorte.py:20
-msgid "Bahamas Island"
-msgstr "Bahamas Island"
+#: recursos/0eunidos/datos/0eunidos.py:11
+msgid "The Bahamas"
+msgstr "The Bahamas"
 
 #: recursos/0adelnorte/datos/0adelnorte.py:21
 #: recursos/0adelnorte/datos/levels.py:14 recursos/0mexico/datos/0mexico.py:44
@@ -5443,7 +5444,7 @@ msgid "Language:"
 msgstr "Language:"
 
 #: recursos/0argentina/datos/0argentina.py:112
-#: recursos/0chile/datos/0chile.py:47
+#: recursos/0bolivia/datos/0bolivia.py:103 recursos/0chile/datos/0chile.py:47
 #: recursos/0colombia/datos/0colombia.py:136
 #: recursos/0costarica/datos/0costarica.py:149
 #: recursos/0cuba/datos/0cuba.py:84
@@ -5455,7 +5456,8 @@ msgstr "Language:"
 #: recursos/0mexico/datos/0mexico.py:138
 #: recursos/0nicaragua/datos/0nicaragua.py:135
 #: recursos/0panama/datos/0panama.py:90
-#: recursos/0uruguay/datos/0uruguay.py:182
+#: recursos/0paraguay/datos/0paraguay.py:109 recursos/0peru/datos/0peru.py:135
+#: recursos/0prico/datos/0prico.py:185 recursos/0uruguay/datos/0uruguay.py:182
 #: recursos/0venezuela/datos/0venezuela.py:121
 msgid "Spanish"
 msgstr "Spanish"
@@ -5736,7 +5738,8 @@ msgstr "USD 642.402 billion (22nd)"
 #: recursos/0argentina/datos/0argentina.py:122
 #: recursos/0belice/datos/0belice.py:105
 #: recursos/0bolivia/datos/0bolivia.py:113
-#: recursos/0canada/datos/0canada.py:122 recursos/0chile/datos/0chile.py:56
+#: recursos/0brasil/datos/0brasil.py:149 recursos/0canada/datos/0canada.py:122
+#: recursos/0chile/datos/0chile.py:56
 #: recursos/0colombia/datos/0colombia.py:146
 #: recursos/0costarica/datos/0costarica.py:159
 #: recursos/0cuba/datos/0cuba.py:93
@@ -6130,6 +6133,7 @@ msgid "Monarch:"
 msgstr "Monarch:"
 
 #: recursos/0belice/datos/0belice.py:98 recursos/0canada/datos/0canada.py:114
+#: recursos/0jamaica/datos/0jamaica.py:93
 #: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:59
 msgid "Queen Elizabeth II"
 msgstr "Queen Elizabeth II"
@@ -6443,9 +6447,13 @@ msgstr "Lake Poopo River"
 msgid "(19º2' S - 65º15' W)"
 msgstr "(19º2' S - 65º15' W)"
 
+#: recursos/0bolivia/datos/0bolivia.py:103 recursos/0peru/datos/0peru.py:135
+msgid "Quechua"
+msgstr "Quechua"
+
 #: recursos/0bolivia/datos/0bolivia.py:103
-msgid "Spanish, Quechua, Guarani"
-msgstr "Spanish, Quechua, Guarani"
+msgid "Guarani"
+msgstr "Guaraní"
 
 #: recursos/0bolivia/datos/0bolivia.py:104 recursos/0chile/datos/0chile.py:48
 #: recursos/0colombia/datos/0colombia.py:137
@@ -6826,10 +6834,6 @@ msgid "USD 2.172 trillion (5th)"
 msgstr "USD 2.172 trillion (5th)"
 
 #: recursos/0brasil/datos/0brasil.py:149
-msgid "IDH:"
-msgstr "IDH:"
-
-#: recursos/0brasil/datos/0brasil.py:149
 msgid "High - 0,699 (73th)"
 msgstr "High - 0,699 (73th)"
 
@@ -6984,8 +6988,19 @@ msgid "(45º24' N - 75º40' W)"
 msgstr "(45º24' N - 75º40' W)"
 
 #: recursos/0canada/datos/0canada.py:112
-msgid "English and French"
-msgstr "English and French"
+#: recursos/0eunidos/datos/0eunidos.py:178
+#: recursos/0guyana/datos/0guyana.py:84 recursos/0jamaica/datos/0jamaica.py:91
+#: recursos/0prico/datos/0prico.py:185
+#: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:57
+#: recursos/0tytobago/datos/0tytobago.py:74
+msgid "English"
+msgstr "English"
+
+#: recursos/0canada/datos/0canada.py:112
+#: recursos/0guayanafr/datos/0guayanafr.py:67
+#: recursos/0haiti/datos/0haiti.py:100
+msgid "French"
+msgstr "French"
 
 #: recursos/0canada/datos/0canada.py:113
 msgid "Federal parliamentary monarch"
@@ -8521,8 +8536,8 @@ msgstr "Cuban peso"
 
 #: recursos/0dominicana/datos/0dominicana.py:8
 #: recursos/0dominicana/datos/levels.py:10
-msgid "D.N."
-msgstr "D.N."
+msgid "Distrito Nacional"
+msgstr "Distrito Nacional"
 
 #: recursos/0dominicana/datos/0dominicana.py:9
 #: recursos/0dominicana/datos/levels.py:11
@@ -9888,10 +9903,6 @@ msgstr "Arizona"
 msgid "Arkansas"
 msgstr "Arkansas"
 
-#: recursos/0eunidos/datos/0eunidos.py:11
-msgid "Bahamas"
-msgstr "Bahamas"
-
 #: recursos/0eunidos/datos/0eunidos.py:12 recursos/0eunidos/datos/levels.py:13
 msgid "California"
 msgstr "California"
@@ -10315,13 +10326,6 @@ msgstr "Williston"
 #: recursos/0eunidos/datos/0eunidos.py:177
 msgid "(38º53' N - 77º02' W)"
 msgstr "(38º53' N - 77º02' W)"
-
-#: recursos/0eunidos/datos/0eunidos.py:178
-#: recursos/0guyana/datos/0guyana.py:84 recursos/0jamaica/datos/0jamaica.py:91
-#: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:57
-#: recursos/0tytobago/datos/0tytobago.py:74
-msgid "English"
-msgstr "English"
 
 #: recursos/0eunidos/datos/0eunidos.py:180 recursos/0prico/datos/0prico.py:188
 msgid "Barack Obama"
@@ -11127,11 +11131,6 @@ msgstr "Lawa River"
 #: recursos/0guayanafr/datos/0guayanafr.py:66
 msgid "(4º56' N - 52º19' W)"
 msgstr "(4º56' N - 52º19' W)"
-
-#: recursos/0guayanafr/datos/0guayanafr.py:67
-#: recursos/0haiti/datos/0haiti.py:100
-msgid "French"
-msgstr "French"
 
 #: recursos/0guayanafr/datos/0guayanafr.py:68
 msgid "Overseas department"
@@ -12460,10 +12459,6 @@ msgstr "(17º59' N - 76º48' W)"
 msgid "Constitutional monarchy"
 msgstr "Constitutional monarchy"
 
-#: recursos/0jamaica/datos/0jamaica.py:93
-msgid "Reina Isabel II"
-msgstr "Reina Isabel II"
-
 #: recursos/0jamaica/datos/0jamaica.py:94
 msgid "Patrick Allen"
 msgstr "Patrick Allen"
@@ -12499,8 +12494,8 @@ msgstr "Is around"
 #: recursos/0mexico/datos/0mexico.py:8 recursos/0mexico/datos/levels.py:10
 #: recursos/0venezuela/datos/0venezuela.py:16
 #: recursos/0venezuela/datos/levels.py:18
-msgid "D.F."
-msgstr "D.F."
+msgid "Distrito Federal"
+msgstr "Distrito Federal"
 
 #: recursos/0mexico/datos/0mexico.py:9 recursos/0mexico/datos/0mexico.py:51
 #: recursos/0mexico/datos/levels.py:11 recursos/0mexico/datos/levels.py:49
@@ -13934,8 +13929,9 @@ msgid "(25º16' S - 57º40' W)"
 msgstr "(25º16' S - 57º40' W)"
 
 #: recursos/0paraguay/datos/0paraguay.py:109
-msgid "Spanish and Guaraní"
-msgstr "Spanish and Guaraní"
+#: recursos/0paraguay/datos/0paraguay.py:120
+msgid "Guaraní"
+msgstr "Guaraní"
 
 #: recursos/0paraguay/datos/0paraguay.py:111
 msgid "Fernando Lugo"
@@ -13968,10 +13964,6 @@ msgstr "USD 30.943 billion (102th)"
 #: recursos/0paraguay/datos/0paraguay.py:119
 msgid "Medium - 0,640 (96th)"
 msgstr "Medium - 0,640 (96th)"
-
-#: recursos/0paraguay/datos/0paraguay.py:120
-msgid "Guaraní"
-msgstr "Guaraní"
 
 #: recursos/0paraguay/datos/levels.py:122
 msgid "Queda en el sureste"
@@ -14301,8 +14293,8 @@ msgid "(12º02' S - 77º01' W)"
 msgstr "(12º02' S - 77º01' W)"
 
 #: recursos/0peru/datos/0peru.py:135
-msgid "Spanish, quechúa, aimará"
-msgstr "Spanish, quechúa, aimará"
+msgid "Aimará"
+msgstr "Aimará"
 
 #: recursos/0peru/datos/0peru.py:137
 msgid "Ollanta Humala Tasso"
@@ -14795,10 +14787,6 @@ msgstr "Aguadilla Bay"
 msgid "(18º29' N - 66º08' W)"
 msgstr "(18º29' N - 66º08' W)"
 
-#: recursos/0prico/datos/0prico.py:185
-msgid "Spanish, English"
-msgstr "Spanish, English"
-
 #: recursos/0prico/datos/0prico.py:186
 msgid "Unincorporated territory"
 msgstr "Unincorporated territory"
@@ -14813,7 +14801,7 @@ msgstr "Ceded by Spain to the United States"
 
 #: recursos/0prico/datos/0prico.py:191
 msgid "13 of august of 1898 "
-msgstr "August 13, 1898"
+msgstr "August 13, 1898 "
 
 #: recursos/0prico/datos/0prico.py:192
 msgid "9.104 km² (170th)"
@@ -16841,6 +16829,39 @@ msgstr "Sounds downloaded from freesound.org: btn045.wav courtesy of junggle."
 #: recursos/comun/datos/commons.py:64
 msgid "Font: Share-Regular.ttf of urbanfonts.com"
 msgstr "Font: Share-Regular.ttf of urbanfonts.com"
+
+#~ msgid "Bahamas Island"
+#~ msgstr "Bahamas Island"
+
+#~ msgid "Spanish, Quechua, Guarani"
+#~ msgstr "Spanish, Quechua, Guarani"
+
+#~ msgid "English and French"
+#~ msgstr "English and French"
+
+#~ msgid "D.N."
+#~ msgstr "D.N."
+
+#~ msgid "Bahamas"
+#~ msgstr "Bahamas"
+
+#~ msgid "D.F."
+#~ msgstr "D.F."
+
+#~ msgid "Spanish and Guaraní"
+#~ msgstr "Spanish and Guaraní"
+
+#~ msgid "Spanish, quechúa, aimará"
+#~ msgstr "Spanish, quechúa, aimará"
+
+#~ msgid "Spanish, English"
+#~ msgstr "Spanish, English"
+
+#~ msgid "Reina Isabel II"
+#~ msgstr "Reina Isabel II"
+
+#~ msgid "IDH:"
+#~ msgstr "IDH:"
 
 #~ msgid "St. Lucia"
 #~ msgstr "St. Lucia"
