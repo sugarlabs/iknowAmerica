@@ -1527,7 +1527,7 @@ class ConozcoAm():
         self.otorgado = False
         self.estadodespedida = 0
         self.primera = False
-        self.avanceNivel
+        self.avanceNivel = 0
         pygame.time.set_timer(EVENTORESPUESTA,0)
         # leer eventos y ver si la respuesta es correcta
         while 1:
