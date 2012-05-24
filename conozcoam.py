@@ -451,9 +451,8 @@ class ConozcoAm():
                     if (index == 2):
                         for i in listpreguntas:
                             tipo = 2
-                            #respuesta = i[0]
                             respuesta = unicode(i[0], 'UTF-8')
-                            ayuda = i[1]
+                            ayuda = unicode(i[1], 'UTF-8')
                             texto = _('the city of\n%s') % respuesta
                             nuevoNivel.preguntas.append((texto,
                                 tipo, respuesta, ayuda))
@@ -461,9 +460,8 @@ class ConozcoAm():
                     elif (index == 7):
                         for i in listpreguntas:
                             tipo = 1
-                            #respuesta = i[0]
                             respuesta = unicode(i[0], 'UTF-8')
-                            ayuda = i[1]
+                            ayuda = unicode(i[1], 'UTF-8')
                             texto = _('the department of\n%s') % respuesta
                             nuevoNivel.preguntas.append((texto,
                                 tipo, respuesta, ayuda))
@@ -471,9 +469,8 @@ class ConozcoAm():
                     elif (index == 8):
                         for i in listpreguntas:
                             tipo = 1
-                            #respuesta = i[0]
                             respuesta = unicode(i[0], 'UTF-8')
-                            ayuda = i[1]
+                            ayuda = unicode(i[1], 'UTF-8')
                             texto = _('the province of\n%s') % respuesta
                             nuevoNivel.preguntas.append((texto,
                                 tipo, respuesta, ayuda))
@@ -481,9 +478,8 @@ class ConozcoAm():
                     elif (index == 9):
                         for i in listpreguntas:
                             tipo = 1
-                            #respuesta = i[0]
                             respuesta = unicode(i[0], 'UTF-8')
-                            ayuda = i[1]
+                            ayuda = unicode(i[1], 'UTF-8')
                             texto = _('the district of\n%s') % respuesta
                             nuevoNivel.preguntas.append((texto,
                                 tipo, respuesta, ayuda))
@@ -491,9 +487,8 @@ class ConozcoAm():
                     elif (index == 10):
                         for i in listpreguntas:
                             tipo = 1
-                            #respuesta = i[0]
                             respuesta = unicode(i[0], 'UTF-8')
-                            ayuda = i[1]
+                            ayuda = unicode(i[1], 'UTF-8')
                             texto = _('the state of\n%s') % respuesta
                             nuevoNivel.preguntas.append((texto,
                                 tipo, respuesta, ayuda))
@@ -501,9 +496,8 @@ class ConozcoAm():
                     elif (index == 11):
                         for i in listpreguntas:
                             tipo = 1
-                            #respuesta = i[0]
                             respuesta = unicode(i[0], 'UTF-8')
-                            ayuda = i[1]
+                            ayuda = unicode(i[1], 'UTF-8')
                             texto = _('the region of\n%s') % respuesta
                             nuevoNivel.preguntas.append((texto,
                                 tipo, respuesta, ayuda))
@@ -511,9 +505,8 @@ class ConozcoAm():
                     elif (index == 12):
                         for i in listpreguntas:
                             tipo = 1
-                            #respuesta = i[0]
                             respuesta = unicode(i[0], 'UTF-8')
-                            ayuda = i[1]
+                            ayuda = unicode(i[1], 'UTF-8')
                             texto = _('the parish of\n%s') % respuesta
                             nuevoNivel.preguntas.append((texto,
                                 tipo, respuesta, ayuda))
@@ -521,9 +514,8 @@ class ConozcoAm():
                     elif (index == 6):
                         for i in listpreguntas:
                             tipo = 1
-                            #respuesta = i[0]
                             respuesta = unicode(i[0], 'UTF-8')
-                            ayuda = i[1]
+                            ayuda = unicode(i[1], 'UTF-8')
                             texto = _('the municipality of\n%s') % respuesta
                             nuevoNivel.preguntas.append((texto,
                                 tipo, respuesta, ayuda))
@@ -531,9 +523,8 @@ class ConozcoAm():
                     elif (index == 4):
                         for i in listpreguntas:
                             tipo = 3
-                            #respuesta = i[0]
                             respuesta = unicode(i[0], 'UTF-8')
-                            ayuda = i[1]
+                            ayuda = unicode(i[1], 'UTF-8')
                             texto = _('the %s') % respuesta
                             nuevoNivel.preguntas.append((texto,
                                 tipo, respuesta, ayuda))
@@ -542,7 +533,6 @@ class ConozcoAm():
                         for i in listpreguntas:
                             texto = i[0]
                             tipo = i[1]
-                            #respuesta = i[0]
                             respuesta = unicode(i[0], 'UTF-8')
                             ayuda = i[3]
 
