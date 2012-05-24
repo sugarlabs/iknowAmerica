@@ -19,6 +19,8 @@ class Activity(activity.Activity):
 
         self.set_canvas(self._pygamecanvas)
 
+        self._pygamecanvas.grab_focus()
+
         self._pygamecanvas.run_pygame(self.actividad.principal)
 
 
