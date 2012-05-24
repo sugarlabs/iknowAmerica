@@ -82,10 +82,6 @@ ESTADOPESTANAS = 2
 ESTADOFRENTE = 3
 ESTADODESPEGUE = 4
 
-TO_CITIES = [_('Cities'),  _('Capitals'), _('Departmental capitals'), _('Provincial capitals'),
-            _('District capitals'), _('State capitals'), _('Regional capitals'), _('Parish capitals'),
-            _('Municipal capitals') ]
-
 # variables globales para adaptar la pantalla a distintas resoluciones
 scale = 1
 shift_x = 0
@@ -438,21 +434,21 @@ class ConozcoAm():
         if f:
             if hasattr(f, 'LEVELS'):
                 for ln in f.LEVELS:
-                    #nombreNivel = ln[0]
-                    nombreNivel = unicode(ln[0], 'UTF-8')
+                    index = ln[0]
+                    nombreNivel = unicode(ln[1], 'UTF-8')
                     nuevoNivel = Nivel(nombreNivel)
 
-                    listaDibujos = ln[1]
+                    listaDibujos = ln[2]
                     for i in listaDibujos:
                         nuevoNivel.dibujoInicial.append(i.strip())
 
-                    listaNombres = ln[2]
+                    listaNombres = ln[3]
                     for i in listaNombres:
                         nuevoNivel.nombreInicial.append(i.strip())
 
-                    listpreguntas = ln[3]
+                    listpreguntas = ln[4]
 
-                    if (nombreNivel in TO_CITIES):
+                    if (index == 2):
                         for i in listpreguntas:
                             tipo = 2
                             #respuesta = i[0]
@@ -462,7 +458,7 @@ class ConozcoAm():
                             nuevoNivel.preguntas.append((texto,
                                 tipo, respuesta, ayuda))
 
-                    elif (nombreNivel == _('Departments')):
+                    elif (index == 7):
                         for i in listpreguntas:
                             tipo = 1
                             #respuesta = i[0]
@@ -472,7 +468,7 @@ class ConozcoAm():
                             nuevoNivel.preguntas.append((texto,
                                 tipo, respuesta, ayuda))
 
-                    elif (nombreNivel == _('Provinces')):
+                    elif (index == 8):
                         for i in listpreguntas:
                             tipo = 1
                             #respuesta = i[0]
@@ -482,7 +478,7 @@ class ConozcoAm():
                             nuevoNivel.preguntas.append((texto,
                                 tipo, respuesta, ayuda))
 
-                    elif (nombreNivel == _('Districts')):
+                    elif (index == 9):
                         for i in listpreguntas:
                             tipo = 1
                             #respuesta = i[0]
@@ -492,7 +488,7 @@ class ConozcoAm():
                             nuevoNivel.preguntas.append((texto,
                                 tipo, respuesta, ayuda))
 
-                    elif (nombreNivel == _('States')):
+                    elif (index == 10):
                         for i in listpreguntas:
                             tipo = 1
                             #respuesta = i[0]
@@ -502,7 +498,7 @@ class ConozcoAm():
                             nuevoNivel.preguntas.append((texto,
                                 tipo, respuesta, ayuda))
 
-                    elif (nombreNivel == _('Regions')):
+                    elif (index == 11):
                         for i in listpreguntas:
                             tipo = 1
                             #respuesta = i[0]
@@ -512,7 +508,7 @@ class ConozcoAm():
                             nuevoNivel.preguntas.append((texto,
                                 tipo, respuesta, ayuda))
 
-                    elif (nombreNivel == _('Parishes')):
+                    elif (index == 12):
                         for i in listpreguntas:
                             tipo = 1
                             #respuesta = i[0]
@@ -522,7 +518,7 @@ class ConozcoAm():
                             nuevoNivel.preguntas.append((texto,
                                 tipo, respuesta, ayuda))
 
-                    elif (nombreNivel == _('Municipalities')):
+                    elif (index == 6):
                         for i in listpreguntas:
                             tipo = 1
                             #respuesta = i[0]
@@ -532,7 +528,7 @@ class ConozcoAm():
                             nuevoNivel.preguntas.append((texto,
                                 tipo, respuesta, ayuda))
 
-                    elif (nombreNivel == _('Waterways')):
+                    elif (index == 4):
                         for i in listpreguntas:
                             tipo = 3
                             #respuesta = i[0]
@@ -542,7 +538,7 @@ class ConozcoAm():
                             nuevoNivel.preguntas.append((texto,
                                 tipo, respuesta, ayuda))
 
-                    else:
+                    elif (index == 1):
                         for i in listpreguntas:
                             texto = i[0]
                             tipo = i[1]
