@@ -402,7 +402,7 @@ class ConozcoAm():
             if hasattr(f, 'BYE_W'):
                 for e in f.BYE_W:
                     e1 = unicode(e, 'UTF-8')
-                    self.listaDespedidasB.append(e1)
+                    self.listaDespedidasM.append(e1)
             if hasattr(f, 'PRESENTATION'):
                 for e in f.PRESENTATION:
                     e1 = unicode(e, 'UTF-8')
