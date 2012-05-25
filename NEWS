@@ -1,3 +1,8 @@
+24/05/12
+    Se arreglan muchos bugs de la versión anterior.
+    Se arreglan los eventos del teclado de SugarGame.
+    Se cambia el sonido del click.
+
 23/05/12
     Se cambia la forma de enumerar los niveles. Se utiliza
         un número, que evita problemas. Sobre todo en Sugar
