@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-05-25 00:32-0400\n"
-"PO-Revision-Date: 2012-06-05 05:11+0200\n"
+"PO-Revision-Date: 2012-06-18 11:27+0200\n"
 "Last-Translator: lite <litekok@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: zh_CN\n"
@@ -9780,7 +9780,7 @@ msgstr "吉博亚河"
 #: recursos/0elsalvador/datos/0elsalvador.py:85
 #: recursos/0elsalvador/datos/levels.py:118
 msgid "Grande de San Miguel River"
-msgstr "格兰德·圣米格尔河 "
+msgstr "格兰德·圣米格尔河"
 
 #: recursos/0elsalvador/datos/0elsalvador.py:86
 #: recursos/0elsalvador/datos/levels.py:119
@@ -10783,7 +10783,7 @@ msgstr "莫塔瓜河"
 #: recursos/0guatemala/datos/0guatemala.py:130
 #: recursos/0guatemala/datos/levels.py:169
 msgid "Samalá River"
-msgstr "萨马拉河 "
+msgstr "萨马拉河"
 
 #: recursos/0guatemala/datos/0guatemala.py:131
 #: recursos/0guatemala/datos/levels.py:170
@@ -10822,1259 +10822,1211 @@ msgstr "伊斯坎河"
 
 #: recursos/0guatemala/datos/0guatemala.py:139
 #: recursos/0guatemala/datos/levels.py:178
-#, fuzzy
 msgid "San Pedro River"
-msgstr "圣马丁河"
+msgstr "圣佩德罗河"
 
 #: recursos/0guatemala/datos/0guatemala.py:140
 #: recursos/0guatemala/datos/levels.py:179
-#, fuzzy
 msgid "Mopán River"
-msgstr "巴拉那河"
+msgstr "莫潘河"
 
 #: recursos/0guatemala/datos/0guatemala.py:141
 #: recursos/0guatemala/datos/levels.py:180
 msgid "Azul River"
-msgstr ""
+msgstr "阿祖尔河"
 
 #: recursos/0guatemala/datos/0guatemala.py:142
 msgid "Lake Izabal"
-msgstr ""
+msgstr "伊萨瓦尔湖"
 
 #: recursos/0guatemala/datos/0guatemala.py:143
 #: recursos/0guatemala/datos/levels.py:182
 msgid "Amatique Bay"
-msgstr ""
+msgstr "阿马蒂克湾"
 
 #: recursos/0guatemala/datos/0guatemala.py:144
 #: recursos/0guatemala/datos/levels.py:183
 msgid "Gulf of Honduras"
-msgstr ""
+msgstr "洪都拉斯湾"
 
 #: recursos/0guatemala/datos/0guatemala.py:147
 #: recursos/0guatemala/datos/levels.py:186
 msgid "Atitlán Lagoon"
-msgstr ""
+msgstr "阿蒂特兰咸水湖"
 
 #: recursos/0guatemala/datos/0guatemala.py:148
 #: recursos/0guatemala/datos/levels.py:187
 msgid "Lake Petén Itzá"
-msgstr ""
+msgstr "佩滕伊察湖"
 
 #: recursos/0guatemala/datos/0guatemala.py:149
 msgid "Perdida Lagoon"
-msgstr ""
+msgstr "佩尔迪达咸水湖"
 
 #: recursos/0guatemala/datos/0guatemala.py:155
-#, fuzzy
 msgid "(14º38' N - 90º33' W)"
-msgstr "(4º39' 北 - 74º3' 西)"
+msgstr "(14º38' 北 - 90º33' 西)"
 
 #: recursos/0guatemala/datos/0guatemala.py:158
 msgid "Otto Pérez Molina"
-msgstr ""
+msgstr "奥托·佩雷斯·莫利纳"
 
 #: recursos/0guatemala/datos/0guatemala.py:159
 msgid "Roxana Baldetti"
-msgstr ""
+msgstr "罗莎娜·巴尔德蒂"
 
 #: recursos/0guatemala/datos/0guatemala.py:162
-#, fuzzy
 msgid "11 of october of 1825"
-msgstr "1931年12月11日"
+msgstr "1825年10月11日"
 
 #: recursos/0guatemala/datos/0guatemala.py:163
 msgid "108.889 km² (106th)"
-msgstr ""
+msgstr "108,889 平方公里 (第106名)"
 
 #: recursos/0guatemala/datos/0guatemala.py:164
 msgid "13.718.000 (67th)"
-msgstr ""
+msgstr "13,718,000 (第67名)"
 
 #: recursos/0guatemala/datos/0guatemala.py:165
-#, fuzzy
 msgid "USD 73.022 billion (79th)"
-msgstr "2,046亿美元（第166名）"
+msgstr "730.22亿美元（第79名）"
 
 #: recursos/0guatemala/datos/0guatemala.py:166
-#, fuzzy
 msgid "Medium - 0,560 (116th)"
-msgstr "中 - 0,643（第95名）"
+msgstr "中 - 0,560（第116名）"
 
 #: recursos/0guatemala/datos/0guatemala.py:167
 msgid "Quetzal"
-msgstr ""
+msgstr "格查尔"
 
 #: recursos/0guatemala/datos/levels.py:114
-#, fuzzy
 msgid "Is in the center "
 msgstr "在中心 "
 
 #: recursos/0guatemala/datos/levels.py:181
 msgid "Lake Izabal River"
-msgstr ""
+msgstr "伊萨瓦尔湖"
 
 #: recursos/0guatemala/datos/levels.py:188
 msgid "Laguna Perdida"
-msgstr ""
+msgstr "拉古纳-佩尔迪达"
 
 #: recursos/0guayanafr/datos/0guayanafr.py:9
 #: recursos/0guayanafr/datos/0guayanafr.py:16
 #: recursos/0guayanafr/datos/levels.py:12
 msgid "Saint-Laurent-du-Maroni"
-msgstr ""
+msgstr "圣洛朗-杜马罗尼"
 
 #: recursos/0guayanafr/datos/0guayanafr.py:20
 #: recursos/0guayanafr/datos/levels.py:13
 msgid "Apatou"
-msgstr ""
+msgstr "阿帕图"
 
 #: recursos/0guayanafr/datos/0guayanafr.py:21
 #: recursos/0guayanafr/datos/levels.py:14
 msgid "Camopi"
-msgstr ""
+msgstr "卡莫皮"
 
 #: recursos/0guayanafr/datos/0guayanafr.py:22
 #: recursos/0guayanafr/datos/levels.py:15
 msgid "Gare Tigre"
-msgstr ""
+msgstr "加雷蒂格雷"
 
 #: recursos/0guayanafr/datos/0guayanafr.py:23
 #: recursos/0guayanafr/datos/levels.py:16
 msgid "Grand-Santi"
-msgstr ""
+msgstr "格朗桑蒂"
 
 #: recursos/0guayanafr/datos/0guayanafr.py:24
 #: recursos/0guayanafr/datos/levels.py:17
 msgid "Guisanbourg"
-msgstr ""
+msgstr "吉桑堡"
 
 #: recursos/0guayanafr/datos/0guayanafr.py:25
 #: recursos/0guayanafr/datos/levels.py:18
 msgid "Iracoubo"
-msgstr ""
+msgstr "伊拉库博"
 
 #: recursos/0guayanafr/datos/0guayanafr.py:26
 #: recursos/0guayanafr/datos/levels.py:19
 msgid "Kaw"
-msgstr ""
+msgstr "卡乌"
 
 #: recursos/0guayanafr/datos/0guayanafr.py:27
 #: recursos/0guayanafr/datos/levels.py:20
 msgid "Kourou"
-msgstr ""
+msgstr "库鲁"
 
 #: recursos/0guayanafr/datos/0guayanafr.py:28
 #: recursos/0guayanafr/datos/levels.py:21
 msgid "Les Hattes"
-msgstr ""
+msgstr "莱斯哈特斯"
 
 #: recursos/0guayanafr/datos/0guayanafr.py:29
 #: recursos/0guayanafr/datos/levels.py:22
 msgid "Macouria"
-msgstr ""
+msgstr "马库里亚"
 
 #: recursos/0guayanafr/datos/0guayanafr.py:30
 #: recursos/0guayanafr/datos/levels.py:23
-#, fuzzy
 msgid "Mana"
-msgstr "帕拉"
+msgstr "马纳"
 
 #: recursos/0guayanafr/datos/0guayanafr.py:31
 #: recursos/0guayanafr/datos/levels.py:24
 msgid "Maripasoula"
-msgstr ""
+msgstr "马里帕苏拉"
 
 #: recursos/0guayanafr/datos/0guayanafr.py:32
 #: recursos/0guayanafr/datos/levels.py:25
 msgid "Matoury"
-msgstr ""
+msgstr "马托卢利"
 
 #: recursos/0guayanafr/datos/0guayanafr.py:33
 #: recursos/0guayanafr/datos/levels.py:26
 msgid "Montsinéry"
-msgstr ""
+msgstr "蒙西内里"
 
 #: recursos/0guayanafr/datos/0guayanafr.py:34
 #: recursos/0guayanafr/datos/levels.py:27
 msgid "Ouanary"
-msgstr ""
+msgstr "瓦纳里"
 
 #: recursos/0guayanafr/datos/0guayanafr.py:35
 #: recursos/0guayanafr/datos/levels.py:28
 msgid "Rémire"
-msgstr ""
+msgstr "雷米尔"
 
 #: recursos/0guayanafr/datos/0guayanafr.py:37
 #: recursos/0guayanafr/datos/levels.py:30
 msgid "Roura"
-msgstr ""
+msgstr "鲁拉"
 
 #: recursos/0guayanafr/datos/0guayanafr.py:38
 #: recursos/0guayanafr/datos/levels.py:31
-#, fuzzy
 msgid "Saint Jean"
 msgstr "圣约翰"
 
 #: recursos/0guayanafr/datos/0guayanafr.py:39
 #: recursos/0guayanafr/datos/levels.py:32
 msgid "Saint-Elie"
-msgstr ""
+msgstr "圣埃利"
 
 #: recursos/0guayanafr/datos/0guayanafr.py:40
 #: recursos/0guayanafr/datos/levels.py:33
-#, fuzzy
 msgid "Saint-Georges"
 msgstr "圣乔治"
 
 #: recursos/0guayanafr/datos/0guayanafr.py:41
 #: recursos/0guayanafr/datos/levels.py:34
 msgid "Saul"
-msgstr ""
+msgstr "索尔"
 
 #: recursos/0guayanafr/datos/0guayanafr.py:42
 #: recursos/0guayanafr/datos/levels.py:35
 msgid "Sinnamary"
-msgstr ""
+msgstr "锡纳马里"
 
 #: recursos/0guayanafr/datos/0guayanafr.py:43
 #: recursos/0guayanafr/datos/levels.py:36
 msgid "Tonate"
-msgstr ""
+msgstr "托纳特"
 
 #: recursos/0guayanafr/datos/0guayanafr.py:47
 #: recursos/0guayanafr/datos/levels.py:46
-#, fuzzy
 msgid "Mana River"
-msgstr "马德拉河"
+msgstr "马纳河"
 
 #: recursos/0guayanafr/datos/0guayanafr.py:48
 #: recursos/0guayanafr/datos/levels.py:47
 msgid "Sinamary River"
-msgstr ""
+msgstr "辛纳马利河"
 
 #: recursos/0guayanafr/datos/0guayanafr.py:49
 #: recursos/0guayanafr/datos/levels.py:48
 msgid "Comté River"
-msgstr ""
+msgstr "孔泰河"
 
 #: recursos/0guayanafr/datos/0guayanafr.py:50
 #: recursos/0guayanafr/datos/levels.py:49
-#, fuzzy
 msgid "Arataya River"
-msgstr "阿拉瓜亚河"
+msgstr "阿拉塔亚河"
 
 #: recursos/0guayanafr/datos/0guayanafr.py:51
 #: recursos/0guayanafr/datos/levels.py:50
 msgid "Approuage River"
-msgstr ""
+msgstr "阿佩罗基河"
 
 #: recursos/0guayanafr/datos/0guayanafr.py:52
 #: recursos/0guayanafr/datos/levels.py:51
-#, fuzzy
 msgid "Camopi River"
-msgstr "马莫雷河"
+msgstr "卡莫皮河"
 
 #: recursos/0guayanafr/datos/0guayanafr.py:53
 #: recursos/0guayanafr/datos/levels.py:52
 msgid "Oyapock River"
-msgstr ""
+msgstr "奥亚波克河"
 
 #: recursos/0guayanafr/datos/0guayanafr.py:54
 #: recursos/0guayanafr/datos/levels.py:53
 #: recursos/0surinam/datos/0surinam.py:63 recursos/0surinam/datos/levels.py:90
-#, fuzzy
 msgid "Litani River"
-msgstr "马莫雷河"
+msgstr "利塔尼河"
 
 #: recursos/0guayanafr/datos/0guayanafr.py:55
 #: recursos/0guayanafr/datos/levels.py:54
-#, fuzzy
 msgid "Marouini River"
-msgstr "马莫雷河"
+msgstr "马鲁伊尼河"
 
 #: recursos/0guayanafr/datos/0guayanafr.py:56
 #: recursos/0guayanafr/datos/levels.py:55
-#, fuzzy
 msgid "Tanpok River"
-msgstr "马莫雷河"
+msgstr "坦波克河"
 
 #: recursos/0guayanafr/datos/0guayanafr.py:57
 #: recursos/0guayanafr/datos/levels.py:56
 #: recursos/0surinam/datos/0surinam.py:60 recursos/0surinam/datos/levels.py:87
-#, fuzzy
 msgid "Maroni River"
-msgstr "马莫雷河"
+msgstr "马罗尼河"
 
 #: recursos/0guayanafr/datos/0guayanafr.py:58
 #: recursos/0guayanafr/datos/levels.py:57
 msgid "Abounamy River"
-msgstr ""
+msgstr "阿布纳米河"
 
 #: recursos/0guayanafr/datos/0guayanafr.py:59
 #: recursos/0guayanafr/datos/levels.py:58
 #: recursos/0surinam/datos/0surinam.py:61 recursos/0surinam/datos/levels.py:88
-#, fuzzy
 msgid "Lawa River"
-msgstr "马德拉河"
+msgstr "拉瓦河"
 
 #: recursos/0guayanafr/datos/0guayanafr.py:66
-#, fuzzy
 msgid "(4º56' N - 52º19' W)"
-msgstr "(34º40' 南 - 58º24' 西)"
+msgstr "(4º56' 北 - 52º19' 西)"
 
 #: recursos/0guayanafr/datos/0guayanafr.py:68
 msgid "Overseas department"
-msgstr ""
+msgstr "海外省"
 
 #: recursos/0guayanafr/datos/0guayanafr.py:69
 #: recursos/0haiti/datos/0haiti.py:104
 msgid "from France"
-msgstr ""
+msgstr "自法国"
 
 #: recursos/0guayanafr/datos/0guayanafr.py:70
 msgid "86.504 km² (112th)"
-msgstr ""
+msgstr "86,504 平方公里 (第112名)"
 
 #: recursos/0guayanafr/datos/0guayanafr.py:71
 msgid "230.000 (187th)"
-msgstr ""
+msgstr "230,000 (第187名)"
 
 #: recursos/0guayanafr/datos/0guayanafr.py:72
-#, fuzzy
 msgid "USD 1.151 billion (181th)"
-msgstr "2,046亿美元（第166名）"
+msgstr "11.51 亿美元（第181名）"
 
 #: recursos/0guayanafr/datos/0guayanafr.py:73
 msgid "-- (--th)"
-msgstr ""
+msgstr "-- (第？名)"
 
 #: recursos/0guayanafr/datos/0guayanafr.py:74
 msgid "Euro"
-msgstr ""
+msgstr "欧元"
 
 #: recursos/0guyana/datos/0guyana.py:8 recursos/0guyana/datos/levels.py:11
 msgid "Barima-Waini"
-msgstr ""
+msgstr "巴里马-瓦伊尼"
 
 #: recursos/0guyana/datos/0guyana.py:9 recursos/0guyana/datos/levels.py:12
 msgid "Pomeroon-Supenaam"
-msgstr ""
+msgstr "波默伦-苏佩纳姆"
 
 #: recursos/0guyana/datos/0guyana.py:10 recursos/0guyana/datos/levels.py:13
 msgid "West-Demerara"
-msgstr ""
+msgstr "西德梅拉拉"
 
 #: recursos/0guyana/datos/0guyana.py:11 recursos/0guyana/datos/levels.py:14
 msgid "Demerara-Mahaica"
-msgstr ""
+msgstr "德梅拉拉-马海卡"
 
 #: recursos/0guyana/datos/0guyana.py:12 recursos/0guyana/datos/levels.py:15
 msgid "Mahaica-Berbice"
-msgstr ""
+msgstr "马海卡-伯比斯"
 
 #: recursos/0guyana/datos/0guyana.py:13 recursos/0guyana/datos/levels.py:16
 msgid "Cuyuni-Mazaruni"
-msgstr ""
+msgstr "库尤尼-马扎鲁尼"
 
 #: recursos/0guyana/datos/0guyana.py:14 recursos/0guyana/datos/levels.py:17
 msgid "Potaro-Siparuni"
-msgstr ""
+msgstr "波塔罗-锡帕鲁尼"
 
 #: recursos/0guyana/datos/0guyana.py:15 recursos/0guyana/datos/levels.py:18
 msgid "Upper Takutu-Upper Essequibo"
-msgstr ""
+msgstr "上塔库图－上埃塞奎博"
 
 #: recursos/0guyana/datos/0guyana.py:16 recursos/0guyana/datos/levels.py:19
 msgid "Upper Demerara-Berbice"
-msgstr ""
+msgstr "上德梅拉拉-伯比斯"
 
 #: recursos/0guyana/datos/0guyana.py:17 recursos/0guyana/datos/levels.py:20
 msgid "East Berbice-Corentyne"
-msgstr ""
+msgstr "东伯比斯－科兰坦"
 
 #: recursos/0guyana/datos/0guyana.py:28 recursos/0guyana/datos/levels.py:33
 msgid "Arimu Mine"
-msgstr ""
+msgstr "阿里穆矿区"
 
 #: recursos/0guyana/datos/0guyana.py:29 recursos/0guyana/datos/levels.py:34
 msgid "Bartica"
-msgstr ""
+msgstr "巴蒂卡"
 
 #: recursos/0guyana/datos/0guyana.py:30 recursos/0guyana/datos/levels.py:35
 msgid "Charity"
-msgstr ""
+msgstr "查里提"
 
 #: recursos/0guyana/datos/0guyana.py:31 recursos/0guyana/datos/levels.py:36
 msgid "Corriverton"
-msgstr ""
+msgstr "科里渥顿"
 
 #: recursos/0guyana/datos/0guyana.py:32 recursos/0guyana/datos/levels.py:37
 msgid "Dadanawa"
-msgstr ""
+msgstr "达达纳瓦"
 
 #: recursos/0guyana/datos/0guyana.py:33 recursos/0guyana/datos/levels.py:38
 msgid "Good Hope"
-msgstr ""
+msgstr "好望"
 
 #: recursos/0guyana/datos/0guyana.py:34 recursos/0guyana/datos/levels.py:39
 msgid "Isherton"
-msgstr ""
+msgstr "伊舍顿"
 
 #: recursos/0guyana/datos/0guyana.py:35 recursos/0guyana/datos/levels.py:40
 msgid "Issano"
-msgstr ""
+msgstr "伊萨诺"
 
 #: recursos/0guyana/datos/0guyana.py:36 recursos/0guyana/datos/levels.py:41
 msgid "Ituni"
-msgstr ""
+msgstr "伊图尼"
 
 #: recursos/0guyana/datos/0guyana.py:37 recursos/0guyana/datos/levels.py:42
 msgid "Kalkuni"
-msgstr ""
+msgstr "卡库尼"
 
 #: recursos/0guyana/datos/0guyana.py:38 recursos/0guyana/datos/levels.py:43
 msgid "Kartabu Point"
-msgstr ""
+msgstr "卡塔布点"
 
 #: recursos/0guyana/datos/0guyana.py:39 recursos/0guyana/datos/levels.py:44
 msgid "Kurupukari"
-msgstr ""
+msgstr "库鲁普卡里"
 
 #: recursos/0guyana/datos/0guyana.py:40 recursos/0guyana/datos/levels.py:45
 msgid "Kwakwani"
-msgstr ""
+msgstr "夸夸尼"
 
 #: recursos/0guyana/datos/0guyana.py:41 recursos/0guyana/datos/levels.py:46
 msgid "Lethem"
-msgstr ""
+msgstr "里瑟"
 
 #: recursos/0guyana/datos/0guyana.py:42 recursos/0guyana/datos/levels.py:47
 msgid "Linden"
-msgstr ""
+msgstr "林登"
 
 #: recursos/0guyana/datos/0guyana.py:43 recursos/0guyana/datos/levels.py:48
 msgid "Mabaruma"
-msgstr ""
+msgstr "马巴鲁马"
 
 #: recursos/0guyana/datos/0guyana.py:44 recursos/0guyana/datos/levels.py:49
 msgid "Mahdia"
-msgstr ""
+msgstr "马赫迪耶"
 
 #: recursos/0guyana/datos/0guyana.py:45 recursos/0guyana/datos/levels.py:50
-#, fuzzy
 msgid "Mara"
-msgstr "帕拉"
+msgstr "玛拉"
 
 #: recursos/0guyana/datos/0guyana.py:46 recursos/0guyana/datos/levels.py:51
 msgid "Matthews Ridge"
-msgstr ""
+msgstr "马修斯里奇"
 
 #: recursos/0guyana/datos/0guyana.py:47 recursos/0guyana/datos/levels.py:52
 msgid "Orinduik"
-msgstr ""
+msgstr "奥林杜伊克"
 
 #: recursos/0guyana/datos/0guyana.py:48 recursos/0guyana/datos/levels.py:53
 msgid "Parika"
-msgstr ""
+msgstr "帕里卡"
 
 #: recursos/0guyana/datos/0guyana.py:49 recursos/0guyana/datos/levels.py:54
 msgid "Peters Mine"
-msgstr ""
+msgstr "彼得斯矿区"
 
 #: recursos/0guyana/datos/0guyana.py:50 recursos/0guyana/datos/levels.py:55
 msgid "Port Kaituma"
-msgstr ""
+msgstr "凯图马港口"
 
 #: recursos/0guyana/datos/0guyana.py:51 recursos/0guyana/datos/levels.py:56
 msgid "Potaro Landing"
-msgstr ""
+msgstr "波塔罗兰丁"
 
 #: recursos/0guyana/datos/0guyana.py:52 recursos/0guyana/datos/levels.py:57
 msgid "Rockstone"
-msgstr ""
+msgstr "罗克斯通"
 
 #: recursos/0guyana/datos/0guyana.py:53 recursos/0guyana/datos/levels.py:58
 msgid "Rose Hall"
-msgstr ""
+msgstr "玫瑰庄园"
 
 #: recursos/0guyana/datos/0guyana.py:54 recursos/0guyana/datos/levels.py:59
 msgid "Rosignol"
-msgstr ""
+msgstr "罗西格诺尔"
 
 #: recursos/0guyana/datos/0guyana.py:55 recursos/0guyana/datos/levels.py:60
 msgid "Spring Garden"
-msgstr ""
+msgstr "春天花园"
 
 #: recursos/0guyana/datos/0guyana.py:56 recursos/0guyana/datos/levels.py:61
 msgid "Surama"
-msgstr ""
+msgstr "萨拉马"
 
 #: recursos/0guyana/datos/0guyana.py:57 recursos/0guyana/datos/levels.py:62
 msgid "Takama"
-msgstr ""
+msgstr "塔卡马"
 
 #: recursos/0guyana/datos/0guyana.py:61 recursos/0guyana/datos/levels.py:72
 #: recursos/0venezuela/datos/0venezuela.py:103
 #: recursos/0venezuela/datos/levels.py:138
-#, fuzzy
 msgid "Cuyuni River"
-msgstr "巴拉那河"
+msgstr "库尤尼河"
 
 #: recursos/0guyana/datos/0guyana.py:62 recursos/0guyana/datos/levels.py:73
 msgid "Wenamu River"
-msgstr ""
+msgstr "韦纳穆河"
 
 #: recursos/0guyana/datos/0guyana.py:63 recursos/0guyana/datos/levels.py:74
-#, fuzzy
 msgid "Mazaruni River"
-msgstr "马莫雷河"
+msgstr "马札鲁尼河"
 
 #: recursos/0guyana/datos/0guyana.py:64 recursos/0guyana/datos/levels.py:75
 msgid "Essequibo River"
-msgstr ""
+msgstr "埃塞奎博河"
 
 #: recursos/0guyana/datos/0guyana.py:65 recursos/0guyana/datos/levels.py:76
-#, fuzzy
 msgid "Kuyuwini River"
-msgstr "巴拉那河"
+msgstr "库尤维尼河"
 
 #: recursos/0guyana/datos/0guyana.py:66 recursos/0guyana/datos/levels.py:77
 msgid "Rupununi River"
-msgstr ""
+msgstr "鲁普努尼河"
 
 #: recursos/0guyana/datos/0guyana.py:67 recursos/0guyana/datos/levels.py:78
-#, fuzzy
 msgid "Rewa River"
-msgstr "新河"
+msgstr "雷瓦河"
 
 #: recursos/0guyana/datos/0guyana.py:68 recursos/0guyana/datos/levels.py:79
-#, fuzzy
 msgid "Potaro River"
-msgstr "马莫雷河"
+msgstr "波塔罗河"
 
 #: recursos/0guyana/datos/0guyana.py:69 recursos/0guyana/datos/levels.py:80
-#, fuzzy
 msgid "Tacutu River"
-msgstr "雅库马河"
+msgstr "塔库图河"
 
 #: recursos/0guyana/datos/0guyana.py:70 recursos/0guyana/datos/levels.py:81
 msgid "Demerara River"
-msgstr ""
+msgstr "德梅拉拉河"
 
 #: recursos/0guyana/datos/0guyana.py:71 recursos/0guyana/datos/levels.py:82
 #: recursos/0surinam/datos/0surinam.py:70 recursos/0surinam/datos/levels.py:97
 msgid "Courantyne River"
-msgstr ""
+msgstr "科兰太因河"
 
 #: recursos/0guyana/datos/0guyana.py:72 recursos/0guyana/datos/levels.py:83
-#, fuzzy
 msgid "Berbice River"
-msgstr "贝尼河"
+msgstr "伯比斯河"
 
 #: recursos/0guyana/datos/0guyana.py:74 recursos/0guyana/datos/levels.py:85
-#, fuzzy
 msgid "Amakura River"
-msgstr "马莫雷河"
+msgstr "阿玛库拉河"
 
 #: recursos/0guyana/datos/0guyana.py:75 recursos/0guyana/datos/levels.py:86
-#, fuzzy
 msgid "Barama River"
-msgstr "巴拉那河"
+msgstr "巴拉马河"
 
 #: recursos/0guyana/datos/0guyana.py:76 recursos/0guyana/datos/levels.py:87
-#, fuzzy
 msgid "Barima River"
-msgstr "巴拉那河"
+msgstr "巴里马河"
 
 #: recursos/0guyana/datos/0guyana.py:83
-#, fuzzy
 msgid "(6º49' N - 58º9' W)"
-msgstr "(34º40' 南 - 58º24' 西)"
+msgstr "(6º49' 北 - 58º9' 西)"
 
 #: recursos/0guyana/datos/0guyana.py:85
-#, fuzzy
 msgid "Semi-Presidential Republic"
-msgstr "总统制共和国"
+msgstr "半总统制共和国"
 
 #: recursos/0guyana/datos/0guyana.py:86
 msgid "Donald Ramotar"
-msgstr ""
+msgstr "唐纳德·拉莫塔"
 
 #: recursos/0guyana/datos/0guyana.py:87
 msgid "Prime minister:"
-msgstr ""
+msgstr "总理："
 
 #: recursos/0guyana/datos/0guyana.py:87
 msgid "Sam Hinds"
-msgstr ""
+msgstr "萨姆·海因兹"
 
 #: recursos/0guyana/datos/0guyana.py:89
-#, fuzzy
 msgid "26 of may of 1966"
-msgstr "1816年7月9日"
+msgstr "1966年5月26日"
 
 #: recursos/0guyana/datos/0guyana.py:90
-#, fuzzy
 msgid "214.970 km² (81th)"
-msgstr "256,370平方公里 (第71名)"
+msgstr "214,970平方公里(第81名)"
 
 #: recursos/0guyana/datos/0guyana.py:91
 msgid "784.894 (161th)"
-msgstr ""
+msgstr "784,894(第161名)"
 
 #: recursos/0guyana/datos/0guyana.py:92
-#, fuzzy
 msgid "USD 3.082 billion (158th)"
-msgstr "2,046亿美元（第166名）"
+msgstr "30,82亿美元（第158名）"
 
 #: recursos/0guyana/datos/0guyana.py:93
-#, fuzzy
 msgid "Medium - 0,611 (104th)"
-msgstr "中 - 0,643（第95名）"
+msgstr "中 - 0,611（第104名）"
 
 #: recursos/0guyana/datos/0guyana.py:94
 msgid "Guyanese dollar"
-msgstr ""
+msgstr "圭亚那元"
 
 #: recursos/0haiti/datos/0haiti.py:8 recursos/0haiti/datos/levels.py:11
 msgid "Norte"
-msgstr ""
+msgstr "诺特"
 
 #: recursos/0haiti/datos/0haiti.py:9 recursos/0haiti/datos/levels.py:12
 msgid "Noroeste"
-msgstr ""
+msgstr "诺罗斯特"
 
 #: recursos/0haiti/datos/0haiti.py:10 recursos/0haiti/datos/levels.py:13
 msgid "Noreste"
-msgstr ""
+msgstr "诺莱斯特"
 
 #: recursos/0haiti/datos/0haiti.py:11 recursos/0haiti/datos/levels.py:14
 msgid "Artibonite"
-msgstr ""
+msgstr "阿蒂博尼特"
 
 #: recursos/0haiti/datos/0haiti.py:12 recursos/0haiti/datos/levels.py:15
 msgid "Oeste"
-msgstr ""
+msgstr "欧斯特"
 
 #: recursos/0haiti/datos/0haiti.py:13 recursos/0haiti/datos/levels.py:16
 msgid "Sur"
-msgstr ""
+msgstr "苏尔"
 
 #: recursos/0haiti/datos/0haiti.py:14 recursos/0haiti/datos/levels.py:17
 msgid "Sudeste"
-msgstr ""
+msgstr "苏德斯特"
 
 #: recursos/0haiti/datos/0haiti.py:15 recursos/0haiti/datos/levels.py:18
 msgid "Grand'Anse"
-msgstr ""
+msgstr "大安斯"
 
 #: recursos/0haiti/datos/0haiti.py:16 recursos/0haiti/datos/levels.py:19
 msgid "Centro"
-msgstr ""
+msgstr "桑特罗"
 
 #: recursos/0haiti/datos/0haiti.py:17
 msgid "Dominican Republic"
-msgstr ""
+msgstr "多米尼加共和国"
 
 #: recursos/0haiti/datos/0haiti.py:19
 msgid "Tortuga Island"
-msgstr ""
+msgstr "托尔图加岛"
 
 #: recursos/0haiti/datos/0haiti.py:20
 msgid "Gonâve Island"
-msgstr ""
+msgstr "戈纳夫岛"
 
 #: recursos/0haiti/datos/0haiti.py:21
 msgid "Grande Cayemite Island"
-msgstr ""
+msgstr "大卡耶米特岛"
 
 #: recursos/0haiti/datos/0haiti.py:22
-#, fuzzy
 msgid "Cow Island"
-msgstr "卡特岛"
+msgstr "牛岛"
 
 #: recursos/0haiti/datos/0haiti.py:28 recursos/0haiti/datos/levels.py:31
 #: recursos/0haiti/datos/levels.py:49
 msgid "Fort Liberte"
-msgstr ""
+msgstr "自由堡"
 
 #: recursos/0haiti/datos/0haiti.py:29 recursos/0haiti/datos/levels.py:32
 #: recursos/0haiti/datos/levels.py:50
 msgid "Gonaives"
-msgstr ""
+msgstr "戈纳伊夫"
 
 #: recursos/0haiti/datos/0haiti.py:30 recursos/0haiti/datos/levels.py:33
 #: recursos/0haiti/datos/levels.py:51
 msgid "Hinche"
-msgstr ""
+msgstr "安什"
 
 #: recursos/0haiti/datos/0haiti.py:31 recursos/0haiti/datos/levels.py:34
 #: recursos/0haiti/datos/levels.py:52
 msgid "Jacmel"
-msgstr ""
+msgstr "雅克梅勒"
 
 #: recursos/0haiti/datos/0haiti.py:32 recursos/0haiti/datos/levels.py:35
 #: recursos/0haiti/datos/levels.py:53
 msgid "Jeremie"
-msgstr ""
+msgstr "热雷米"
 
 #: recursos/0haiti/datos/0haiti.py:34 recursos/0haiti/datos/levels.py:37
 #: recursos/0haiti/datos/levels.py:55
 msgid "Port de Paix"
-msgstr ""
+msgstr "和平港"
 
 #: recursos/0haiti/datos/0haiti.py:38 recursos/0haiti/datos/levels.py:56
 msgid "Anse a Galets"
-msgstr ""
+msgstr "昂萨加莱"
 
 #: recursos/0haiti/datos/0haiti.py:39 recursos/0haiti/datos/levels.py:57
 msgid "Anse d'Hainault"
-msgstr ""
+msgstr "安塞代诺"
 
 #: recursos/0haiti/datos/0haiti.py:40 recursos/0haiti/datos/levels.py:58
 msgid "Aquin"
-msgstr ""
+msgstr "阿坎"
 
 #: recursos/0haiti/datos/0haiti.py:41 recursos/0haiti/datos/levels.py:59
 msgid "Baie de Henne"
-msgstr ""
+msgstr "拜德埃讷"
 
 #: recursos/0haiti/datos/0haiti.py:42 recursos/0haiti/datos/levels.py:60
 msgid "Bainet"
-msgstr ""
+msgstr "拜内"
 
 #: recursos/0haiti/datos/0haiti.py:43 recursos/0haiti/datos/levels.py:61
 msgid "Belle Anse"
-msgstr ""
+msgstr "贝尔安塞"
 
 #: recursos/0haiti/datos/0haiti.py:44 recursos/0haiti/datos/levels.py:62
 msgid "Cotes de Fer"
-msgstr ""
+msgstr "科茨德菲尔"
 
 #: recursos/0haiti/datos/0haiti.py:45 recursos/0haiti/datos/levels.py:63
 msgid "Croix des Bouquets"
-msgstr ""
+msgstr "克鲁瓦－德布凯"
 
 #: recursos/0haiti/datos/0haiti.py:46 recursos/0haiti/datos/levels.py:64
 msgid "Dame Marie"
-msgstr ""
+msgstr "玛丽夫人镇"
 
 #: recursos/0haiti/datos/0haiti.py:47 recursos/0haiti/datos/levels.py:65
 msgid "Ennery"
-msgstr ""
+msgstr "埃内里"
 
 #: recursos/0haiti/datos/0haiti.py:48 recursos/0haiti/datos/levels.py:66
 msgid "Grande Riviere du Nord"
-msgstr ""
+msgstr "北格朗德里维耶尔"
 
 #: recursos/0haiti/datos/0haiti.py:49 recursos/0haiti/datos/levels.py:67
 msgid "Kenscoff"
-msgstr ""
+msgstr "肯斯科夫"
 
 #: recursos/0haiti/datos/0haiti.py:50 recursos/0haiti/datos/levels.py:68
 msgid "Lafond"
-msgstr ""
+msgstr "拉丰"
 
 #: recursos/0haiti/datos/0haiti.py:51 recursos/0haiti/datos/levels.py:69
 msgid "Le Borgne"
-msgstr ""
+msgstr "勒波尼"
 
 #: recursos/0haiti/datos/0haiti.py:52 recursos/0haiti/datos/levels.py:70
 msgid "Leogane"
-msgstr ""
+msgstr "莱奥甘"
 
 #: recursos/0haiti/datos/0haiti.py:53 recursos/0haiti/datos/levels.py:71
 msgid "Les Anglais"
-msgstr ""
+msgstr "莱斯盎格鲁"
 
 #: recursos/0haiti/datos/0haiti.py:54 recursos/0haiti/datos/levels.py:72
 msgid "Limbé"
-msgstr ""
+msgstr "兰贝"
 
 #: recursos/0haiti/datos/0haiti.py:55 recursos/0haiti/datos/levels.py:73
 msgid "Manneville"
-msgstr ""
+msgstr "曼尼维尔"
 
 #: recursos/0haiti/datos/0haiti.py:56 recursos/0haiti/datos/levels.py:74
 msgid "Marigot"
-msgstr ""
+msgstr "马里戈特"
 
 #: recursos/0haiti/datos/0haiti.py:57 recursos/0haiti/datos/levels.py:75
 msgid "Miragoane"
-msgstr ""
+msgstr "米腊关"
 
 #: recursos/0haiti/datos/0haiti.py:58 recursos/0haiti/datos/levels.py:76
 msgid "Mirebalais"
-msgstr ""
+msgstr "米勒巴莱"
 
 #: recursos/0haiti/datos/0haiti.py:59 recursos/0haiti/datos/levels.py:77
 msgid "Mole Saint Nicolas"
-msgstr ""
+msgstr "莫勒圣尼古拉"
 
 #: recursos/0haiti/datos/0haiti.py:60 recursos/0haiti/datos/levels.py:78
 msgid "Montrouis"
-msgstr ""
+msgstr "蒙路易"
 
 #: recursos/0haiti/datos/0haiti.py:61 recursos/0haiti/datos/levels.py:79
 msgid "Pestel"
-msgstr ""
+msgstr "佩斯特尔"
 
 #: recursos/0haiti/datos/0haiti.py:62 recursos/0haiti/datos/levels.py:80
 msgid "Petionville"
-msgstr ""
+msgstr "佩蒂翁维尔"
 
 #: recursos/0haiti/datos/0haiti.py:63 recursos/0haiti/datos/levels.py:81
 msgid "Petit Goave"
-msgstr ""
+msgstr "小戈阿沃"
 
 #: recursos/0haiti/datos/0haiti.py:64 recursos/0haiti/datos/levels.py:82
 msgid "Petit Trou de Nippes"
-msgstr ""
+msgstr "小特鲁德尼佩斯"
 
 #: recursos/0haiti/datos/0haiti.py:65 recursos/0haiti/datos/levels.py:83
 msgid "Port Salut"
-msgstr ""
+msgstr "萨吕港"
 
 #: recursos/0haiti/datos/0haiti.py:66 recursos/0haiti/datos/levels.py:84
 msgid "Saint Marc"
-msgstr ""
+msgstr "圣马克"
 
 #: recursos/0haiti/datos/0haiti.py:67 recursos/0haiti/datos/levels.py:85
 msgid "Saint Raphael"
-msgstr ""
+msgstr "圣拉斐尔"
 
 #: recursos/0haiti/datos/0haiti.py:68 recursos/0haiti/datos/levels.py:86
 msgid "Trouin"
-msgstr ""
+msgstr "特鲁安"
 
 #: recursos/0haiti/datos/0haiti.py:69 recursos/0haiti/datos/levels.py:87
 msgid "Verrettes"
-msgstr ""
+msgstr "韦雷特"
 
 #: recursos/0haiti/datos/0haiti.py:73 recursos/0haiti/datos/levels.py:97
 msgid "Les Trois Rivières River"
-msgstr ""
+msgstr "莱斯三河城河"
 
 #: recursos/0haiti/datos/0haiti.py:75 recursos/0haiti/datos/levels.py:99
 msgid "Bouyaha River"
-msgstr ""
+msgstr "博乌亚哈河"
 
 #: recursos/0haiti/datos/0haiti.py:76 recursos/0haiti/datos/levels.py:100
 msgid "Guayamouc River"
-msgstr ""
+msgstr "圭亚茅河"
 
 #: recursos/0haiti/datos/0haiti.py:77 recursos/0haiti/datos/levels.py:101
-#, fuzzy
 msgid "Canot River"
-msgstr "马莫雷河"
+msgstr "坎诺特河"
 
 #: recursos/0haiti/datos/0haiti.py:78 recursos/0haiti/datos/levels.py:102
-#, fuzzy
 msgid "Artibonite River"
 msgstr "阿蒂博尼特河"
 
 #: recursos/0haiti/datos/0haiti.py:79 recursos/0haiti/datos/levels.py:103
 msgid "Lake of Pélicre"
-msgstr ""
+msgstr "佩里克湖"
 
 #: recursos/0haiti/datos/0haiti.py:80 recursos/0haiti/datos/levels.py:104
 msgid "Lake Étang Saumâtre"
-msgstr ""
+msgstr "伊坦沙乌马特湖"
 
 #: recursos/0haiti/datos/0haiti.py:81 recursos/0haiti/datos/levels.py:105
 msgid "Jacmel Bay"
-msgstr ""
+msgstr "雅克梅勒湾"
 
 #: recursos/0haiti/datos/0haiti.py:82 recursos/0haiti/datos/levels.py:106
-#, fuzzy
 msgid "Port-au-Prince Bay"
-msgstr "太子港"
+msgstr "太子港湾"
 
 #: recursos/0haiti/datos/0haiti.py:83 recursos/0haiti/datos/levels.py:107
 msgid "Canal of Saint Marc"
-msgstr ""
+msgstr "圣马克运河"
 
 #: recursos/0haiti/datos/0haiti.py:84 recursos/0haiti/datos/levels.py:108
 msgid "Canal of the Gonâve"
-msgstr ""
+msgstr "戈纳夫运河"
 
 #: recursos/0haiti/datos/0haiti.py:85 recursos/0haiti/datos/levels.py:109
 msgid "Henne Bay"
-msgstr ""
+msgstr "亨尼湾"
 
 #: recursos/0haiti/datos/0haiti.py:86 recursos/0haiti/datos/levels.py:110
 msgid "Tortue Bay"
-msgstr ""
+msgstr "托尔蒂湾"
 
 #: recursos/0haiti/datos/0haiti.py:87 recursos/0haiti/datos/levels.py:111
 msgid "Grand Pierre Bay"
-msgstr ""
+msgstr "大皮埃尔湾"
 
 #: recursos/0haiti/datos/0haiti.py:88 recursos/0haiti/datos/levels.py:112
 msgid "Mancenille Bay"
-msgstr ""
+msgstr "曼萨尼约湾"
 
 #: recursos/0haiti/datos/0haiti.py:89 recursos/0haiti/datos/levels.py:113
 msgid "Canal of the Tortue"
-msgstr ""
+msgstr "托尔蒂运河"
 
 #: recursos/0haiti/datos/0haiti.py:90 recursos/0haiti/datos/levels.py:114
 msgid "Gulf of Gonâve"
-msgstr ""
+msgstr "戈纳夫湾"
 
 #: recursos/0haiti/datos/0haiti.py:91 recursos/0haiti/datos/levels.py:115
 msgid "Windward Passage"
-msgstr ""
+msgstr "迎风海峡"
 
 #: recursos/0haiti/datos/0haiti.py:99
 msgid "(18º32' N - 72º20' W)"
-msgstr ""
+msgstr "(18º32' 北 - 72º20' 西)"
 
 #: recursos/0haiti/datos/0haiti.py:102
 msgid "Michel Martelly"
-msgstr ""
+msgstr "米歇尔·马尔泰利"
 
 #: recursos/0haiti/datos/0haiti.py:103 recursos/0peru/datos/0peru.py:138
 #: recursos/0tytobago/datos/0tytobago.py:77
 msgid "Prime Minister:"
-msgstr ""
+msgstr "总理："
 
 #: recursos/0haiti/datos/0haiti.py:103
 msgid "Jean-Max Bellerive"
-msgstr ""
+msgstr "让·马克斯·贝勒里夫"
 
 #: recursos/0haiti/datos/0haiti.py:105
 msgid "1 of january of 1804"
-msgstr ""
+msgstr "1804年1月1日"
 
 #: recursos/0haiti/datos/0haiti.py:106
 msgid "27.750 km² (147th)"
-msgstr ""
+msgstr "27,750平方公里(第147名)"
 
 #: recursos/0haiti/datos/0haiti.py:107
 msgid "9.800.000 (90th)"
-msgstr ""
+msgstr "9,800,000 (第90名)"
 
 #: recursos/0haiti/datos/0haiti.py:108
-#, fuzzy
 msgid "USD 11.056 billion (138th)"
-msgstr "2,046亿美元（第166名）"
+msgstr "110.56亿美元（第138名）"
 
 #: recursos/0haiti/datos/0haiti.py:109
 msgid "Low - 0,404 (145th)"
-msgstr ""
+msgstr "低 - 0,404 (第145名)"
 
 #: recursos/0haiti/datos/0haiti.py:110
 msgid "Gourde"
-msgstr ""
+msgstr "古德"
 
 #: recursos/0honduras/datos/0honduras.py:8
 #: recursos/0honduras/datos/levels.py:11
 #: recursos/0uruguay/datos/0uruguay.py:55 recursos/0uruguay/datos/levels.py:70
-#, fuzzy
 msgid "Atlántida"
-msgstr "大西洋"
+msgstr "阿特兰蒂达"
 
 #: recursos/0honduras/datos/0honduras.py:10
 #: recursos/0honduras/datos/0honduras.py:38
 #: recursos/0honduras/datos/levels.py:13 recursos/0honduras/datos/levels.py:39
 #: recursos/0honduras/datos/levels.py:66
 msgid "Comayagua"
-msgstr ""
+msgstr "科马亚瓜"
 
 #: recursos/0honduras/datos/0honduras.py:11
 #: recursos/0honduras/datos/0honduras.py:66
 #: recursos/0honduras/datos/levels.py:14 recursos/0honduras/datos/levels.py:90
 msgid "Copán"
-msgstr ""
+msgstr "科潘"
 
 #: recursos/0honduras/datos/0honduras.py:12
 #: recursos/0honduras/datos/levels.py:15
 msgid "Cortés"
-msgstr ""
+msgstr "科尔特斯"
 
 #: recursos/0honduras/datos/0honduras.py:13
 #: recursos/0honduras/datos/0honduras.py:37
 #: recursos/0honduras/datos/levels.py:16 recursos/0honduras/datos/levels.py:38
 #: recursos/0honduras/datos/levels.py:65
 msgid "Choluteca"
-msgstr ""
+msgstr "乔卢特卡"
 
 #: recursos/0honduras/datos/0honduras.py:14
 #: recursos/0honduras/datos/0honduras.py:71
 #: recursos/0honduras/datos/levels.py:17 recursos/0honduras/datos/levels.py:95
 msgid "El Paraíso"
-msgstr ""
+msgstr "埃尔帕拉伊索"
 
 #: recursos/0honduras/datos/0honduras.py:15
 #: recursos/0honduras/datos/levels.py:18
 msgid "Francisco Morazán"
-msgstr ""
+msgstr "弗朗西斯科莫拉桑"
 
 #: recursos/0honduras/datos/0honduras.py:16
 #: recursos/0honduras/datos/levels.py:19
 msgid "Gracias a Dios"
-msgstr ""
+msgstr "格拉西亚斯迪奥斯"
 
 #: recursos/0honduras/datos/0honduras.py:17
 #: recursos/0honduras/datos/levels.py:20
 msgid "Intibucá"
-msgstr ""
+msgstr "因蒂布卡"
 
 #: recursos/0honduras/datos/0honduras.py:19
 #: recursos/0honduras/datos/0honduras.py:138
 #: recursos/0honduras/datos/levels.py:22
 msgid "Lempira"
-msgstr ""
+msgstr "伦皮拉"
 
 #: recursos/0honduras/datos/0honduras.py:20
 #: recursos/0honduras/datos/levels.py:23
 msgid "Ocotepeque"
-msgstr ""
+msgstr "奥科特佩克"
 
 #: recursos/0honduras/datos/0honduras.py:21
 #: recursos/0honduras/datos/levels.py:24
 msgid "Olancho"
-msgstr ""
+msgstr "奥兰乔"
 
 #: recursos/0honduras/datos/0honduras.py:22
 #: recursos/0honduras/datos/levels.py:25
 msgid "Sta. Bárbara"
-msgstr ""
+msgstr "圣巴巴拉"
 
 #: recursos/0honduras/datos/0honduras.py:23
 #: recursos/0honduras/datos/levels.py:26
 msgid "Valle"
-msgstr ""
+msgstr "瓦莱"
 
 #: recursos/0honduras/datos/0honduras.py:24
 #: recursos/0honduras/datos/0honduras.py:52
 #: recursos/0honduras/datos/levels.py:27 recursos/0honduras/datos/levels.py:53
 #: recursos/0honduras/datos/levels.py:80
 msgid "Yoro"
-msgstr ""
+msgstr "约罗"
 
 #: recursos/0honduras/datos/0honduras.py:30
 msgid "Is. Utila"
-msgstr ""
+msgstr "乌提拉岛"
 
 #: recursos/0honduras/datos/0honduras.py:31
 msgid "Is. Guanaja"
-msgstr ""
+msgstr "瓜纳哈岛"
 
 #: recursos/0honduras/datos/0honduras.py:32
 msgid "Is. Roatán"
-msgstr ""
+msgstr "罗丹岛"
 
 #: recursos/0honduras/datos/0honduras.py:39
 #: recursos/0honduras/datos/levels.py:40 recursos/0honduras/datos/levels.py:67
 msgid "Gracias"
-msgstr ""
+msgstr "格拉西亚斯"
 
 #: recursos/0honduras/datos/0honduras.py:41
 #: recursos/0honduras/datos/levels.py:42 recursos/0honduras/datos/levels.py:69
 #: recursos/0prico/datos/0prico.py:148 recursos/0prico/datos/levels.py:200
 msgid "La Esperanza"
-msgstr ""
+msgstr "拉埃斯佩兰萨"
 
 #: recursos/0honduras/datos/0honduras.py:43
 #: recursos/0honduras/datos/levels.py:44 recursos/0honduras/datos/levels.py:71
-#, fuzzy
 msgid "Manto"
-msgstr "帕拉"
+msgstr "曼托"
 
 #: recursos/0honduras/datos/0honduras.py:44
 #: recursos/0honduras/datos/levels.py:45 recursos/0honduras/datos/levels.py:72
 msgid "Nacaome"
-msgstr ""
+msgstr "纳考梅"
 
 #: recursos/0honduras/datos/0honduras.py:45
 #: recursos/0honduras/datos/levels.py:46 recursos/0honduras/datos/levels.py:73
 msgid "Nueva Ocotepeque"
-msgstr ""
+msgstr "努埃瓦奥科特佩克"
 
 #: recursos/0honduras/datos/0honduras.py:47
 #: recursos/0honduras/datos/0honduras.py:88
 #: recursos/0honduras/datos/levels.py:48 recursos/0honduras/datos/levels.py:75
 #: recursos/0honduras/datos/levels.py:112
 msgid "Roatán"
-msgstr ""
+msgstr "罗阿坦"
 
 #: recursos/0honduras/datos/0honduras.py:49
 #: recursos/0honduras/datos/levels.py:50 recursos/0honduras/datos/levels.py:77
 msgid "Santa Bárbara"
-msgstr ""
+msgstr "圣巴巴拉"
 
 #: recursos/0honduras/datos/0honduras.py:50
 #: recursos/0honduras/datos/levels.py:51 recursos/0honduras/datos/levels.py:78
 msgid "Santa Rosa de Copán"
-msgstr ""
+msgstr "圣罗莎－德科潘"
 
 #: recursos/0honduras/datos/0honduras.py:53
 #: recursos/0honduras/datos/levels.py:54 recursos/0honduras/datos/levels.py:81
 msgid "Yuscarán"
-msgstr ""
+msgstr "尤斯卡兰"
 
 #: recursos/0honduras/datos/0honduras.py:57
 msgid "Ahuás"
-msgstr ""
+msgstr "艾霍斯"
 
 #: recursos/0honduras/datos/0honduras.py:58
 #: recursos/0honduras/datos/levels.py:82
 msgid "Amapala"
-msgstr ""
+msgstr "阿马帕拉"
 
 #: recursos/0honduras/datos/0honduras.py:59
 #: recursos/0honduras/datos/levels.py:83
 msgid "Arenal"
-msgstr ""
+msgstr "阿雷纳尔"
 
 #: recursos/0honduras/datos/0honduras.py:60
 #: recursos/0honduras/datos/levels.py:84
 msgid "Auasbila"
-msgstr ""
+msgstr "阿瓦斯维拉"
 
 #: recursos/0honduras/datos/0honduras.py:61
 #: recursos/0honduras/datos/levels.py:85
 msgid "Balfate"
-msgstr ""
+msgstr "巴法提"
 
 #: recursos/0honduras/datos/0honduras.py:62
 #: recursos/0honduras/datos/levels.py:86
 msgid "Barra de Catarasca"
-msgstr ""
+msgstr "巴拉德卡塔拉斯卡"
 
 #: recursos/0honduras/datos/0honduras.py:63
 #: recursos/0honduras/datos/levels.py:87
 msgid "Catacamas"
-msgstr ""
+msgstr "卡塔开马斯"
 
 #: recursos/0honduras/datos/0honduras.py:64
 #: recursos/0honduras/datos/levels.py:88
 msgid "Cedros"
-msgstr ""
+msgstr "塞德罗斯"
 
 #: recursos/0honduras/datos/0honduras.py:67
 #: recursos/0honduras/datos/levels.py:91
-#, fuzzy
 msgid "Dulce Nombre de Culmí"
-msgstr "杜尔塞农布雷-德玛丽亚"
+msgstr "杜尔塞农布雷-德卡尔米"
 
 #: recursos/0honduras/datos/0honduras.py:68
 #: recursos/0honduras/datos/levels.py:92
 msgid "Dulsuna"
-msgstr ""
+msgstr "杜桑纳"
 
 #: recursos/0honduras/datos/0honduras.py:69
 #: recursos/0honduras/datos/levels.py:93
 msgid "El Chichicaste"
-msgstr ""
+msgstr "埃尔科纳卡斯特"
 
 #: recursos/0honduras/datos/0honduras.py:70
 #: recursos/0honduras/datos/levels.py:94
 msgid "El Negrito"
-msgstr ""
+msgstr "埃尔内格里托"
 
 #: recursos/0honduras/datos/0honduras.py:73
 #: recursos/0honduras/datos/levels.py:97
 msgid "El Triunfo"
-msgstr ""
+msgstr "埃尔特里温福"
 
 #: recursos/0honduras/datos/0honduras.py:74
 #: recursos/0honduras/datos/levels.py:98
 msgid "Guarita"
-msgstr ""
+msgstr "瓜里塔"
 
 #: recursos/0honduras/datos/0honduras.py:76
 #: recursos/0honduras/datos/levels.py:100
 msgid "La Virtud"
-msgstr ""
+msgstr "拉维塔德"
 
 #: recursos/0honduras/datos/0honduras.py:77
 #: recursos/0honduras/datos/levels.py:101
 msgid "Las Trojes"
-msgstr ""
+msgstr "拉斯特罗赫斯"
 
 #: recursos/0honduras/datos/0honduras.py:78
 #: recursos/0honduras/datos/levels.py:102
 msgid "Lepaterique"
-msgstr ""
+msgstr "莱帕特里克"
 
 #: recursos/0honduras/datos/0honduras.py:79
 #: recursos/0honduras/datos/levels.py:103
 msgid "Marcala"
-msgstr ""
+msgstr "马卡拉"
 
 #: recursos/0honduras/datos/0honduras.py:80
 #: recursos/0honduras/datos/levels.py:104
 msgid "Mezapa"
-msgstr ""
+msgstr "梅萨帕"
 
 #: recursos/0honduras/datos/0honduras.py:81
 #: recursos/0honduras/datos/levels.py:105
 msgid "Nueva Arcadia"
-msgstr ""
+msgstr "努埃瓦阿卡迪亚"
 
 #: recursos/0honduras/datos/0honduras.py:82
 #: recursos/0honduras/datos/levels.py:106
 msgid "Olanchito"
-msgstr ""
+msgstr "奥兰奇托"
 
 #: recursos/0honduras/datos/0honduras.py:83
 #: recursos/0honduras/datos/levels.py:107
 msgid "Oropolí"
-msgstr ""
+msgstr "欧洛波里"
 
 #: recursos/0honduras/datos/0honduras.py:84
 #: recursos/0honduras/datos/levels.py:108
 msgid "Patuca"
-msgstr ""
+msgstr "帕图卡"
 
 #: recursos/0honduras/datos/0honduras.py:85
 #: recursos/0honduras/datos/levels.py:109
 msgid "Pespire"
-msgstr ""
+msgstr "佩斯皮雷"
 
 #: recursos/0honduras/datos/0honduras.py:86
 #: recursos/0honduras/datos/levels.py:110
-#, fuzzy
 msgid "Pueblo Viejo"
-msgstr "波多黎各"
+msgstr "旧普韦布洛"
 
 #: recursos/0honduras/datos/0honduras.py:89
 #: recursos/0honduras/datos/levels.py:113 recursos/0prico/datos/0prico.py:67
 #: recursos/0prico/datos/0prico.py:109 recursos/0prico/datos/levels.py:70
 #: recursos/0prico/datos/levels.py:118 recursos/0prico/datos/levels.py:164
 msgid "Sabana Grande"
-msgstr ""
+msgstr "大萨瓦纳"
 
 #: recursos/0honduras/datos/0honduras.py:92
 #: recursos/0honduras/datos/levels.py:116
 msgid "San Marcos de Colón"
-msgstr ""
+msgstr "圣马科斯德科隆"
 
 #: recursos/0honduras/datos/0honduras.py:93
 #: recursos/0honduras/datos/levels.py:117
 msgid "Santa Elena"
-msgstr ""
+msgstr "圣埃伦娜"
 
 #: recursos/0honduras/datos/0honduras.py:94
 #: recursos/0honduras/datos/levels.py:118
-#, fuzzy
 msgid "Tela"
-msgstr "塔尔卡"
+msgstr "特拉"
 
 #: recursos/0honduras/datos/0honduras.py:95
 #: recursos/0honduras/datos/levels.py:119
-#, fuzzy
 msgid "Tocoa"
-msgstr "莫科阿"
+msgstr "托科阿"
 
 #: recursos/0honduras/datos/0honduras.py:96
 #: recursos/0honduras/datos/levels.py:120
 msgid "Tusi"
-msgstr ""
+msgstr "图斯"
 
 #: recursos/0honduras/datos/0honduras.py:97
 #: recursos/0honduras/datos/levels.py:121
@@ -12082,187 +12034,174 @@ msgstr ""
 #: recursos/0venezuela/datos/levels.py:64
 #: recursos/0venezuela/datos/levels.py:96
 msgid "Valencia"
-msgstr ""
+msgstr "瓦伦西亚"
 
 #: recursos/0honduras/datos/0honduras.py:101
 #: recursos/0honduras/datos/levels.py:131
 msgid "Chamelecón River"
-msgstr ""
+msgstr "查美拉康河"
 
 #: recursos/0honduras/datos/0honduras.py:102
 #: recursos/0honduras/datos/levels.py:132
-#, fuzzy
 msgid "Higuito River"
-msgstr "提圭尼欧河"
+msgstr "伊吉托河"
 
 #: recursos/0honduras/datos/0honduras.py:103
 #: recursos/0honduras/datos/levels.py:133
-#, fuzzy
 msgid "Grande de Otoro River"
-msgstr "大德里皮茨河"
+msgstr "大德奥托罗河"
 
 #: recursos/0honduras/datos/0honduras.py:104
 #: recursos/0honduras/datos/levels.py:134
 msgid "Ulúa River"
-msgstr ""
+msgstr "乌卢阿河"
 
 #: recursos/0honduras/datos/0honduras.py:105
 #: recursos/0honduras/datos/levels.py:135
-#, fuzzy
 msgid "Humuya River"
-msgstr "马莫雷河"
+msgstr "胡姆亚河"
 
 #: recursos/0honduras/datos/0honduras.py:106
 #: recursos/0honduras/datos/levels.py:136
-#, fuzzy
 msgid "Sulaco River"
-msgstr "萨拉多河"
+msgstr "苏拉科河"
 
 #: recursos/0honduras/datos/0honduras.py:107
 #: recursos/0honduras/datos/levels.py:137
 msgid "Aguán River"
-msgstr ""
+msgstr "阿关河"
 
 #: recursos/0honduras/datos/0honduras.py:108
 #: recursos/0honduras/datos/levels.py:138
 msgid "Mangulile River"
-msgstr ""
+msgstr "曼古利莱河"
 
 #: recursos/0honduras/datos/0honduras.py:109
 #: recursos/0honduras/datos/levels.py:139
-#, fuzzy
 msgid "Sico River"
-msgstr "奇科河"
+msgstr "西科河"
 
 #: recursos/0honduras/datos/0honduras.py:110
 #: recursos/0honduras/datos/levels.py:140
-#, fuzzy
 msgid "Paulaya River"
-msgstr "巴拉圭河"
+msgstr "保拉亚河"
 
 #: recursos/0honduras/datos/0honduras.py:111
 #: recursos/0honduras/datos/levels.py:141
-#, fuzzy
 msgid "Patuca River"
-msgstr "巴拉圭河"
+msgstr "帕图卡河"
 
 #: recursos/0honduras/datos/0honduras.py:112
 #: recursos/0honduras/datos/levels.py:142
 msgid "Guyape River"
-msgstr ""
+msgstr "加亚普河"
 
 #: recursos/0honduras/datos/0honduras.py:113
 #: recursos/0honduras/datos/levels.py:143
-#, fuzzy
 msgid "Jalán River"
-msgstr "马拉尼翁河"
+msgstr "雅兰河"
 
 #: recursos/0honduras/datos/0honduras.py:114
 #: recursos/0honduras/datos/levels.py:144
 msgid "Guayambre River"
-msgstr ""
+msgstr "瓜亚姆布雷河"
 
 #: recursos/0honduras/datos/0honduras.py:115
 #: recursos/0honduras/datos/levels.py:145
 #: recursos/0nicaragua/datos/0nicaragua.py:116
 #: recursos/0nicaragua/datos/levels.py:150
-#, fuzzy
 msgid "Coco River"
-msgstr "奇科河"
+msgstr "科科河"
 
 #: recursos/0honduras/datos/0honduras.py:116
 #: recursos/0honduras/datos/levels.py:146
 msgid "Choluteca River"
-msgstr ""
+msgstr "乔卢特卡河"
 
 #: recursos/0honduras/datos/0honduras.py:117
 #: recursos/0honduras/datos/levels.py:147
 msgid "Caratasca Lagoon"
-msgstr ""
+msgstr "卡拉塔斯卡湖"
 
 #: recursos/0honduras/datos/0honduras.py:118
 #: recursos/0honduras/datos/levels.py:148
 msgid "Omoa Bay"
-msgstr ""
+msgstr "奥莫阿湾"
 
 #: recursos/0honduras/datos/0honduras.py:120
 #: recursos/0honduras/datos/levels.py:150
 #: recursos/0nicaragua/datos/0nicaragua.py:124
 #: recursos/0nicaragua/datos/levels.py:158
 msgid "Gulf of Fonseca"
-msgstr ""
+msgstr "丰塞卡湾"
 
 #: recursos/0honduras/datos/0honduras.py:127
-#, fuzzy
 msgid "(14º6' N - 87º13' W)"
-msgstr "(34º40' 南 - 58º24' 西)"
+msgstr "(14º6' 北 - 87º13' 西)"
 
 #: recursos/0honduras/datos/0honduras.py:130
 msgid "Porfirio Lobo"
-msgstr ""
+msgstr "波菲里奥·洛沃"
 
 #: recursos/0honduras/datos/0honduras.py:133
-#, fuzzy
 msgid "11 of december of 1825"
-msgstr "1931年12月11日"
+msgstr "1825年12月11日"
 
 #: recursos/0honduras/datos/0honduras.py:134
 msgid "112.492 km² (102th)"
-msgstr ""
+msgstr "112,492平方公里 (第102名)"
 
 #: recursos/0honduras/datos/0honduras.py:135
 msgid "8.144.000 (93th)"
-msgstr ""
+msgstr "8,144,000 (第93名)"
 
 #: recursos/0honduras/datos/0honduras.py:136
-#, fuzzy
 msgid "USD 35.173 billion (98th)"
-msgstr "479.80亿美元（第87名）"
+msgstr "351,73亿美元（第98名）"
 
 #: recursos/0honduras/datos/0honduras.py:137
-#, fuzzy
 msgid "Medium - 0,604 (106th)"
-msgstr "中 - 0,643（第95名）"
+msgstr "中 - 0,604（第106名）"
 
 #: recursos/0jamaica/datos/0jamaica.py:8 recursos/0jamaica/datos/levels.py:11
 msgid "Hanover"
-msgstr ""
+msgstr "汉诺威"
 
 #: recursos/0jamaica/datos/0jamaica.py:9 recursos/0jamaica/datos/levels.py:12
 msgid "Westmoreland"
-msgstr ""
+msgstr "威斯特摩兰"
 
 #: recursos/0jamaica/datos/0jamaica.py:10 recursos/0jamaica/datos/levels.py:13
 msgid "Saint James"
-msgstr ""
+msgstr "圣詹姆斯"
 
 #: recursos/0jamaica/datos/0jamaica.py:11 recursos/0jamaica/datos/levels.py:14
 msgid "Trelawny"
-msgstr ""
+msgstr "特里洛尼"
 
 #: recursos/0jamaica/datos/0jamaica.py:12 recursos/0jamaica/datos/levels.py:15
 msgid "Saint Elizabeth"
-msgstr ""
+msgstr "圣伊丽莎白"
 
 #: recursos/0jamaica/datos/0jamaica.py:13 recursos/0jamaica/datos/levels.py:16
 msgid "Manchester"
-msgstr ""
+msgstr "曼彻斯特"
 
 #: recursos/0jamaica/datos/0jamaica.py:14 recursos/0jamaica/datos/levels.py:17
 msgid "Saint Ann"
-msgstr ""
+msgstr "圣安"
 
 #: recursos/0jamaica/datos/0jamaica.py:15 recursos/0jamaica/datos/levels.py:18
 msgid "Clarendon"
-msgstr ""
+msgstr "克拉伦登"
 
 #: recursos/0jamaica/datos/0jamaica.py:16 recursos/0jamaica/datos/levels.py:19
 msgid "Saint Catherine"
-msgstr ""
+msgstr "圣凯瑟琳"
 
 #: recursos/0jamaica/datos/0jamaica.py:17 recursos/0jamaica/datos/levels.py:20
 msgid "Saint Mary"
-msgstr ""
+msgstr "圣玛丽"
 
 #: recursos/0jamaica/datos/0jamaica.py:18 recursos/0jamaica/datos/levels.py:21
 #: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:10
@@ -12270,271 +12209,259 @@ msgstr ""
 #: recursos/0tytobago/datos/0tytobago.py:12
 #: recursos/0tytobago/datos/levels.py:15
 msgid "Saint Andrew"
-msgstr ""
+msgstr "圣安德烈"
 
 #: recursos/0jamaica/datos/0jamaica.py:21 recursos/0jamaica/datos/levels.py:24
 msgid "Saint Thomas"
-msgstr ""
+msgstr "圣托马斯"
 
 #: recursos/0jamaica/datos/0jamaica.py:26
 #: recursos/0jamaica/datos/0jamaica.py:70 recursos/0jamaica/datos/levels.py:35
 #: recursos/0jamaica/datos/levels.py:57 recursos/0jamaica/datos/levels.py:104
-#, fuzzy
 msgid "Black River"
-msgstr "布兰科河"
+msgstr "黑河"
 
 #: recursos/0jamaica/datos/0jamaica.py:27 recursos/0jamaica/datos/levels.py:36
 #: recursos/0jamaica/datos/levels.py:58
 msgid "Falmouth"
-msgstr ""
+msgstr "法尔茅斯"
 
 #: recursos/0jamaica/datos/0jamaica.py:28 recursos/0jamaica/datos/levels.py:37
 #: recursos/0jamaica/datos/levels.py:59
 msgid "Lucea"
-msgstr ""
+msgstr "卢西亚"
 
 #: recursos/0jamaica/datos/0jamaica.py:29 recursos/0jamaica/datos/levels.py:38
 #: recursos/0jamaica/datos/levels.py:60
 msgid "Mandeville"
-msgstr ""
+msgstr "曼德维尔"
 
 #: recursos/0jamaica/datos/0jamaica.py:30 recursos/0jamaica/datos/levels.py:39
 #: recursos/0jamaica/datos/levels.py:61
 msgid "May Pen"
-msgstr ""
+msgstr "梅彭"
 
 #: recursos/0jamaica/datos/0jamaica.py:32 recursos/0jamaica/datos/levels.py:41
 #: recursos/0jamaica/datos/levels.py:63
 msgid "Morant Bay"
-msgstr ""
+msgstr "莫兰特湾"
 
 #: recursos/0jamaica/datos/0jamaica.py:33 recursos/0jamaica/datos/levels.py:42
 #: recursos/0jamaica/datos/levels.py:64
 msgid "Port Antonio"
-msgstr ""
+msgstr "安东尼奥港"
 
 #: recursos/0jamaica/datos/0jamaica.py:34 recursos/0jamaica/datos/levels.py:43
 #: recursos/0jamaica/datos/levels.py:65
 msgid "Port Maria"
-msgstr ""
+msgstr "玛丽亚港"
 
 #: recursos/0jamaica/datos/0jamaica.py:35 recursos/0jamaica/datos/levels.py:44
 #: recursos/0jamaica/datos/levels.py:66
 msgid "Saint Ann's Bay"
-msgstr ""
+msgstr "圣安斯湾"
 
 #: recursos/0jamaica/datos/0jamaica.py:36 recursos/0jamaica/datos/levels.py:45
 #: recursos/0jamaica/datos/levels.py:67
 msgid "Savanna-la-Mar"
-msgstr ""
+msgstr "滨海萨凡纳"
 
 #: recursos/0jamaica/datos/0jamaica.py:37 recursos/0jamaica/datos/levels.py:46
 #: recursos/0jamaica/datos/levels.py:68
 msgid "Spanish Town"
-msgstr ""
+msgstr "西班牙镇"
 
 #: recursos/0jamaica/datos/0jamaica.py:41 recursos/0jamaica/datos/levels.py:69
 msgid "Albert Town"
-msgstr ""
+msgstr "阿尔贝城"
 
 #: recursos/0jamaica/datos/0jamaica.py:42 recursos/0jamaica/datos/levels.py:70
 msgid "Alligator Pond"
-msgstr ""
+msgstr "阿利盖德庞德"
 
 #: recursos/0jamaica/datos/0jamaica.py:43 recursos/0jamaica/datos/levels.py:71
 msgid "Annotto Bay"
-msgstr ""
+msgstr "安诺托湾"
 
 #: recursos/0jamaica/datos/0jamaica.py:45 recursos/0jamaica/datos/levels.py:73
 msgid "Bog Walk"
-msgstr ""
+msgstr "波格沃克"
 
 #: recursos/0jamaica/datos/0jamaica.py:46 recursos/0jamaica/datos/levels.py:74
 msgid "Brown's Town"
-msgstr ""
+msgstr "布朗镇"
 
 #: recursos/0jamaica/datos/0jamaica.py:47 recursos/0jamaica/datos/levels.py:75
 msgid "Buff Way"
-msgstr ""
+msgstr "巴夫大道"
 
 #: recursos/0jamaica/datos/0jamaica.py:48 recursos/0jamaica/datos/levels.py:76
 msgid "Bull Bay"
-msgstr ""
+msgstr "布尔贝"
 
 #: recursos/0jamaica/datos/0jamaica.py:49 recursos/0jamaica/datos/levels.py:77
 msgid "Christiana"
-msgstr ""
+msgstr "克里斯蒂娜"
 
 #: recursos/0jamaica/datos/0jamaica.py:50 recursos/0jamaica/datos/levels.py:78
 msgid "Duncans"
-msgstr ""
+msgstr "邓肯斯"
 
 #: recursos/0jamaica/datos/0jamaica.py:51 recursos/0jamaica/datos/levels.py:79
 msgid "Frankfield"
-msgstr ""
+msgstr "弗兰克菲尔德"
 
 #: recursos/0jamaica/datos/0jamaica.py:52 recursos/0jamaica/datos/levels.py:80
 msgid "Linstead"
-msgstr ""
+msgstr "林斯特德"
 
 #: recursos/0jamaica/datos/0jamaica.py:53 recursos/0jamaica/datos/levels.py:81
 msgid "Moneague"
-msgstr ""
+msgstr "莫尼格"
 
 #: recursos/0jamaica/datos/0jamaica.py:55 recursos/0jamaica/datos/levels.py:83
 msgid "Negril"
-msgstr ""
+msgstr "尼格瑞尔"
 
 #: recursos/0jamaica/datos/0jamaica.py:56 recursos/0jamaica/datos/levels.py:84
 msgid "Ocho Rios"
-msgstr ""
+msgstr "欧丘里欧"
 
 #: recursos/0jamaica/datos/0jamaica.py:57 recursos/0jamaica/datos/levels.py:85
 msgid "Oracabessa"
-msgstr ""
+msgstr "奥拉卡贝萨"
 
 #: recursos/0jamaica/datos/0jamaica.py:58 recursos/0jamaica/datos/levels.py:86
 msgid "Port Esquivel"
-msgstr ""
+msgstr "埃斯基韦尔港"
 
 #: recursos/0jamaica/datos/0jamaica.py:59 recursos/0jamaica/datos/levels.py:87
 msgid "Port Morant"
-msgstr ""
+msgstr "莫兰特港"
 
 #: recursos/0jamaica/datos/0jamaica.py:60 recursos/0jamaica/datos/levels.py:88
 msgid "Portmore"
-msgstr ""
+msgstr "波特莫尔"
 
 #: recursos/0jamaica/datos/0jamaica.py:61 recursos/0jamaica/datos/levels.py:89
 msgid "Reading"
-msgstr ""
+msgstr "雷丁"
 
 #: recursos/0jamaica/datos/0jamaica.py:62 recursos/0jamaica/datos/levels.py:90
 msgid "The Alley"
-msgstr ""
+msgstr "阿里"
 
 #: recursos/0jamaica/datos/0jamaica.py:66
 #: recursos/0jamaica/datos/levels.py:100
 msgid "Cabarita River"
-msgstr ""
+msgstr "卡巴利塔河"
 
 #: recursos/0jamaica/datos/0jamaica.py:67
 #: recursos/0jamaica/datos/levels.py:101
 msgid "Great River"
-msgstr ""
+msgstr "大江"
 
 #: recursos/0jamaica/datos/0jamaica.py:68
 #: recursos/0jamaica/datos/levels.py:102
-#, fuzzy
 msgid "Montego River"
-msgstr "猴子河"
+msgstr "蒙特哥河"
 
 #: recursos/0jamaica/datos/0jamaica.py:69
 #: recursos/0jamaica/datos/levels.py:103
 msgid "Martha Brae River"
-msgstr ""
+msgstr "玛莎布里河"
 
 #: recursos/0jamaica/datos/0jamaica.py:71
 #: recursos/0jamaica/datos/levels.py:105
-#, fuzzy
 msgid "Milk River"
-msgstr "马德拉河"
+msgstr "牛奶河"
 
 #: recursos/0jamaica/datos/0jamaica.py:72
 #: recursos/0jamaica/datos/levels.py:106
-#, fuzzy
 msgid "Minho River"
-msgstr "摩虎河"
+msgstr "米尼奥河"
 
 #: recursos/0jamaica/datos/0jamaica.py:73
 #: recursos/0jamaica/datos/levels.py:107
 msgid "Coleburn's Gully River"
-msgstr ""
+msgstr "科尔伯恩斯加里河"
 
 #: recursos/0jamaica/datos/0jamaica.py:74
 #: recursos/0jamaica/datos/levels.py:108
-#, fuzzy
 msgid "Magno River"
-msgstr "马莫雷河"
+msgstr "马格诺河"
 
 #: recursos/0jamaica/datos/0jamaica.py:75
 #: recursos/0jamaica/datos/levels.py:109
 msgid "Flint River"
-msgstr ""
+msgstr "弗林特河"
 
 #: recursos/0jamaica/datos/0jamaica.py:76
 #: recursos/0jamaica/datos/levels.py:110
 msgid "Wag Water River"
-msgstr ""
+msgstr "摇水河"
 
 #: recursos/0jamaica/datos/0jamaica.py:77
 #: recursos/0jamaica/datos/levels.py:111
-#, fuzzy
 msgid "Yallahs River"
-msgstr "马德拉河"
+msgstr "亚拉斯河"
 
 #: recursos/0jamaica/datos/0jamaica.py:78
 #: recursos/0jamaica/datos/levels.py:112
-#, fuzzy
 msgid "Morant River"
-msgstr "巴拉那河"
+msgstr "莫兰特河"
 
 #: recursos/0jamaica/datos/0jamaica.py:80
 #: recursos/0jamaica/datos/levels.py:114
 msgid "Plantain Garden River"
-msgstr ""
+msgstr "普兰廷加登河"
 
 #: recursos/0jamaica/datos/0jamaica.py:82
 #: recursos/0jamaica/datos/levels.py:116
 msgid "Nuevo River"
-msgstr ""
+msgstr "努埃沃河"
 
 #: recursos/0jamaica/datos/0jamaica.py:83
 #: recursos/0jamaica/datos/levels.py:117
-#, fuzzy
 msgid "Cobre River"
-msgstr "马莫雷河"
+msgstr "科布里河"
 
 #: recursos/0jamaica/datos/0jamaica.py:90
-#, fuzzy
 msgid "(17º59' N - 76º48' W)"
-msgstr "(18º28' 北 - 69º54' 西)"
+msgstr "(17º59' 北 - 76º48' 西)"
 
 #: recursos/0jamaica/datos/0jamaica.py:92
 #: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:58
 msgid "Constitutional monarchy"
-msgstr ""
+msgstr "君主立宪制"
 
 #: recursos/0jamaica/datos/0jamaica.py:94
 msgid "Patrick Allen"
-msgstr ""
+msgstr "帕特里克·艾伦"
 
 #: recursos/0jamaica/datos/0jamaica.py:96
-#, fuzzy
 msgid "6 of august of 1962"
-msgstr "1825年8月6日"
+msgstr "1962年8月6日"
 
 #: recursos/0jamaica/datos/0jamaica.py:97
 msgid "10.991 km² (166th)"
-msgstr ""
+msgstr "10,991平方公里(第166名)"
 
 #: recursos/0jamaica/datos/0jamaica.py:98
 msgid "2.735.520 (131st)"
-msgstr ""
+msgstr "2,735,520 (第131名)"
 
 #: recursos/0jamaica/datos/0jamaica.py:99
-#, fuzzy
 msgid "USD 11.690 billion (131st)"
-msgstr "2,046亿美元（第166名）"
+msgstr "116,90亿美元（第131名）"
 
 #: recursos/0jamaica/datos/0jamaica.py:100
-#, fuzzy
 msgid "High - 0,688 (80th)"
-msgstr "高 - 0,694（第78名）"
+msgstr "高 - 0,688（第80名）"
 
 #: recursos/0jamaica/datos/0jamaica.py:101
 msgid "Jamaican dollar"
-msgstr ""
+msgstr "牙买加元"
 
 #: recursos/0jamaica/datos/explorations.py:6
 #: recursos/0jamaica/datos/levels.py:7
@@ -12550,164 +12477,162 @@ msgstr "教区中心"
 
 #: recursos/0jamaica/datos/levels.py:118
 msgid "Is around"
-msgstr ""
+msgstr "大约是"
 
 #: recursos/0mexico/datos/0mexico.py:8 recursos/0mexico/datos/levels.py:11
 #: recursos/0venezuela/datos/0venezuela.py:16
 #: recursos/0venezuela/datos/levels.py:19
 msgid "Distrito Federal"
-msgstr ""
+msgstr "联邦区"
 
 #: recursos/0mexico/datos/0mexico.py:9 recursos/0mexico/datos/0mexico.py:51
 #: recursos/0mexico/datos/levels.py:12 recursos/0mexico/datos/levels.py:51
 #: recursos/0mexico/datos/levels.py:92
 msgid "Aguascalientes"
-msgstr ""
+msgstr "阿瓜斯卡连特斯"
 
 #: recursos/0mexico/datos/0mexico.py:10 recursos/0mexico/datos/levels.py:13
 msgid "Baja California Norte"
-msgstr ""
+msgstr "下加利福尼亚"
 
 #: recursos/0mexico/datos/0mexico.py:11 recursos/0mexico/datos/levels.py:14
 msgid "Baja California Sur"
-msgstr ""
+msgstr "南下加利福尼亚"
 
 #: recursos/0mexico/datos/0mexico.py:12 recursos/0mexico/datos/0mexico.py:52
 #: recursos/0mexico/datos/levels.py:15 recursos/0mexico/datos/levels.py:52
 #: recursos/0mexico/datos/levels.py:93
 msgid "Campeche"
-msgstr ""
+msgstr "坎佩切"
 
 #: recursos/0mexico/datos/0mexico.py:13 recursos/0mexico/datos/levels.py:16
-#, fuzzy
 msgid "Coahuila"
-msgstr "卡维塔"
+msgstr "科阿韦拉"
 
 #: recursos/0mexico/datos/0mexico.py:14 recursos/0mexico/datos/0mexico.py:57
 #: recursos/0mexico/datos/levels.py:17 recursos/0mexico/datos/levels.py:57
 #: recursos/0mexico/datos/levels.py:98
-#, fuzzy
 msgid "Colima"
-msgstr "托利马"
+msgstr "科利马"
 
 #: recursos/0mexico/datos/0mexico.py:15 recursos/0mexico/datos/levels.py:18
 msgid "Chiapas"
-msgstr ""
+msgstr "恰帕斯"
 
 #: recursos/0mexico/datos/0mexico.py:17 recursos/0mexico/datos/0mexico.py:60
 #: recursos/0mexico/datos/levels.py:20 recursos/0mexico/datos/levels.py:60
 #: recursos/0mexico/datos/levels.py:101
 msgid "Durango"
-msgstr ""
+msgstr "杜兰戈"
 
 #: recursos/0mexico/datos/0mexico.py:18 recursos/0mexico/datos/0mexico.py:62
 #: recursos/0mexico/datos/levels.py:21 recursos/0mexico/datos/levels.py:62
 #: recursos/0mexico/datos/levels.py:103
 msgid "Guanajuato"
-msgstr ""
+msgstr "瓜纳华托"
 
 #: recursos/0mexico/datos/0mexico.py:19 recursos/0mexico/datos/levels.py:22
 msgid "Guerrero"
-msgstr ""
+msgstr "格雷罗"
 
 #: recursos/0mexico/datos/0mexico.py:20 recursos/0mexico/datos/levels.py:23
 msgid "Hidalgo"
-msgstr ""
+msgstr "伊达尔戈"
 
 #: recursos/0mexico/datos/0mexico.py:21 recursos/0mexico/datos/levels.py:24
 msgid "Jalisco"
-msgstr ""
+msgstr "哈利斯科"
 
 #: recursos/0mexico/datos/0mexico.py:23 recursos/0mexico/datos/levels.py:26
 msgid "Michoacán"
-msgstr ""
+msgstr "米却肯"
 
 #: recursos/0mexico/datos/0mexico.py:24 recursos/0mexico/datos/levels.py:27
 msgid "Nayarit"
-msgstr ""
+msgstr "纳亚里特"
 
 #: recursos/0mexico/datos/0mexico.py:25 recursos/0mexico/datos/levels.py:28
 msgid "Nuevo León"
-msgstr ""
+msgstr "新莱昂州"
 
 #: recursos/0mexico/datos/0mexico.py:28 recursos/0mexico/datos/0mexico.py:73
 #: recursos/0mexico/datos/levels.py:31 recursos/0mexico/datos/levels.py:73
 #: recursos/0mexico/datos/levels.py:114
 msgid "Querétaro"
-msgstr ""
+msgstr "克雷塔罗"
 
 #: recursos/0mexico/datos/0mexico.py:29 recursos/0mexico/datos/levels.py:32
 msgid "Quintana Roo"
-msgstr ""
+msgstr "金塔纳罗奥"
 
 #: recursos/0mexico/datos/0mexico.py:30 recursos/0mexico/datos/0mexico.py:75
 #: recursos/0mexico/datos/levels.py:33 recursos/0mexico/datos/levels.py:75
 #: recursos/0mexico/datos/levels.py:116
 msgid "San Luis Potosí"
-msgstr ""
+msgstr "圣路易斯波托西"
 
 #: recursos/0mexico/datos/0mexico.py:31 recursos/0mexico/datos/levels.py:34
 msgid "Sinaloa"
-msgstr ""
+msgstr "锡那罗亚"
 
 #: recursos/0mexico/datos/0mexico.py:32 recursos/0mexico/datos/levels.py:35
 msgid "Sonora"
-msgstr ""
+msgstr "索诺拉"
 
 #: recursos/0mexico/datos/0mexico.py:33 recursos/0mexico/datos/levels.py:36
 msgid "Tabasco"
-msgstr ""
+msgstr "塔巴斯科"
 
 #: recursos/0mexico/datos/0mexico.py:34 recursos/0mexico/datos/levels.py:37
 msgid "Tamaulipas"
-msgstr ""
+msgstr "塔毛利帕斯"
 
 #: recursos/0mexico/datos/0mexico.py:36 recursos/0mexico/datos/levels.py:39
 msgid "Yucatán"
-msgstr ""
+msgstr "尤卡坦"
 
 #: recursos/0mexico/datos/0mexico.py:37 recursos/0mexico/datos/0mexico.py:81
 #: recursos/0mexico/datos/levels.py:40 recursos/0mexico/datos/levels.py:81
 #: recursos/0mexico/datos/levels.py:122
 msgid "Zacatecas"
-msgstr ""
+msgstr "萨卡特卡斯"
 
 #: recursos/0mexico/datos/0mexico.py:43
 msgid "Is. Cedros"
-msgstr ""
+msgstr "塞德罗斯岛"
 
 #: recursos/0mexico/datos/0mexico.py:45
 msgid "Is. Marías"
-msgstr ""
+msgstr "玛丽亚岛"
 
 #: recursos/0mexico/datos/0mexico.py:46
 msgid "Is. Cozumel"
-msgstr ""
+msgstr "科苏梅尔岛"
 
 #: recursos/0mexico/datos/0mexico.py:53 recursos/0mexico/datos/levels.py:53
 #: recursos/0mexico/datos/levels.py:94
 msgid "Chetumal"
-msgstr ""
+msgstr "切图马尔"
 
 #: recursos/0mexico/datos/0mexico.py:55 recursos/0mexico/datos/levels.py:55
 #: recursos/0mexico/datos/levels.py:96
 msgid "Chipalcingo"
-msgstr ""
+msgstr "齐帕尔辛格"
 
 #: recursos/0mexico/datos/0mexico.py:56 recursos/0mexico/datos/levels.py:56
 #: recursos/0mexico/datos/levels.py:97
 msgid "Ciudad Victoria"
-msgstr ""
+msgstr "维多利亚城"
 
 #: recursos/0mexico/datos/0mexico.py:58 recursos/0mexico/datos/levels.py:58
 #: recursos/0mexico/datos/levels.py:99
 msgid "Cuernavaca"
-msgstr ""
+msgstr "库埃纳瓦卡"
 
 #: recursos/0mexico/datos/0mexico.py:59 recursos/0mexico/datos/levels.py:59
 #: recursos/0mexico/datos/levels.py:100
 msgid "Culiacán"
-msgstr ""
+msgstr "库利亚坎"
 
 #: recursos/0mexico/datos/0mexico.py:67 recursos/0mexico/datos/levels.py:67
 #: recursos/0mexico/datos/levels.py:108
@@ -14719,8 +14644,9 @@ msgstr ""
 #: recursos/0prico/datos/0prico.py:60 recursos/0prico/datos/0prico.py:103
 #: recursos/0prico/datos/levels.py:63 recursos/0prico/datos/levels.py:112
 #: recursos/0prico/datos/levels.py:158
+#, fuzzy
 msgid "Patillas"
-msgstr ""
+msgstr "巴里亚斯"
 
 #: recursos/0prico/datos/0prico.py:61 recursos/0prico/datos/0prico.py:104
 #: recursos/0prico/datos/levels.py:64 recursos/0prico/datos/levels.py:113
@@ -14996,8 +14922,9 @@ msgstr ""
 
 #: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:9
 #: recursos/0sanvicenteyg/datos/levels.py:12
+#, fuzzy
 msgid "Carlotte"
-msgstr ""
+msgstr "夏洛特"
 
 #: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:11
 #: recursos/0sanvicenteyg/datos/levels.py:14
@@ -15126,8 +15053,9 @@ msgstr ""
 
 #: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:43
 #: recursos/0sanvicenteyg/datos/levels.py:49
+#, fuzzy
 msgid "Dovers"
-msgstr ""
+msgstr "多佛尔"
 
 #: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:44
 #: recursos/0sanvicenteyg/datos/levels.py:50
@@ -16472,8 +16400,9 @@ msgstr ""
 #: recursos/0venezuela/datos/levels.py:15
 #: recursos/0venezuela/datos/levels.py:44
 #: recursos/0venezuela/datos/levels.py:76
+#, fuzzy
 msgid "Barinas"
-msgstr ""
+msgstr "巴里亚斯"
 
 #: recursos/0venezuela/datos/0venezuela.py:14
 #: recursos/0venezuela/datos/levels.py:17
