@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-05-25 00:32-0400\n"
-"PO-Revision-Date: 2012-05-29 07:43+0200\n"
+"PO-Revision-Date: 2012-06-20 14:04+0200\n"
 "Last-Translator: Aputsiaq Niels <aj@isit.gl>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: da\n"
@@ -197,7 +197,7 @@ msgstr "Tryk en tast for at springe over"
 
 #: recursos/0acentral/datos/0acentral.py:5
 msgid "Central America"
-msgstr ""
+msgstr "Mellemamerika"
 
 #: recursos/0acentral/datos/0acentral.py:8
 #: recursos/0acentral/datos/0acentral.py:48
@@ -217,7 +217,7 @@ msgstr ""
 #: recursos/0honduras/datos/0honduras.py:27
 #: recursos/0mexico/datos/0mexico.py:39
 msgid "Guatemala"
-msgstr ""
+msgstr "Guatemala"
 
 #: recursos/0acentral/datos/0acentral.py:9
 #: recursos/0acentral/datos/levels.py:12 recursos/0belice/datos/0belice.py:5
@@ -228,7 +228,7 @@ msgstr ""
 #: recursos/0honduras/datos/0honduras.py:25
 #: recursos/0mexico/datos/0mexico.py:40
 msgid "Belize"
-msgstr ""
+msgstr "Belize"
 
 #: recursos/0acentral/datos/0acentral.py:10
 #: recursos/0acentral/datos/levels.py:13
@@ -242,7 +242,7 @@ msgstr ""
 #: recursos/0mexico/datos/0mexico.py:41
 #: recursos/0nicaragua/datos/0nicaragua.py:26
 msgid "Honduras"
-msgstr ""
+msgstr "Honduras"
 
 #: recursos/0acentral/datos/0acentral.py:11
 #: recursos/0acentral/datos/levels.py:14
@@ -252,7 +252,7 @@ msgstr ""
 #: recursos/0honduras/datos/0honduras.py:26
 #: recursos/0mexico/datos/0mexico.py:42
 msgid "El Salvador"
-msgstr ""
+msgstr "El Salvador"
 
 #: recursos/0acentral/datos/0acentral.py:12
 #: recursos/0acentral/datos/levels.py:15
@@ -262,7 +262,7 @@ msgstr ""
 #: recursos/0honduras/datos/0honduras.py:28
 #: recursos/0nicaragua/datos/0nicaragua.py:5
 msgid "Nicaragua"
-msgstr ""
+msgstr "Nicaragua"
 
 #: recursos/0acentral/datos/0acentral.py:13
 #: recursos/0acentral/datos/levels.py:16
@@ -272,7 +272,7 @@ msgstr ""
 #: recursos/0nicaragua/datos/0nicaragua.py:25
 #: recursos/0panama/datos/0panama.py:18
 msgid "Costa Rica"
-msgstr ""
+msgstr "Costa Rica"
 
 #: recursos/0acentral/datos/0acentral.py:14
 #: recursos/0acentral/datos/0acentral.py:53
@@ -285,7 +285,7 @@ msgstr ""
 #: recursos/0panama/datos/0panama.py:89 recursos/0panama/datos/levels.py:18
 #: recursos/0panama/datos/levels.py:30 recursos/0panama/datos/levels.py:49
 msgid "Panamá"
-msgstr ""
+msgstr "Panama"
 
 #: recursos/0acentral/datos/0acentral.py:15
 #: recursos/0adelsur/datos/0adelsur.py:16 recursos/0adelsur/datos/levels.py:19
@@ -294,7 +294,7 @@ msgstr ""
 #: recursos/0ecuador/datos/0ecuador.py:30 recursos/0panama/datos/0panama.py:17
 #: recursos/0peru/datos/0peru.py:34 recursos/0venezuela/datos/0venezuela.py:31
 msgid "Colombia"
-msgstr ""
+msgstr "Colombia"
 
 #: recursos/0acentral/datos/0acentral.py:16
 #: recursos/0adelsur/datos/0adelsur.py:17 recursos/0adelsur/datos/levels.py:20
@@ -304,19 +304,19 @@ msgstr ""
 #: recursos/0tytobago/datos/0tytobago.py:17
 #: recursos/0venezuela/datos/0venezuela.py:5
 msgid "Venezuela"
-msgstr ""
+msgstr "Venezuela"
 
 #: recursos/0acentral/datos/0acentral.py:17
 #: recursos/0belice/datos/0belice.py:14 recursos/0mexico/datos/0mexico.py:5
 msgid "Mexico"
-msgstr ""
+msgstr "Mexico"
 
 #: recursos/0acentral/datos/0acentral.py:18
 #: recursos/0acentral/datos/levels.py:18
 #: recursos/0adelnorte/datos/0adelnorte.py:12 recursos/0cuba/datos/0cuba.py:5
 #: recursos/0eunidos/datos/0eunidos.py:60 recursos/0haiti/datos/0haiti.py:18
 msgid "Cuba"
-msgstr ""
+msgstr "Cuba"
 
 #: recursos/0acentral/datos/0acentral.py:19
 #: recursos/0adelnorte/datos/0adelnorte.py:8
@@ -324,7 +324,7 @@ msgstr ""
 #: recursos/0cuba/datos/0cuba.py:23 recursos/0eunidos/datos/0eunidos.py:5
 #: recursos/0mexico/datos/0mexico.py:38
 msgid "United States"
-msgstr ""
+msgstr "De forenede stater"
 
 #: recursos/0acentral/datos/0acentral.py:20
 #: recursos/0acentral/datos/levels.py:19
@@ -332,25 +332,25 @@ msgstr ""
 #: recursos/0eunidos/datos/0eunidos.py:61
 #: recursos/0jamaica/datos/0jamaica.py:5
 msgid "Jamaica"
-msgstr ""
+msgstr "Jamaica"
 
 #: recursos/0acentral/datos/0acentral.py:21
 #: recursos/0acentral/datos/levels.py:20
 #: recursos/0adelnorte/datos/0adelnorte.py:17 recursos/0cuba/datos/0cuba.py:32
 #: recursos/0haiti/datos/0haiti.py:5
 msgid "Haiti"
-msgstr ""
+msgstr "Haiti"
 
 #: recursos/0acentral/datos/0acentral.py:22
 #: recursos/0acentral/datos/levels.py:21
 #: recursos/0dominicana/datos/0dominicana.py:5
 msgid "Dominicana"
-msgstr ""
+msgstr "Dominicana"
 
 #: recursos/0acentral/datos/0acentral.py:23
 #: recursos/0acentral/datos/levels.py:22 recursos/0prico/datos/0prico.py:5
 msgid "Puerto Rico"
-msgstr ""
+msgstr "Puerto Rico"
 
 #: recursos/0acentral/datos/0acentral.py:24
 #: recursos/0acentral/datos/levels.py:23
@@ -358,54 +358,54 @@ msgstr ""
 #: recursos/0tytobago/datos/0tytobago.py:5
 #: recursos/0venezuela/datos/0venezuela.py:33
 msgid "Trinidad and Tobago"
-msgstr ""
+msgstr "Trinidad og Tobago"
 
 #: recursos/0acentral/datos/0acentral.py:25
 #: recursos/0acentral/datos/levels.py:24 recursos/0cuba/datos/0cuba.py:35
 msgid "Grand Bahama Island"
-msgstr ""
+msgstr "Grand Bahama Island"
 
 #: recursos/0acentral/datos/0acentral.py:26
 #: recursos/0acentral/datos/levels.py:25 recursos/0cuba/datos/0cuba.py:24
 msgid "Andros Island"
-msgstr ""
+msgstr "Andros Island"
 
 #: recursos/0acentral/datos/0acentral.py:27
 #: recursos/0acentral/datos/levels.py:26 recursos/0cuba/datos/0cuba.py:22
 msgid "Cayman Islands"
-msgstr ""
+msgstr "Caymanøerne"
 
 #: recursos/0acentral/datos/0acentral.py:28
 #: recursos/0acentral/datos/levels.py:27
 #: recursos/0adelsur/datos/0adelsur.py:32
 msgid "Martinica"
-msgstr ""
+msgstr "Martinique"
 
 #: recursos/0acentral/datos/0acentral.py:29
 #: recursos/0acentral/datos/levels.py:28
 msgid "Dominica"
-msgstr ""
+msgstr "Den dominikanske republik"
 
 #: recursos/0acentral/datos/0acentral.py:30
 #: recursos/0acentral/datos/levels.py:29
 msgid "Guadalupe"
-msgstr ""
+msgstr "Guadeloupe"
 
 #: recursos/0acentral/datos/0acentral.py:31
 #: recursos/0acentral/datos/levels.py:30
 msgid "Antigua and Barbuda"
-msgstr ""
+msgstr "Antigua og Barbuda"
 
 #: recursos/0acentral/datos/0acentral.py:32
 #: recursos/0acentral/datos/levels.py:31
 msgid "Saint Lucia"
-msgstr ""
+msgstr "Saint Lucia"
 
 #: recursos/0acentral/datos/0acentral.py:33
 #: recursos/0acentral/datos/levels.py:32
 #: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:5
 msgid "Saint Vincent and the Grenadines"
-msgstr ""
+msgstr "Saint Vincent og Grenadinerne"
 
 #: recursos/0acentral/datos/0acentral.py:34
 #: recursos/0acentral/datos/levels.py:33
@@ -415,7 +415,7 @@ msgstr ""
 #: recursos/0nicaragua/datos/levels.py:42
 #: recursos/0nicaragua/datos/levels.py:68
 msgid "Granada"
-msgstr ""
+msgstr "Granada"
 
 #: recursos/0acentral/datos/0acentral.py:35
 #: recursos/0acentral/datos/0acentral.py:59
@@ -428,7 +428,7 @@ msgstr ""
 #: recursos/0elsalvador/datos/levels.py:34
 #: recursos/0elsalvador/datos/levels.py:57
 msgid "San Salvador"
-msgstr ""
+msgstr "San Salvador"
 
 #: recursos/0acentral/datos/0acentral.py:36
 #: recursos/0acentral/datos/levels.py:35
