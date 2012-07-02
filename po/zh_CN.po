@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-05-25 00:32-0400\n"
-"PO-Revision-Date: 2012-06-26 02:08+0200\n"
+"PO-Revision-Date: 2012-07-02 03:46+0200\n"
 "Last-Translator: lite <litekok@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: zh_CN\n"
@@ -13745,229 +13745,219 @@ msgstr "巴勃罗拉海伦萨少校镇"
 #: recursos/0paraguay/datos/0paraguay.py:58
 #: recursos/0paraguay/datos/levels.py:87
 msgid "Coronel Bogado"
-msgstr ""
+msgstr "博加多上校镇"
 
 #: recursos/0paraguay/datos/0paraguay.py:59
 #: recursos/0paraguay/datos/levels.py:88
 msgid "Curuguaty"
-msgstr ""
+msgstr "库鲁瓜提"
 
 #: recursos/0paraguay/datos/0paraguay.py:60
 #: recursos/0paraguay/datos/levels.py:89
 msgid "Dr. Pedro P. Peña"
-msgstr ""
+msgstr "佩德罗体育培尼亚医生"
 
 #: recursos/0paraguay/datos/0paraguay.py:62
 #: recursos/0paraguay/datos/levels.py:91
 msgid "Fortín Ávalos Sánchez"
-msgstr ""
+msgstr "阿瓦洛斯桑切斯堡"
 
 #: recursos/0paraguay/datos/0paraguay.py:63
 #: recursos/0paraguay/datos/levels.py:92
 msgid "Fortín General Diaz"
-msgstr ""
+msgstr "迪亚兹将军堡"
 
 #: recursos/0paraguay/datos/0paraguay.py:64
 #: recursos/0paraguay/datos/levels.py:93
 msgid "Fortin Infante Rivarola"
-msgstr ""
+msgstr "因凡里瓦罗拉堡"
 
 #: recursos/0paraguay/datos/0paraguay.py:65
 #: recursos/0paraguay/datos/levels.py:94
 msgid "General Eugenio A. Garay"
-msgstr ""
+msgstr "欧亨尼奥加拉伊将军镇"
 
 #: recursos/0paraguay/datos/0paraguay.py:66
 #: recursos/0paraguay/datos/levels.py:95
 msgid "Hernandarias"
-msgstr ""
+msgstr "埃尔南达里亚斯"
 
 #: recursos/0paraguay/datos/0paraguay.py:67
 #: recursos/0paraguay/datos/levels.py:96
 msgid "Horqueta"
-msgstr ""
+msgstr "奥尔克塔"
 
 #: recursos/0paraguay/datos/0paraguay.py:68
 #: recursos/0paraguay/datos/levels.py:97
 msgid "Itanara"
-msgstr ""
+msgstr "伊塔纳拉"
 
 #: recursos/0paraguay/datos/0paraguay.py:69
 #: recursos/0paraguay/datos/levels.py:98
 msgid "Km. 160"
-msgstr ""
+msgstr "一百六十公里"
 
 #: recursos/0paraguay/datos/0paraguay.py:70
 #: recursos/0paraguay/datos/levels.py:99
 msgid "Minas Cué"
-msgstr ""
+msgstr "米纳斯奎"
 
 #: recursos/0paraguay/datos/0paraguay.py:71
 #: recursos/0paraguay/datos/levels.py:100
 msgid "Puerto Bahia Negra"
-msgstr ""
+msgstr "巴伊亚内格拉港"
 
 #: recursos/0paraguay/datos/0paraguay.py:72
 #: recursos/0paraguay/datos/levels.py:101
-#, fuzzy
 msgid "Puerto Casado"
-msgstr "德塞阿多港"
+msgstr "卡萨港"
 
 #: recursos/0paraguay/datos/0paraguay.py:73
 #: recursos/0paraguay/datos/levels.py:102
 msgid "Puerto Guaraní"
-msgstr ""
+msgstr "瓜拉尼港"
 
 #: recursos/0paraguay/datos/0paraguay.py:74
 #: recursos/0paraguay/datos/levels.py:103
-#, fuzzy
 msgid "Puerto Pinasco"
-msgstr "佩尼亚斯科港"
+msgstr "皮纳斯科港"
 
 #: recursos/0paraguay/datos/0paraguay.py:77
 #: recursos/0paraguay/datos/levels.py:106
 msgid "San Estanislao"
-msgstr ""
+msgstr "圣埃斯塔尼斯劳"
 
 #: recursos/0paraguay/datos/0paraguay.py:78
 #: recursos/0paraguay/datos/levels.py:107
 msgid "San Lázaro"
-msgstr ""
+msgstr "圣拉萨罗"
 
 #: recursos/0paraguay/datos/0paraguay.py:79
 #: recursos/0paraguay/datos/levels.py:108
-#, fuzzy
 msgid "San Ygnacio"
 msgstr "圣伊格纳西奥"
 
 #: recursos/0paraguay/datos/0paraguay.py:81
 #: recursos/0paraguay/datos/levels.py:110
 msgid "Tacuatí"
-msgstr ""
+msgstr "塔夸蒂"
 
 #: recursos/0paraguay/datos/0paraguay.py:82
 #: recursos/0paraguay/datos/levels.py:111
 msgid "Yby Yaú"
-msgstr ""
+msgstr "伊拜亚奥"
 
 #: recursos/0paraguay/datos/0paraguay.py:83
 #: recursos/0paraguay/datos/levels.py:112
 msgid "Yhú"
-msgstr ""
+msgstr "伊乌"
 
 #: recursos/0paraguay/datos/0paraguay.py:87
 #: recursos/0paraguay/datos/levels.py:122
 msgid "Verde River"
-msgstr ""
+msgstr "维德河"
 
 #: recursos/0paraguay/datos/0paraguay.py:88
 #: recursos/0paraguay/datos/levels.py:123
 msgid "Monte Lindo River"
-msgstr ""
+msgstr "蒙特林多河"
 
 #: recursos/0paraguay/datos/0paraguay.py:90
 #: recursos/0paraguay/datos/levels.py:125
 msgid "González River"
-msgstr ""
+msgstr "冈萨雷斯河"
 
 #: recursos/0paraguay/datos/0paraguay.py:92
 #: recursos/0paraguay/datos/levels.py:127
 msgid "Aguaray Guazú River"
-msgstr ""
+msgstr "阿瓜雷瓜苏河"
 
 #: recursos/0paraguay/datos/0paraguay.py:93
 #: recursos/0paraguay/datos/levels.py:128
 msgid "Confuso River"
-msgstr ""
+msgstr "孔富索河"
 
 #: recursos/0paraguay/datos/0paraguay.py:94
 #: recursos/0paraguay/datos/levels.py:129
-#, fuzzy
 msgid "Alegre River"
-msgstr "内格罗河"
+msgstr "阿莱格里河"
 
 #: recursos/0paraguay/datos/0paraguay.py:95
 #: recursos/0paraguay/datos/levels.py:130
 msgid "Apa River"
-msgstr ""
+msgstr "阿帕河"
 
 #: recursos/0paraguay/datos/0paraguay.py:96
 #: recursos/0paraguay/datos/levels.py:131
 msgid "Aquidabán River"
-msgstr ""
+msgstr "阿基达万河"
 
 #: recursos/0paraguay/datos/0paraguay.py:97
 #: recursos/0paraguay/datos/levels.py:132
 msgid "Ypané River"
-msgstr ""
+msgstr "伊帕内河"
 
 #: recursos/0paraguay/datos/0paraguay.py:98
 #: recursos/0paraguay/datos/levels.py:133
 msgid "Jejuí Guazú River"
-msgstr ""
+msgstr "耶尤瓜苏河"
 
 #: recursos/0paraguay/datos/0paraguay.py:100
 #: recursos/0paraguay/datos/levels.py:135
 msgid "Tebicuary River"
-msgstr ""
+msgstr "特维夸里河"
 
 #: recursos/0paraguay/datos/0paraguay.py:102
 #: recursos/0paraguay/datos/levels.py:137
 msgid "Yacuy-Guazú River"
-msgstr ""
+msgstr "亚奎瓜苏河"
 
 #: recursos/0paraguay/datos/0paraguay.py:108
 msgid "(25º16' S - 57º40' W)"
-msgstr ""
+msgstr "(25º16' 南 - 57º40' 西)"
 
 #: recursos/0paraguay/datos/0paraguay.py:109
 #: recursos/0paraguay/datos/0paraguay.py:120
-#, fuzzy
 msgid "Guaraní"
 msgstr "瓜拉尼"
 
 #: recursos/0paraguay/datos/0paraguay.py:111
 msgid "Fernando Lugo"
-msgstr ""
+msgstr "费尔南多·卢戈"
 
 #: recursos/0paraguay/datos/0paraguay.py:112
 msgid "Federico Franco"
-msgstr ""
+msgstr "费德里科·佛朗哥"
 
 #: recursos/0paraguay/datos/0paraguay.py:114
-#, fuzzy
 msgid "15 of may of 1811"
-msgstr "1816年7月9日"
+msgstr "1811年5月15日"
 
 #: recursos/0paraguay/datos/0paraguay.py:115
-#, fuzzy
 msgid "10 of september of 1880"
-msgstr "1822年9月7日"
+msgstr "1880年9月10日"
 
 #: recursos/0paraguay/datos/0paraguay.py:116
 msgid "406.752 km² (59th)"
-msgstr ""
+msgstr "406,752 平方公里 (第59名)"
 
 #: recursos/0paraguay/datos/0paraguay.py:117
 msgid "6.459.000 (103th)"
-msgstr ""
+msgstr "6,459,000 (第103名)"
 
 #: recursos/0paraguay/datos/0paraguay.py:118
-#, fuzzy
 msgid "USD 30.943 billion (102th)"
-msgstr "2,046亿美元（第166名）"
+msgstr "309.43亿美元（第102名）"
 
 #: recursos/0paraguay/datos/0paraguay.py:119
-#, fuzzy
 msgid "Medium - 0,640 (96th)"
-msgstr "中 - 0,643（第95名）"
+msgstr "中 - 0,640（第96名）"
 
 #: recursos/0paraguay/datos/levels.py:126
 msgid "Queda en el sureste"
-msgstr ""
+msgstr "位于东南"
 
 #: recursos/0peru/datos/0peru.py:5
-#, fuzzy
 msgid "Peru"
 msgstr "秘鲁"
 
@@ -13975,29 +13965,27 @@ msgstr "秘鲁"
 #: recursos/0peru/datos/levels.py:11 recursos/0peru/datos/levels.py:68
 #: recursos/0peru/datos/levels.py:102
 msgid "Tumbes"
-msgstr ""
+msgstr "通贝斯"
 
 #: recursos/0peru/datos/0peru.py:12 recursos/0peru/datos/0peru.py:43
 #: recursos/0peru/datos/levels.py:15 recursos/0peru/datos/levels.py:48
 #: recursos/0peru/datos/levels.py:82
-#, fuzzy
 msgid "Cajamarca"
-msgstr "卡塔马卡"
+msgstr "卡哈马卡"
 
 #: recursos/0peru/datos/0peru.py:13 recursos/0peru/datos/levels.py:16
 msgid "Lambayeque"
-msgstr ""
+msgstr "兰巴耶克"
 
 #: recursos/0peru/datos/0peru.py:14 recursos/0peru/datos/levels.py:17
 msgid "San Martín"
-msgstr ""
+msgstr "圣马丁"
 
 #: recursos/0peru/datos/0peru.py:16 recursos/0peru/datos/levels.py:19
 msgid "Ancash"
-msgstr ""
+msgstr "安卡什"
 
 #: recursos/0peru/datos/0peru.py:17 recursos/0peru/datos/levels.py:20
-#, fuzzy
 msgid "Huanuco"
 msgstr "瓦努科"
 
@@ -14005,18 +13993,17 @@ msgstr "瓦努科"
 #: recursos/0peru/datos/levels.py:22 recursos/0peru/datos/levels.py:50
 #: recursos/0peru/datos/levels.py:84
 msgid "Cerro de Pasco"
-msgstr ""
+msgstr "塞罗·帕斯科"
 
 #: recursos/0peru/datos/0peru.py:21 recursos/0peru/datos/levels.py:24
 msgid "Ucayali"
-msgstr ""
+msgstr "乌卡亚利"
 
 #: recursos/0peru/datos/0peru.py:22 recursos/0peru/datos/levels.py:25
 msgid "Madre de Dios"
-msgstr ""
+msgstr "马德雷德迪奥斯"
 
 #: recursos/0peru/datos/0peru.py:23 recursos/0peru/datos/levels.py:26
-#, fuzzy
 msgid "Cuzco"
 msgstr "库斯科"
 
@@ -14024,187 +14011,182 @@ msgstr "库斯科"
 #: recursos/0peru/datos/levels.py:27 recursos/0peru/datos/levels.py:58
 #: recursos/0peru/datos/levels.py:92
 msgid "Ica"
-msgstr ""
+msgstr "伊卡"
 
 #: recursos/0peru/datos/0peru.py:25 recursos/0peru/datos/0peru.py:50
 #: recursos/0peru/datos/levels.py:28 recursos/0peru/datos/levels.py:55
 #: recursos/0peru/datos/levels.py:89
 msgid "Huancavelica"
-msgstr ""
+msgstr "万卡维利卡"
 
 #: recursos/0peru/datos/0peru.py:26 recursos/0peru/datos/0peru.py:42
 #: recursos/0peru/datos/levels.py:29 recursos/0peru/datos/levels.py:47
 #: recursos/0peru/datos/levels.py:81
 msgid "Ayacucho"
-msgstr ""
+msgstr "阿亚库乔"
 
 #: recursos/0peru/datos/0peru.py:28 recursos/0peru/datos/levels.py:31
 msgid "Apurimac"
-msgstr ""
+msgstr "阿普里马克"
 
 #: recursos/0peru/datos/0peru.py:29 recursos/0peru/datos/0peru.py:60
 #: recursos/0peru/datos/levels.py:32 recursos/0peru/datos/levels.py:65
 #: recursos/0peru/datos/levels.py:99
-#, fuzzy
 msgid "Puno"
-msgstr "普约"
+msgstr "普诺"
 
 #: recursos/0peru/datos/0peru.py:30 recursos/0peru/datos/0peru.py:55
 #: recursos/0peru/datos/levels.py:33 recursos/0peru/datos/levels.py:60
 #: recursos/0peru/datos/levels.py:94
 msgid "Moquegua"
-msgstr ""
+msgstr "莫克瓜"
 
 #: recursos/0peru/datos/0peru.py:31 recursos/0peru/datos/0peru.py:61
 #: recursos/0peru/datos/levels.py:34 recursos/0peru/datos/levels.py:66
 #: recursos/0peru/datos/levels.py:100
 msgid "Tacna"
-msgstr ""
+msgstr "塔克纳"
 
 #: recursos/0peru/datos/0peru.py:40 recursos/0peru/datos/levels.py:45
 #: recursos/0peru/datos/levels.py:79
 msgid "Abancay"
-msgstr ""
+msgstr "阿班凯"
 
 #: recursos/0peru/datos/0peru.py:44 recursos/0peru/datos/levels.py:49
 #: recursos/0peru/datos/levels.py:83
 msgid "Callao"
-msgstr ""
+msgstr "卡亚俄"
 
 #: recursos/0peru/datos/0peru.py:46 recursos/0peru/datos/levels.py:51
 #: recursos/0peru/datos/levels.py:85
 msgid "Chachapoyas"
-msgstr ""
+msgstr "查查波亚斯"
 
 #: recursos/0peru/datos/0peru.py:47 recursos/0peru/datos/levels.py:52
 #: recursos/0peru/datos/levels.py:86
-#, fuzzy
 msgid "Chiclayo"
-msgstr "芝加哥"
+msgstr "奇克拉约"
 
 #: recursos/0peru/datos/0peru.py:51 recursos/0peru/datos/levels.py:56
 #: recursos/0peru/datos/levels.py:90
 msgid "Huancayo"
-msgstr ""
+msgstr "万卡约"
 
 #: recursos/0peru/datos/0peru.py:52 recursos/0peru/datos/levels.py:57
 #: recursos/0peru/datos/levels.py:91
 msgid "Huaraz"
-msgstr ""
+msgstr "瓦拉斯"
 
 #: recursos/0peru/datos/0peru.py:56 recursos/0peru/datos/levels.py:61
 #: recursos/0peru/datos/levels.py:95
 msgid "Moyobamba"
-msgstr ""
+msgstr "莫约班巴"
 
 #: recursos/0peru/datos/0peru.py:58 recursos/0peru/datos/levels.py:63
 #: recursos/0peru/datos/levels.py:97
 msgid "Pucallpa"
-msgstr ""
+msgstr "普卡尔帕"
 
 #: recursos/0peru/datos/0peru.py:59 recursos/0peru/datos/levels.py:64
 #: recursos/0peru/datos/levels.py:98
 msgid "Puerto Maldonado"
-msgstr ""
+msgstr "马尔多纳多港"
 
 #: recursos/0peru/datos/0peru.py:67 recursos/0peru/datos/levels.py:103
 msgid "Azángaro"
-msgstr ""
+msgstr "阿桑加罗"
 
 #: recursos/0peru/datos/0peru.py:68 recursos/0peru/datos/levels.py:104
-#, fuzzy
 msgid "Bagua"
-msgstr "纳瓜"
+msgstr "巴瓜"
 
 #: recursos/0peru/datos/0peru.py:69 recursos/0peru/datos/levels.py:105
-#, fuzzy
 msgid "Barranca"
-msgstr "巴兰科"
+msgstr "巴兰卡"
 
 #: recursos/0peru/datos/0peru.py:70 recursos/0peru/datos/levels.py:106
 msgid "Caballococha"
-msgstr ""
+msgstr "卡瓦约科查"
 
 #: recursos/0peru/datos/0peru.py:71 recursos/0peru/datos/levels.py:107
 msgid "Camana"
-msgstr ""
+msgstr "卡马纳"
 
 #: recursos/0peru/datos/0peru.py:72 recursos/0peru/datos/levels.py:108
 msgid "Caraveli"
-msgstr ""
+msgstr "卡拉维利"
 
 #: recursos/0peru/datos/0peru.py:73 recursos/0peru/datos/levels.py:109
 msgid "Casma"
-msgstr ""
+msgstr "卡斯马"
 
 #: recursos/0peru/datos/0peru.py:74 recursos/0peru/datos/levels.py:110
 msgid "Chimbote"
-msgstr ""
+msgstr "钦博特"
 
 #: recursos/0peru/datos/0peru.py:75 recursos/0peru/datos/levels.py:111
 msgid "Chincha Alta"
-msgstr ""
+msgstr "钦查阿尔塔"
 
 #: recursos/0peru/datos/0peru.py:76 recursos/0peru/datos/levels.py:112
 msgid "Contamana"
-msgstr ""
+msgstr "孔塔马纳"
 
 #: recursos/0peru/datos/0peru.py:77 recursos/0peru/datos/levels.py:113
 msgid "Coracora"
-msgstr ""
+msgstr "科拉科拉"
 
 #: recursos/0peru/datos/0peru.py:78 recursos/0peru/datos/levels.py:114
 msgid "Cotahuasi"
-msgstr ""
+msgstr "科塔瓦西"
 
 #: recursos/0peru/datos/0peru.py:79 recursos/0peru/datos/levels.py:115
 msgid "Flor de Agosto"
-msgstr ""
+msgstr "弗洛尔－德阿戈斯托"
 
 #: recursos/0peru/datos/0peru.py:80 recursos/0peru/datos/levels.py:116
 msgid "Huacho"
-msgstr ""
+msgstr "瓦乔"
 
 #: recursos/0peru/datos/0peru.py:81 recursos/0peru/datos/levels.py:117
 msgid "Huarmey"
-msgstr ""
+msgstr "瓦尔梅"
 
 #: recursos/0peru/datos/0peru.py:82 recursos/0peru/datos/levels.py:118
 msgid "Iñapari"
-msgstr ""
+msgstr "伊尼亚帕里"
 
 #: recursos/0peru/datos/0peru.py:83 recursos/0peru/datos/levels.py:119
 msgid "Juliaca"
-msgstr ""
+msgstr "胡利亚卡"
 
 #: recursos/0peru/datos/0peru.py:84 recursos/0peru/datos/levels.py:120
 msgid "La Oroya"
-msgstr ""
+msgstr "拉奥罗亚"
 
 #: recursos/0peru/datos/0peru.py:85 recursos/0peru/datos/levels.py:121
 msgid "Macusani"
-msgstr ""
+msgstr "马库萨尼"
 
 #: recursos/0peru/datos/0peru.py:86 recursos/0peru/datos/levels.py:122
-#, fuzzy
 msgid "Manú"
-msgstr "帕拉"
+msgstr "马努"
 
 #: recursos/0peru/datos/0peru.py:87 recursos/0peru/datos/levels.py:123
 msgid "Mollendo"
-msgstr ""
+msgstr "莫延多"
 
 #: recursos/0peru/datos/0peru.py:88 recursos/0peru/datos/levels.py:124
 msgid "Nauta"
-msgstr ""
+msgstr "瑙塔"
 
 #: recursos/0peru/datos/0peru.py:89 recursos/0peru/datos/levels.py:125
 msgid "Nazca"
-msgstr ""
+msgstr "纳斯卡"
 
 #: recursos/0peru/datos/0peru.py:90 recursos/0peru/datos/levels.py:126
 msgid "Palpa"
-msgstr ""
+msgstr "帕尔帕"
 
 #: recursos/0peru/datos/0peru.py:91 recursos/0peru/datos/levels.py:127
 msgid "Pisco"
