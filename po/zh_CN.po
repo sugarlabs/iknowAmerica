@@ -7,8 +7,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-05-25 00:32-0400\n"
-"PO-Revision-Date: 2012-07-02 14:51+0200\n"
-"Last-Translator: Xin <dram.wang@gmail.com>\n"
+"PO-Revision-Date: 2012-07-04 04:12+0200\n"
+"Last-Translator: lite <litekok@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
@@ -14222,7 +14222,7 @@ msgstr "塔拉波托"
 
 #: recursos/0peru/datos/0peru.py:99 recursos/0peru/datos/levels.py:135
 msgid "Tingo Maria"
-msgstr ""
+msgstr "廷戈玛丽亚"
 
 #: recursos/0peru/datos/0peru.py:105 recursos/0peru/datos/levels.py:147
 msgid "Tigre River"
@@ -14241,23 +14241,20 @@ msgid "Acre River"
 msgstr "阿克里河"
 
 #: recursos/0peru/datos/0peru.py:112 recursos/0peru/datos/levels.py:154
-#, fuzzy
 msgid "Iaco River"
-msgstr "奇科河"
+msgstr "亚科河"
 
 #: recursos/0peru/datos/0peru.py:113 recursos/0peru/datos/levels.py:155
-#, fuzzy
 msgid "Alto Purús River"
-msgstr "上巴拉那河"
+msgstr "上普鲁斯河"
 
 #: recursos/0peru/datos/0peru.py:115 recursos/0peru/datos/levels.py:157
-#, fuzzy
 msgid "Piedras River"
-msgstr "巴拉那河"
+msgstr "皮德拉斯河"
 
 #: recursos/0peru/datos/0peru.py:116 recursos/0peru/datos/levels.py:158
 msgid "Inambari River"
-msgstr ""
+msgstr "伊纳姆巴里河"
 
 #: recursos/0peru/datos/0peru.py:120 recursos/0peru/datos/levels.py:162
 msgid "Huallaga River"
@@ -14281,19 +14278,19 @@ msgstr "塞丘拉湾"
 
 #: recursos/0peru/datos/0peru.py:134
 msgid "(12º02' S - 77º01' W)"
-msgstr ""
+msgstr "（南纬12º02' - 西经77º01'）"
 
 #: recursos/0peru/datos/0peru.py:135
 msgid "Aimará"
-msgstr ""
+msgstr "艾马拉"
 
 #: recursos/0peru/datos/0peru.py:137
 msgid "Ollanta Humala Tasso"
-msgstr ""
+msgstr "奥兰塔·乌马拉·塔索"
 
 #: recursos/0peru/datos/0peru.py:138
 msgid "Oscar Valdés Dancuart"
-msgstr ""
+msgstr "奥斯卡·巴尔德斯·丹夸尔特"
 
 #: recursos/0peru/datos/0peru.py:140
 msgid "28 of july of 1821"
@@ -14321,7 +14318,7 @@ msgstr "高 - 0,723（第63名）"
 
 #: recursos/0peru/datos/0peru.py:146
 msgid "Nuevo sol"
-msgstr ""
+msgstr "新索尔"
 
 #: recursos/0prico/datos/0prico.py:8 recursos/0prico/datos/0prico.py:126
 #: recursos/0prico/datos/levels.py:11 recursos/0prico/datos/levels.py:178
@@ -14452,7 +14449,7 @@ msgstr "拉沃"
 
 #: recursos/0prico/datos/0prico.py:39 recursos/0prico/datos/levels.py:42
 msgid "Hormigueros"
-msgstr ""
+msgstr "欧米吉罗斯"
 
 #: recursos/0prico/datos/0prico.py:40 recursos/0prico/datos/levels.py:43
 msgid "Humacao"
@@ -14480,7 +14477,7 @@ msgstr "洪科斯"
 #: recursos/0prico/datos/levels.py:48 recursos/0prico/datos/levels.py:97
 #: recursos/0prico/datos/levels.py:143
 msgid "Lajas"
-msgstr ""
+msgstr "拉哈斯"
 
 #: recursos/0prico/datos/0prico.py:46 recursos/0prico/datos/0prico.py:89
 #: recursos/0prico/datos/levels.py:49 recursos/0prico/datos/levels.py:98
@@ -14571,7 +14568,7 @@ msgstr "帕蒂亚斯"
 #: recursos/0prico/datos/levels.py:64 recursos/0prico/datos/levels.py:113
 #: recursos/0prico/datos/levels.py:159
 msgid "Peñuelas"
-msgstr ""
+msgstr "佩纽埃拉斯"
 
 #: recursos/0prico/datos/0prico.py:62 recursos/0prico/datos/0prico.py:105
 #: recursos/0prico/datos/levels.py:65 recursos/0prico/datos/levels.py:114
@@ -14588,7 +14585,7 @@ msgstr "克布拉迪亚斯"
 #: recursos/0prico/datos/0prico.py:65 recursos/0prico/datos/0prico.py:153
 #: recursos/0prico/datos/levels.py:68 recursos/0prico/datos/levels.py:205
 msgid "Río Piedras"
-msgstr ""
+msgstr "里奥彼德拉斯"
 
 #: recursos/0prico/datos/0prico.py:66 recursos/0prico/datos/0prico.py:108
 #: recursos/0prico/datos/levels.py:69 recursos/0prico/datos/levels.py:117
@@ -14645,13 +14642,13 @@ msgstr "下维加"
 
 #: recursos/0prico/datos/0prico.py:79 recursos/0prico/datos/levels.py:82
 msgid "Vieques"
-msgstr ""
+msgstr "别克斯"
 
 #: recursos/0prico/datos/0prico.py:80 recursos/0prico/datos/0prico.py:120
 #: recursos/0prico/datos/levels.py:83 recursos/0prico/datos/levels.py:129
 #: recursos/0prico/datos/levels.py:175
 msgid "Villalba"
-msgstr ""
+msgstr "维雅尔巴"
 
 #: recursos/0prico/datos/0prico.py:81 recursos/0prico/datos/0prico.py:121
 #: recursos/0prico/datos/levels.py:84 recursos/0prico/datos/levels.py:130
@@ -14672,177 +14669,161 @@ msgstr "上特鲁希略"
 
 #: recursos/0prico/datos/0prico.py:136 recursos/0prico/datos/levels.py:188
 msgid "Collores"
-msgstr ""
+msgstr "卡罗瑞斯"
 
 #: recursos/0prico/datos/0prico.py:138 recursos/0prico/datos/levels.py:190
-#, fuzzy
 msgid "Coqui"
-msgstr "科图伊"
+msgstr "科基"
 
 #: recursos/0prico/datos/0prico.py:141 recursos/0prico/datos/levels.py:193
 msgid "Guánica"
 msgstr "瓜尼卡"
 
 #: recursos/0prico/datos/0prico.py:149 recursos/0prico/datos/levels.py:201
-#, fuzzy
 msgid "La Plaza"
-msgstr "拉普拉塔"
+msgstr "广场"
 
 #: recursos/0prico/datos/0prico.py:150 recursos/0prico/datos/levels.py:202
-#, fuzzy
 msgid "Mora"
-msgstr "帕拉"
+msgstr "黑莓"
 
 #: recursos/0prico/datos/0prico.py:151 recursos/0prico/datos/levels.py:203
-#, fuzzy
 msgid "Parguera"
-msgstr "帕奎拉"
+msgstr "帕古依拉"
 
 #: recursos/0prico/datos/0prico.py:152 recursos/0prico/datos/levels.py:204
 msgid "Río Cañas"
-msgstr ""
+msgstr "里奥卡纳斯"
 
 #: recursos/0prico/datos/0prico.py:158 recursos/0prico/datos/levels.py:216
 msgid "Grande de Arecibo River"
-msgstr ""
+msgstr "阿雷西沃河"
 
 #: recursos/0prico/datos/0prico.py:159 recursos/0prico/datos/levels.py:217
-#, fuzzy
 msgid "Camuy River"
-msgstr "马莫雷河"
+msgstr "卡木伊河"
 
 #: recursos/0prico/datos/0prico.py:160 recursos/0prico/datos/levels.py:218
 msgid "Guajataca River"
-msgstr ""
+msgstr "瓜亚塔卡河"
 
 #: recursos/0prico/datos/0prico.py:161 recursos/0prico/datos/levels.py:219
 msgid "Culebrinas River"
-msgstr ""
+msgstr "库莱布里纳斯河"
 
 #: recursos/0prico/datos/0prico.py:162 recursos/0prico/datos/levels.py:220
-#, fuzzy
 msgid "Añasco River"
-msgstr "布兰科河"
+msgstr "阿纳斯科河"
 
 #: recursos/0prico/datos/0prico.py:163 recursos/0prico/datos/levels.py:221
 msgid "Guanajibo River"
-msgstr ""
+msgstr "瓜那伊波河"
 
 #: recursos/0prico/datos/0prico.py:164 recursos/0prico/datos/levels.py:222
-#, fuzzy
 msgid "Yarico River"
-msgstr "俄亥俄河"
+msgstr "亚里克河"
 
 #: recursos/0prico/datos/0prico.py:165 recursos/0prico/datos/levels.py:223
-#, fuzzy
 msgid "Coamo River"
-msgstr "马莫雷河"
+msgstr "科阿莫河"
 
 #: recursos/0prico/datos/0prico.py:166 recursos/0prico/datos/levels.py:224
-#, fuzzy
 msgid "Grande de Manatí River"
-msgstr "大德玛塔加帕河"
+msgstr "大德马纳蒂河"
 
 #: recursos/0prico/datos/0prico.py:167 recursos/0prico/datos/levels.py:225
 msgid "Río de la Plata River"
-msgstr ""
+msgstr "拉普拉塔河"
 
 #: recursos/0prico/datos/0prico.py:168 recursos/0prico/datos/levels.py:226
-#, fuzzy
 msgid "Bayamón River"
-msgstr "马拉尼翁河"
+msgstr "巴阿蒙河"
 
 #: recursos/0prico/datos/0prico.py:169 recursos/0prico/datos/levels.py:227
 msgid "Lake Grande"
-msgstr ""
+msgstr "格兰德湖"
 
 #: recursos/0prico/datos/0prico.py:170 recursos/0prico/datos/levels.py:228
-#, fuzzy
 msgid "Grande de Loíza River"
-msgstr "大德里皮茨河"
+msgstr "大德洛伊萨河"
 
 #: recursos/0prico/datos/0prico.py:171 recursos/0prico/datos/levels.py:229
 msgid "Passage of Vieques"
-msgstr ""
+msgstr "别克斯航道"
 
 #: recursos/0prico/datos/0prico.py:172 recursos/0prico/datos/levels.py:230
 msgid "Rincón Bay"
-msgstr ""
+msgstr "林孔湾"
 
 #: recursos/0prico/datos/0prico.py:173 recursos/0prico/datos/levels.py:231
 msgid "Guayanilla Bay"
-msgstr ""
+msgstr "亚尼拉湾"
 
 #: recursos/0prico/datos/0prico.py:174 recursos/0prico/datos/levels.py:232
 msgid "Mayagüez Bay"
-msgstr ""
+msgstr "马亚圭斯湾"
 
 #: recursos/0prico/datos/0prico.py:175 recursos/0prico/datos/levels.py:233
-#, fuzzy
 msgid "San Juan Bay"
-msgstr "圣布拉斯湾"
+msgstr "圣胡安湾"
 
 #: recursos/0prico/datos/0prico.py:176 recursos/0prico/datos/levels.py:234
 msgid "Aguadilla Bay"
-msgstr ""
+msgstr "阿瓜迪亚湾"
 
 #: recursos/0prico/datos/0prico.py:184
-#, fuzzy
 msgid "(18º29' N - 66º08' W)"
-msgstr "(18º28' 北 - 69º54' 西)"
+msgstr "（北纬18º29' - 西经66º08'）"
 
 #: recursos/0prico/datos/0prico.py:186
 msgid "Unincorporated territory"
-msgstr ""
+msgstr "未合并的领土"
 
 #: recursos/0prico/datos/0prico.py:189
 msgid "Luis Fortuño"
-msgstr ""
+msgstr "路易斯·福图尼奥"
 
 #: recursos/0prico/datos/0prico.py:190
 msgid "Ceded by Spain to the United States"
-msgstr ""
+msgstr "西班牙割让给美国"
 
 #: recursos/0prico/datos/0prico.py:191
-#, fuzzy
 msgid "13 of august of 1898 "
-msgstr "1825年8月6日"
+msgstr "1898年8月13日"
 
 #: recursos/0prico/datos/0prico.py:192
 msgid "9.104 km² (170th)"
-msgstr ""
+msgstr "9.104平方千米（第170名）"
 
 #: recursos/0prico/datos/0prico.py:193
 msgid "3.725.789 (127th)"
-msgstr ""
+msgstr "3.725.789（第127名）"
 
 #: recursos/0prico/datos/0prico.py:194
-#, fuzzy
 msgid "USD 96.260 billion (--th)"
-msgstr "479.80亿美元（第87名）"
+msgstr "96.260亿美元（第--名）"
 
 #: recursos/0prico/datos/0prico.py:195
 msgid "Very High - 0.905 (53th)"
-msgstr ""
+msgstr "很高 - 0.905（第53名）"
 
 #: recursos/0prico/datos/explorations.py:6 recursos/0prico/datos/levels.py:7
 msgid "Municipalities"
-msgstr "市镇"
+msgstr "直辖市"
 
 #: recursos/0prico/datos/explorations.py:13
 msgid "Municipal capitals"
-msgstr "市镇中心"
+msgstr "市资金"
 
 #: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:8
 #: recursos/0sanvicenteyg/datos/levels.py:11
 #: recursos/0tytobago/datos/0tytobago.py:9
 #: recursos/0tytobago/datos/levels.py:12
 msgid "Saint David"
-msgstr ""
+msgstr "圣大卫"
 
 #: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:9
 #: recursos/0sanvicenteyg/datos/levels.py:12
-#, fuzzy
 msgid "Carlotte"
 msgstr "夏洛特"
 
@@ -14851,439 +14832,426 @@ msgstr "夏洛特"
 #: recursos/0tytobago/datos/0tytobago.py:16
 #: recursos/0tytobago/datos/levels.py:19
 msgid "Saint Patrick"
-msgstr ""
+msgstr "圣帕特里克"
 
 #: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:13
 #: recursos/0sanvicenteyg/datos/levels.py:16
-#, fuzzy
 msgid "Bequia Island"
-msgstr "贝娅塔岛"
+msgstr "贝基亚岛"
 
 #: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:14
 #: recursos/0sanvicenteyg/datos/levels.py:17
 msgid "Quatre Island"
-msgstr ""
+msgstr "库阿特利岛"
 
 #: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:15
 #: recursos/0sanvicenteyg/datos/levels.py:18
 msgid "Mustique Island"
-msgstr ""
+msgstr "马斯蒂克岛"
 
 #: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:16
 #: recursos/0sanvicenteyg/datos/levels.py:19
 msgid "Bettowia Island"
-msgstr ""
+msgstr "贝托维亚岛"
 
 #: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:17
 #: recursos/0sanvicenteyg/datos/levels.py:20
 msgid "Baliceaux Island"
-msgstr ""
+msgstr "巴里梭岛"
 
 #: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:18
 #: recursos/0sanvicenteyg/datos/levels.py:21
 msgid "Pillories Island"
-msgstr ""
+msgstr "皮洛瑞斯岛"
 
 #: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:19
 #: recursos/0sanvicenteyg/datos/levels.py:22
 msgid "Petit Mustique Island"
-msgstr ""
+msgstr "珀蒂马斯蒂克岛"
 
 #: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:20
 #: recursos/0sanvicenteyg/datos/levels.py:23
-#, fuzzy
 msgid "Savan Island"
-msgstr "邵纳岛"
+msgstr "萨班岛"
 
 #: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:21
 #: recursos/0sanvicenteyg/datos/levels.py:24
 msgid "Petit Canouan Island"
-msgstr ""
+msgstr "珀蒂卡努安岛"
 
 #: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:22
 #: recursos/0sanvicenteyg/datos/levels.py:25
 msgid "Canouan Island"
-msgstr ""
+msgstr "卡努安岛"
 
 #: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:23
 #: recursos/0sanvicenteyg/datos/levels.py:26
 msgid "Mayreau Island"
-msgstr ""
+msgstr "马尔索岛"
 
 #: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:24
 #: recursos/0sanvicenteyg/datos/levels.py:27
 msgid "Union Island"
-msgstr ""
+msgstr "尤宁岛"
 
 #: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:25
 #: recursos/0sanvicenteyg/datos/levels.py:28
 msgid "Prune Island"
-msgstr ""
+msgstr "普鲁岛 "
 
 #: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:26
 #: recursos/0sanvicenteyg/datos/levels.py:29
 msgid "Petit Saint Vicent Island"
-msgstr ""
+msgstr "珀蒂圣维森特岛"
 
 #: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:30
 #: recursos/0sanvicenteyg/datos/levels.py:39
-#, fuzzy
 msgid "Kingstown"
 msgstr "金斯敦"
 
 #: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:31
 #: recursos/0sanvicenteyg/datos/levels.py:40
 msgid "Barrouallie"
-msgstr ""
+msgstr "巴罗瓦利"
 
 #: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:32
 #: recursos/0sanvicenteyg/datos/levels.py:41
 msgid "Chateaubelair"
-msgstr ""
+msgstr "沙托布莱尔"
 
 #: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:34
 #: recursos/0sanvicenteyg/datos/levels.py:43
 msgid "Layou"
-msgstr ""
+msgstr "雷奥"
 
 #: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:35
 #: recursos/0sanvicenteyg/datos/levels.py:44
 msgid "Port Elizabeth"
-msgstr ""
+msgstr "伊丽莎白港"
 
 #: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:39
 #: recursos/0sanvicenteyg/datos/levels.py:45
 msgid "Ashton"
-msgstr ""
+msgstr "阿什顿"
 
 #: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:40
 #: recursos/0sanvicenteyg/datos/levels.py:46
 msgid "Biabou"
-msgstr ""
+msgstr "比亚博"
 
 #: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:41
 #: recursos/0sanvicenteyg/datos/levels.py:47
 msgid "Calliaqua"
-msgstr ""
+msgstr "卡里亚库"
 
 #: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:42
 #: recursos/0sanvicenteyg/datos/levels.py:48
 msgid "Derrick"
-msgstr ""
+msgstr "德里克"
 
 #: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:43
 #: recursos/0sanvicenteyg/datos/levels.py:49
-#, fuzzy
 msgid "Dovers"
-msgstr "多佛尔"
+msgstr "多佛尔斯"
 
 #: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:44
 #: recursos/0sanvicenteyg/datos/levels.py:50
 msgid "Fancy"
-msgstr ""
+msgstr "范西"
 
 #: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:45
 #: recursos/0sanvicenteyg/datos/levels.py:51
 msgid "Mesopotamia"
-msgstr ""
+msgstr "美索不达米亚"
 
 #: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:46
 #: recursos/0sanvicenteyg/datos/levels.py:52
 msgid "Orange Hill"
-msgstr ""
+msgstr "橘子山"
 
 #: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:47
 #: recursos/0sanvicenteyg/datos/levels.py:53
 msgid "Stubbs"
-msgstr ""
+msgstr "斯塔布斯"
 
 #: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:48
 #: recursos/0sanvicenteyg/datos/levels.py:54
 msgid "Wallibou"
-msgstr ""
+msgstr "瓦力波奥"
 
 #: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:56
-#, fuzzy
 msgid "(13º10' N - 61º14' W)"
-msgstr "(34º40' 南 - 58º24' 西)"
+msgstr "(13º10' 北 - 61º14' 西)"
 
 #: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:60
 msgid "Frederick Ballantyne"
-msgstr ""
+msgstr "弗雷德里克·巴兰坦"
 
 #: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:62
-#, fuzzy
 msgid "27 of october of 1979"
-msgstr "1931年12月11日"
+msgstr "1979年10月27日"
 
 #: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:63
 msgid "389 km² (206th)"
-msgstr ""
+msgstr "389平方公里（第206位）"
 
 #: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:64
 msgid "100.369 (193rd)"
-msgstr ""
+msgstr "100,369 (第193位)"
 
 #: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:65
-#, fuzzy
 msgid "USD 751 billion (181st)"
-msgstr "2,046亿美元（第166名）"
+msgstr "7,510亿美元（第181名）"
 
 #: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:66
 msgid "Medium - 0,791 (93rd)"
-msgstr ""
+msgstr "中 - 0,791 (第93名)"
 
 #: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:67
 msgid "Caribbean Dollar"
-msgstr ""
+msgstr "加勒比元"
 
 #: recursos/0sanvicenteyg/datos/levels.py:7
 msgid "Parishes and Islands"
-msgstr ""
+msgstr "教区和岛屿"
 
 #: recursos/0surinam/datos/0surinam.py:8 recursos/0surinam/datos/levels.py:11
 msgid "Nickerie"
-msgstr ""
+msgstr "尼克里"
 
 #: recursos/0surinam/datos/0surinam.py:9 recursos/0surinam/datos/levels.py:12
 msgid "Coronie"
-msgstr ""
+msgstr "科罗尼"
 
 #: recursos/0surinam/datos/0surinam.py:10 recursos/0surinam/datos/levels.py:13
 msgid "Saramacca"
-msgstr ""
+msgstr "萨拉马卡"
 
 #: recursos/0surinam/datos/0surinam.py:11 recursos/0surinam/datos/levels.py:14
 msgid "Wanica"
-msgstr ""
+msgstr "瓦尼卡"
 
 #: recursos/0surinam/datos/0surinam.py:12 recursos/0surinam/datos/levels.py:15
 msgid "Commewijne"
-msgstr ""
+msgstr " 科默韦讷"
 
 #: recursos/0surinam/datos/0surinam.py:14 recursos/0surinam/datos/levels.py:17
 msgid "Marowijne"
-msgstr ""
+msgstr "马罗韦纳"
 
 #: recursos/0surinam/datos/0surinam.py:15
 #: recursos/0surinam/datos/0surinam.py:25 recursos/0surinam/datos/levels.py:18
 #: recursos/0surinam/datos/levels.py:31 recursos/0surinam/datos/levels.py:49
 msgid "Brokopondo"
-msgstr ""
+msgstr "布罗科蓬多"
 
 #: recursos/0surinam/datos/0surinam.py:16 recursos/0surinam/datos/levels.py:19
 msgid "Sipaliwini"
-msgstr ""
+msgstr "西帕利维尼"
 
 #: recursos/0surinam/datos/0surinam.py:24 recursos/0surinam/datos/levels.py:30
 #: recursos/0surinam/datos/levels.py:48
 msgid "Albina"
-msgstr ""
+msgstr "阿尔比纳"
 
 #: recursos/0surinam/datos/0surinam.py:26 recursos/0surinam/datos/levels.py:32
 #: recursos/0surinam/datos/levels.py:50
 msgid "Groningen"
-msgstr ""
+msgstr "格罗宁根"
 
 #: recursos/0surinam/datos/0surinam.py:27 recursos/0surinam/datos/levels.py:33
 #: recursos/0surinam/datos/levels.py:51
 msgid "Lelydorp"
-msgstr ""
+msgstr "雷利多尔普"
 
 #: recursos/0surinam/datos/0surinam.py:28 recursos/0surinam/datos/levels.py:34
 #: recursos/0surinam/datos/levels.py:52
 msgid "Nieuw Amsterdam"
-msgstr ""
+msgstr "新阿姆斯特丹"
 
 #: recursos/0surinam/datos/0surinam.py:29 recursos/0surinam/datos/levels.py:35
 #: recursos/0surinam/datos/levels.py:53
 msgid "Nieuw Nickerie"
-msgstr ""
+msgstr "新尼克里"
 
 #: recursos/0surinam/datos/0surinam.py:30 recursos/0surinam/datos/levels.py:36
 #: recursos/0surinam/datos/levels.py:54
 msgid "Onverwacht"
-msgstr ""
+msgstr "翁弗瓦赫特"
 
 #: recursos/0surinam/datos/0surinam.py:31 recursos/0surinam/datos/levels.py:37
 #: recursos/0surinam/datos/levels.py:55
 msgid "Totness"
-msgstr ""
+msgstr " 托特尼斯"
 
 #: recursos/0surinam/datos/0surinam.py:35 recursos/0surinam/datos/levels.py:56
 msgid "Anapaike"
-msgstr ""
+msgstr "阿纳派克"
 
 #: recursos/0surinam/datos/0surinam.py:36 recursos/0surinam/datos/levels.py:57
 msgid "Apetina"
-msgstr ""
+msgstr "阿皮丁那"
 
 #: recursos/0surinam/datos/0surinam.py:37 recursos/0surinam/datos/levels.py:58
 msgid "Apoera"
-msgstr ""
+msgstr "阿波埃拉"
 
 #: recursos/0surinam/datos/0surinam.py:38 recursos/0surinam/datos/levels.py:59
 msgid "Bakhuis"
-msgstr ""
+msgstr "巴克赫伊斯"
 
 #: recursos/0surinam/datos/0surinam.py:39 recursos/0surinam/datos/levels.py:60
 msgid "Benzdorp"
-msgstr ""
+msgstr "本兹多浦"
 
 #: recursos/0surinam/datos/0surinam.py:40 recursos/0surinam/datos/levels.py:61
 msgid "Bitagron"
-msgstr ""
+msgstr "比塔格隆"
 
 #: recursos/0surinam/datos/0surinam.py:41 recursos/0surinam/datos/levels.py:62
 msgid "Boskamp"
-msgstr ""
+msgstr "博斯坎普"
 
 #: recursos/0surinam/datos/0surinam.py:42 recursos/0surinam/datos/levels.py:63
 msgid "Brownsweg"
-msgstr ""
+msgstr "布朗斯威格"
 
 #: recursos/0surinam/datos/0surinam.py:43 recursos/0surinam/datos/levels.py:64
 msgid "Cottica"
-msgstr ""
+msgstr "科提卡"
 
 #: recursos/0surinam/datos/0surinam.py:44 recursos/0surinam/datos/levels.py:65
 msgid "Kajana"
-msgstr ""
+msgstr "卡亚尼"
 
 #: recursos/0surinam/datos/0surinam.py:45 recursos/0surinam/datos/levels.py:66
 msgid "Kamp 52"
-msgstr ""
+msgstr "坎普52"
 
 #: recursos/0surinam/datos/0surinam.py:46 recursos/0surinam/datos/levels.py:67
 msgid "Kwamalasamutu"
-msgstr ""
+msgstr "夸马拉萨穆图"
 
 #: recursos/0surinam/datos/0surinam.py:47 recursos/0surinam/datos/levels.py:68
 msgid "Moengo"
-msgstr ""
+msgstr "蒙戈"
 
 #: recursos/0surinam/datos/0surinam.py:48 recursos/0surinam/datos/levels.py:69
 msgid "Pelelu Tepu"
-msgstr ""
+msgstr "佩里鲁特普"
 
 #: recursos/0surinam/datos/0surinam.py:49 recursos/0surinam/datos/levels.py:70
 msgid "Pokigron"
-msgstr ""
+msgstr "波基格隆"
 
 #: recursos/0surinam/datos/0surinam.py:50 recursos/0surinam/datos/levels.py:71
 msgid "Wageningen"
-msgstr ""
+msgstr "瓦赫宁根"
 
 #: recursos/0surinam/datos/0surinam.py:51 recursos/0surinam/datos/levels.py:72
 msgid "Zanderij"
-msgstr ""
+msgstr "占德利治"
 
 #: recursos/0surinam/datos/0surinam.py:55 recursos/0surinam/datos/levels.py:82
 msgid "Saramacca River"
-msgstr ""
+msgstr "萨拉马卡河"
 
 #: recursos/0surinam/datos/0surinam.py:56 recursos/0surinam/datos/levels.py:83
 msgid "Nickerie River"
-msgstr ""
+msgstr "尼克里河"
 
 #: recursos/0surinam/datos/0surinam.py:57 recursos/0surinam/datos/levels.py:84
 msgid "Coppename River"
-msgstr ""
+msgstr "戈贝纳美河"
 
 #: recursos/0surinam/datos/0surinam.py:58 recursos/0surinam/datos/levels.py:85
 msgid "Suriname River"
-msgstr ""
+msgstr "苏里南河"
 
 #: recursos/0surinam/datos/0surinam.py:59 recursos/0surinam/datos/levels.py:86
 msgid "Commewijne River"
-msgstr ""
+msgstr "科默韦讷河"
 
 #: recursos/0surinam/datos/0surinam.py:62 recursos/0surinam/datos/levels.py:89
 msgid "Oelemari River"
-msgstr ""
+msgstr "欧利马里河"
 
 #: recursos/0surinam/datos/0surinam.py:64 recursos/0surinam/datos/levels.py:91
 msgid "Patoemeu River"
-msgstr ""
+msgstr "帕托依米奥河"
 
 #: recursos/0surinam/datos/0surinam.py:65 recursos/0surinam/datos/levels.py:92
 msgid "Tapanahony River"
-msgstr ""
+msgstr "塔帕纳荷尼河 "
 
 #: recursos/0surinam/datos/0surinam.py:66 recursos/0surinam/datos/levels.py:93
 msgid "Lucie River"
-msgstr ""
+msgstr "露西河"
 
 #: recursos/0surinam/datos/0surinam.py:67 recursos/0surinam/datos/levels.py:94
 msgid "Kabalebo River"
-msgstr ""
+msgstr "卡巴莱博河"
 
 #: recursos/0surinam/datos/0surinam.py:68 recursos/0surinam/datos/levels.py:95
 msgid "Sipaliwini River"
-msgstr ""
+msgstr "西帕利维尼河"
 
 #: recursos/0surinam/datos/0surinam.py:69 recursos/0surinam/datos/levels.py:96
-#, fuzzy
 msgid "Kutari River"
-msgstr "马莫雷河"
+msgstr "库塔里河"
 
 #: recursos/0surinam/datos/0surinam.py:77
-#, fuzzy
 msgid "(5º52' N - 55º10' W)"
-msgstr "(45º24' N - 75º40' W)"
+msgstr "(5º52' N - 55º10' W)"
 
 #: recursos/0surinam/datos/0surinam.py:78
 msgid "Dutch"
-msgstr ""
+msgstr "荷兰"
 
 #: recursos/0surinam/datos/0surinam.py:79
 msgid "Representative republic"
-msgstr ""
+msgstr "代议制共和国"
 
 #: recursos/0surinam/datos/0surinam.py:80
 msgid "Dési Bouterse"
-msgstr ""
+msgstr "德西鲍特瑟"
 
 #: recursos/0surinam/datos/0surinam.py:81
 msgid "Robert Ameerali"
-msgstr ""
+msgstr "罗伯特•阿梅拉利"
 
 #: recursos/0surinam/datos/0surinam.py:82
 msgid "from Netherlands"
-msgstr ""
+msgstr "自荷兰"
 
 #: recursos/0surinam/datos/0surinam.py:83
-#, fuzzy
 msgid "25 of november of 1975"
-msgstr "1931年12月11日"
+msgstr "1975年11月25日"
 
 #: recursos/0surinam/datos/0surinam.py:84
 msgid "163.820 km² (91th)"
-msgstr ""
+msgstr "163.820平方公里（第91位）"
 
 #: recursos/0surinam/datos/0surinam.py:85
-#, fuzzy
 msgid "542.000 (171th)"
-msgstr "372,000 (第170名)"
+msgstr "542.000 (第171名)"
 
 #: recursos/0surinam/datos/0surinam.py:86
-#, fuzzy
 msgid "USD 2.812 billion (161th)"
-msgstr "2,046亿美元（第166名）"
+msgstr "2.812亿美元（第161名）"
 
 #: recursos/0surinam/datos/0surinam.py:87
-#, fuzzy
 msgid "Medium - 0,646 (94th)"
-msgstr "中 - 0,643（第95名）"
+msgstr "中 - 0,646（第94名）"
 
 #: recursos/0surinam/datos/0surinam.py:88
 msgid "Surinamese dollar"
-msgstr ""
+msgstr "苏利南元"
 
 #: recursos/0tytobago/datos/0tytobago.py:8
 #: recursos/0tytobago/datos/levels.py:11
 msgid "Tobago"
-msgstr ""
+msgstr "多巴哥岛"
 
 #: recursos/0tytobago/datos/0tytobago.py:11
 #: recursos/0tytobago/datos/levels.py:14
