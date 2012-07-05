@@ -7,8 +7,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-05-25 00:32-0400\n"
-"PO-Revision-Date: 2012-07-04 04:12+0200\n"
-"Last-Translator: lite <litekok@gmail.com>\n"
+"PO-Revision-Date: 2012-07-05 03:02+0200\n"
+"Last-Translator: Xin <dram.wang@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
@@ -15255,61 +15255,59 @@ msgstr "多巴哥岛"
 
 #: recursos/0tytobago/datos/0tytobago.py:11
 #: recursos/0tytobago/datos/levels.py:14
+#, fuzzy
 msgid "Caron"
-msgstr ""
+msgstr "卡罗尼"
 
 #: recursos/0tytobago/datos/0tytobago.py:13
 #: recursos/0tytobago/datos/levels.py:16
 msgid "Nariva"
-msgstr ""
+msgstr "纳里瓦"
 
 #: recursos/0tytobago/datos/0tytobago.py:14
 #: recursos/0tytobago/datos/levels.py:17
-#, fuzzy
 msgid "Mayaro"
-msgstr "马亚里"
+msgstr "马亚罗"
 
 #: recursos/0tytobago/datos/0tytobago.py:25
 #: recursos/0tytobago/datos/levels.py:30
-#, fuzzy
 msgid "Arima"
-msgstr "阿里卡"
+msgstr "阿里马"
 
 #: recursos/0tytobago/datos/0tytobago.py:26
 #: recursos/0tytobago/datos/levels.py:31
-#, fuzzy
 msgid "Arouca"
-msgstr "阿劳卡"
+msgstr "阿罗卡"
 
 #: recursos/0tytobago/datos/0tytobago.py:28
 #: recursos/0tytobago/datos/levels.py:33
 msgid "Brighton"
-msgstr ""
+msgstr "布赖顿"
 
 #: recursos/0tytobago/datos/0tytobago.py:29
 #: recursos/0tytobago/datos/levels.py:34
 msgid "Canaan"
-msgstr ""
+msgstr "伽南"
 
 #: recursos/0tytobago/datos/0tytobago.py:30
 #: recursos/0tytobago/datos/levels.py:35
 msgid "Chaguanas"
-msgstr ""
+msgstr "查瓜纳斯"
 
 #: recursos/0tytobago/datos/0tytobago.py:31
 #: recursos/0tytobago/datos/levels.py:36
 msgid "Charlotteville"
-msgstr ""
+msgstr "夏洛特维尔"
 
 #: recursos/0tytobago/datos/0tytobago.py:32
 #: recursos/0tytobago/datos/levels.py:37
 msgid "Debe"
-msgstr ""
+msgstr "德贝"
 
 #: recursos/0tytobago/datos/0tytobago.py:33
 #: recursos/0tytobago/datos/levels.py:38
 msgid "Fullarton"
-msgstr ""
+msgstr "富勒顿"
 
 #: recursos/0tytobago/datos/0tytobago.py:34
 #: recursos/0tytobago/datos/levels.py:39
@@ -15319,7 +15317,7 @@ msgstr ""
 #: recursos/0tytobago/datos/0tytobago.py:35
 #: recursos/0tytobago/datos/levels.py:40
 msgid "Guayaguayare"
-msgstr ""
+msgstr "瓜亚瓜亚雷"
 
 #: recursos/0tytobago/datos/0tytobago.py:36
 #: recursos/0tytobago/datos/levels.py:41
@@ -15340,47 +15338,47 @@ msgstr ""
 #: recursos/0tytobago/datos/0tytobago.py:39
 #: recursos/0tytobago/datos/levels.py:44
 msgid "Moriah"
-msgstr ""
+msgstr "莫赖厄"
 
 #: recursos/0tytobago/datos/0tytobago.py:40
 #: recursos/0tytobago/datos/levels.py:45
 msgid "Moruga"
-msgstr ""
+msgstr "莫鲁加"
 
 #: recursos/0tytobago/datos/0tytobago.py:41
 #: recursos/0tytobago/datos/levels.py:46
 msgid "Peñal"
-msgstr ""
+msgstr "佩尼亚尔"
 
 #: recursos/0tytobago/datos/0tytobago.py:42
 #: recursos/0tytobago/datos/levels.py:47
 msgid "Pierreville"
-msgstr ""
+msgstr "皮埃尔维尔"
 
 #: recursos/0tytobago/datos/0tytobago.py:43
 #: recursos/0tytobago/datos/levels.py:48
 msgid "Plymouth"
-msgstr ""
+msgstr "普利茅斯"
 
 #: recursos/0tytobago/datos/0tytobago.py:44
 #: recursos/0tytobago/datos/levels.py:49
 msgid "Point Fortin"
-msgstr ""
+msgstr "波因特福廷"
 
 #: recursos/0tytobago/datos/0tytobago.py:45
 #: recursos/0tytobago/datos/levels.py:50
 msgid "Rio Claro"
-msgstr ""
+msgstr "里奥克拉罗"
 
 #: recursos/0tytobago/datos/0tytobago.py:46
 #: recursos/0tytobago/datos/levels.py:51
 msgid "Roxborough"
-msgstr ""
+msgstr "罗克斯伯勒"
 
 #: recursos/0tytobago/datos/0tytobago.py:47
 #: recursos/0tytobago/datos/levels.py:52
 msgid "Saint Joseph"
-msgstr ""
+msgstr "圣约瑟夫"
 
 #: recursos/0tytobago/datos/0tytobago.py:48
 #: recursos/0tytobago/datos/levels.py:53
@@ -15388,33 +15386,32 @@ msgstr ""
 #: recursos/0venezuela/datos/levels.py:60
 #: recursos/0venezuela/datos/levels.py:92
 msgid "San Fernando"
-msgstr ""
+msgstr "圣费尔南多"
 
 #: recursos/0tytobago/datos/0tytobago.py:49
 #: recursos/0tytobago/datos/levels.py:54
-#, fuzzy
 msgid "San Francique"
-msgstr "旧金山"
+msgstr "圣弗兰西克"
 
 #: recursos/0tytobago/datos/0tytobago.py:51
 #: recursos/0tytobago/datos/levels.py:56
 msgid "Sangre Grande"
-msgstr ""
+msgstr "大桑格雷"
 
 #: recursos/0tytobago/datos/0tytobago.py:52
 #: recursos/0tytobago/datos/levels.py:57
 msgid "Scarborough"
-msgstr ""
+msgstr "斯卡伯勒"
 
 #: recursos/0tytobago/datos/0tytobago.py:53
 #: recursos/0tytobago/datos/levels.py:58
 msgid "Siparia"
-msgstr ""
+msgstr "锡帕里亚"
 
 #: recursos/0tytobago/datos/0tytobago.py:54
 #: recursos/0tytobago/datos/levels.py:59
 msgid "Tabaquite"
-msgstr ""
+msgstr "塔巴基特"
 
 #: recursos/0tytobago/datos/0tytobago.py:55
 #: recursos/0tytobago/datos/levels.py:60
