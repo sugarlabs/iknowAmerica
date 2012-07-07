@@ -7,8 +7,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-05-25 00:32-0400\n"
-"PO-Revision-Date: 2012-07-05 03:02+0200\n"
-"Last-Translator: Xin <dram.wang@gmail.com>\n"
+"PO-Revision-Date: 2012-07-07 03:04+0200\n"
+"Last-Translator: lite <litekok@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
@@ -15255,9 +15255,8 @@ msgstr "多巴哥岛"
 
 #: recursos/0tytobago/datos/0tytobago.py:11
 #: recursos/0tytobago/datos/levels.py:14
-#, fuzzy
 msgid "Caron"
-msgstr "卡罗尼"
+msgstr "卡隆"
 
 #: recursos/0tytobago/datos/0tytobago.py:13
 #: recursos/0tytobago/datos/levels.py:16
@@ -15312,7 +15311,7 @@ msgstr "富勒顿"
 #: recursos/0tytobago/datos/0tytobago.py:34
 #: recursos/0tytobago/datos/levels.py:39
 msgid "Guaico"
-msgstr ""
+msgstr "瓜伊科"
 
 #: recursos/0tytobago/datos/0tytobago.py:35
 #: recursos/0tytobago/datos/levels.py:40
@@ -15322,18 +15321,17 @@ msgstr "瓜亚瓜亚雷"
 #: recursos/0tytobago/datos/0tytobago.py:36
 #: recursos/0tytobago/datos/levels.py:41
 msgid "La Brea"
-msgstr ""
+msgstr "拉布雷亚"
 
 #: recursos/0tytobago/datos/0tytobago.py:37
 #: recursos/0tytobago/datos/levels.py:42
-#, fuzzy
 msgid "Maracas"
-msgstr "加拉加斯"
+msgstr "马拉卡斯"
 
 #: recursos/0tytobago/datos/0tytobago.py:38
 #: recursos/0tytobago/datos/levels.py:43
 msgid "Maraval"
-msgstr ""
+msgstr "玛拉维"
 
 #: recursos/0tytobago/datos/0tytobago.py:39
 #: recursos/0tytobago/datos/levels.py:44
@@ -15416,108 +15414,99 @@ msgstr "塔巴基特"
 #: recursos/0tytobago/datos/0tytobago.py:55
 #: recursos/0tytobago/datos/levels.py:60
 msgid "Tableland"
-msgstr ""
+msgstr "高原"
 
 #: recursos/0tytobago/datos/0tytobago.py:56
 #: recursos/0tytobago/datos/levels.py:61
-#, fuzzy
 msgid "Toco"
-msgstr "莫科阿"
+msgstr "托哥"
 
 #: recursos/0tytobago/datos/0tytobago.py:60
 #: recursos/0tytobago/datos/levels.py:71
-#, fuzzy
 msgid "Ortoire River"
-msgstr "奥顿河"
+msgstr "欧托莱尔河"
 
 #: recursos/0tytobago/datos/0tytobago.py:61
 #: recursos/0tytobago/datos/levels.py:72
 msgid "Oropuche River"
-msgstr ""
+msgstr "奥罗波希河"
 
 #: recursos/0tytobago/datos/0tytobago.py:62
 #: recursos/0tytobago/datos/levels.py:73
-#, fuzzy
 msgid "Poole River"
-msgstr "马莫雷河"
+msgstr "普尔河"
 
 #: recursos/0tytobago/datos/0tytobago.py:63
 #: recursos/0tytobago/datos/levels.py:74
-#, fuzzy
 msgid "Coparo River"
-msgstr "马莫雷河"
+msgstr "卡帕罗河"
 
 #: recursos/0tytobago/datos/0tytobago.py:64
 #: recursos/0tytobago/datos/levels.py:75
 #: recursos/0venezuela/datos/0venezuela.py:100
 #: recursos/0venezuela/datos/levels.py:135
-#, fuzzy
 msgid "Caroni River"
-msgstr "巴拉那河"
+msgstr "卡罗尼河"
 
 #: recursos/0tytobago/datos/0tytobago.py:65
 #: recursos/0tytobago/datos/levels.py:76
 #: recursos/0venezuela/datos/0venezuela.py:111
 #: recursos/0venezuela/datos/levels.py:146
 msgid "Gulf of Paria"
-msgstr ""
+msgstr "帕里亚湾"
 
 #: recursos/0tytobago/datos/0tytobago.py:73
-#, fuzzy
 msgid "(10º40' N - 61º31' W)"
-msgstr "(34º40' 南 - 58º24' 西)"
+msgstr "(10º40' 北 - 61º31' 西)"
 
 #: recursos/0tytobago/datos/0tytobago.py:75
 msgid "Parliamentary republic"
-msgstr ""
+msgstr "议会制共和国"
 
 #: recursos/0tytobago/datos/0tytobago.py:76
 msgid "George Maxwell Richards"
-msgstr ""
+msgstr "乔治·马克斯韦尔·理查兹"
 
 #: recursos/0tytobago/datos/0tytobago.py:77
 msgid "Kamla Persad-Bissessar"
-msgstr ""
+msgstr "卡姆拉·珀塞德－比塞萨尔"
 
 #: recursos/0tytobago/datos/0tytobago.py:79
-#, fuzzy
 msgid "31 of august of 1962"
-msgstr "1825年8月6日"
+msgstr "1962年8月31日"
 
 #: recursos/0tytobago/datos/0tytobago.py:80
 msgid "5.128 km² (172th)"
-msgstr ""
+msgstr "5,128平方公里（第172名）"
 
 #: recursos/0tytobago/datos/0tytobago.py:81
 msgid "1.299.953 (153th)"
-msgstr ""
+msgstr "1,299,953 (第153名)"
 
 #: recursos/0tytobago/datos/0tytobago.py:82
-#, fuzzy
 msgid "USD 26.536 billion (115th)"
-msgstr "2,046亿美元（第166名）"
+msgstr "265,36亿美元（第115名）"
 
 #: recursos/0tytobago/datos/0tytobago.py:83
-#, fuzzy
 msgid "High - 0,736 (59th)"
-msgstr "高 - 0,775 (第46名)"
+msgstr "高 - 0,736 (第59名)"
 
 #: recursos/0tytobago/datos/0tytobago.py:84
 msgid "Trinidad and Tobago dollar"
-msgstr ""
+msgstr "特立尼达和多巴哥元"
 
 #: recursos/0uruguay/datos/0uruguay.py:8
 #: recursos/0uruguay/datos/0uruguay.py:30 recursos/0uruguay/datos/levels.py:11
 #: recursos/0uruguay/datos/levels.py:39 recursos/0uruguay/datos/levels.py:69
 #: recursos/0uruguay/datos/levels.py:71 recursos/0uruguay/datos/levels.py:134
 msgid "Artigas"
-msgstr ""
+msgstr "阿蒂加斯"
 
 #: recursos/0uruguay/datos/0uruguay.py:10
 #: recursos/0uruguay/datos/0uruguay.py:32 recursos/0uruguay/datos/levels.py:13
 #: recursos/0uruguay/datos/levels.py:41 recursos/0uruguay/datos/levels.py:113
 msgid "Paysandú"
-msgstr ""
+msgstr "派桑杜"
 
 #: recursos/0uruguay/datos/0uruguay.py:12
 #: recursos/0uruguay/datos/0uruguay.py:34 recursos/0uruguay/datos/levels.py:15
@@ -15525,20 +15514,20 @@ msgstr ""
 #: recursos/0uruguay/datos/levels.py:118 recursos/0uruguay/datos/levels.py:135
 #: recursos/0uruguay/datos/levels.py:139
 msgid "Rivera"
-msgstr ""
+msgstr "里维拉"
 
 #: recursos/0uruguay/datos/0uruguay.py:13
 #: recursos/0uruguay/datos/0uruguay.py:35 recursos/0uruguay/datos/levels.py:16
 #: recursos/0uruguay/datos/levels.py:44 recursos/0uruguay/datos/levels.py:131
 msgid "Tacuarembó"
-msgstr ""
+msgstr "塔夸伦博"
 
 #: recursos/0uruguay/datos/0uruguay.py:14 recursos/0uruguay/datos/levels.py:17
 #: recursos/0uruguay/datos/levels.py:75 recursos/0uruguay/datos/levels.py:84
 #: recursos/0uruguay/datos/levels.py:92 recursos/0uruguay/datos/levels.py:109
 #: recursos/0uruguay/datos/levels.py:163
 msgid "Soriano"
-msgstr ""
+msgstr "索里亚诺"
 
 #: recursos/0uruguay/datos/0uruguay.py:15 recursos/0uruguay/datos/levels.py:18
 #: recursos/0uruguay/datos/levels.py:76 recursos/0uruguay/datos/levels.py:93
@@ -15546,9 +15535,8 @@ msgstr ""
 #: recursos/0uruguay/datos/levels.py:108 recursos/0uruguay/datos/levels.py:120
 #: recursos/0uruguay/datos/levels.py:133 recursos/0uruguay/datos/levels.py:160
 #: recursos/0uruguay/datos/levels.py:162
-#, fuzzy
 msgid "Colonia"
-msgstr "哥伦比亚"
+msgstr "科洛尼亚"
 
 #: recursos/0uruguay/datos/0uruguay.py:17
 #: recursos/0uruguay/datos/0uruguay.py:40 recursos/0uruguay/datos/levels.py:22
@@ -15556,12 +15544,12 @@ msgstr "哥伦比亚"
 #: recursos/0uruguay/datos/levels.py:115 recursos/0uruguay/datos/levels.py:129
 #: recursos/0uruguay/datos/levels.py:170
 msgid "Durazno"
-msgstr ""
+msgstr "杜拉斯诺"
 
 #: recursos/0uruguay/datos/0uruguay.py:18 recursos/0uruguay/datos/levels.py:24
 #: recursos/0uruguay/datos/levels.py:87 recursos/0uruguay/datos/levels.py:121
 msgid "Cerro Largo"
-msgstr ""
+msgstr "塞罗拉尔戈"
 
 #: recursos/0uruguay/datos/0uruguay.py:21
 #: recursos/0uruguay/datos/0uruguay.py:45 recursos/0uruguay/datos/levels.py:23
@@ -15570,7 +15558,7 @@ msgstr ""
 #: recursos/0uruguay/datos/levels.py:138 recursos/0uruguay/datos/levels.py:156
 #: recursos/0uruguay/datos/levels.py:157
 msgid "Treinta y Tres"
-msgstr ""
+msgstr "特雷塔伊特雷斯"
 
 #: recursos/0uruguay/datos/0uruguay.py:22
 #: recursos/0uruguay/datos/0uruguay.py:42 recursos/0uruguay/datos/levels.py:28
@@ -15580,12 +15568,12 @@ msgstr ""
 #: recursos/0uruguay/datos/levels.py:128 recursos/0uruguay/datos/levels.py:132
 #: recursos/0uruguay/datos/levels.py:165
 msgid "Canelones"
-msgstr ""
+msgstr "卡内洛内斯"
 
 #: recursos/0uruguay/datos/0uruguay.py:24 recursos/0uruguay/datos/levels.py:26
 #: recursos/0uruguay/datos/levels.py:90 recursos/0uruguay/datos/levels.py:91
 msgid "Lavalleja"
-msgstr ""
+msgstr "拉瓦列哈"
 
 #: recursos/0uruguay/datos/0uruguay.py:25
 #: recursos/0uruguay/datos/0uruguay.py:48 recursos/0uruguay/datos/levels.py:27
@@ -15594,7 +15582,7 @@ msgstr ""
 #: recursos/0uruguay/datos/levels.py:114 recursos/0uruguay/datos/levels.py:116
 #: recursos/0uruguay/datos/levels.py:123 recursos/0uruguay/datos/levels.py:177
 msgid "Maldonado"
-msgstr ""
+msgstr "马尔多纳多"
 
 #: recursos/0uruguay/datos/0uruguay.py:26
 #: recursos/0uruguay/datos/0uruguay.py:47 recursos/0uruguay/datos/levels.py:25
@@ -15604,193 +15592,186 @@ msgstr ""
 #: recursos/0uruguay/datos/levels.py:119 recursos/0uruguay/datos/levels.py:174
 #: recursos/0uruguay/datos/levels.py:175 recursos/0uruguay/datos/levels.py:176
 msgid "Rocha"
-msgstr ""
+msgstr "罗恰"
 
 #: recursos/0uruguay/datos/0uruguay.py:33 recursos/0uruguay/datos/levels.py:42
 #: recursos/0uruguay/datos/levels.py:88
 msgid "Fray Bentos"
-msgstr ""
+msgstr "弗赖本托斯"
 
 #: recursos/0uruguay/datos/0uruguay.py:37 recursos/0uruguay/datos/levels.py:46
 #: recursos/0uruguay/datos/levels.py:82
 msgid "Colonia del Sacramento"
-msgstr ""
+msgstr "科洛尼亚德尔萨克拉门托"
 
 #: recursos/0uruguay/datos/0uruguay.py:39 recursos/0uruguay/datos/levels.py:49
 #: recursos/0uruguay/datos/levels.py:125
-#, fuzzy
 msgid "San José de Mayo"
-msgstr "圣何塞德奥科阿"
+msgstr "圣何塞－德马约"
 
 #: recursos/0uruguay/datos/0uruguay.py:44 recursos/0uruguay/datos/levels.py:52
 #: recursos/0uruguay/datos/levels.py:100
 msgid "Melo"
-msgstr ""
+msgstr "梅洛"
 
 #: recursos/0uruguay/datos/0uruguay.py:46 recursos/0uruguay/datos/levels.py:54
 #: recursos/0uruguay/datos/levels.py:102
 msgid "Minas"
-msgstr ""
+msgstr "米纳斯吉"
 
 #: recursos/0uruguay/datos/0uruguay.py:53 recursos/0uruguay/datos/levels.py:67
 msgid "Aiguá"
-msgstr ""
+msgstr "艾瓜"
 
 #: recursos/0uruguay/datos/0uruguay.py:54 recursos/0uruguay/datos/levels.py:68
 msgid "Ansina"
-msgstr ""
+msgstr "安西纳"
 
 #: recursos/0uruguay/datos/0uruguay.py:56 recursos/0uruguay/datos/levels.py:71
 msgid "Baltasar Brum"
-msgstr ""
+msgstr "巴尔塔萨－布鲁姆"
 
 #: recursos/0uruguay/datos/0uruguay.py:57 recursos/0uruguay/datos/levels.py:72
 msgid "Bella Unión"
-msgstr ""
+msgstr "贝亚乌尼翁"
 
 #: recursos/0uruguay/datos/0uruguay.py:58 recursos/0uruguay/datos/levels.py:73
-#, fuzzy
 msgid "Belén"
 msgstr "贝伦"
 
 #: recursos/0uruguay/datos/0uruguay.py:59 recursos/0uruguay/datos/levels.py:75
-#, fuzzy
 msgid "Cardona"
-msgstr "卡莫纳"
+msgstr "卡多纳"
 
 #: recursos/0uruguay/datos/0uruguay.py:60 recursos/0uruguay/datos/levels.py:76
 msgid "Carmelo"
-msgstr ""
+msgstr "卡梅洛"
 
 #: recursos/0uruguay/datos/0uruguay.py:61 recursos/0uruguay/datos/levels.py:77
-#, fuzzy
 msgid "Castillos"
-msgstr "卡斯蒂利亚"
+msgstr "卡斯蒂约斯"
 
 #: recursos/0uruguay/datos/0uruguay.py:62 recursos/0uruguay/datos/levels.py:78
 msgid "Casupá"
-msgstr ""
+msgstr "卡苏帕"
 
 #: recursos/0uruguay/datos/0uruguay.py:63 recursos/0uruguay/datos/levels.py:79
 msgid "Cebollatí"
-msgstr ""
+msgstr "塞沃亚蒂"
 
 #: recursos/0uruguay/datos/0uruguay.py:64
 #: recursos/0uruguay/datos/0uruguay.py:120
 #: recursos/0uruguay/datos/levels.py:80
 msgid "Cerro Chato"
-msgstr ""
+msgstr "塞罗查托"
 
 #: recursos/0uruguay/datos/0uruguay.py:65 recursos/0uruguay/datos/levels.py:81
 msgid "Chuy"
-msgstr ""
+msgstr "丘伊"
 
 #: recursos/0uruguay/datos/0uruguay.py:66 recursos/0uruguay/datos/levels.py:83
 msgid "Constitución"
-msgstr ""
+msgstr "孔斯蒂图西翁"
 
 #: recursos/0uruguay/datos/0uruguay.py:67 recursos/0uruguay/datos/levels.py:84
 msgid "Dolores"
-msgstr ""
+msgstr "多洛雷斯"
 
 #: recursos/0uruguay/datos/0uruguay.py:68 recursos/0uruguay/datos/levels.py:87
 msgid "Fraile Muerto"
-msgstr ""
+msgstr "弗赖莱穆埃尔托"
 
 #: recursos/0uruguay/datos/0uruguay.py:69 recursos/0uruguay/datos/levels.py:89
 msgid "Guichón"
-msgstr ""
+msgstr "吉琼"
 
 #: recursos/0uruguay/datos/0uruguay.py:70 recursos/0uruguay/datos/levels.py:90
 msgid "J. Batlle y Ordóñez"
-msgstr ""
+msgstr "何塞－巴特列－奥多涅斯 "
 
 #: recursos/0uruguay/datos/0uruguay.py:71 recursos/0uruguay/datos/levels.py:91
 msgid "J. Pedro Varela"
-msgstr ""
+msgstr "何塞-佩德罗-巴雷拉村"
 
 #: recursos/0uruguay/datos/0uruguay.py:72 recursos/0uruguay/datos/levels.py:92
 msgid "José E. Rodó"
-msgstr ""
+msgstr "何塞·恩里克·罗多"
 
 #: recursos/0uruguay/datos/0uruguay.py:73 recursos/0uruguay/datos/levels.py:93
 msgid "Juan Lacaze"
-msgstr ""
+msgstr "胡安－拉卡塞"
 
 #: recursos/0uruguay/datos/0uruguay.py:74 recursos/0uruguay/datos/levels.py:94
 msgid "La Coronilla"
-msgstr ""
+msgstr "拉科罗尼亚"
 
 #: recursos/0uruguay/datos/0uruguay.py:75 recursos/0uruguay/datos/levels.py:95
-#, fuzzy
 msgid "La Paloma"
-msgstr "拉帕尔马"
+msgstr "拉帕洛玛"
 
 #: recursos/0uruguay/datos/0uruguay.py:77 recursos/0uruguay/datos/levels.py:97
 msgid "Lascano"
-msgstr ""
+msgstr "拉斯卡诺"
 
 #: recursos/0uruguay/datos/0uruguay.py:79
 #: recursos/0uruguay/datos/levels.py:103
 msgid "Minas de Corrales"
-msgstr ""
+msgstr "米纳斯·科拉莱斯"
 
 #: recursos/0uruguay/datos/0uruguay.py:80
 #: recursos/0uruguay/datos/levels.py:105
 msgid "Nueva Helvecia"
-msgstr ""
+msgstr "新埃尔韦西亚"
 
 #: recursos/0uruguay/datos/0uruguay.py:81
 #: recursos/0uruguay/datos/levels.py:106
 msgid "Nueva Palmira"
-msgstr ""
+msgstr "新帕尔米拉"
 
 #: recursos/0uruguay/datos/0uruguay.py:82
 #: recursos/0uruguay/datos/levels.py:107
 msgid "Nuevo Berlín"
-msgstr ""
+msgstr "新柏林"
 
 #: recursos/0uruguay/datos/0uruguay.py:83
 #: recursos/0uruguay/datos/levels.py:108
 msgid "Ombúes de Lavalle"
-msgstr ""
+msgstr "翁布埃斯－德拉瓦耶"
 
 #: recursos/0uruguay/datos/0uruguay.py:84
 #: recursos/0uruguay/datos/levels.py:109
-#, fuzzy
 msgid "Palmitas"
-msgstr "拉斯帕尔马斯"
+msgstr "帕尔米塔斯"
 
 #: recursos/0uruguay/datos/0uruguay.py:85
 #: recursos/0uruguay/datos/levels.py:110
 msgid "Pan de Azúcar"
-msgstr ""
+msgstr "潘德阿苏卡尔"
 
 #: recursos/0uruguay/datos/0uruguay.py:87
 #: recursos/0uruguay/datos/levels.py:112
 msgid "Paso de los Toros"
-msgstr ""
+msgstr "帕索－德洛斯托罗斯"
 
 #: recursos/0uruguay/datos/0uruguay.py:88
 #: recursos/0uruguay/datos/levels.py:114
 msgid "Piriápolis"
-msgstr ""
+msgstr "皮里亚波利斯"
 
 #: recursos/0uruguay/datos/0uruguay.py:89
 #: recursos/0uruguay/datos/levels.py:115
-#, fuzzy
 msgid "Pueblo del Carmen"
-msgstr "埃尔卡门港"
+msgstr "卡门港"
 
 #: recursos/0uruguay/datos/0uruguay.py:90
 #: recursos/0uruguay/datos/levels.py:116
 msgid "Punta del Este"
-msgstr ""
+msgstr "埃斯特角城"
 
 #: recursos/0uruguay/datos/0uruguay.py:91
 #: recursos/0uruguay/datos/levels.py:117
 msgid "Quebracho"
-msgstr ""
+msgstr "克夫拉乔"
 
 #: recursos/0uruguay/datos/0uruguay.py:93
 #: recursos/0uruguay/datos/levels.py:121
