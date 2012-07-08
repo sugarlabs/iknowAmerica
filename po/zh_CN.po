@@ -7,8 +7,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-05-25 00:32-0400\n"
-"PO-Revision-Date: 2012-07-07 03:04+0200\n"
-"Last-Translator: lite <litekok@gmail.com>\n"
+"PO-Revision-Date: 2012-07-08 05:13+0200\n"
+"Last-Translator: Athurg <athurg@gooth.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
@@ -6046,7 +6046,7 @@ msgstr "372,000 (第170名)"
 
 #: recursos/0belice/datos/0belice.py:104
 msgid "USD 2.046 billion (166th)"
-msgstr "2,046亿美元（第166名）"
+msgstr "20.46亿美元（第166名）"
 
 #: recursos/0belice/datos/0belice.py:105
 msgid "High - 0,694 (78th)"
@@ -6394,7 +6394,7 @@ msgstr "10，426，160 (第87名)"
 
 #: recursos/0bolivia/datos/0bolivia.py:112
 msgid "USD 47.980 billion (87th)"
-msgstr "479.80亿美元（第87名）"
+msgstr "47,980亿美元（第87名）"
 
 #: recursos/0bolivia/datos/0bolivia.py:113
 msgid "Medium - 0,643 (95th)"
@@ -15775,353 +15775,340 @@ msgstr "克夫拉乔"
 
 #: recursos/0uruguay/datos/0uruguay.py:93
 #: recursos/0uruguay/datos/levels.py:121
-#, fuzzy
 msgid "Río Branco"
 msgstr "里约布兰科"
 
 #: recursos/0uruguay/datos/0uruguay.py:95
 #: recursos/0uruguay/datos/levels.py:124
 msgid "San Gregorio de Polanco"
-msgstr ""
+msgstr "圣格雷戈里奥·波朗科"
 
 #: recursos/0uruguay/datos/0uruguay.py:97
 #: recursos/0uruguay/datos/levels.py:127
 msgid "Santa Clara de Olimar"
-msgstr ""
+msgstr "圣克拉拉－德奥利马尔"
 
 #: recursos/0uruguay/datos/0uruguay.py:98
 #: recursos/0uruguay/datos/levels.py:128
 msgid "Santa Lucía"
-msgstr ""
+msgstr "圣卢西亚"
 
 #: recursos/0uruguay/datos/0uruguay.py:99
 #: recursos/0uruguay/datos/levels.py:130
-#, fuzzy
 msgid "Sarandí Grande"
-msgstr "大萨瓦纳"
+msgstr "大萨兰迪"
 
 #: recursos/0uruguay/datos/0uruguay.py:100
 #: recursos/0uruguay/datos/levels.py:129
 msgid "Sarandí del Yi"
-msgstr ""
+msgstr "萨兰迪德尔伊"
 
 #: recursos/0uruguay/datos/0uruguay.py:101
 #: recursos/0uruguay/datos/levels.py:132
-#, fuzzy
 msgid "Tala"
-msgstr "塔尔卡"
+msgstr "塔拉"
 
 #: recursos/0uruguay/datos/0uruguay.py:102
 #: recursos/0uruguay/datos/levels.py:133
 msgid "Tarariras"
-msgstr ""
+msgstr "塔拉里拉斯"
 
 #: recursos/0uruguay/datos/0uruguay.py:103
 #: recursos/0uruguay/datos/levels.py:134
 msgid "Tomás Gomensoro"
-msgstr ""
+msgstr "托马斯戈门索罗"
 
 #: recursos/0uruguay/datos/0uruguay.py:104
 #: recursos/0uruguay/datos/levels.py:135
 msgid "Tranqueras"
-msgstr ""
+msgstr "特兰克拉斯"
 
 #: recursos/0uruguay/datos/0uruguay.py:105
 #: recursos/0uruguay/datos/levels.py:138
 msgid "Vergara"
-msgstr ""
+msgstr "贝尔加拉"
 
 #: recursos/0uruguay/datos/0uruguay.py:106
 #: recursos/0uruguay/datos/levels.py:139
 msgid "Vichadero"
-msgstr ""
+msgstr "比查德罗"
 
 #: recursos/0uruguay/datos/0uruguay.py:107
 #: recursos/0uruguay/datos/levels.py:140
 msgid "Young"
-msgstr ""
+msgstr "杨"
 
 #: recursos/0uruguay/datos/0uruguay.py:111
 msgid "Cerro de Montevideo"
-msgstr ""
+msgstr "塞罗 - 蒙得维的亚"
 
 #: recursos/0uruguay/datos/0uruguay.py:112
 msgid "Cerro Pan de Azúcar"
-msgstr ""
+msgstr "塞罗潘德阿苏卡尔"
 
 #: recursos/0uruguay/datos/0uruguay.py:113
 msgid "Cerro Verdún"
-msgstr ""
+msgstr "塞罗凡尔登"
 
 #: recursos/0uruguay/datos/0uruguay.py:114
 msgid "Cerro Arequita"
-msgstr ""
+msgstr "塞罗阿雷基帕"
 
 #: recursos/0uruguay/datos/0uruguay.py:115
 msgid "Cerro Catedral"
-msgstr ""
+msgstr "塞罗大教堂"
 
 #: recursos/0uruguay/datos/0uruguay.py:116
 msgid "Cerro de las Animas"
-msgstr ""
+msgstr "塞罗 - 拉斯阿尼马斯"
 
 #: recursos/0uruguay/datos/0uruguay.py:117
 msgid "Cerros de Batoví"
-msgstr ""
+msgstr "塞罗德巴托维"
 
 #: recursos/0uruguay/datos/0uruguay.py:118
 msgid "Cerro Bonito"
-msgstr ""
+msgstr "塞罗博尼"
 
 #: recursos/0uruguay/datos/0uruguay.py:119
 msgid "Cerro del Medio"
-msgstr ""
+msgstr "塞罗德尔麦迪欧"
 
 #: recursos/0uruguay/datos/0uruguay.py:124
 msgid "Hill of Haedo"
-msgstr ""
+msgstr "阿埃多丘陵"
 
 #: recursos/0uruguay/datos/0uruguay.py:125
 msgid "Hill of Santa Ana"
-msgstr ""
+msgstr "圣安娜山"
 
 #: recursos/0uruguay/datos/0uruguay.py:126
 msgid "Hill Grande"
-msgstr ""
+msgstr "格兰德山"
 
 #: recursos/0uruguay/datos/0uruguay.py:127
 msgid "Hill Grande del Durazno"
-msgstr ""
+msgstr "杜拉斯诺大山"
 
 #: recursos/0uruguay/datos/0uruguay.py:128
 msgid "Hill Grande Inferior"
-msgstr ""
+msgstr "大底山"
 
 #: recursos/0uruguay/datos/0uruguay.py:129
 msgid "Hill Negra"
-msgstr ""
+msgstr "尼格拉山"
 
 #: recursos/0uruguay/datos/0uruguay.py:133
 #: recursos/0uruguay/datos/levels.py:150
 msgid "Arapey Chico River"
-msgstr ""
+msgstr "小阿拉佩河"
 
 #: recursos/0uruguay/datos/0uruguay.py:134
 #: recursos/0uruguay/datos/levels.py:151
 msgid "Arapey Grande River"
-msgstr ""
+msgstr "大阿拉佩河"
 
 #: recursos/0uruguay/datos/0uruguay.py:135
 #: recursos/0uruguay/datos/levels.py:152
 msgid "Cebollatí River"
-msgstr ""
+msgstr "塞沃亚蒂河"
 
 #: recursos/0uruguay/datos/0uruguay.py:136
 #: recursos/0uruguay/datos/levels.py:153
 msgid "Cuareim River"
-msgstr ""
+msgstr "夸雷姆河"
 
 #: recursos/0uruguay/datos/0uruguay.py:137
 #: recursos/0uruguay/datos/levels.py:154
-#, fuzzy
 msgid "Daymán River"
-msgstr "马拉尼翁河"
+msgstr "代曼河"
 
 #: recursos/0uruguay/datos/0uruguay.py:139
 #: recursos/0uruguay/datos/levels.py:156
 msgid "Olimar Chico River"
-msgstr ""
+msgstr "小奥利马尔河"
 
 #: recursos/0uruguay/datos/0uruguay.py:140
 #: recursos/0uruguay/datos/levels.py:157
 msgid "Olimar Grande River"
-msgstr ""
+msgstr "大奥利马尔河"
 
 #: recursos/0uruguay/datos/0uruguay.py:141
 #: recursos/0uruguay/datos/levels.py:158
 msgid "Queguay Chico River"
-msgstr ""
+msgstr "小奎圭河"
 
 #: recursos/0uruguay/datos/0uruguay.py:142
 #: recursos/0uruguay/datos/levels.py:159
-#, fuzzy
 msgid "Queguay River"
-msgstr "乌拉圭河"
+msgstr "奎圭河"
 
 #: recursos/0uruguay/datos/0uruguay.py:143
 #: recursos/0uruguay/datos/levels.py:160
-#, fuzzy
 msgid "Rosario River"
-msgstr "马莫雷河"
+msgstr "罗萨里奥河"
 
 #: recursos/0uruguay/datos/0uruguay.py:144
 #: recursos/0uruguay/datos/levels.py:161
-#, fuzzy
 msgid "San José River"
-msgstr "圣胡安河"
+msgstr "圣何塞河"
 
 #: recursos/0uruguay/datos/0uruguay.py:146
 #: recursos/0uruguay/datos/levels.py:163
 msgid "San Salvador River"
-msgstr ""
+msgstr "圣萨尔瓦多河"
 
 #: recursos/0uruguay/datos/0uruguay.py:147
 #: recursos/0uruguay/datos/levels.py:164
-#, fuzzy
 msgid "Santa Lucía River"
-msgstr "圣马丁河"
+msgstr "圣卢西亚河"
 
 #: recursos/0uruguay/datos/0uruguay.py:148
 #: recursos/0uruguay/datos/levels.py:165
 msgid "Sta Lucía Chico River"
-msgstr ""
+msgstr "小圣卢西亚河"
 
 #: recursos/0uruguay/datos/0uruguay.py:149
-#, fuzzy
 msgid "Tacuarembó River"
-msgstr "雅库马河"
+msgstr "塔夸伦博河"
 
 #: recursos/0uruguay/datos/0uruguay.py:150
 #: recursos/0uruguay/datos/levels.py:167
-#, fuzzy
 msgid "Tacuarí River"
-msgstr "雅库马河"
+msgstr "塔夸里河"
 
 #: recursos/0uruguay/datos/0uruguay.py:152
 #: recursos/0uruguay/datos/levels.py:169
 msgid "Yaguarón River"
-msgstr ""
+msgstr "雅瓜朗河"
 
 #: recursos/0uruguay/datos/0uruguay.py:153
 #: recursos/0uruguay/datos/levels.py:170
 msgid "Yi River"
-msgstr ""
+msgstr "伊河"
 
 #: recursos/0uruguay/datos/0uruguay.py:156
 #: recursos/0uruguay/datos/levels.py:173
 msgid "Merín Lagoon"
-msgstr ""
+msgstr "米林湖"
 
 #: recursos/0uruguay/datos/0uruguay.py:157
 #: recursos/0uruguay/datos/levels.py:174
 msgid "Negra Lagoon"
-msgstr ""
+msgstr "尼格拉湖"
 
 #: recursos/0uruguay/datos/0uruguay.py:158
 #: recursos/0uruguay/datos/levels.py:175
 msgid "Castillos Lagoon"
-msgstr ""
+msgstr "卡斯蒂约斯湖"
 
 #: recursos/0uruguay/datos/0uruguay.py:159
 #: recursos/0uruguay/datos/levels.py:176
 msgid "Rocha Lagoon"
-msgstr ""
+msgstr "罗恰湖"
 
 #: recursos/0uruguay/datos/0uruguay.py:160
 #: recursos/0uruguay/datos/levels.py:177
 msgid "Sauce Lagoon"
-msgstr ""
+msgstr "绍塞湖"
 
 #: recursos/0uruguay/datos/0uruguay.py:164
 msgid "Route 1"
-msgstr ""
+msgstr "路线1"
 
 #: recursos/0uruguay/datos/0uruguay.py:165
 msgid "Route 2"
-msgstr ""
+msgstr "路线2"
 
 #: recursos/0uruguay/datos/0uruguay.py:166
 msgid "Route 3"
-msgstr ""
+msgstr "路线3"
 
 #: recursos/0uruguay/datos/0uruguay.py:167
 msgid "Route 4"
-msgstr ""
+msgstr "路线4"
 
 #: recursos/0uruguay/datos/0uruguay.py:168
 msgid "Route 5"
-msgstr ""
+msgstr "路线5"
 
 #: recursos/0uruguay/datos/0uruguay.py:169
 msgid "Route 6"
-msgstr ""
+msgstr "路线6"
 
 #: recursos/0uruguay/datos/0uruguay.py:170
 msgid "Route 7"
-msgstr ""
+msgstr "路线7"
 
 #: recursos/0uruguay/datos/0uruguay.py:171
 msgid "Route 8"
-msgstr ""
+msgstr "路线8"
 
 #: recursos/0uruguay/datos/0uruguay.py:172
 msgid "Route 9"
-msgstr ""
+msgstr "路线9"
 
 #: recursos/0uruguay/datos/0uruguay.py:173
 msgid "Route IB"
-msgstr ""
+msgstr "路线IB"
 
 #: recursos/0uruguay/datos/0uruguay.py:174
 msgid "Route 21"
-msgstr ""
+msgstr "路线21"
 
 #: recursos/0uruguay/datos/0uruguay.py:175
 msgid "Route 11"
-msgstr ""
+msgstr "路线11"
 
 #: recursos/0uruguay/datos/0uruguay.py:176
 msgid "Route 14"
-msgstr ""
+msgstr "路线14"
 
 #: recursos/0uruguay/datos/0uruguay.py:177
 msgid "Route 26"
-msgstr ""
+msgstr "路线26"
 
 #: recursos/0uruguay/datos/0uruguay.py:181
-#, fuzzy
 msgid "(34º53' S - 56º10' W)"
-msgstr "(34º40' 南 - 58º24' 西)"
+msgstr "(34º53' 南 - 56º10' 西)"
 
+# 乌拉圭现任总统
 #: recursos/0uruguay/datos/0uruguay.py:184
 msgid "José Mujica"
-msgstr ""
+msgstr "何塞·穆希卡"
 
+# 乌拉圭经济部长
 #: recursos/0uruguay/datos/0uruguay.py:185
 msgid "Danilo Astori"
-msgstr ""
+msgstr "阿斯托里"
 
 #: recursos/0uruguay/datos/0uruguay.py:186
-#, fuzzy
 msgid "25 of august of 1825"
-msgstr "1825年8月29日"
+msgstr "1825年8月25日"
 
 #: recursos/0uruguay/datos/0uruguay.py:187
-#, fuzzy
 msgid "28 of august of 1828"
-msgstr "1825年8月29日"
+msgstr "1828年8月28日"
 
 #: recursos/0uruguay/datos/0uruguay.py:188
 msgid "176.215 km² (90th)"
-msgstr ""
+msgstr "176.215平方公里（第90位）"
 
 #: recursos/0uruguay/datos/0uruguay.py:189
 msgid "3.424.595 (128th)"
-msgstr ""
+msgstr "3.424.595（第128位）"
 
 #: recursos/0uruguay/datos/0uruguay.py:190
-#, fuzzy
 msgid "USD 51.209 billion (86th)"
-msgstr "479.80亿美元（第87名）"
+msgstr "512.09亿美元（第86名）"
 
 #: recursos/0uruguay/datos/0uruguay.py:191
-#, fuzzy
 msgid "High - 0,765 (52th)"
-msgstr "高 - 0,775 (第46名)"
+msgstr "高 - 0,765 (第52名)"
 
 #: recursos/0uruguay/datos/explorations.py:34
 msgid "Elevations"
-msgstr ""
+msgstr "海拔"
 
 #: recursos/0uruguay/datos/levels.py:11 recursos/0uruguay/datos/levels.py:12
 #: recursos/0uruguay/datos/levels.py:13 recursos/0uruguay/datos/levels.py:14
@@ -16149,7 +16136,7 @@ msgstr ""
 #: recursos/0uruguay/datos/levels.py:164 recursos/0uruguay/datos/levels.py:168
 #: recursos/0uruguay/datos/levels.py:171 recursos/0uruguay/datos/levels.py:172
 msgid "It's easy"
-msgstr ""
+msgstr "很简单"
 
 #: recursos/0uruguay/datos/levels.py:67 recursos/0uruguay/datos/levels.py:68
 #: recursos/0uruguay/datos/levels.py:70 recursos/0uruguay/datos/levels.py:71
@@ -16187,43 +16174,42 @@ msgstr ""
 #: recursos/0uruguay/datos/levels.py:176 recursos/0uruguay/datos/levels.py:177
 #, python-format
 msgid "It's in %s"
-msgstr ""
+msgstr "在 %s"
 
 #: recursos/0uruguay/datos/levels.py:68 recursos/0uruguay/datos/levels.py:112
 #: recursos/0uruguay/datos/levels.py:124 recursos/0uruguay/datos/levels.py:166
 msgid "Tacuarembo"
-msgstr ""
+msgstr "塔夸伦博"
 
 #: recursos/0uruguay/datos/levels.py:81 recursos/0uruguay/datos/levels.py:118
 #: recursos/0uruguay/datos/levels.py:169
 msgid "It's near Brazil"
-msgstr ""
+msgstr "他就在巴西附近"
 
 #: recursos/0uruguay/datos/levels.py:82
 msgid "Try again"
-msgstr ""
+msgstr "再试一次"
 
 #: recursos/0uruguay/datos/levels.py:85
 msgid "the center"
-msgstr ""
+msgstr "中心"
 
 #: recursos/0uruguay/datos/levels.py:88 recursos/0uruguay/datos/levels.py:107
 #: recursos/0uruguay/datos/levels.py:140
-#, fuzzy
 msgid "Rio Negro"
 msgstr "里奥内格罗"
 
 #: recursos/0uruguay/datos/levels.py:89 recursos/0uruguay/datos/levels.py:117
 #: recursos/0uruguay/datos/levels.py:158
 msgid "Paysandu"
-msgstr ""
+msgstr "派桑杜"
 
 #: recursos/0uruguay/datos/levels.py:100 recursos/0uruguay/datos/levels.py:101
 #: recursos/0uruguay/datos/levels.py:102 recursos/0uruguay/datos/levels.py:119
 #: recursos/0uruguay/datos/levels.py:125 recursos/0uruguay/datos/levels.py:136
 #: recursos/0uruguay/datos/levels.py:137
 msgid "It's a departmental capital"
-msgstr ""
+msgstr "这是部门资本"
 
 #: recursos/0uruguay/datos/levels.py:130
 msgid "Queda en Florida"
@@ -16243,7 +16229,6 @@ msgid "Has three dams"
 msgstr ""
 
 #: recursos/0uruguay/datos/levels.py:166
-#, fuzzy
 msgid "Tacuarembo River"
 msgstr "雅库马河"
 
@@ -16260,119 +16245,115 @@ msgstr ""
 #: recursos/0venezuela/datos/0venezuela.py:11
 #: recursos/0venezuela/datos/levels.py:14
 msgid "Aragua"
-msgstr ""
+msgstr "阿拉瓜"
 
 #: recursos/0venezuela/datos/0venezuela.py:12
 #: recursos/0venezuela/datos/0venezuela.py:44
 #: recursos/0venezuela/datos/levels.py:15
 #: recursos/0venezuela/datos/levels.py:44
 #: recursos/0venezuela/datos/levels.py:76
-#, fuzzy
 msgid "Barinas"
 msgstr "巴里亚斯"
 
 #: recursos/0venezuela/datos/0venezuela.py:14
 #: recursos/0venezuela/datos/levels.py:17
 msgid "Carabobo"
-msgstr ""
+msgstr "卡拉沃沃"
 
 #: recursos/0venezuela/datos/0venezuela.py:15
 #: recursos/0venezuela/datos/levels.py:18
 msgid "Cojedes"
-msgstr ""
+msgstr "科赫德斯"
 
 #: recursos/0venezuela/datos/0venezuela.py:17
 #: recursos/0venezuela/datos/levels.py:20
 msgid "Delta Amacuro"
-msgstr ""
+msgstr "阿马库罗三角洲"
 
 #: recursos/0venezuela/datos/0venezuela.py:18
 #: recursos/0venezuela/datos/levels.py:21
 msgid "Falcón"
-msgstr ""
+msgstr "法尔孔"
 
 #: recursos/0venezuela/datos/0venezuela.py:19
 #: recursos/0venezuela/datos/levels.py:22
 msgid "Guárico"
-msgstr ""
+msgstr "瓜里科"
 
 #: recursos/0venezuela/datos/0venezuela.py:20
 #: recursos/0venezuela/datos/levels.py:23
-#, fuzzy
 msgid "Lara"
-msgstr "帕拉"
+msgstr "拉腊"
 
 #: recursos/0venezuela/datos/0venezuela.py:22
 #: recursos/0venezuela/datos/levels.py:25
 msgid "Miranda"
-msgstr ""
+msgstr "米兰达"
 
 #: recursos/0venezuela/datos/0venezuela.py:23
 #: recursos/0venezuela/datos/levels.py:26
 msgid "Monagas"
-msgstr ""
+msgstr "莫纳加斯"
 
 #: recursos/0venezuela/datos/0venezuela.py:24
 #: recursos/0venezuela/datos/levels.py:27
-#, fuzzy
 msgid "Portuguesa"
 msgstr "葡萄牙"
 
 #: recursos/0venezuela/datos/0venezuela.py:26
 #: recursos/0venezuela/datos/levels.py:29
 msgid "Táchira"
-msgstr ""
+msgstr "塔奇拉"
 
 #: recursos/0venezuela/datos/0venezuela.py:28
 #: recursos/0venezuela/datos/levels.py:31
 msgid "Yaracuy"
-msgstr ""
+msgstr "亚拉奎"
 
 #: recursos/0venezuela/datos/0venezuela.py:29
 #: recursos/0venezuela/datos/levels.py:32
 msgid "Zulina"
-msgstr ""
+msgstr "苏利亚"
 
 #: recursos/0venezuela/datos/0venezuela.py:34
 msgid "Aruba"
-msgstr ""
+msgstr "阿鲁巴"
 
 #: recursos/0venezuela/datos/0venezuela.py:35
 msgid "Curaçao"
-msgstr ""
+msgstr "库拉索"
 
 #: recursos/0venezuela/datos/0venezuela.py:36
 msgid "Bonaire"
-msgstr ""
+msgstr "博奈尔"
 
 #: recursos/0venezuela/datos/0venezuela.py:37
 msgid "Tortuga"
-msgstr ""
+msgstr "托图加"
 
 #: recursos/0venezuela/datos/0venezuela.py:43
 #: recursos/0venezuela/datos/levels.py:43
 #: recursos/0venezuela/datos/levels.py:75
 msgid "Barcelona"
-msgstr ""
+msgstr "巴塞罗纳"
 
 #: recursos/0venezuela/datos/0venezuela.py:45
 #: recursos/0venezuela/datos/levels.py:45
 #: recursos/0venezuela/datos/levels.py:77
 msgid "Barquisimeto"
-msgstr ""
+msgstr "巴基西梅托"
 
 #: recursos/0venezuela/datos/0venezuela.py:46
 #: recursos/0venezuela/datos/levels.py:46
 #: recursos/0venezuela/datos/levels.py:78
 msgid "Ciudad Bolívar"
-msgstr ""
+msgstr "玻利瓦尔城"
 
 #: recursos/0venezuela/datos/0venezuela.py:47
 #: recursos/0venezuela/datos/levels.py:47
 #: recursos/0venezuela/datos/levels.py:79
-#, fuzzy
 msgid "Coro"
-msgstr "约罗"
+msgstr "科罗"
 
 #: recursos/0venezuela/datos/0venezuela.py:48
 #: recursos/0venezuela/datos/levels.py:48
@@ -16383,7 +16364,6 @@ msgstr ""
 #: recursos/0venezuela/datos/0venezuela.py:49
 #: recursos/0venezuela/datos/levels.py:49
 #: recursos/0venezuela/datos/levels.py:81
-#, fuzzy
 msgid "Guanare"
 msgstr "瓜维亚雷"
 
@@ -16408,7 +16388,6 @@ msgstr ""
 #: recursos/0venezuela/datos/0venezuela.py:54
 #: recursos/0venezuela/datos/levels.py:54
 #: recursos/0venezuela/datos/levels.py:86
-#, fuzzy
 msgid "Maracay"
 msgstr "加拉加斯"
 
@@ -16550,9 +16529,8 @@ msgstr ""
 
 #: recursos/0venezuela/datos/0venezuela.py:93
 #: recursos/0venezuela/datos/levels.py:128
-#, fuzzy
 msgid "Apure River"
-msgstr "内格罗河"
+msgstr "阿普雷河"
 
 #: recursos/0venezuela/datos/0venezuela.py:97
 #: recursos/0venezuela/datos/levels.py:132
@@ -16561,19 +16539,16 @@ msgstr ""
 
 #: recursos/0venezuela/datos/0venezuela.py:99
 #: recursos/0venezuela/datos/levels.py:134
-#, fuzzy
 msgid "Casiquiare River"
 msgstr "卡萨纳雷河"
 
 #: recursos/0venezuela/datos/0venezuela.py:101
 #: recursos/0venezuela/datos/levels.py:136
-#, fuzzy
 msgid "Paragua River"
 msgstr "巴拉圭河"
 
 #: recursos/0venezuela/datos/0venezuela.py:102
 #: recursos/0venezuela/datos/levels.py:137
-#, fuzzy
 msgid "Gaura River"
 msgstr "马莫雷河"
 
@@ -16584,7 +16559,6 @@ msgstr ""
 
 #: recursos/0venezuela/datos/0venezuela.py:105
 #: recursos/0venezuela/datos/levels.py:140
-#, fuzzy
 msgid "Guarico River"
 msgstr "俄亥俄河"
 
@@ -16618,9 +16592,8 @@ msgid "Delta Amacuro River"
 msgstr ""
 
 #: recursos/0venezuela/datos/0venezuela.py:120
-#, fuzzy
 msgid "(10º30' N - 66º58' W)"
-msgstr "(34º40' 南 - 58º24' 西)"
+msgstr "(西经10º30' - 西经66º58')"
 
 #: recursos/0venezuela/datos/0venezuela.py:123
 msgid "Hugo Chávez Frías"
@@ -16631,31 +16604,28 @@ msgid "Elías Jaua Milano"
 msgstr ""
 
 #: recursos/0venezuela/datos/0venezuela.py:126
-#, fuzzy
 msgid "5 of july of 1811"
-msgstr "1816年7月9日"
+msgstr "1811年7月5日"
 
 #: recursos/0venezuela/datos/0venezuela.py:127
 msgid "30 of march of 1845"
-msgstr ""
+msgstr "1845年3月30日"
 
 #: recursos/0venezuela/datos/0venezuela.py:128
 msgid "916.445 km² (33th)"
-msgstr ""
+msgstr "916.445平方公里（第33位）"
 
 #: recursos/0venezuela/datos/0venezuela.py:129
 msgid "28.892.735 (41th)"
-msgstr ""
+msgstr "28.892.735（第41位）"
 
 #: recursos/0venezuela/datos/0venezuela.py:130
-#, fuzzy
 msgid "USD 350.276 billion (31th)"
-msgstr "479.80亿美元（第87名）"
+msgstr "3502.76亿美元（第31名）"
 
 #: recursos/0venezuela/datos/0venezuela.py:131
-#, fuzzy
 msgid "High - 0,696 (75th)"
-msgstr "高 - 0,694（第78名）"
+msgstr "高 - 0,696（第75名）"
 
 #: recursos/0venezuela/datos/levels.py:141
 msgid "Reservoir of Guarico"
@@ -16663,93 +16633,97 @@ msgstr ""
 
 #: recursos/comun/datos/commons.py:7
 msgid "Hello friends..."
-msgstr ""
+msgstr "你好朋友..."
 
+# America应当翻译为什么？
 #: recursos/comun/datos/commons.py:8
+#, fuzzy
 msgid ""
 "...tomorrow I have a\n"
 "test about America..."
 msgstr ""
+"...明天我有一堂\n"
+"关于美国人的测试..."
 
 #: recursos/comun/datos/commons.py:9
 msgid "...and I know nothing!!!"
-msgstr ""
+msgstr "...并且我什么都不知道！！！"
 
 #: recursos/comun/datos/commons.py:10
 msgid "...what I do???"
-msgstr ""
+msgstr "...我怎么办呢？"
 
 #: recursos/comun/datos/commons.py:11
 msgid "I can ask you something?"
-msgstr ""
+msgstr "我可以问你吗？"
 
 #: recursos/comun/datos/commons.py:12
 msgid "Can you help me?"
-msgstr ""
+msgstr "能帮下我吗？"
 
 #: recursos/comun/datos/commons.py:16
 msgid "We have to look"
-msgstr ""
+msgstr "我们得去看看"
 
 #: recursos/comun/datos/commons.py:17
 msgid "We have to find"
-msgstr ""
+msgstr "我们要找一找"
 
 #: recursos/comun/datos/commons.py:18
 msgid "Now we have to look"
-msgstr ""
+msgstr "现在我们必须去看看了"
 
 #: recursos/comun/datos/commons.py:19
 msgid "We need to find"
-msgstr ""
+msgstr "我们需要找一找"
 
 #: recursos/comun/datos/commons.py:23
 msgid "You can tell where is it?"
-msgstr ""
+msgstr "可以说说它在哪儿吗？"
 
 #: recursos/comun/datos/commons.py:24
 msgid "Where is it?"
-msgstr ""
+msgstr "它在哪儿呢？"
 
 #: recursos/comun/datos/commons.py:25
 msgid "Can you show me where is it?"
-msgstr ""
+msgstr "你能跟我说下它在哪儿吗？"
 
 #: recursos/comun/datos/commons.py:26
 msgid "Can you find it?"
-msgstr ""
+msgstr "你能找到它吗？"
 
 #: recursos/comun/datos/commons.py:30
 msgid "Very well!"
-msgstr ""
+msgstr "太好了！"
 
 #: recursos/comun/datos/commons.py:31
 msgid "Brilliant!"
-msgstr ""
+msgstr "简直是天才！"
 
 #: recursos/comun/datos/commons.py:32
 msgid "You found it!"
-msgstr ""
+msgstr "你找到了！"
 
 #: recursos/comun/datos/commons.py:33
 msgid "Yes!"
-msgstr ""
+msgstr "对！"
 
 #: recursos/comun/datos/commons.py:37
 msgid "No, this is not"
-msgstr ""
+msgstr "不，这个不是"
 
 #: recursos/comun/datos/commons.py:38
 msgid "Here it is not"
-msgstr ""
+msgstr "不是在这儿"
 
 #: recursos/comun/datos/commons.py:39
 msgid "It seems that this is not"
-msgstr ""
+msgstr "看上去这里没有"
 
 #: recursos/comun/datos/commons.py:40
 msgid "That is not"
-msgstr ""
+msgstr "那个不是"
 
 #: recursos/comun/datos/commons.py:44
 msgid ""
@@ -16758,6 +16732,8 @@ msgid ""
 "I'm going to play...\n"
 "Thanks for your help!"
 msgstr ""
+"我们已经为明天\n"
+"准备好了...我们马上就开始完了...谢谢你的帮助！"
 
 #: recursos/comun/datos/commons.py:45
 msgid ""
@@ -16766,6 +16742,8 @@ msgid ""
 "Bye and thanks\n"
 "for helping me!"
 msgstr ""
+"我们做到了！\n"
+"我要去打球了...再见谢谢你的帮助!"
 
 #: recursos/comun/datos/commons.py:46
 msgid ""
@@ -16774,6 +16752,8 @@ msgid ""
 "I'm playing a while...\n"
 "Until next time!"
 msgstr ""
+"我们做到了！\n"
+"我已经为明天做好了准备...我玩了有一会儿了...下次再来吧！"
 
 #: recursos/comun/datos/commons.py:50
 msgid ""
@@ -16781,6 +16761,8 @@ msgid ""
 "I'll play a while...\n"
 "Thanks!"
 msgstr ""
+"下次运气好点\n"
+"我就多玩会儿...谢谢！"
 
 #: recursos/comun/datos/commons.py:51
 msgid ""
@@ -16788,6 +16770,9 @@ msgid ""
 "I'm going to play ball...\n"
 "Thanks!"
 msgstr ""
+"下次肯定会的\n"
+"我去打球了...\n"
+"谢谢！"
 
 #: recursos/comun/datos/commons.py:52
 msgid ""
@@ -16795,34 +16780,36 @@ msgid ""
 "I'm going to play...\n"
 "Thanks!"
 msgstr ""
+"请再试一次...\n"
+"我正在玩...谢谢！"
 
 #: recursos/comun/datos/commons.py:56
 msgid "Author: Alan Aguiar"
-msgstr ""
+msgstr "作者：Alan Aguiar"
 
 #: recursos/comun/datos/commons.py:57
 msgid "Send corrections, comments or suggestions to: alanjas@hotmail.com"
-msgstr ""
+msgstr "将你的意见和建议发送到： alanjas@hotmail.com"
 
 #: recursos/comun/datos/commons.py:59
 msgid "This program is free software developed by the community"
-msgstr ""
+msgstr "本程序是由社区开发的自由软件"
 
 #: recursos/comun/datos/commons.py:60
 msgid "For more information visit http://ceibaljam.org"
-msgstr ""
+msgstr "请访问 http://ceibaljam.org 了解更多的信息"
 
 #: recursos/comun/datos/commons.py:62
 msgid "This program is based on 'Conozco Uruguay' (Author: Gabriel Eirea)"
-msgstr ""
+msgstr "本程序基于 'Conozco Uruguay' (原作者: Gabriel Eirea)开发"
 
 #: recursos/comun/datos/commons.py:63
 msgid "Sounds downloaded from freesound.org: btn117.wav courtesy of junggle."
-msgstr ""
+msgstr "从 freesound.org 下载的音频文件 btn117.wav 礼貌赞歌"
 
 #: recursos/comun/datos/commons.py:64
 msgid "Font: Share-Regular.ttf of urbanfonts.com"
-msgstr ""
+msgstr "字体：urbanfonts.com的TTF字体Share-Regular"
 
 #, fuzzy
 #~ msgid "San Jose"
