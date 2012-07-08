@@ -7,8 +7,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-05-25 00:32-0400\n"
-"PO-Revision-Date: 2012-07-08 05:13+0200\n"
-"Last-Translator: Athurg <athurg@gooth.org>\n"
+"PO-Revision-Date: 2012-07-08 08:16+0200\n"
+"Last-Translator: Xin <dram.wang@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
@@ -6386,15 +6386,15 @@ msgstr "1847年7月21日"
 
 #: recursos/0bolivia/datos/0bolivia.py:110
 msgid "1.098.581 km² (27th)"
-msgstr "1，098，581平方公里（第27名）"
+msgstr "1,098,581平方公里（第27名）"
 
 #: recursos/0bolivia/datos/0bolivia.py:111
 msgid "10.426.160 (87th)"
-msgstr "10，426，160 (第87名)"
+msgstr "10,426,160 (第87名)"
 
 #: recursos/0bolivia/datos/0bolivia.py:112
 msgid "USD 47.980 billion (87th)"
-msgstr "47,980亿美元（第87名）"
+msgstr "479.80亿美元（第87名）"
 
 #: recursos/0bolivia/datos/0bolivia.py:113
 msgid "Medium - 0,643 (95th)"
@@ -8274,7 +8274,7 @@ msgstr "4,615,518 (第115名)"
 
 #: recursos/0costarica/datos/0costarica.py:158
 msgid "USD 52.885 billion (84th)"
-msgstr "528，85 亿美元（第84名）"
+msgstr "528.85亿美元（第84名）"
 
 #: recursos/0costarica/datos/0costarica.py:159
 msgid "High - 0,725 (62th)"
@@ -9478,7 +9478,7 @@ msgstr "14,306,876 (第?名)"
 
 #: recursos/0ecuador/datos/0ecuador.py:150
 msgid "USD 119.827 billion (--th)"
-msgstr "1198.27亿美元（第?名）"
+msgstr "1,198.27亿美元（第?名）"
 
 #: recursos/0ecuador/datos/0ecuador.py:151
 msgid "High - 0,695 (77th)"
@@ -11390,7 +11390,7 @@ msgstr "784,894(第161名)"
 
 #: recursos/0guyana/datos/0guyana.py:92
 msgid "USD 3.082 billion (158th)"
-msgstr "30,82亿美元（第158名）"
+msgstr "30.82亿美元（第158名）"
 
 #: recursos/0guyana/datos/0guyana.py:93
 msgid "Medium - 0,611 (104th)"
@@ -12157,7 +12157,7 @@ msgstr "8,144,000 (第93名)"
 
 #: recursos/0honduras/datos/0honduras.py:136
 msgid "USD 35.173 billion (98th)"
-msgstr "351,73亿美元（第98名）"
+msgstr "351.73亿美元（第98名）"
 
 #: recursos/0honduras/datos/0honduras.py:137
 msgid "Medium - 0,604 (106th)"
@@ -12453,7 +12453,7 @@ msgstr "2,735,520 (第131名)"
 
 #: recursos/0jamaica/datos/0jamaica.py:99
 msgid "USD 11.690 billion (131st)"
-msgstr "116,90亿美元（第131名）"
+msgstr "116.90亿美元（第131名）"
 
 #: recursos/0jamaica/datos/0jamaica.py:100
 msgid "High - 0,688 (80th)"
@@ -14302,15 +14302,15 @@ msgstr "1879年8月14日"
 
 #: recursos/0peru/datos/0peru.py:142
 msgid "1.285.216 km² (20th)"
-msgstr "1.285.216平方千米（第20名）"
+msgstr "1,285,216平方千米（第20名）"
 
 #: recursos/0peru/datos/0peru.py:143
 msgid "30.165.000 (40th)"
-msgstr "30.165.000（第40名）"
+msgstr "30,165,000（第40名）"
 
 #: recursos/0peru/datos/0peru.py:144
 msgid "USD 299.648 billion (41th)"
-msgstr "299.648亿美元（第41名）"
+msgstr "2,996.48亿美元（第41名）"
 
 #: recursos/0peru/datos/0peru.py:145
 msgid "High - 0,723 (63th)"
@@ -14793,15 +14793,15 @@ msgstr "1898年8月13日"
 
 #: recursos/0prico/datos/0prico.py:192
 msgid "9.104 km² (170th)"
-msgstr "9.104平方千米（第170名）"
+msgstr "9,104平方千米（第170名）"
 
 #: recursos/0prico/datos/0prico.py:193
 msgid "3.725.789 (127th)"
-msgstr "3.725.789（第127名）"
+msgstr "3,725,789（第127名）"
 
 #: recursos/0prico/datos/0prico.py:194
 msgid "USD 96.260 billion (--th)"
-msgstr "96.260亿美元（第--名）"
+msgstr "962.60亿美元（第?名）"
 
 #: recursos/0prico/datos/0prico.py:195
 msgid "Very High - 0.905 (53th)"
@@ -15230,15 +15230,15 @@ msgstr "1975年11月25日"
 
 #: recursos/0surinam/datos/0surinam.py:84
 msgid "163.820 km² (91th)"
-msgstr "163.820平方公里（第91位）"
+msgstr "163,820平方公里（第91位）"
 
 #: recursos/0surinam/datos/0surinam.py:85
 msgid "542.000 (171th)"
-msgstr "542.000 (第171名)"
+msgstr "542,000 (第171名)"
 
 #: recursos/0surinam/datos/0surinam.py:86
 msgid "USD 2.812 billion (161th)"
-msgstr "2.812亿美元（第161名）"
+msgstr "28.12亿美元（第161名）"
 
 #: recursos/0surinam/datos/0surinam.py:87
 msgid "Medium - 0,646 (94th)"
@@ -15485,7 +15485,7 @@ msgstr "1,299,953 (第153名)"
 
 #: recursos/0tytobago/datos/0tytobago.py:82
 msgid "USD 26.536 billion (115th)"
-msgstr "265,36亿美元（第115名）"
+msgstr "265.36亿美元（第115名）"
 
 #: recursos/0tytobago/datos/0tytobago.py:83
 msgid "High - 0,736 (59th)"
@@ -16092,11 +16092,11 @@ msgstr "1828年8月28日"
 
 #: recursos/0uruguay/datos/0uruguay.py:188
 msgid "176.215 km² (90th)"
-msgstr "176.215平方公里（第90位）"
+msgstr "176,215平方公里（第90位）"
 
 #: recursos/0uruguay/datos/0uruguay.py:189
 msgid "3.424.595 (128th)"
-msgstr "3.424.595（第128位）"
+msgstr "3,424,595（第128位）"
 
 #: recursos/0uruguay/datos/0uruguay.py:190
 msgid "USD 51.209 billion (86th)"
@@ -16218,15 +16218,16 @@ msgstr ""
 #: recursos/0uruguay/datos/levels.py:151 recursos/0uruguay/datos/levels.py:154
 #: recursos/0uruguay/datos/levels.py:159
 msgid "Flows in the Uruguay River"
-msgstr ""
+msgstr "乌拉圭河流量"
 
 #: recursos/0uruguay/datos/levels.py:152 recursos/0uruguay/datos/levels.py:167
+#, fuzzy
 msgid "Flows in the Merin Lagoon"
-msgstr ""
+msgstr "米林湖流量"
 
 #: recursos/0uruguay/datos/levels.py:155
 msgid "Has three dams"
-msgstr ""
+msgstr "有三座水坝"
 
 #: recursos/0uruguay/datos/levels.py:166
 msgid "Tacuarembo River"
@@ -16235,12 +16236,12 @@ msgstr "雅库马河"
 #: recursos/0venezuela/datos/0venezuela.py:9
 #: recursos/0venezuela/datos/levels.py:12
 msgid "Anzoátegui"
-msgstr ""
+msgstr "安索阿特吉"
 
 #: recursos/0venezuela/datos/0venezuela.py:10
 #: recursos/0venezuela/datos/levels.py:13
 msgid "Apure"
-msgstr ""
+msgstr "阿普雷"
 
 #: recursos/0venezuela/datos/0venezuela.py:11
 #: recursos/0venezuela/datos/levels.py:14
@@ -16359,7 +16360,7 @@ msgstr "科罗"
 #: recursos/0venezuela/datos/levels.py:48
 #: recursos/0venezuela/datos/levels.py:80
 msgid "Cumaná"
-msgstr ""
+msgstr "库马纳"
 
 #: recursos/0venezuela/datos/0venezuela.py:49
 #: recursos/0venezuela/datos/levels.py:49
@@ -16371,19 +16372,19 @@ msgstr "瓜维亚雷"
 #: recursos/0venezuela/datos/levels.py:50
 #: recursos/0venezuela/datos/levels.py:82
 msgid "La Asunción"
-msgstr ""
+msgstr "拉亚松森"
 
 #: recursos/0venezuela/datos/0venezuela.py:51
 #: recursos/0venezuela/datos/levels.py:51
 #: recursos/0venezuela/datos/levels.py:83
 msgid "Los Teques"
-msgstr ""
+msgstr "洛斯特克斯"
 
 #: recursos/0venezuela/datos/0venezuela.py:53
 #: recursos/0venezuela/datos/levels.py:53
 #: recursos/0venezuela/datos/levels.py:85
 msgid "Maracaibo"
-msgstr ""
+msgstr "马拉开波"
 
 #: recursos/0venezuela/datos/0venezuela.py:54
 #: recursos/0venezuela/datos/levels.py:54
@@ -16395,81 +16396,82 @@ msgstr "加拉加斯"
 #: recursos/0venezuela/datos/levels.py:55
 #: recursos/0venezuela/datos/levels.py:87
 msgid "Maturín"
-msgstr ""
+msgstr "马图林"
 
 #: recursos/0venezuela/datos/0venezuela.py:56
 #: recursos/0venezuela/datos/levels.py:56
 #: recursos/0venezuela/datos/levels.py:88
 msgid "Puerto Ayacucho"
-msgstr ""
+msgstr "阿亚库乔"
 
 #: recursos/0venezuela/datos/0venezuela.py:59
 #: recursos/0venezuela/datos/levels.py:59
 #: recursos/0venezuela/datos/levels.py:91
 msgid "San Felipe"
-msgstr ""
+msgstr "圣费利佩"
 
 #: recursos/0venezuela/datos/0venezuela.py:61
 #: recursos/0venezuela/datos/levels.py:61
 #: recursos/0venezuela/datos/levels.py:93
 msgid "San Juan de los Morros"
-msgstr ""
+msgstr "圣胡安－德洛斯莫罗斯"
 
 #: recursos/0venezuela/datos/0venezuela.py:63
 #: recursos/0venezuela/datos/levels.py:63
 #: recursos/0venezuela/datos/levels.py:95
 msgid "Tucupita"
-msgstr ""
+msgstr "图皮皮塔"
 
 #: recursos/0venezuela/datos/0venezuela.py:68
 #: recursos/0venezuela/datos/levels.py:97
 msgid "Bochinche"
-msgstr ""
+msgstr "博钦切"
 
 #: recursos/0venezuela/datos/0venezuela.py:69
 #: recursos/0venezuela/datos/levels.py:98
 msgid "Cabimas"
-msgstr ""
+msgstr "卡维马斯"
 
 #: recursos/0venezuela/datos/0venezuela.py:70
 #: recursos/0venezuela/datos/levels.py:99
 msgid "Cabruta"
-msgstr ""
+msgstr "卡夫鲁塔"
 
 #: recursos/0venezuela/datos/0venezuela.py:71
 #: recursos/0venezuela/datos/levels.py:100
 msgid "Caicara"
-msgstr ""
+msgstr "凯卡拉"
 
 #: recursos/0venezuela/datos/0venezuela.py:72
 #: recursos/0venezuela/datos/levels.py:101
 msgid "Canaima"
-msgstr ""
+msgstr "卡奈玛"
 
 #: recursos/0venezuela/datos/0venezuela.py:73
 #: recursos/0venezuela/datos/levels.py:102
 msgid "Ciudad Guayana"
-msgstr ""
+msgstr "圭亚那城"
 
 #: recursos/0venezuela/datos/0venezuela.py:74
 #: recursos/0venezuela/datos/levels.py:103
+#, fuzzy
 msgid "Ciudad Pilar"
-msgstr ""
+msgstr "皮拉尔城"
 
 #: recursos/0venezuela/datos/0venezuela.py:75
 #: recursos/0venezuela/datos/levels.py:104
 msgid "Curiapo"
-msgstr ""
+msgstr "库里亚波"
 
 #: recursos/0venezuela/datos/0venezuela.py:76
 #: recursos/0venezuela/datos/levels.py:105
 msgid "El Amparo"
-msgstr ""
+msgstr "埃尔安帕罗"
 
 #: recursos/0venezuela/datos/0venezuela.py:77
 #: recursos/0venezuela/datos/levels.py:106
 msgid "El Dorado"
-msgstr ""
+msgstr "埃尔多拉多"
 
 #: recursos/0venezuela/datos/0venezuela.py:78
 #: recursos/0venezuela/datos/levels.py:107
@@ -16485,32 +16487,32 @@ msgstr "埃斯梅拉达"
 #: recursos/0venezuela/datos/0venezuela.py:80
 #: recursos/0venezuela/datos/levels.py:109
 msgid "Güiria"
-msgstr ""
+msgstr "圭里亚"
 
 #: recursos/0venezuela/datos/0venezuela.py:81
 #: recursos/0venezuela/datos/levels.py:110
 msgid "Guasipati"
-msgstr ""
+msgstr "瓜西帕蒂"
 
 #: recursos/0venezuela/datos/0venezuela.py:82
 #: recursos/0venezuela/datos/levels.py:111
 msgid "La Paragua"
-msgstr ""
+msgstr "拉帕拉瓜"
 
 #: recursos/0venezuela/datos/0venezuela.py:84
 #: recursos/0venezuela/datos/levels.py:113
 msgid "Punto Fijo"
-msgstr ""
+msgstr "蓬托菲霍"
 
 #: recursos/0venezuela/datos/0venezuela.py:85
 #: recursos/0venezuela/datos/levels.py:114
 msgid "Riecito"
-msgstr ""
+msgstr "列西托"
 
 #: recursos/0venezuela/datos/0venezuela.py:86
 #: recursos/0venezuela/datos/levels.py:115
 msgid "San Fernando de Atabapo"
-msgstr ""
+msgstr "圣费尔南多·阿塔巴波"
 
 #: recursos/0venezuela/datos/0venezuela.py:87
 #: recursos/0venezuela/datos/levels.py:116
@@ -16525,7 +16527,7 @@ msgstr ""
 #: recursos/0venezuela/datos/0venezuela.py:89
 #: recursos/0venezuela/datos/levels.py:118
 msgid "Tumeremo"
-msgstr ""
+msgstr "图梅雷莫"
 
 #: recursos/0venezuela/datos/0venezuela.py:93
 #: recursos/0venezuela/datos/levels.py:128
@@ -16535,7 +16537,7 @@ msgstr "阿普雷河"
 #: recursos/0venezuela/datos/0venezuela.py:97
 #: recursos/0venezuela/datos/levels.py:132
 msgid "Ventuari River"
-msgstr ""
+msgstr "本图阿里河"
 
 #: recursos/0venezuela/datos/0venezuela.py:99
 #: recursos/0venezuela/datos/levels.py:134
@@ -16555,7 +16557,7 @@ msgstr "马莫雷河"
 #: recursos/0venezuela/datos/0venezuela.py:104
 #: recursos/0venezuela/datos/levels.py:139
 msgid "Reservoir of Sura"
-msgstr ""
+msgstr "苏拉水库"
 
 #: recursos/0venezuela/datos/0venezuela.py:105
 #: recursos/0venezuela/datos/levels.py:140
@@ -16564,32 +16566,33 @@ msgstr "俄亥俄河"
 
 #: recursos/0venezuela/datos/0venezuela.py:106
 msgid "Reservoir de Guarico"
-msgstr ""
+msgstr "瓜里科水库"
 
 #: recursos/0venezuela/datos/0venezuela.py:107
 #: recursos/0venezuela/datos/levels.py:142
 msgid "Lake Valencia"
-msgstr ""
+msgstr "巴伦西亚湖"
 
 #: recursos/0venezuela/datos/0venezuela.py:108
 #: recursos/0venezuela/datos/levels.py:143
 msgid "Lake de Maracaibo"
-msgstr ""
+msgstr "马拉开波湖"
 
 #: recursos/0venezuela/datos/0venezuela.py:109
 #: recursos/0venezuela/datos/levels.py:144
 msgid "Cojedes River"
-msgstr ""
+msgstr "科赫德斯湖"
 
 #: recursos/0venezuela/datos/0venezuela.py:110
 #: recursos/0venezuela/datos/levels.py:145
 msgid "Gulf of Venezuela"
-msgstr ""
+msgstr "委内瑞拉湾"
 
 #: recursos/0venezuela/datos/0venezuela.py:114
 #: recursos/0venezuela/datos/levels.py:149
+#, fuzzy
 msgid "Delta Amacuro River"
-msgstr ""
+msgstr "阿马库罗河"
 
 #: recursos/0venezuela/datos/0venezuela.py:120
 msgid "(10º30' N - 66º58' W)"
@@ -16597,11 +16600,11 @@ msgstr "(西经10º30' - 西经66º58')"
 
 #: recursos/0venezuela/datos/0venezuela.py:123
 msgid "Hugo Chávez Frías"
-msgstr ""
+msgstr "乌戈·查韦斯·弗里亚斯"
 
 #: recursos/0venezuela/datos/0venezuela.py:124
 msgid "Elías Jaua Milano"
-msgstr ""
+msgstr "埃利亚斯·豪阿·米拉诺"
 
 #: recursos/0venezuela/datos/0venezuela.py:126
 msgid "5 of july of 1811"
@@ -16613,15 +16616,15 @@ msgstr "1845年3月30日"
 
 #: recursos/0venezuela/datos/0venezuela.py:128
 msgid "916.445 km² (33th)"
-msgstr "916.445平方公里（第33位）"
+msgstr "916,445平方公里（第33位）"
 
 #: recursos/0venezuela/datos/0venezuela.py:129
 msgid "28.892.735 (41th)"
-msgstr "28.892.735（第41位）"
+msgstr "28,892,735（第41位）"
 
 #: recursos/0venezuela/datos/0venezuela.py:130
 msgid "USD 350.276 billion (31th)"
-msgstr "3502.76亿美元（第31名）"
+msgstr "3,502.76亿美元（第31名）"
 
 #: recursos/0venezuela/datos/0venezuela.py:131
 msgid "High - 0,696 (75th)"
