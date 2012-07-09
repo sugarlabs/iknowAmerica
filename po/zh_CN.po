@@ -7,8 +7,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-05-25 00:32-0400\n"
-"PO-Revision-Date: 2012-07-08 08:16+0200\n"
-"Last-Translator: Xin <dram.wang@gmail.com>\n"
+"PO-Revision-Date: 2012-07-09 02:35+0200\n"
+"Last-Translator: lite <litekok@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
@@ -14789,7 +14789,7 @@ msgstr "西班牙割让给美国"
 
 #: recursos/0prico/datos/0prico.py:191
 msgid "13 of august of 1898 "
-msgstr "1898年8月13日"
+msgstr "1898年8月13日 "
 
 #: recursos/0prico/datos/0prico.py:192
 msgid "9.104 km² (170th)"
@@ -14897,7 +14897,7 @@ msgstr "尤宁岛"
 #: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:25
 #: recursos/0sanvicenteyg/datos/levels.py:28
 msgid "Prune Island"
-msgstr "普鲁岛 "
+msgstr "普鲁岛"
 
 #: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:26
 #: recursos/0sanvicenteyg/datos/levels.py:29
@@ -15033,7 +15033,7 @@ msgstr "瓦尼卡"
 
 #: recursos/0surinam/datos/0surinam.py:12 recursos/0surinam/datos/levels.py:15
 msgid "Commewijne"
-msgstr " 科默韦讷"
+msgstr "科默韦讷"
 
 #: recursos/0surinam/datos/0surinam.py:14 recursos/0surinam/datos/levels.py:17
 msgid "Marowijne"
@@ -15082,7 +15082,7 @@ msgstr "翁弗瓦赫特"
 #: recursos/0surinam/datos/0surinam.py:31 recursos/0surinam/datos/levels.py:37
 #: recursos/0surinam/datos/levels.py:55
 msgid "Totness"
-msgstr " 托特尼斯"
+msgstr "托特尼斯"
 
 #: recursos/0surinam/datos/0surinam.py:35 recursos/0surinam/datos/levels.py:56
 msgid "Anapaike"
@@ -15182,7 +15182,7 @@ msgstr "帕托依米奥河"
 
 #: recursos/0surinam/datos/0surinam.py:65 recursos/0surinam/datos/levels.py:92
 msgid "Tapanahony River"
-msgstr "塔帕纳荷尼河 "
+msgstr "塔帕纳荷尼河"
 
 #: recursos/0surinam/datos/0surinam.py:66 recursos/0surinam/datos/levels.py:93
 msgid "Lucie River"
@@ -15687,7 +15687,7 @@ msgstr "吉琼"
 
 #: recursos/0uruguay/datos/0uruguay.py:70 recursos/0uruguay/datos/levels.py:90
 msgid "J. Batlle y Ordóñez"
-msgstr "何塞－巴特列－奥多涅斯 "
+msgstr "何塞－巴特列－奥多涅斯"
 
 #: recursos/0uruguay/datos/0uruguay.py:71 recursos/0uruguay/datos/levels.py:91
 msgid "J. Pedro Varela"
@@ -16213,17 +16213,16 @@ msgstr "这是部门资本"
 
 #: recursos/0uruguay/datos/levels.py:130
 msgid "Queda en Florida"
-msgstr ""
+msgstr "在佛罗里达"
 
 #: recursos/0uruguay/datos/levels.py:151 recursos/0uruguay/datos/levels.py:154
 #: recursos/0uruguay/datos/levels.py:159
 msgid "Flows in the Uruguay River"
-msgstr "乌拉圭河流量"
+msgstr "流入乌拉圭河"
 
 #: recursos/0uruguay/datos/levels.py:152 recursos/0uruguay/datos/levels.py:167
-#, fuzzy
 msgid "Flows in the Merin Lagoon"
-msgstr "米林湖流量"
+msgstr "流入米林湖"
 
 #: recursos/0uruguay/datos/levels.py:155
 msgid "Has three dams"
@@ -16454,7 +16453,6 @@ msgstr "圭亚那城"
 
 #: recursos/0venezuela/datos/0venezuela.py:74
 #: recursos/0venezuela/datos/levels.py:103
-#, fuzzy
 msgid "Ciudad Pilar"
 msgstr "皮拉尔城"
 
@@ -16476,13 +16474,12 @@ msgstr "埃尔多拉多"
 #: recursos/0venezuela/datos/0venezuela.py:78
 #: recursos/0venezuela/datos/levels.py:107
 msgid "El Jobal"
-msgstr ""
+msgstr "埃尔霍瓦尔"
 
 #: recursos/0venezuela/datos/0venezuela.py:79
 #: recursos/0venezuela/datos/levels.py:108
-#, fuzzy
 msgid "Esmeralda"
-msgstr "埃斯梅拉达"
+msgstr "艾丝米拉达"
 
 #: recursos/0venezuela/datos/0venezuela.py:80
 #: recursos/0venezuela/datos/levels.py:109
@@ -16517,12 +16514,12 @@ msgstr "圣费尔南多·阿塔巴波"
 #: recursos/0venezuela/datos/0venezuela.py:87
 #: recursos/0venezuela/datos/levels.py:116
 msgid "San Juan de Manapiare"
-msgstr ""
+msgstr "圣胡安·马纳皮亚雷"
 
 #: recursos/0venezuela/datos/0venezuela.py:88
 #: recursos/0venezuela/datos/levels.py:117
 msgid "Santa Elena de Uairén"
-msgstr ""
+msgstr "圣埃伦娜"
 
 #: recursos/0venezuela/datos/0venezuela.py:89
 #: recursos/0venezuela/datos/levels.py:118
@@ -16590,9 +16587,8 @@ msgstr "委内瑞拉湾"
 
 #: recursos/0venezuela/datos/0venezuela.py:114
 #: recursos/0venezuela/datos/levels.py:149
-#, fuzzy
 msgid "Delta Amacuro River"
-msgstr "阿马库罗河"
+msgstr "阿马库罗三角洲河"
 
 #: recursos/0venezuela/datos/0venezuela.py:120
 msgid "(10º30' N - 66º58' W)"
@@ -16632,7 +16628,7 @@ msgstr "高 - 0,696（第75名）"
 
 #: recursos/0venezuela/datos/levels.py:141
 msgid "Reservoir of Guarico"
-msgstr ""
+msgstr "瓜里科水库"
 
 #: recursos/comun/datos/commons.py:7
 msgid "Hello friends..."
@@ -16640,13 +16636,10 @@ msgstr "你好朋友..."
 
 # America应当翻译为什么？
 #: recursos/comun/datos/commons.py:8
-#, fuzzy
 msgid ""
 "...tomorrow I have a\n"
 "test about America..."
-msgstr ""
-"...明天我有一堂\n"
-"关于美国人的测试..."
+msgstr "...明天我有一个关于美洲的测试..."
 
 #: recursos/comun/datos/commons.py:9
 msgid "...and I know nothing!!!"
