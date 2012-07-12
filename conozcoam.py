@@ -766,7 +766,7 @@ class ConozcoAm():
                 self.pantalla.fill((20,20,20),
                                 (int(10*scale+shift_x),yLista-int(24*scale),
                                     int(590*scale),int(48*scale)))
-                self.mostrarTexto(unicode(_("<<< Previous page"), "UTF-8"),
+                self.mostrarTexto(unicode("<<< " + _("Previous page"), "UTF-8"),
                                 self.fuente40,
                                 (int(300*scale+shift_x),yLista),
                                 (100,100,200))
@@ -811,7 +811,7 @@ class ConozcoAm():
                                         (int(610*scale+shift_x),
                                             yLista-int(24*scale),
                                             int(590*scale),int(48*scale)))
-                        self.mostrarTexto(unicode(_("Next page >>>"), "UTF-8"),
+                        self.mostrarTexto(unicode(_("Next page") + " >>>", "UTF-8"),
                                         self.fuente40,
                                         (int(900*scale+shift_x),yLista),
                                         (100,100,200))
