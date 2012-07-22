@@ -929,11 +929,11 @@ class ConozcoAm():
         # crear pantalla
         self.anchoPantalla = gtk.gdk.screen_width()
         self.altoPantalla = gtk.gdk.screen_height()
-        # prevent hide zones
-        self.anchoPantalla = self.anchoPantalla - 50
-        self.altoPantalla = self.altoPantalla - 100
         self.pantalla = pygame.display.get_surface()
         if not(self.pantalla):
+            # prevent hide zones
+            self.anchoPantalla = self.anchoPantalla - 50
+            self.altoPantalla = self.altoPantalla - 100
             self.pantalla = pygame.display.set_mode((self.anchoPantalla,
                                                self.altoPantalla))
         pygame.display.flip()
