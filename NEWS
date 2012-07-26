@@ -13,7 +13,7 @@
 
 08/04/12
     Se mergea a 'master' 'perestroika'.
-    El c骴igo queda estable y funcional.
+    El c贸digo queda estable y funcional.
 
 05/04/12
     Se comienza a transformar los datos de los paises al nuevo
@@ -22,58 +22,58 @@
 02/04/12
     Se inicia Perestroika.
     Se cambia todos los .txt a archivos .py para utilizar la 
-        internacionalizaci髇 de GetText.
+        internacionalizaci贸n de GetText.
 
 22/10/11
     Se termina San Vicente y Granadinas.
-    Se corrige una traducci髇.
+    Se corrige una traducci贸n.
 
 12/10/11
     Se agrega a San Vicente y Granadinas.
 
 19/08/11
-    Se corrige problemas con el escalado en m醧uinas distintas a la
+    Se corrige problemas con el escalado en m谩quinas distintas a la
         XO: como por ejemplo, la JumPC. El problema era con la barra
-        de puntajes y de la de avance. Tambi閚 en el texto mostrado
-        durante la presentaci髇.
+        de puntajes y de la de avance. Tambi茅n en el texto mostrado
+        durante la presentaci贸n.
     Se corrige el nombre de 2 provincias de Ecuador.
 
 17/08/11
-    Se termina de traducir las estad韘ticas al ingl閟.
-    Tambi閚 se realizan peque駉s arreglos en otras traducciones.
+    Se termina de traducir las estad铆sticas al ingl茅s.
+    Tambi茅n se realizan peque帽os arreglos en otras traducciones.
 
 07/08/11
     Se agrega: self.max_participants = 1
     
 05/08/11
     Se agrega barra de "avance" que va mostrando el avance del juego.
-    Se agrega im醙en de JP a la pantalla "acerca de".
+    Se agrega im谩gen de JP a la pantalla "acerca de".
 
 04/08/11
-    Se completan las estad韘ticas para todos los pa韘es.
+    Se completan las estad铆sticas para todos los pa铆ses.
 
 02/08/11
     Se cambia "datos.png". Ahora es sustituido por "bandera.png" (que
-        guarda la bandera del pa韘 correspondiente).
-    Se crea "estadisticas.txt". Este archivo guarda informaci髇 que es
+        guarda la bandera del pa铆s correspondiente).
+    Se crea "estadisticas.txt". Este archivo guarda informaci贸n que es
         mostrada en el modo exploro.
 
 01/08/11
-    Se agrega la posibilidad de saltearse, habilitando el bot髇 Regresar,
-        la animaci髇 de la despedida.
-    Cuando uno se equivocaba, mostraba la ayuda pero no volv韆 a mostrar
+    Se agrega la posibilidad de saltearse, habilitando el bot贸n Regresar,
+        la animaci贸n de la despedida.
+    Cuando uno se equivocaba, mostraba la ayuda pero no volv铆a a mostrar
         la pregunta. Ahora muestra la pregunta y debajo muestra la
         ayuda.
 
 31/07/11
-    Se agrega bot髇 "Mostrar todo" en el modo explorar.
+    Se agrega bot贸n "Mostrar todo" en el modo explorar.
 
 22/07/11
     Iniciando el GIT
 
 21/07/11
-    Se cambia la internacionalizaci髇. Dentro de 'datos' se crea una
-        carpeta para cada idioma ('es' para espa駉l... 'en' para ingl閟).
+    Se cambia la internacionalizaci贸n. Dentro de 'datos' se crea una
+        carpeta para cada idioma ('es' para espa帽ol... 'en' para ingl茅s).
 
 17/07/11
     Se terminan los niveles.txt de todos los paises.
@@ -82,64 +82,64 @@
 10/07/11
     Se agrega la posibilidad de no tener los archivos: "cuchillas.png",
         "cuchillasDetectar.png" y "cuchillas.txt". Esto libera algo de
-        espacio innecesario, ya que Conozco Am閞ica 1 solo tiene la
-        informaci髇 de relieve de Uruguay. Se hace lo mismo con "rios"
+        espacio innecesario, ya que Conozco Am茅rica 1 solo tiene la
+        informaci贸n de relieve de Uruguay. Se hace lo mismo con "rios"
         y "rutas". Se borran 11 archivos y se liberan 553 kb.
 
 09/07/11
-    Se arregla bug que en caso de m鷏tiples instancias de la actividad,
-        al intentar saltear la presentaci髇 se generaba un error (el
+    Se arregla bug que en caso de m煤ltiples instancias de la actividad,
+        al intentar saltear la presentaci贸n se generaba un error (el
         problema de los efectos de sonido).
-    Se arregla bug en el modo juego: si uno hac韆 click r醦idamente en
-        la misma respuesta, sumaba puntos "dem醩".
-    Se crea una mini-animaci髇 para la despedida.
+    Se arregla bug en el modo juego: si uno hac铆a click r谩pidamente en
+        la misma respuesta, sumaba puntos "dem谩s".
+    Se crea una mini-animaci贸n para la despedida.
 
 08/07/11
     Se agregan las escalas correspondientes a cada mapa.
-    Se prueba la internacionalizaci髇 con 閤ito. Pero requiere corregir
-        detalles (codificaci髇).
+    Se prueba la internacionalizaci贸n con 茅xito. Pero requiere corregir
+        detalles (codificaci贸n).
 
 06/07/11
-    Se quita la "doble penalizaci髇" en el puntaje. Si se acierta de una:
+    Se quita la "doble penalizaci贸n" en el puntaje. Si se acierta de una:
         10 puntos. En caso de incorrecta, se muestra ayuda y si acierta
         en esa segunda oportunidad, suma 5 y si erra, siguiente pregunta.
 
 12/06/11
-    Se sacan las estrellitas y se crea una barra de puntajes. En funci髇 de
+    Se sacan las estrellitas y se crea una barra de puntajes. En funci贸n de
         esto, se cambia la forma de jugar. Se hace una pregunta, en caso de
         acierto, suma 10 puntos; en caso de incorrecta, se restan 2 y se muestra
         la ayuda y en caso de acierto se suma 5 y en caso de fallar nuevamente,
         se hace otra pregunta.
     Se modifica el codigo (y niveles.txt) para 2 tipos de despedidas, una en
-        caso de haber logrado el puntaje m醲imo, y una para los dem醩.
+        caso de haber logrado el puntaje m谩ximo, y una para los dem谩s.
 
 08/06/11
-    Se agrega im醙en distinta para capital nacional, para diferenciarla
+    Se agrega im谩gen distinta para capital nacional, para diferenciarla
         de una capital departamental (o provincial, o estatal).
 
 07/06/11
     Se termina de agregar los puntos cardinales.
 
 20/05/11
-    Se realiza revisi髇 general de etiquetas de departamentos y ciudades.
+    Se realiza revisi贸n general de etiquetas de departamentos y ciudades.
 
 18/05/11
     Prueba de lineas marrones en lugar de negras, mejora visibilidad.
-    Se cambia tama駉 y color de fuente de departamentos.
-    Se modifica la librer韆 olpcgames para que no se cree una entrada en
+    Se cambia tama帽o y color de fuente de departamentos.
+    Se modifica la librer铆a olpcgames para que no se cree una entrada en
         el diario cuando se usa la actividad (para evitar basura).
 
 21/04/11
-    Casi listo... recta final... Para versi髇 1.
+    Casi listo... recta final... Para versi贸n 1.
 
 19/02/11
-    Prueba internacionalizaci髇. Problema con tildes dentro del c骴igo.
-        Fallas con la codificaci髇. Se descarta internacionalizar
-        (moment醤eamente).
+    Prueba internacionalizaci贸n. Problema con tildes dentro del c贸digo.
+        Fallas con la codificaci贸n. Se descarta internacionalizar
+        (moment谩neamente).
 
 21/12/10
     Prueba de algunos mapas.
-    Arreglo del sonido para m鷏tiples instancias de la actividad y/o
+    Arreglo del sonido para m煤ltiples instancias de la actividad y/o
         para cuando hay otra actividad usando el sonido.
 
 06/09/10
