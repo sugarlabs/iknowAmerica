@@ -30,7 +30,7 @@ import pygame
 import gtk
 import time
 import imp
-from gettext import gettext as _
+import gettext
 
 # constantes
 RADIO = 10
@@ -919,7 +919,12 @@ class ConozcoAm():
         return imagen
 
     def __init__(self):
-        pass
+        bundle_id = 'org.ceibaljam.conozcoamerica'
+        path = os.path.abspath('./locale')
+        gettext.bindtextdomain(bundle_id, path)
+        gettext.textdomain(bundle_id)
+        global _
+        _ = gettext.gettext
 
 
     def loadAll(self):
