@@ -6,8 +6,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-05-25 00:32-0400\n"
-"PO-Revision-Date: 2012-06-20 14:04+0200\n"
+"POT-Creation-Date: 2012-07-13 19:26-0400\n"
+"PO-Revision-Date: 2012-07-22 13:39+0200\n"
 "Last-Translator: Aputsiaq Niels <aj@isit.gl>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: da\n"
@@ -149,7 +149,7 @@ msgstr "Tryk en tast for at gå tilbage"
 
 #: conozcoam.py:642
 msgid "You have chosen the map "
-msgstr "Du har valgt kortet"
+msgstr "Du har valgt kortet "
 
 #: conozcoam.py:648
 msgid "Play"
@@ -172,12 +172,12 @@ msgid "Choose the map to use"
 msgstr "Vælg kortet som skal anvendes"
 
 #: conozcoam.py:769
-msgid "<<< Previous page"
-msgstr "<<< Forrige side"
+msgid "Previous page"
+msgstr "Forrige side"
 
 #: conozcoam.py:814
-msgid "Next page >>>"
-msgstr "Næste side >>>"
+msgid "Next page"
+msgstr "Næste side"
 
 #: conozcoam.py:835
 msgid "Exit"
@@ -2931,8 +2931,9 @@ msgstr ""
 #: recursos/0mexico/datos/0mexico.py:22 recursos/0mexico/datos/0mexico.py:50
 #: recursos/0mexico/datos/0mexico.py:137 recursos/0mexico/datos/levels.py:25
 #: recursos/0mexico/datos/levels.py:50 recursos/0mexico/datos/levels.py:91
+#, fuzzy
 msgid "México"
-msgstr ""
+msgstr "Mexico"
 
 #: recursos/0adelnorte/datos/0adelnorte.py:18
 msgid "Russia"
@@ -3097,8 +3098,9 @@ msgstr ""
 #: recursos/0adelnorte/datos/levels.py:50
 #: recursos/0eunidos/datos/0eunidos.py:81 recursos/0eunidos/datos/levels.py:82
 #: recursos/0eunidos/datos/levels.py:140
+#, fuzzy
 msgid "Columbus"
-msgstr ""
+msgstr "Colombia"
 
 #: recursos/0adelnorte/datos/0adelnorte.py:53
 #: recursos/0adelnorte/datos/levels.py:51
@@ -5869,7 +5871,7 @@ msgstr ""
 #: recursos/0belice/datos/0belice.py:46 recursos/0belice/datos/levels.py:64
 #, fuzzy
 msgid "Independence"
-msgstr "Uafhængighed:"
+msgstr "Uafhængighed"
 
 #: recursos/0belice/datos/0belice.py:47 recursos/0belice/datos/levels.py:65
 msgid "Jalacte"
@@ -6045,7 +6047,7 @@ msgstr "Monark:"
 #: recursos/0jamaica/datos/0jamaica.py:93
 #: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:59
 msgid "Queen Elizabeth II"
-msgstr "Dronning Elizabeth 2."
+msgstr "Dronning Elizabeth 2"
 
 #: recursos/0belice/datos/0belice.py:99 recursos/0canada/datos/0canada.py:115
 #: recursos/0jamaica/datos/0jamaica.py:94 recursos/0prico/datos/0prico.py:189
@@ -6681,8 +6683,9 @@ msgid "Oiapoque"
 msgstr ""
 
 #: recursos/0brasil/datos/0brasil.py:99 recursos/0brasil/datos/levels.py:129
+#, fuzzy
 msgid "Panorama"
-msgstr ""
+msgstr "Panama"
 
 #: recursos/0brasil/datos/0brasil.py:100 recursos/0brasil/datos/levels.py:130
 msgid "Parnaiba"
@@ -7021,9 +7024,8 @@ msgid "GPD:"
 msgstr ""
 
 #: recursos/0canada/datos/0canada.py:121
-#, fuzzy
 msgid "USD 1.996.753 billion (13th)"
-msgstr "USD 2.046 milliarder (166.)"
+msgstr "USD 1.996.753 milliarder (13.)"
 
 #: recursos/0canada/datos/0canada.py:122
 msgid "Very high - 0,888 (8th)"
@@ -7143,9 +7145,8 @@ msgid "USD 276.338 billion (43rd)"
 msgstr ""
 
 #: recursos/0chile/datos/0chile.py:56
-#, fuzzy
 msgid "High - 0,783 (45th)"
-msgstr "Høj - 0,775 (46.)"
+msgstr "Høj - 0,783 (45.)"
 
 #: recursos/0chile/datos/explorations.py:6 recursos/0chile/datos/levels.py:7
 #: recursos/0guyana/datos/explorations.py:6 recursos/0guyana/datos/levels.py:7
@@ -7672,9 +7673,8 @@ msgid "Arauca River"
 msgstr ""
 
 #: recursos/0colombia/datos/0colombia.py:135
-#, fuzzy
 msgid "(4º39' N - 74º3' W)"
-msgstr "(45º24' N - 75º40' V)"
+msgstr "(4º39' N - 74º3' V)"
 
 #: recursos/0colombia/datos/0colombia.py:138
 msgid "Juan Manuel Santos"
@@ -7685,14 +7685,12 @@ msgid "Angelino Garzón"
 msgstr ""
 
 #: recursos/0colombia/datos/0colombia.py:141
-#, fuzzy
 msgid "20 of july of 1810"
-msgstr "9. juli 1816"
+msgstr "20. juli 1810"
 
 #: recursos/0colombia/datos/0colombia.py:142
-#, fuzzy
 msgid "7 of august of 1819"
-msgstr "6. august 1825"
+msgstr "7. august 1819"
 
 #: recursos/0colombia/datos/0colombia.py:143
 msgid "1.141.748 km² (26th)"
@@ -7703,14 +7701,12 @@ msgid "45.925.397 (28th)"
 msgstr ""
 
 #: recursos/0colombia/datos/0colombia.py:145
-#, fuzzy
 msgid "USD 404.995 billion (27th)"
-msgstr "USD 47.980 milliarder (87.)"
+msgstr "USD 404.995 milliarder (27.)"
 
 #: recursos/0colombia/datos/0colombia.py:146
-#, fuzzy
 msgid "High - 0,689 (79th)"
-msgstr "Høj - 0,699 (73.)"
+msgstr "Høj - 0,689 (79.)"
 
 #: recursos/0costarica/datos/0costarica.py:8
 #: recursos/0costarica/datos/levels.py:11
@@ -7853,8 +7849,9 @@ msgstr ""
 
 #: recursos/0costarica/datos/0costarica.py:50
 #: recursos/0costarica/datos/levels.py:70
+#, fuzzy
 msgid "Dominical"
-msgstr ""
+msgstr "Den dominikanske republik"
 
 #: recursos/0costarica/datos/0costarica.py:51
 #: recursos/0costarica/datos/levels.py:71
@@ -8054,8 +8051,9 @@ msgstr ""
 
 #: recursos/0costarica/datos/0costarica.py:90
 #: recursos/0costarica/datos/levels.py:110
+#, fuzzy
 msgid "Puerto Viejo"
-msgstr ""
+msgstr "Puerto Rico"
 
 #: recursos/0costarica/datos/0costarica.py:91
 #: recursos/0costarica/datos/levels.py:111
@@ -8297,9 +8295,8 @@ msgstr ""
 #: recursos/0guatemala/datos/0guatemala.py:161
 #: recursos/0honduras/datos/0honduras.py:132
 #: recursos/0nicaragua/datos/0nicaragua.py:139
-#, fuzzy
 msgid "15 of september of 1821"
-msgstr "7. september 1822"
+msgstr "15. september 1821"
 
 #: recursos/0costarica/datos/0costarica.py:156
 msgid "51.100 km² (129th)"
@@ -8310,14 +8307,12 @@ msgid "4.615.518 (115th)"
 msgstr ""
 
 #: recursos/0costarica/datos/0costarica.py:158
-#, fuzzy
 msgid "USD 52.885 billion (84th)"
-msgstr "USD 47.980 milliarder (87.)"
+msgstr "USD 52.885 milliarder (84.)"
 
 #: recursos/0costarica/datos/0costarica.py:159
-#, fuzzy
 msgid "High - 0,725 (62th)"
-msgstr "Høj - 0,775 (46.)"
+msgstr "Høj - 0,725 (62.)"
 
 #: recursos/0costarica/datos/0costarica.py:160
 msgid "Costa Rica Colon"
@@ -8499,9 +8494,8 @@ msgid "Santa Cruz del Sur"
 msgstr ""
 
 #: recursos/0cuba/datos/0cuba.py:83
-#, fuzzy
 msgid "(23º80' N - 82º23' W)"
-msgstr "(45º24' N - 75º40' V)"
+msgstr "(23º80' N - 82º23' V)"
 
 #: recursos/0cuba/datos/0cuba.py:85
 msgid "Communist state"
@@ -8520,9 +8514,8 @@ msgid "from United States"
 msgstr ""
 
 #: recursos/0cuba/datos/0cuba.py:89
-#, fuzzy
 msgid "20 of may of 1902"
-msgstr "9. juli 1816"
+msgstr "20. maj 1902"
 
 #: recursos/0cuba/datos/0cuba.py:90
 msgid "110.860 km² (105th)"
@@ -8533,14 +8526,12 @@ msgid "11.242.621 (71th)"
 msgstr ""
 
 #: recursos/0cuba/datos/0cuba.py:92
-#, fuzzy
 msgid "USD 110.800 billion (65th)"
-msgstr "USD 47.980 milliarder (87.)"
+msgstr "USD 110.800 milliarder (65.)"
 
 #: recursos/0cuba/datos/0cuba.py:93
-#, fuzzy
 msgid "High - 0,760 (53th)"
-msgstr "Høj - 0,775 (46.)"
+msgstr "Høj - 0,760 (53.)"
 
 #: recursos/0cuba/datos/0cuba.py:94
 msgid "Cuban peso"
@@ -8606,7 +8597,7 @@ msgstr ""
 #: recursos/0dominicana/datos/levels.py:21
 #, fuzzy
 msgid "Independencia"
-msgstr "Uafhængighed:"
+msgstr "Uafhængighed"
 
 #: recursos/0dominicana/datos/0dominicana.py:19
 #: recursos/0dominicana/datos/levels.py:22
@@ -8723,8 +8714,9 @@ msgid "San José de Ocoa"
 msgstr ""
 
 #: recursos/0dominicana/datos/0dominicana.py:40
+#, fuzzy
 msgid "Haití"
-msgstr ""
+msgstr "Haiti"
 
 #: recursos/0dominicana/datos/0dominicana.py:41
 msgid "Beata Island"
@@ -8953,9 +8945,8 @@ msgid "Iguamo River"
 msgstr ""
 
 #: recursos/0dominicana/datos/0dominicana.py:113
-#, fuzzy
 msgid "(18º28' N - 69º54' W)"
-msgstr "(45º24' N - 75º40' V)"
+msgstr "(18º28' N - 69º54' V)"
 
 #: recursos/0dominicana/datos/0dominicana.py:116
 msgid "Leonel Fernández"
@@ -8982,14 +8973,12 @@ msgid "10.090.000 (80th)"
 msgstr ""
 
 #: recursos/0dominicana/datos/0dominicana.py:122
-#, fuzzy
 msgid "USD 93.095 billion (71th)"
-msgstr "USD 47.980 milliarder (87.)"
+msgstr "USD 93.095 milliarder (71.)"
 
 #: recursos/0dominicana/datos/0dominicana.py:123
-#, fuzzy
 msgid "Medium - 0,783 (88th)"
-msgstr "Mellem - 0,643 (95.)"
+msgstr "Mellem - 0,783 (88.)"
 
 #: recursos/0dominicana/datos/levels.py:148
 msgid "Lake Enriquillo"
@@ -9508,9 +9497,8 @@ msgid "Lenín Moreno"
 msgstr ""
 
 #: recursos/0ecuador/datos/0ecuador.py:146
-#, fuzzy
 msgid "24 of may of 1822"
-msgstr "9. juli 1816"
+msgstr "24. maj 1822"
 
 #: recursos/0ecuador/datos/0ecuador.py:147
 msgid "of Colombia: 13 may of 1830"
@@ -9525,14 +9513,12 @@ msgid "14.306.876 (--th)"
 msgstr ""
 
 #: recursos/0ecuador/datos/0ecuador.py:150
-#, fuzzy
 msgid "USD 119.827 billion (--th)"
-msgstr "USD 47.980 milliarder (87.)"
+msgstr "USD 119.827 milliarder (--.)"
 
 #: recursos/0ecuador/datos/0ecuador.py:151
-#, fuzzy
 msgid "High - 0,695 (77th)"
-msgstr "Høj - 0,694 (78.)"
+msgstr "Høj - 0,695 (77.)"
 
 #: recursos/0ecuador/datos/0ecuador.py:152
 #: recursos/0elsalvador/datos/0elsalvador.py:111
@@ -9865,9 +9851,8 @@ msgid "Cerrón Grande Reservoir"
 msgstr ""
 
 #: recursos/0elsalvador/datos/0elsalvador.py:99
-#, fuzzy
 msgid "(13º40' N - 89º10' W)"
-msgstr "(45º24' N - 75º40' V)"
+msgstr "(13º40' N - 89º10' V)"
 
 #: recursos/0elsalvador/datos/0elsalvador.py:102
 msgid "Mauricio Funes"
@@ -9890,14 +9875,12 @@ msgid "5.744.113 (97th)"
 msgstr ""
 
 #: recursos/0elsalvador/datos/0elsalvador.py:109
-#, fuzzy
 msgid "USD 11.145 billion (88th)"
-msgstr "USD 47.980 milliarder (87.)"
+msgstr "USD 11.145 milliarder (88.)"
 
 #: recursos/0elsalvador/datos/0elsalvador.py:110
-#, fuzzy
 msgid "Medium - 0,659 (90th)"
-msgstr "Mellem - 0,643 (95.)"
+msgstr "Mellem - 0,659 (90.)"
 
 #: recursos/0elsalvador/datos/levels.py:38
 #: recursos/0elsalvador/datos/levels.py:61
@@ -10139,8 +10122,9 @@ msgstr ""
 
 #: recursos/0eunidos/datos/0eunidos.py:80 recursos/0eunidos/datos/levels.py:81
 #: recursos/0eunidos/datos/levels.py:139
+#, fuzzy
 msgid "Columbia"
-msgstr ""
+msgstr "Colombia"
 
 #: recursos/0eunidos/datos/0eunidos.py:82 recursos/0eunidos/datos/levels.py:83
 #: recursos/0eunidos/datos/levels.py:141
@@ -10349,9 +10333,8 @@ msgid "Williston"
 msgstr ""
 
 #: recursos/0eunidos/datos/0eunidos.py:177
-#, fuzzy
 msgid "(38º53' N - 77º02' W)"
-msgstr "(45º24' N - 75º40' V)"
+msgstr "(38º53' N - 77º02' V)"
 
 #: recursos/0eunidos/datos/0eunidos.py:180 recursos/0prico/datos/0prico.py:188
 msgid "Barack Obama"
@@ -10366,14 +10349,12 @@ msgid "from Great Britain"
 msgstr ""
 
 #: recursos/0eunidos/datos/0eunidos.py:183
-#, fuzzy
 msgid "4 of july of 1776"
-msgstr "9. juli 1816"
+msgstr "4. juli 1776"
 
 #: recursos/0eunidos/datos/0eunidos.py:184
-#, fuzzy
 msgid "3 of september of 1783"
-msgstr "21. september 1981"
+msgstr "3. september 1783"
 
 #: recursos/0eunidos/datos/0eunidos.py:185
 msgid "9.826.675 km² (3rd)"
@@ -10920,9 +10901,8 @@ msgid "Perdida Lagoon"
 msgstr ""
 
 #: recursos/0guatemala/datos/0guatemala.py:155
-#, fuzzy
 msgid "(14º38' N - 90º33' W)"
-msgstr "(45º24' N - 75º40' V)"
+msgstr "(14º38' N - 90º33' V)"
 
 #: recursos/0guatemala/datos/0guatemala.py:158
 msgid "Otto Pérez Molina"
@@ -10933,9 +10913,8 @@ msgid "Roxana Baldetti"
 msgstr ""
 
 #: recursos/0guatemala/datos/0guatemala.py:162
-#, fuzzy
 msgid "11 of october of 1825"
-msgstr "11. december 1931"
+msgstr "11. oktober 1825"
 
 #: recursos/0guatemala/datos/0guatemala.py:163
 msgid "108.889 km² (106th)"
@@ -10946,14 +10925,12 @@ msgid "13.718.000 (67th)"
 msgstr ""
 
 #: recursos/0guatemala/datos/0guatemala.py:165
-#, fuzzy
 msgid "USD 73.022 billion (79th)"
-msgstr "USD 2.046 milliarder (166.)"
+msgstr "USD 73.022 milliarder (79.)"
 
 #: recursos/0guatemala/datos/0guatemala.py:166
-#, fuzzy
 msgid "Medium - 0,560 (116th)"
-msgstr "Mellem - 0,643 (95.)"
+msgstr "Mellem - 0,560 (116.)"
 
 #: recursos/0guatemala/datos/0guatemala.py:167
 msgid "Quetzal"
@@ -10962,7 +10939,7 @@ msgstr ""
 #: recursos/0guatemala/datos/levels.py:114
 #, fuzzy
 msgid "Is in the center "
-msgstr "Er i centrummet"
+msgstr "Er i centrummet "
 
 #: recursos/0guatemala/datos/levels.py:181
 msgid "Lake Izabal River"
@@ -11162,9 +11139,8 @@ msgid "Lawa River"
 msgstr ""
 
 #: recursos/0guayanafr/datos/0guayanafr.py:66
-#, fuzzy
 msgid "(4º56' N - 52º19' W)"
-msgstr "(45º24' N - 75º40' V)"
+msgstr "(4º56' N - 52º19' V)"
 
 #: recursos/0guayanafr/datos/0guayanafr.py:68
 msgid "Overseas department"
@@ -11184,9 +11160,8 @@ msgid "230.000 (187th)"
 msgstr ""
 
 #: recursos/0guayanafr/datos/0guayanafr.py:72
-#, fuzzy
 msgid "USD 1.151 billion (181th)"
-msgstr "USD 2.046 milliarder (166.)"
+msgstr "USD 1.151 milliarder (181.)"
 
 #: recursos/0guayanafr/datos/0guayanafr.py:73
 msgid "-- (--th)"
@@ -11420,9 +11395,8 @@ msgid "Barima River"
 msgstr ""
 
 #: recursos/0guyana/datos/0guyana.py:83
-#, fuzzy
 msgid "(6º49' N - 58º9' W)"
-msgstr "(45º24' N - 75º40' V)"
+msgstr "(6º49' N - 58º9' V)"
 
 #: recursos/0guyana/datos/0guyana.py:85
 #, fuzzy
@@ -11442,9 +11416,8 @@ msgid "Sam Hinds"
 msgstr ""
 
 #: recursos/0guyana/datos/0guyana.py:89
-#, fuzzy
 msgid "26 of may of 1966"
-msgstr "9. juli 1816"
+msgstr "26. maj 1966"
 
 #: recursos/0guyana/datos/0guyana.py:90
 msgid "214.970 km² (81th)"
@@ -11455,14 +11428,12 @@ msgid "784.894 (161th)"
 msgstr ""
 
 #: recursos/0guyana/datos/0guyana.py:92
-#, fuzzy
 msgid "USD 3.082 billion (158th)"
-msgstr "USD 2.046 milliarder (166.)"
+msgstr "USD 3.082 milliarder (158.)"
 
 #: recursos/0guyana/datos/0guyana.py:93
-#, fuzzy
 msgid "Medium - 0,611 (104th)"
-msgstr "Mellem - 0,643 (95.)"
+msgstr "Mellem - 0,611 (104.)"
 
 #: recursos/0guyana/datos/0guyana.py:94
 msgid "Guyanese dollar"
@@ -11784,9 +11755,8 @@ msgid "9.800.000 (90th)"
 msgstr ""
 
 #: recursos/0haiti/datos/0haiti.py:108
-#, fuzzy
 msgid "USD 11.056 billion (138th)"
-msgstr "USD 2.046 milliarder (166.)"
+msgstr "USD 11.056 milliarder (138.)"
 
 #: recursos/0haiti/datos/0haiti.py:109
 msgid "Low - 0,404 (145th)"
@@ -12062,8 +12032,9 @@ msgstr ""
 
 #: recursos/0honduras/datos/0honduras.py:86
 #: recursos/0honduras/datos/levels.py:110
+#, fuzzy
 msgid "Pueblo Viejo"
-msgstr ""
+msgstr "Puerto Rico"
 
 #: recursos/0honduras/datos/0honduras.py:89
 #: recursos/0honduras/datos/levels.py:113 recursos/0prico/datos/0prico.py:67
@@ -12205,18 +12176,16 @@ msgid "Gulf of Fonseca"
 msgstr ""
 
 #: recursos/0honduras/datos/0honduras.py:127
-#, fuzzy
 msgid "(14º6' N - 87º13' W)"
-msgstr "(45º24' N - 75º40' V)"
+msgstr "(14º6' N - 87º13' V)"
 
 #: recursos/0honduras/datos/0honduras.py:130
 msgid "Porfirio Lobo"
 msgstr ""
 
 #: recursos/0honduras/datos/0honduras.py:133
-#, fuzzy
 msgid "11 of december of 1825"
-msgstr "11. december 1931"
+msgstr "11. december 1825"
 
 #: recursos/0honduras/datos/0honduras.py:134
 msgid "112.492 km² (102th)"
@@ -12227,14 +12196,12 @@ msgid "8.144.000 (93th)"
 msgstr ""
 
 #: recursos/0honduras/datos/0honduras.py:136
-#, fuzzy
 msgid "USD 35.173 billion (98th)"
-msgstr "USD 47.980 milliarder (87.)"
+msgstr "USD 35.173 milliarder (98.)"
 
 #: recursos/0honduras/datos/0honduras.py:137
-#, fuzzy
 msgid "Medium - 0,604 (106th)"
-msgstr "Mellem - 0,643 (95.)"
+msgstr "Mellem - 0,604 (106.)"
 
 #: recursos/0jamaica/datos/0jamaica.py:8 recursos/0jamaica/datos/levels.py:11
 msgid "Hanover"
@@ -12500,9 +12467,8 @@ msgid "Cobre River"
 msgstr ""
 
 #: recursos/0jamaica/datos/0jamaica.py:90
-#, fuzzy
 msgid "(17º59' N - 76º48' W)"
-msgstr "(45º24' N - 75º40' V)"
+msgstr "(17º59' N - 76º48' V)"
 
 #: recursos/0jamaica/datos/0jamaica.py:92
 #: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:58
@@ -12514,9 +12480,8 @@ msgid "Patrick Allen"
 msgstr ""
 
 #: recursos/0jamaica/datos/0jamaica.py:96
-#, fuzzy
 msgid "6 of august of 1962"
-msgstr "6. august 1825"
+msgstr "6. august 1962"
 
 #: recursos/0jamaica/datos/0jamaica.py:97
 msgid "10.991 km² (166th)"
@@ -12527,14 +12492,12 @@ msgid "2.735.520 (131st)"
 msgstr ""
 
 #: recursos/0jamaica/datos/0jamaica.py:99
-#, fuzzy
 msgid "USD 11.690 billion (131st)"
-msgstr "USD 2.046 milliarder (166.)"
+msgstr "USD 11.690 milliarder (131.)"
 
 #: recursos/0jamaica/datos/0jamaica.py:100
-#, fuzzy
 msgid "High - 0,688 (80th)"
-msgstr "Høj - 0,694 (78.)"
+msgstr "Høj - 0,688 (80.)"
 
 #: recursos/0jamaica/datos/0jamaica.py:101
 msgid "Jamaican dollar"
@@ -12869,9 +12832,8 @@ msgid "Gulf of México"
 msgstr ""
 
 #: recursos/0mexico/datos/0mexico.py:137
-#, fuzzy
 msgid "(19º26' N - 99º08' W)"
-msgstr "(45º24' N - 75º40' V)"
+msgstr "(19º26' N - 99º08' V)"
 
 #: recursos/0mexico/datos/0mexico.py:139
 #: recursos/0venezuela/datos/0venezuela.py:122
@@ -12883,14 +12845,12 @@ msgid "Felipe Calderón Hinojosa"
 msgstr ""
 
 #: recursos/0mexico/datos/0mexico.py:142
-#, fuzzy
 msgid "16 of september of 1810"
-msgstr "7. september 1822"
+msgstr "16. september 1810"
 
 #: recursos/0mexico/datos/0mexico.py:143
-#, fuzzy
 msgid "28 of december of 1836"
-msgstr "11. december 1931"
+msgstr "28. december 1836"
 
 #: recursos/0mexico/datos/0mexico.py:144
 msgid "1.972.550 km² (14th)"
@@ -12901,14 +12861,12 @@ msgid "112.322.757 (11th)"
 msgstr ""
 
 #: recursos/0mexico/datos/0mexico.py:146
-#, fuzzy
 msgid "USD 1.658.197 billion (11th)"
-msgstr "USD 2.046 milliarder (166.)"
+msgstr "USD 1.658.197 milliarder (11.)"
 
 #: recursos/0mexico/datos/0mexico.py:147
-#, fuzzy
 msgid "High - 0,750 (56th)"
-msgstr "Høj - 0,775 (46.)"
+msgstr "Høj - 0,750 (56.)"
 
 #: recursos/0nicaragua/datos/0nicaragua.py:8
 #: recursos/0nicaragua/datos/0nicaragua.py:34
@@ -13373,9 +13331,8 @@ msgid "Punta Gorda Bay"
 msgstr ""
 
 #: recursos/0nicaragua/datos/0nicaragua.py:134
-#, fuzzy
 msgid "(13º0' N - 85º0' W)"
-msgstr "(45º24' N - 75º40' V)"
+msgstr "(13º0' N - 85º0' V)"
 
 #: recursos/0nicaragua/datos/0nicaragua.py:137
 msgid "Daniel Ortega Saavedra"
@@ -13394,18 +13351,17 @@ msgid "5.465.100 (108th)"
 msgstr ""
 
 #: recursos/0nicaragua/datos/0nicaragua.py:143
-#, fuzzy
 msgid "USD 18.533 billion (123th)"
-msgstr "USD 2.046 milliarder (166.)"
+msgstr "USD 18.533 milliarder (123.)"
 
 #: recursos/0nicaragua/datos/0nicaragua.py:144
-#, fuzzy
 msgid "Medium - 0,565 (115th)"
-msgstr "Mellem - 0,643 (95.)"
+msgstr "Mellem - 0,565 (115.)"
 
 #: recursos/0panama/datos/0panama.py:5
+#, fuzzy
 msgid "Panama"
-msgstr ""
+msgstr "Panama"
 
 #: recursos/0panama/datos/0panama.py:8 recursos/0panama/datos/0panama.py:26
 #: recursos/0panama/datos/levels.py:11 recursos/0panama/datos/levels.py:31
@@ -13623,9 +13579,8 @@ msgid "Gulf of the Mosquitos"
 msgstr ""
 
 #: recursos/0panama/datos/0panama.py:89
-#, fuzzy
 msgid "(8º58' N - 79º32' W)"
-msgstr "(45º24' N - 75º40' V)"
+msgstr "(8º58' N - 79º32' V)"
 
 #: recursos/0panama/datos/0panama.py:92
 msgid "Ricardo Martinelli"
@@ -13636,18 +13591,16 @@ msgid "Juan Carlos Varela"
 msgstr ""
 
 #: recursos/0panama/datos/0panama.py:95
-#, fuzzy
 msgid "28 of november of 1821"
-msgstr "11. december 1931"
+msgstr "28. november 1821"
 
 #: recursos/0panama/datos/0panama.py:96
 msgid "from Colombia:"
 msgstr ""
 
 #: recursos/0panama/datos/0panama.py:96
-#, fuzzy
 msgid "3 of november of 1903"
-msgstr "11. december 1931"
+msgstr "3. november 1903"
 
 #: recursos/0panama/datos/0panama.py:97
 msgid "78.200 km² (118th)"
@@ -13658,14 +13611,12 @@ msgid "3.405.813 (129th)"
 msgstr ""
 
 #: recursos/0panama/datos/0panama.py:99
-#, fuzzy
 msgid "USD 48.804 billion (85th)"
-msgstr "USD 47.980 milliarder (87.)"
+msgstr "USD 48.804 milliarder (85.)"
 
 #: recursos/0panama/datos/0panama.py:100
-#, fuzzy
 msgid "High - 0,755 (54th)"
-msgstr "Høj - 0,775 (46.)"
+msgstr "Høj - 0,755 (54.)"
 
 #: recursos/0paraguay/datos/0paraguay.py:8
 #: recursos/0paraguay/datos/levels.py:11
@@ -14020,14 +13971,12 @@ msgid "Federico Franco"
 msgstr ""
 
 #: recursos/0paraguay/datos/0paraguay.py:114
-#, fuzzy
 msgid "15 of may of 1811"
-msgstr "9. juli 1816"
+msgstr "15. maj 1811"
 
 #: recursos/0paraguay/datos/0paraguay.py:115
-#, fuzzy
 msgid "10 of september of 1880"
-msgstr "7. september 1822"
+msgstr "10. september 1880"
 
 #: recursos/0paraguay/datos/0paraguay.py:116
 msgid "406.752 km² (59th)"
@@ -14038,14 +13987,12 @@ msgid "6.459.000 (103th)"
 msgstr ""
 
 #: recursos/0paraguay/datos/0paraguay.py:118
-#, fuzzy
 msgid "USD 30.943 billion (102th)"
-msgstr "USD 2.046 milliarder (166.)"
+msgstr "USD 30.943 milliarder (102.)"
 
 #: recursos/0paraguay/datos/0paraguay.py:119
-#, fuzzy
 msgid "Medium - 0,640 (96th)"
-msgstr "Mellem - 0,643 (95.)"
+msgstr "Mellem - 0,640 (96.)"
 
 #: recursos/0paraguay/datos/levels.py:126
 msgid "Queda en el sureste"
@@ -14387,14 +14334,12 @@ msgid "Oscar Valdés Dancuart"
 msgstr ""
 
 #: recursos/0peru/datos/0peru.py:140
-#, fuzzy
 msgid "28 of july of 1821"
-msgstr "21. juli 1847"
+msgstr "28. juli 1821"
 
 #: recursos/0peru/datos/0peru.py:141
-#, fuzzy
 msgid "14 of august of 1879"
-msgstr "6. august 1825"
+msgstr "14. august 1879"
 
 #: recursos/0peru/datos/0peru.py:142
 msgid "1.285.216 km² (20th)"
@@ -14405,14 +14350,12 @@ msgid "30.165.000 (40th)"
 msgstr ""
 
 #: recursos/0peru/datos/0peru.py:144
-#, fuzzy
 msgid "USD 299.648 billion (41th)"
-msgstr "USD 47.980 milliarder (87.)"
+msgstr "USD 299.648 milliarder (41.)"
 
 #: recursos/0peru/datos/0peru.py:145
-#, fuzzy
 msgid "High - 0,723 (63th)"
-msgstr "Høj - 0,775 (46.)"
+msgstr "Høj - 0,723 (63.)"
 
 #: recursos/0peru/datos/0peru.py:146
 msgid "Nuevo sol"
@@ -14870,9 +14813,8 @@ msgid "Aguadilla Bay"
 msgstr ""
 
 #: recursos/0prico/datos/0prico.py:184
-#, fuzzy
 msgid "(18º29' N - 66º08' W)"
-msgstr "(45º24' N - 75º40' V)"
+msgstr "(18º29' N - 66º08' V)"
 
 #: recursos/0prico/datos/0prico.py:186
 msgid "Unincorporated territory"
@@ -14887,9 +14829,8 @@ msgid "Ceded by Spain to the United States"
 msgstr ""
 
 #: recursos/0prico/datos/0prico.py:191
-#, fuzzy
 msgid "13 of august of 1898 "
-msgstr "6. august 1825"
+msgstr "13. august 1898 "
 
 #: recursos/0prico/datos/0prico.py:192
 msgid "9.104 km² (170th)"
@@ -14900,9 +14841,8 @@ msgid "3.725.789 (127th)"
 msgstr ""
 
 #: recursos/0prico/datos/0prico.py:194
-#, fuzzy
 msgid "USD 96.260 billion (--th)"
-msgstr "USD 47.980 milliarder (87.)"
+msgstr "USD 96.260 milliarder (--.)"
 
 #: recursos/0prico/datos/0prico.py:195
 msgid "Very High - 0.905 (53th)"
@@ -15081,18 +15021,16 @@ msgid "Wallibou"
 msgstr ""
 
 #: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:56
-#, fuzzy
 msgid "(13º10' N - 61º14' W)"
-msgstr "(45º24' N - 75º40' V)"
+msgstr "(13º10' N - 61º14' V)"
 
 #: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:60
 msgid "Frederick Ballantyne"
 msgstr ""
 
 #: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:62
-#, fuzzy
 msgid "27 of october of 1979"
-msgstr "11. december 1931"
+msgstr "27. oktober 1979"
 
 #: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:63
 msgid "389 km² (206th)"
@@ -15103,9 +15041,8 @@ msgid "100.369 (193rd)"
 msgstr ""
 
 #: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:65
-#, fuzzy
 msgid "USD 751 billion (181st)"
-msgstr "USD 2.046 milliarder (166.)"
+msgstr "USD 751 milliarder (181.)"
 
 #: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:66
 msgid "Medium - 0,791 (93rd)"
@@ -15305,9 +15242,8 @@ msgid "Kutari River"
 msgstr ""
 
 #: recursos/0surinam/datos/0surinam.py:77
-#, fuzzy
 msgid "(5º52' N - 55º10' W)"
-msgstr "(45º24' N - 75º40' V)"
+msgstr "(5º52' N - 55º10' V)"
 
 #: recursos/0surinam/datos/0surinam.py:78
 msgid "Dutch"
@@ -15330,28 +15266,24 @@ msgid "from Netherlands"
 msgstr ""
 
 #: recursos/0surinam/datos/0surinam.py:83
-#, fuzzy
 msgid "25 of november of 1975"
-msgstr "11. december 1931"
+msgstr "25. november 1975"
 
 #: recursos/0surinam/datos/0surinam.py:84
 msgid "163.820 km² (91th)"
 msgstr ""
 
 #: recursos/0surinam/datos/0surinam.py:85
-#, fuzzy
 msgid "542.000 (171th)"
-msgstr "372.000 (170.)"
+msgstr "542.000 (171.)"
 
 #: recursos/0surinam/datos/0surinam.py:86
-#, fuzzy
 msgid "USD 2.812 billion (161th)"
-msgstr "USD 2.046 milliarder (166.)"
+msgstr "USD 2.812 milliarder (161.)"
 
 #: recursos/0surinam/datos/0surinam.py:87
-#, fuzzy
 msgid "Medium - 0,646 (94th)"
-msgstr "Mellem - 0,643 (95.)"
+msgstr "Mellem - 0,646 (94.)"
 
 #: recursos/0surinam/datos/0surinam.py:88
 msgid "Surinamese dollar"
@@ -15565,9 +15497,8 @@ msgid "Gulf of Paria"
 msgstr ""
 
 #: recursos/0tytobago/datos/0tytobago.py:73
-#, fuzzy
 msgid "(10º40' N - 61º31' W)"
-msgstr "(45º24' N - 75º40' V)"
+msgstr "(10º40' N - 61º31' V)"
 
 #: recursos/0tytobago/datos/0tytobago.py:75
 msgid "Parliamentary republic"
@@ -15582,9 +15513,8 @@ msgid "Kamla Persad-Bissessar"
 msgstr ""
 
 #: recursos/0tytobago/datos/0tytobago.py:79
-#, fuzzy
 msgid "31 of august of 1962"
-msgstr "6. august 1825"
+msgstr "31. august 1962"
 
 #: recursos/0tytobago/datos/0tytobago.py:80
 msgid "5.128 km² (172th)"
@@ -15595,14 +15525,12 @@ msgid "1.299.953 (153th)"
 msgstr ""
 
 #: recursos/0tytobago/datos/0tytobago.py:82
-#, fuzzy
 msgid "USD 26.536 billion (115th)"
-msgstr "USD 2.046 milliarder (166.)"
+msgstr "USD 26.536 milliarder (115.)"
 
 #: recursos/0tytobago/datos/0tytobago.py:83
-#, fuzzy
 msgid "High - 0,736 (59th)"
-msgstr "Høj - 0,775 (46.)"
+msgstr "Høj - 0,736 (59.)"
 
 #: recursos/0tytobago/datos/0tytobago.py:84
 msgid "Trinidad and Tobago dollar"
@@ -15648,8 +15576,9 @@ msgstr ""
 #: recursos/0uruguay/datos/levels.py:108 recursos/0uruguay/datos/levels.py:120
 #: recursos/0uruguay/datos/levels.py:133 recursos/0uruguay/datos/levels.py:160
 #: recursos/0uruguay/datos/levels.py:162
+#, fuzzy
 msgid "Colonia"
-msgstr ""
+msgstr "Colombia"
 
 #: recursos/0uruguay/datos/0uruguay.py:17
 #: recursos/0uruguay/datos/0uruguay.py:40 recursos/0uruguay/datos/levels.py:22
@@ -16744,7 +16673,7 @@ msgstr ""
 
 #: recursos/comun/datos/commons.py:7
 msgid "Hello friends..."
-msgstr "Hej venner ..."
+msgstr "Hej venner..."
 
 #: recursos/comun/datos/commons.py:8
 msgid ""
@@ -16752,92 +16681,90 @@ msgid ""
 "test about America..."
 msgstr ""
 "... i morgen har jeg en\n"
-"prøve om Amerika ..."
+"prøve om Amerika..."
 
 #: recursos/comun/datos/commons.py:9
 msgid "...and I know nothing!!!"
 msgstr "... og jeg véd intet!!!"
 
 #: recursos/comun/datos/commons.py:10
-msgid "...what I do???"
+#, fuzzy
+msgid "...what do I do???"
 msgstr "... hvad jeg laver???"
 
 #: recursos/comun/datos/commons.py:11
-msgid "I can ask you something?"
+msgid "Can I ask you something?"
 msgstr ""
 
 #: recursos/comun/datos/commons.py:12
-msgid "Can you help me?"
+#, fuzzy
+msgid "Will you help me?"
 msgstr "Kan du hjælpe mig?"
 
 #: recursos/comun/datos/commons.py:16
-msgid "We have to look"
-msgstr "Vi er nødt til at se"
-
-#: recursos/comun/datos/commons.py:17
 msgid "We have to find"
 msgstr "Vi er nødt til at finde"
 
-#: recursos/comun/datos/commons.py:18
-msgid "Now we have to look"
+#: recursos/comun/datos/commons.py:17
+#, fuzzy
+msgid "Now we have to find"
 msgstr "Nu er vi nødt til at se"
 
-#: recursos/comun/datos/commons.py:19
+#: recursos/comun/datos/commons.py:18
 msgid "We need to find"
 msgstr "Vi har brug for at finde"
 
-#: recursos/comun/datos/commons.py:23
-msgid "You can tell where is it?"
-msgstr ""
+#: recursos/comun/datos/commons.py:22
+#, fuzzy
+msgid "Can you tell me where it is?"
+msgstr "Kan du vise mig hvor det er?"
 
-#: recursos/comun/datos/commons.py:24
+#: recursos/comun/datos/commons.py:23
 msgid "Where is it?"
 msgstr "Hvor er det?"
 
-#: recursos/comun/datos/commons.py:25
-msgid "Can you show me where is it?"
+#: recursos/comun/datos/commons.py:24
+#, fuzzy
+msgid "Can you show me where it is?"
 msgstr "Kan du vise mig hvor det er?"
 
-#: recursos/comun/datos/commons.py:26
+#: recursos/comun/datos/commons.py:25
 msgid "Can you find it?"
 msgstr "Kan du finde det?"
 
-#: recursos/comun/datos/commons.py:30
+#: recursos/comun/datos/commons.py:29
 msgid "Very well!"
 msgstr "Meget godt"
 
-#: recursos/comun/datos/commons.py:31
+#: recursos/comun/datos/commons.py:30
 msgid "Brilliant!"
 msgstr "Brillant!"
 
-#: recursos/comun/datos/commons.py:32
+#: recursos/comun/datos/commons.py:31
 msgid "You found it!"
 msgstr "Du fandt det!"
 
-#: recursos/comun/datos/commons.py:33
+#: recursos/comun/datos/commons.py:32
 msgid "Yes!"
 msgstr "Ja!"
 
-#: recursos/comun/datos/commons.py:37
-#, fuzzy
-msgid "No, this is not"
-msgstr "Nej, dette er ikke"
-
-#: recursos/comun/datos/commons.py:38
-#, fuzzy
-msgid "Here it is not"
-msgstr "Det her er ikke"
-
-#: recursos/comun/datos/commons.py:39
-#, fuzzy
-msgid "It seems that this is not"
-msgstr "Det ser ikke sådan ud"
-
-#: recursos/comun/datos/commons.py:40
-msgid "That is not"
+#: recursos/comun/datos/commons.py:36
+msgid "No, that is not correct"
 msgstr ""
 
-#: recursos/comun/datos/commons.py:44
+#: recursos/comun/datos/commons.py:37
+msgid "No, it is not there"
+msgstr ""
+
+#: recursos/comun/datos/commons.py:38
+msgid "No, that seems to be wrong"
+msgstr ""
+
+#: recursos/comun/datos/commons.py:39
+msgid "That is not correct"
+msgstr ""
+
+#: recursos/comun/datos/commons.py:43
 msgid ""
 "Now I'm ready\n"
 "for tomorrow...\n"
@@ -16849,7 +16776,7 @@ msgstr ""
 "Jeg skal spille ...\n"
 "Tak for din hjælp!"
 
-#: recursos/comun/datos/commons.py:45
+#: recursos/comun/datos/commons.py:44
 msgid ""
 "We made it!\n"
 "I'm going to play ball...\n"
@@ -16861,7 +16788,7 @@ msgstr ""
 "Farvel og tak\n"
 "for din hjælp!"
 
-#: recursos/comun/datos/commons.py:46
+#: recursos/comun/datos/commons.py:45
 msgid ""
 "We did it!\n"
 "I'm ready for tomorrow...\n"
@@ -16873,54 +16800,72 @@ msgstr ""
 "Jeg spiller lidt videre ...\n"
 "Indtil næste gang!"
 
-#: recursos/comun/datos/commons.py:50
+#: recursos/comun/datos/commons.py:49
 msgid ""
-"More luck next\n"
+"Better luck next time\n"
 "I'll play a while...\n"
 "Thanks!"
 msgstr ""
 
-#: recursos/comun/datos/commons.py:51
+#: recursos/comun/datos/commons.py:50
 msgid ""
-"The next time will be\n"
+"The next time will be better\n"
 "I'm going to play ball...\n"
 "Thanks!"
 msgstr ""
 
-#: recursos/comun/datos/commons.py:52
+#: recursos/comun/datos/commons.py:51
 msgid ""
 "Please try again...\n"
 "I'm going to play...\n"
 "Thanks!"
 msgstr ""
 
-#: recursos/comun/datos/commons.py:56
+#: recursos/comun/datos/commons.py:55
 msgid "Author: Alan Aguiar"
 msgstr ""
 
-#: recursos/comun/datos/commons.py:57
+#: recursos/comun/datos/commons.py:56
 msgid "Send corrections, comments or suggestions to: alanjas@hotmail.com"
 msgstr "Send rettelser, kommentarer eller forslag til:alanjas@hotmail.com"
 
-#: recursos/comun/datos/commons.py:59
+#: recursos/comun/datos/commons.py:58
 msgid "This program is free software developed by the community"
 msgstr "Dette program er fri software, udviklet af fællesskabet"
 
-#: recursos/comun/datos/commons.py:60
+#: recursos/comun/datos/commons.py:59
 msgid "For more information visit http://ceibaljam.org"
 msgstr "For mere information, besøg http://caibaljam.org"
 
-#: recursos/comun/datos/commons.py:62
+#: recursos/comun/datos/commons.py:61
 msgid "This program is based on 'Conozco Uruguay' (Author: Gabriel Eirea)"
 msgstr ""
 
-#: recursos/comun/datos/commons.py:63
+#: recursos/comun/datos/commons.py:62
 msgid "Sounds downloaded from freesound.org: btn117.wav courtesy of junggle."
 msgstr ""
 
-#: recursos/comun/datos/commons.py:64
+#: recursos/comun/datos/commons.py:63
 msgid "Font: Share-Regular.ttf of urbanfonts.com"
 msgstr ""
+
+#~ msgid "Next page >>>"
+#~ msgstr "Næste side >>>"
+
+#~ msgid "We have to look"
+#~ msgstr "Vi er nødt til at se"
+
+#, fuzzy
+#~ msgid "No, this is not"
+#~ msgstr "Nej, dette er ikke"
+
+#, fuzzy
+#~ msgid "Here it is not"
+#~ msgstr "Det her er ikke"
+
+#, fuzzy
+#~ msgid "It seems that this is not"
+#~ msgstr "Det ser ikke sådan ud"
 
 #~ msgid "English and French"
 #~ msgstr "Engelsk og fransk"
