@@ -23,14 +23,18 @@
 # Alan Aguiar alanjas@hotmail.com
 # Ceibal Jam http://ceibaljam.org
 
+import os
 import sys
 import random
-import os
 import pygame
-import gtk
 import time
 import imp
 import gettext
+gtk_present = True
+try:
+    import gtk
+except:
+    gtk_present = False
 
 # constantes
 RADIO = 10
@@ -615,9 +619,9 @@ class ConozcoAm():
                         (255,155,155))
         pygame.display.flip()
         while 1:
-            # Pump GTK messages.
-            while gtk.events_pending():
-                gtk.main_iteration()
+            if gtk_present:
+                while gtk.events_pending():
+                    gtk.main_iteration()
 
             for event in wait_events():
                 if event.type == pygame.KEYDOWN or \
@@ -695,9 +699,9 @@ class ConozcoAm():
                         (100,200,100))
         pygame.display.flip()
         while 1:
-            # Pump GTK messages.
-            while gtk.events_pending():
-                gtk.main_iteration()
+            if gtk_present:
+                while gtk.events_pending():
+                    gtk.main_iteration()
 
             for event in wait_events():
                 if event.type == pygame.KEYDOWN:
@@ -839,9 +843,9 @@ class ConozcoAm():
             pygame.display.flip()
             cambiarPagina = False
             while not cambiarPagina:
-                # Pump GTK messages.
-                while gtk.events_pending():
-                    gtk.main_iteration()
+                if gtk_present:
+                    while gtk.events_pending():
+                        gtk.main_iteration()
 
                 for event in wait_events():
                     if event.type == pygame.KEYDOWN:
@@ -932,8 +936,9 @@ class ConozcoAm():
         pygame.init()
         pygame.display.init()
         # crear pantalla
-        self.anchoPantalla = gtk.gdk.screen_width()
-        self.altoPantalla = gtk.gdk.screen_height()
+        info = pygame.display.Info()
+        self.anchoPantalla = info.current_w
+        self.altoPantalla = info.current_h
         self.pantalla = pygame.display.get_surface()
         if not(self.pantalla):
             # prevent hide zones
@@ -1317,9 +1322,9 @@ class ConozcoAm():
         pygame.display.flip()
         # lazo principal de espera por acciones del usuario
         while 1:
-            # Pump GTK messages.
-            while gtk.events_pending():
-                gtk.main_iteration()
+            if gtk_present:
+                while gtk.events_pending():
+                    gtk.main_iteration()
 
             for event in wait_events():
                 if event.type == pygame.KEYDOWN:
@@ -1540,9 +1545,9 @@ class ConozcoAm():
         pygame.time.set_timer(EVENTORESPUESTA,0)
         # leer eventos y ver si la respuesta es correcta
         while 1:
-            # Pump GTK messages.
-            while gtk.events_pending():
-                gtk.main_iteration()
+            if gtk_present:
+                while gtk.events_pending():
+                    gtk.main_iteration()
 
             for event in wait_events():
                 if event.type == pygame.KEYDOWN:
@@ -1778,9 +1783,9 @@ class ConozcoAm():
         terminar = False
         pygame.time.set_timer(EVENTORESPUESTA, 2000)
         while 1:
-            # Pump GTK messages.
-            while gtk.events_pending():
-                gtk.main_iteration()
+            if gtk_present:
+                while gtk.events_pending():
+                    gtk.main_iteration()
 
             for event in wait_events():
                 if event.type == pygame.KEYDOWN or \
@@ -1812,9 +1817,9 @@ class ConozcoAm():
         terminar = False
         pygame.time.set_timer(EVENTORESPUESTA, 2000)
         while 1:
-            # Pump GTK messages.
-            while gtk.events_pending():
-                gtk.main_iteration()
+            if gtk_present:
+                while gtk.events_pending():
+                    gtk.main_iteration()
 
             for event in wait_events():
                 if event.type == pygame.KEYDOWN or \
@@ -1838,9 +1843,9 @@ class ConozcoAm():
         terminar = False
         pygame.time.set_timer(EVENTORESPUESTA, 2000)
         while 1:
-            # Pump GTK messages.
-            while gtk.events_pending():
-                gtk.main_iteration()
+            if gtk_present:
+                while gtk.events_pending():
+                    gtk.main_iteration()
 
             for event in wait_events():
                 if event.type == pygame.KEYDOWN or \
@@ -1885,9 +1890,9 @@ class ConozcoAm():
         terminar = False
         pygame.time.set_timer(EVENTORESPUESTA, 1000)
         while 1:
-            # Pump GTK messages.
-            while gtk.events_pending():
-                gtk.main_iteration()
+            if gtk_present:
+                while gtk.events_pending():
+                    gtk.main_iteration()
 
             for event in wait_events():
                 if event.type == pygame.KEYDOWN or \
@@ -1920,9 +1925,9 @@ class ConozcoAm():
         terminar = False
         pygame.time.set_timer(EVENTORESPUESTA, 2000)
         while 1:
-            # Pump GTK messages.
-            while gtk.events_pending():
-                gtk.main_iteration()
+            if gtk_present:
+                while gtk.events_pending():
+                    gtk.main_iteration()
 
             for event in wait_events():
                 if event.type == pygame.KEYDOWN or \
@@ -1969,9 +1974,9 @@ class ConozcoAm():
         terminar = False
         pygame.time.set_timer(EVENTORESPUESTA, 1500)
         while 1:
-            # Pump GTK messages.
-            while gtk.events_pending():
-                gtk.main_iteration()
+            if gtk_present:
+                while gtk.events_pending():
+                    gtk.main_iteration()
 
             for event in wait_events():
                 if event.type == pygame.KEYDOWN or \
@@ -2003,9 +2008,9 @@ class ConozcoAm():
         terminar = False
         pygame.time.set_timer(EVENTORESPUESTA, 2000)
         while 1:
-            # Pump GTK messages.
-            while gtk.events_pending():
-                gtk.main_iteration()
+            if gtk_present:
+                while gtk.events_pending():
+                    gtk.main_iteration()
 
             for event in wait_events():
                 if event.type == pygame.KEYDOWN or \
