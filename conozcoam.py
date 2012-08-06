@@ -924,7 +924,7 @@ class ConozcoAm():
 
     def __init__(self):
         bundle_id = 'org.ceibaljam.conozcoamerica'
-        path = os.path.abspath('./locale')
+        path = os.path.abspath('locale')
         gettext.bindtextdomain(bundle_id, path)
         gettext.textdomain(bundle_id)
         global _
