@@ -6,8 +6,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-05-25 00:32-0400\n"
-"PO-Revision-Date: 2012-05-27 06:37+0200\n"
+"POT-Creation-Date: 2012-07-13 19:26-0400\n"
+"PO-Revision-Date: 2012-07-21 22:21+0200\n"
 "Last-Translator: AlanJAS <alanjas@hotmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: es\n"
@@ -169,12 +169,12 @@ msgid "Choose the map to use"
 msgstr "Elige el mapa a utilizar"
 
 #: conozcoam.py:769
-msgid "<<< Previous page"
-msgstr "<<< Página anterior"
+msgid "Previous page"
+msgstr "Página anterior"
 
 #: conozcoam.py:814
-msgid "Next page >>>"
-msgstr "Página siguiente >>>"
+msgid "Next page"
+msgstr "Página siguiente"
 
 #: conozcoam.py:835
 msgid "Exit"
@@ -16678,82 +16678,78 @@ msgid "...and I know nothing!!!"
 msgstr "...y no sé nada!!!"
 
 #: recursos/comun/datos/commons.py:10
-msgid "...what I do???"
+msgid "...what do I do???"
 msgstr "...qué puedo hacer???"
 
 #: recursos/comun/datos/commons.py:11
-msgid "I can ask you something?"
+msgid "Can I ask you something?"
 msgstr "¿Puedo pedirte algo?"
 
 #: recursos/comun/datos/commons.py:12
-msgid "Can you help me?"
+msgid "Will you help me?"
 msgstr "¿Puedes ayudarme?"
 
 #: recursos/comun/datos/commons.py:16
-msgid "We have to look"
-msgstr "Tenemos que buscar"
-
-#: recursos/comun/datos/commons.py:17
 msgid "We have to find"
 msgstr "Tenemos que encontrar"
 
-#: recursos/comun/datos/commons.py:18
-msgid "Now we have to look"
+#: recursos/comun/datos/commons.py:17
+msgid "Now we have to find"
 msgstr "Ahora tenemos que buscar"
 
-#: recursos/comun/datos/commons.py:19
+#: recursos/comun/datos/commons.py:18
 msgid "We need to find"
 msgstr "Tenemos que hallar"
 
-#: recursos/comun/datos/commons.py:23
-msgid "You can tell where is it?"
-msgstr "¿Podés señalar dónde es?"
+#: recursos/comun/datos/commons.py:22
+msgid "Can you tell me where it is?"
+msgstr "¿Puedes decirme dónde es?"
 
-#: recursos/comun/datos/commons.py:24
+#: recursos/comun/datos/commons.py:23
 msgid "Where is it?"
 msgstr "¿Dónde queda?"
 
+#: recursos/comun/datos/commons.py:24
+msgid "Can you show me where it is?"
+msgstr "¿Puedes mostrarme dónde es?"
+
 #: recursos/comun/datos/commons.py:25
-msgid "Can you show me where is it?"
-msgstr "¿Podés mostrarme dónde es?"
-
-#: recursos/comun/datos/commons.py:26
 msgid "Can you find it?"
-msgstr "¿Podés encontrarlo?"
+msgstr "¿Puedes encontrarlo?"
 
-#: recursos/comun/datos/commons.py:30
+#: recursos/comun/datos/commons.py:29
 msgid "Very well!"
 msgstr "¡Muy bien!"
 
-#: recursos/comun/datos/commons.py:31
+#: recursos/comun/datos/commons.py:30
 msgid "Brilliant!"
 msgstr "¡Genial!"
 
-#: recursos/comun/datos/commons.py:32
+#: recursos/comun/datos/commons.py:31
 msgid "You found it!"
 msgstr "¡Lo encontraste!"
 
-#: recursos/comun/datos/commons.py:33
+#: recursos/comun/datos/commons.py:32
 msgid "Yes!"
 msgstr "¡Sí!"
 
+#: recursos/comun/datos/commons.py:36
+msgid "No, that is not correct"
+msgstr "No, ese no es el correcto"
+
 #: recursos/comun/datos/commons.py:37
-msgid "No, this is not"
-msgstr "No, ese no es..."
+msgid "No, it is not there"
+msgstr "No, ahí no es"
 
 #: recursos/comun/datos/commons.py:38
-msgid "Here it is not"
-msgstr "Acá no es..."
+msgid "No, that seems to be wrong"
+msgstr "No, parece que es incorrecto"
 
 #: recursos/comun/datos/commons.py:39
-msgid "It seems that this is not"
-msgstr "Parece que no es ese..."
+msgid "That is not correct"
+msgstr "Ese no es el correcto"
 
-#: recursos/comun/datos/commons.py:40
-msgid "That is not"
-msgstr "Ese no es..."
-
-#: recursos/comun/datos/commons.py:44
+#: recursos/comun/datos/commons.py:43
 msgid ""
 "Now I'm ready\n"
 "for tomorrow...\n"
@@ -16765,7 +16761,7 @@ msgstr ""
 "Me voy a jugar...\n"
 "¡Gracias por tu ayuda!"
 
-#: recursos/comun/datos/commons.py:45
+#: recursos/comun/datos/commons.py:44
 msgid ""
 "We made it!\n"
 "I'm going to play ball...\n"
@@ -16777,7 +16773,7 @@ msgstr ""
 "con la pelota...\n"
 "¡Chau y gracias por ayudarme!"
 
-#: recursos/comun/datos/commons.py:46
+#: recursos/comun/datos/commons.py:45
 msgid ""
 "We did it!\n"
 "I'm ready for tomorrow...\n"
@@ -16789,9 +16785,9 @@ msgstr ""
 "Voy a jugar un rato...\n"
 "¡Hasta la próxima!"
 
-#: recursos/comun/datos/commons.py:50
+#: recursos/comun/datos/commons.py:49
 msgid ""
-"More luck next\n"
+"Better luck next time\n"
 "I'll play a while...\n"
 "Thanks!"
 msgstr ""
@@ -16799,18 +16795,18 @@ msgstr ""
 "Voy a jugar un rato...\n"
 "¡Gracias!"
 
-#: recursos/comun/datos/commons.py:51
+#: recursos/comun/datos/commons.py:50
 msgid ""
-"The next time will be\n"
+"The next time will be better\n"
 "I'm going to play ball...\n"
 "Thanks!"
 msgstr ""
-"La próxima vez será...\n"
+"La próxima vez será mejor...\n"
 "Me voy a jugar\n"
 "con la pelota...\n"
 "¡Gracias!"
 
-#: recursos/comun/datos/commons.py:52
+#: recursos/comun/datos/commons.py:51
 msgid ""
 "Please try again...\n"
 "I'm going to play...\n"
@@ -16820,33 +16816,54 @@ msgstr ""
 "Me voy a jugar...\n"
 "¡Gracias!"
 
-#: recursos/comun/datos/commons.py:56
+#: recursos/comun/datos/commons.py:55
 msgid "Author: Alan Aguiar"
 msgstr "Autor: Alan Aguiar"
 
-#: recursos/comun/datos/commons.py:57
+#: recursos/comun/datos/commons.py:56
 msgid "Send corrections, comments or suggestions to: alanjas@hotmail.com"
 msgstr "Enviar correcciones, comentarios o sugerencias a: alanjas@hotmail.com"
 
-#: recursos/comun/datos/commons.py:59
+#: recursos/comun/datos/commons.py:58
 msgid "This program is free software developed by the community"
 msgstr "Este programa es software libre y desarrollado por la comunidad."
 
-#: recursos/comun/datos/commons.py:60
+#: recursos/comun/datos/commons.py:59
 msgid "For more information visit http://ceibaljam.org"
 msgstr "Por más información visitá http://ceibaljam.org"
 
-#: recursos/comun/datos/commons.py:62
+#: recursos/comun/datos/commons.py:61
 msgid "This program is based on 'Conozco Uruguay' (Author: Gabriel Eirea)"
 msgstr "Este programa esta basado en 'Conozco Uruguay' (Autor: Gabriel Eirea)"
 
-#: recursos/comun/datos/commons.py:63
+#: recursos/comun/datos/commons.py:62
 msgid "Sounds downloaded from freesound.org: btn117.wav courtesy of junggle."
 msgstr "Sonidos descargados de freesound.org: btn117.wav gentileza de junggle."
 
-#: recursos/comun/datos/commons.py:64
+#: recursos/comun/datos/commons.py:63
 msgid "Font: Share-Regular.ttf of urbanfonts.com"
 msgstr "Fuente: Share-Regular.ttf bajada de urbanfonts.com"
+
+#~ msgid "Next page >>>"
+#~ msgstr "Página siguiente >>>"
+
+#~ msgid "We have to look"
+#~ msgstr "Tenemos que buscar"
+
+#~ msgid "You can tell where is it?"
+#~ msgstr "¿Podés señalar dónde es?"
+
+#~ msgid "No, this is not"
+#~ msgstr "No, ese no es..."
+
+#~ msgid "Here it is not"
+#~ msgstr "Acá no es..."
+
+#~ msgid "It seems that this is not"
+#~ msgstr "Parece que no es ese..."
+
+#~ msgid "That is not"
+#~ msgstr "Ese no es..."
 
 #~ msgid "San Jose"
 #~ msgstr "San Jose"
