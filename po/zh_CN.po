@@ -6,8 +6,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-05-25 00:32-0400\n"
-"PO-Revision-Date: 2012-07-09 02:35+0200\n"
+"POT-Creation-Date: 2012-07-13 19:26-0400\n"
+"PO-Revision-Date: 2012-07-23 03:20+0200\n"
 "Last-Translator: lite <litekok@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: zh_CN\n"
@@ -146,12 +146,12 @@ msgid "Choose the map to use"
 msgstr "选择要使用的地图"
 
 #: conozcoam.py:769
-msgid "<<< Previous page"
-msgstr "<<< 上一页"
+msgid "Previous page"
+msgstr "上一页"
 
 #: conozcoam.py:814
-msgid "Next page >>>"
-msgstr "下一页 >>>"
+msgid "Next page"
+msgstr "下一页"
 
 #: conozcoam.py:835
 msgid "Exit"
@@ -16646,82 +16646,78 @@ msgid "...and I know nothing!!!"
 msgstr "...并且我什么都不知道！！！"
 
 #: recursos/comun/datos/commons.py:10
-msgid "...what I do???"
-msgstr "...我怎么办呢？"
+msgid "...what do I do???"
+msgstr "...我怎么办呢？？？"
 
 #: recursos/comun/datos/commons.py:11
-msgid "I can ask you something?"
-msgstr "我可以问你吗？"
+msgid "Can I ask you something?"
+msgstr "我可以问你些事吗？"
 
 #: recursos/comun/datos/commons.py:12
-msgid "Can you help me?"
-msgstr "能帮下我吗？"
+msgid "Will you help me?"
+msgstr "你愿意帮助我吗？"
 
 #: recursos/comun/datos/commons.py:16
-msgid "We have to look"
-msgstr "我们得去看看"
-
-#: recursos/comun/datos/commons.py:17
 msgid "We have to find"
 msgstr "我们要找一找"
 
-#: recursos/comun/datos/commons.py:18
-msgid "Now we have to look"
-msgstr "现在我们必须去看看了"
+#: recursos/comun/datos/commons.py:17
+msgid "Now we have to find"
+msgstr "现在我们必须找一找"
 
-#: recursos/comun/datos/commons.py:19
+#: recursos/comun/datos/commons.py:18
 msgid "We need to find"
 msgstr "我们需要找一找"
 
-#: recursos/comun/datos/commons.py:23
-msgid "You can tell where is it?"
-msgstr "可以说说它在哪儿吗？"
+#: recursos/comun/datos/commons.py:22
+msgid "Can you tell me where it is?"
+msgstr "你能告诉我它在哪儿吗？"
 
-#: recursos/comun/datos/commons.py:24
+#: recursos/comun/datos/commons.py:23
 msgid "Where is it?"
 msgstr "它在哪儿呢？"
 
-#: recursos/comun/datos/commons.py:25
-msgid "Can you show me where is it?"
-msgstr "你能跟我说下它在哪儿吗？"
+#: recursos/comun/datos/commons.py:24
+msgid "Can you show me where it is?"
+msgstr "你能告诉我它在哪儿吗？"
 
-#: recursos/comun/datos/commons.py:26
+#: recursos/comun/datos/commons.py:25
 msgid "Can you find it?"
 msgstr "你能找到它吗？"
 
-#: recursos/comun/datos/commons.py:30
+#: recursos/comun/datos/commons.py:29
 msgid "Very well!"
 msgstr "太好了！"
 
-#: recursos/comun/datos/commons.py:31
+#: recursos/comun/datos/commons.py:30
 msgid "Brilliant!"
 msgstr "简直是天才！"
 
-#: recursos/comun/datos/commons.py:32
+#: recursos/comun/datos/commons.py:31
 msgid "You found it!"
 msgstr "你找到了！"
 
-#: recursos/comun/datos/commons.py:33
+#: recursos/comun/datos/commons.py:32
 msgid "Yes!"
 msgstr "对！"
 
+#: recursos/comun/datos/commons.py:36
+msgid "No, that is not correct"
+msgstr "不，那是不正确的"
+
 #: recursos/comun/datos/commons.py:37
-msgid "No, this is not"
-msgstr "不，这个不是"
+msgid "No, it is not there"
+msgstr "不，它不在那里"
 
 #: recursos/comun/datos/commons.py:38
-msgid "Here it is not"
-msgstr "不是在这儿"
+msgid "No, that seems to be wrong"
+msgstr "不，看上去是错的"
 
 #: recursos/comun/datos/commons.py:39
-msgid "It seems that this is not"
-msgstr "看上去这里没有"
+msgid "That is not correct"
+msgstr "那是不正确的"
 
-#: recursos/comun/datos/commons.py:40
-msgid "That is not"
-msgstr "那个不是"
-
-#: recursos/comun/datos/commons.py:44
+#: recursos/comun/datos/commons.py:43
 msgid ""
 "Now I'm ready\n"
 "for tomorrow...\n"
@@ -16731,7 +16727,7 @@ msgstr ""
 "我们已经为明天\n"
 "准备好了...我们马上就开始完了...谢谢你的帮助！"
 
-#: recursos/comun/datos/commons.py:45
+#: recursos/comun/datos/commons.py:44
 msgid ""
 "We made it!\n"
 "I'm going to play ball...\n"
@@ -16741,7 +16737,7 @@ msgstr ""
 "我们做到了！\n"
 "我要去打球了...再见谢谢你的帮助!"
 
-#: recursos/comun/datos/commons.py:46
+#: recursos/comun/datos/commons.py:45
 msgid ""
 "We did it!\n"
 "I'm ready for tomorrow...\n"
@@ -16751,26 +16747,27 @@ msgstr ""
 "我们做到了！\n"
 "我已经为明天做好了准备...我玩了有一会儿了...下次再来吧！"
 
-#: recursos/comun/datos/commons.py:50
+#: recursos/comun/datos/commons.py:49
 msgid ""
-"More luck next\n"
+"Better luck next time\n"
 "I'll play a while...\n"
 "Thanks!"
 msgstr ""
-"下次运气好点\n"
-"我就多玩会儿...谢谢！"
+"下次好运\n"
+"我要玩一会儿...\n"
+"谢谢！"
 
-#: recursos/comun/datos/commons.py:51
+#: recursos/comun/datos/commons.py:50
 msgid ""
-"The next time will be\n"
+"The next time will be better\n"
 "I'm going to play ball...\n"
 "Thanks!"
 msgstr ""
-"下次肯定会的\n"
-"我去打球了...\n"
+"下次会更好\n"
+"我要去打球了...\n"
 "谢谢！"
 
-#: recursos/comun/datos/commons.py:52
+#: recursos/comun/datos/commons.py:51
 msgid ""
 "Please try again...\n"
 "I'm going to play...\n"
@@ -16779,33 +16776,54 @@ msgstr ""
 "请再试一次...\n"
 "我正在玩...谢谢！"
 
-#: recursos/comun/datos/commons.py:56
+#: recursos/comun/datos/commons.py:55
 msgid "Author: Alan Aguiar"
 msgstr "作者：Alan Aguiar"
 
-#: recursos/comun/datos/commons.py:57
+#: recursos/comun/datos/commons.py:56
 msgid "Send corrections, comments or suggestions to: alanjas@hotmail.com"
 msgstr "将你的意见和建议发送到： alanjas@hotmail.com"
 
-#: recursos/comun/datos/commons.py:59
+#: recursos/comun/datos/commons.py:58
 msgid "This program is free software developed by the community"
 msgstr "本程序是由社区开发的自由软件"
 
-#: recursos/comun/datos/commons.py:60
+#: recursos/comun/datos/commons.py:59
 msgid "For more information visit http://ceibaljam.org"
 msgstr "请访问 http://ceibaljam.org 了解更多的信息"
 
-#: recursos/comun/datos/commons.py:62
+#: recursos/comun/datos/commons.py:61
 msgid "This program is based on 'Conozco Uruguay' (Author: Gabriel Eirea)"
 msgstr "本程序基于 'Conozco Uruguay' (原作者: Gabriel Eirea)开发"
 
-#: recursos/comun/datos/commons.py:63
+#: recursos/comun/datos/commons.py:62
 msgid "Sounds downloaded from freesound.org: btn117.wav courtesy of junggle."
 msgstr "从 freesound.org 下载的音频文件 btn117.wav 礼貌赞歌"
 
-#: recursos/comun/datos/commons.py:64
+#: recursos/comun/datos/commons.py:63
 msgid "Font: Share-Regular.ttf of urbanfonts.com"
 msgstr "字体：urbanfonts.com的TTF字体Share-Regular"
+
+#~ msgid "Next page >>>"
+#~ msgstr "下一页 >>>"
+
+#~ msgid "We have to look"
+#~ msgstr "我们得去看看"
+
+#~ msgid "You can tell where is it?"
+#~ msgstr "可以说说它在哪儿吗？"
+
+#~ msgid "No, this is not"
+#~ msgstr "不，这个不是"
+
+#~ msgid "Here it is not"
+#~ msgstr "不是在这儿"
+
+#~ msgid "It seems that this is not"
+#~ msgstr "看上去这里没有"
+
+#~ msgid "That is not"
+#~ msgstr "那个不是"
 
 #, fuzzy
 #~ msgid "San Jose"
