@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-05-25 00:32-0400\n"
+"POT-Creation-Date: 2012-07-13 19:26-0400\n"
 "PO-Revision-Date: 2012-05-30 05:24+0200\n"
 "Last-Translator: Chris <cjl@laptop.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -157,12 +157,13 @@ msgid "Choose the map to use"
 msgstr "Wybierz mapę"
 
 #: conozcoam.py:769
-msgid "<<< Previous page"
+#, fuzzy
+msgid "Previous page"
 msgstr "<<< Poprzednia strona"
 
 #: conozcoam.py:814
-msgid "Next page >>>"
-msgstr "Następna strona >>>"
+msgid "Next page"
+msgstr ""
 
 #: conozcoam.py:835
 msgid "Exit"
@@ -6935,8 +6936,9 @@ msgid "Lethbridge"
 msgstr ""
 
 #: recursos/0canada/datos/0canada.py:63 recursos/0canada/datos/levels.py:82
+#, fuzzy
 msgid "Montreal"
-msgstr ""
+msgstr "Montreal"
 
 #: recursos/0canada/datos/0canada.py:67 recursos/0canada/datos/levels.py:86
 msgid "Rankin Inlet"
@@ -8107,8 +8109,9 @@ msgstr ""
 
 #: recursos/0costarica/datos/0costarica.py:90
 #: recursos/0costarica/datos/levels.py:110
+#, fuzzy
 msgid "Puerto Viejo"
-msgstr ""
+msgstr "Portoryko"
 
 #: recursos/0costarica/datos/0costarica.py:91
 #: recursos/0costarica/datos/levels.py:111
@@ -12156,8 +12159,9 @@ msgstr ""
 
 #: recursos/0honduras/datos/0honduras.py:86
 #: recursos/0honduras/datos/levels.py:110
+#, fuzzy
 msgid "Pueblo Viejo"
-msgstr ""
+msgstr "Portoryko"
 
 #: recursos/0honduras/datos/0honduras.py:89
 #: recursos/0honduras/datos/levels.py:113 recursos/0prico/datos/0prico.py:67
@@ -12930,8 +12934,9 @@ msgid "Puerto Peñasco"
 msgstr ""
 
 #: recursos/0mexico/datos/0mexico.py:107 recursos/0mexico/datos/levels.py:145
+#, fuzzy
 msgid "Rosarito"
-msgstr ""
+msgstr "Rosario"
 
 #: recursos/0mexico/datos/0mexico.py:108 recursos/0mexico/datos/levels.py:146
 msgid "Salina Cruz"
@@ -13831,8 +13836,9 @@ msgstr ""
 #: recursos/0paraguay/datos/0paraguay.py:40
 #: recursos/0paraguay/datos/levels.py:22 recursos/0paraguay/datos/levels.py:46
 #: recursos/0paraguay/datos/levels.py:72
+#, fuzzy
 msgid "Paraguarí"
-msgstr ""
+msgstr "Paragwaj"
 
 #: recursos/0paraguay/datos/0paraguay.py:20
 #: recursos/0paraguay/datos/levels.py:23
@@ -15019,8 +15025,9 @@ msgid "Ceded by Spain to the United States"
 msgstr ""
 
 #: recursos/0prico/datos/0prico.py:191
+#, fuzzy
 msgid "13 of august of 1898 "
-msgstr ""
+msgstr "14 sierpnia 1879"
 
 #: recursos/0prico/datos/0prico.py:192
 #, fuzzy
@@ -16904,82 +16911,78 @@ msgid "...and I know nothing!!!"
 msgstr ""
 
 #: recursos/comun/datos/commons.py:10
-msgid "...what I do???"
+msgid "...what do I do???"
 msgstr ""
 
 #: recursos/comun/datos/commons.py:11
-msgid "I can ask you something?"
+msgid "Can I ask you something?"
 msgstr ""
 
 #: recursos/comun/datos/commons.py:12
-msgid "Can you help me?"
+msgid "Will you help me?"
 msgstr ""
 
 #: recursos/comun/datos/commons.py:16
-msgid "We have to look"
-msgstr ""
-
-#: recursos/comun/datos/commons.py:17
 msgid "We have to find"
 msgstr ""
 
-#: recursos/comun/datos/commons.py:18
-msgid "Now we have to look"
+#: recursos/comun/datos/commons.py:17
+msgid "Now we have to find"
 msgstr ""
 
-#: recursos/comun/datos/commons.py:19
+#: recursos/comun/datos/commons.py:18
 msgid "We need to find"
 msgstr "Trzeba znaleźć"
 
-#: recursos/comun/datos/commons.py:23
-msgid "You can tell where is it?"
+#: recursos/comun/datos/commons.py:22
+msgid "Can you tell me where it is?"
 msgstr ""
 
-#: recursos/comun/datos/commons.py:24
+#: recursos/comun/datos/commons.py:23
 msgid "Where is it?"
 msgstr ""
 
-#: recursos/comun/datos/commons.py:25
-msgid "Can you show me where is it?"
+#: recursos/comun/datos/commons.py:24
+msgid "Can you show me where it is?"
 msgstr ""
 
-#: recursos/comun/datos/commons.py:26
+#: recursos/comun/datos/commons.py:25
 msgid "Can you find it?"
 msgstr ""
 
-#: recursos/comun/datos/commons.py:30
+#: recursos/comun/datos/commons.py:29
 msgid "Very well!"
 msgstr ""
 
-#: recursos/comun/datos/commons.py:31
+#: recursos/comun/datos/commons.py:30
 msgid "Brilliant!"
 msgstr ""
 
-#: recursos/comun/datos/commons.py:32
+#: recursos/comun/datos/commons.py:31
 msgid "You found it!"
 msgstr ""
 
-#: recursos/comun/datos/commons.py:33
+#: recursos/comun/datos/commons.py:32
 msgid "Yes!"
 msgstr ""
 
+#: recursos/comun/datos/commons.py:36
+msgid "No, that is not correct"
+msgstr ""
+
 #: recursos/comun/datos/commons.py:37
-msgid "No, this is not"
+msgid "No, it is not there"
 msgstr ""
 
 #: recursos/comun/datos/commons.py:38
-msgid "Here it is not"
+msgid "No, that seems to be wrong"
 msgstr ""
 
 #: recursos/comun/datos/commons.py:39
-msgid "It seems that this is not"
+msgid "That is not correct"
 msgstr ""
 
-#: recursos/comun/datos/commons.py:40
-msgid "That is not"
-msgstr ""
-
-#: recursos/comun/datos/commons.py:44
+#: recursos/comun/datos/commons.py:43
 msgid ""
 "Now I'm ready\n"
 "for tomorrow...\n"
@@ -16987,7 +16990,7 @@ msgid ""
 "Thanks for your help!"
 msgstr ""
 
-#: recursos/comun/datos/commons.py:45
+#: recursos/comun/datos/commons.py:44
 msgid ""
 "We made it!\n"
 "I'm going to play ball...\n"
@@ -16995,7 +16998,7 @@ msgid ""
 "for helping me!"
 msgstr ""
 
-#: recursos/comun/datos/commons.py:46
+#: recursos/comun/datos/commons.py:45
 msgid ""
 "We did it!\n"
 "I'm ready for tomorrow...\n"
@@ -17003,54 +17006,57 @@ msgid ""
 "Until next time!"
 msgstr ""
 
-#: recursos/comun/datos/commons.py:50
+#: recursos/comun/datos/commons.py:49
 msgid ""
-"More luck next\n"
+"Better luck next time\n"
 "I'll play a while...\n"
 "Thanks!"
 msgstr ""
 
-#: recursos/comun/datos/commons.py:51
+#: recursos/comun/datos/commons.py:50
 msgid ""
-"The next time will be\n"
+"The next time will be better\n"
 "I'm going to play ball...\n"
 "Thanks!"
 msgstr ""
 
-#: recursos/comun/datos/commons.py:52
+#: recursos/comun/datos/commons.py:51
 msgid ""
 "Please try again...\n"
 "I'm going to play...\n"
 "Thanks!"
 msgstr ""
 
-#: recursos/comun/datos/commons.py:56
+#: recursos/comun/datos/commons.py:55
 msgid "Author: Alan Aguiar"
 msgstr ""
 
-#: recursos/comun/datos/commons.py:57
+#: recursos/comun/datos/commons.py:56
 msgid "Send corrections, comments or suggestions to: alanjas@hotmail.com"
 msgstr ""
 
-#: recursos/comun/datos/commons.py:59
+#: recursos/comun/datos/commons.py:58
 msgid "This program is free software developed by the community"
 msgstr ""
 
-#: recursos/comun/datos/commons.py:60
+#: recursos/comun/datos/commons.py:59
 msgid "For more information visit http://ceibaljam.org"
 msgstr "Więcej informacji na http://ceibaljam.org"
 
-#: recursos/comun/datos/commons.py:62
+#: recursos/comun/datos/commons.py:61
 msgid "This program is based on 'Conozco Uruguay' (Author: Gabriel Eirea)"
 msgstr ""
 
-#: recursos/comun/datos/commons.py:63
+#: recursos/comun/datos/commons.py:62
 msgid "Sounds downloaded from freesound.org: btn117.wav courtesy of junggle."
 msgstr ""
 
-#: recursos/comun/datos/commons.py:64
+#: recursos/comun/datos/commons.py:63
 msgid "Font: Share-Regular.ttf of urbanfonts.com"
 msgstr ""
+
+#~ msgid "Next page >>>"
+#~ msgstr "Następna strona >>>"
 
 #~ msgid "San Jose"
 #~ msgstr "San Jose"
