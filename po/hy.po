@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-07-13 19:26-0400\n"
-"PO-Revision-Date: 2012-08-06 15:44+0200\n"
+"PO-Revision-Date: 2012-08-17 17:00+0200\n"
 "Last-Translator: anush.mkrtchyan <anush.mkrtchyan@ca1492.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: hy\n"
@@ -43,7 +43,7 @@ msgid ""
 "%s"
 msgstr ""
 "%s \n"
-" - ի դեպարտամենտ"
+" - ի դեպարտամենտը"
 
 #: conozcoam.py:474
 #, python-format
@@ -774,7 +774,7 @@ msgstr ""
 #: recursos/0panama/datos/0panama.py:34 recursos/0panama/datos/levels.py:39
 #: recursos/0panama/datos/levels.py:58
 msgid "Santiago"
-msgstr ""
+msgstr "Սանտյագո"
 
 #: recursos/0acentral/datos/0acentral.py:91
 #: recursos/0acentral/datos/levels.py:121 recursos/0cuba/datos/0cuba.py:51
@@ -782,7 +782,7 @@ msgstr ""
 #: recursos/0elsalvador/datos/0elsalvador.py:72
 #: recursos/0elsalvador/datos/levels.py:99
 msgid "Santa Clara"
-msgstr ""
+msgstr "Սանտա Կլարա"
 
 #: recursos/0acentral/datos/explorations.py:6
 #: recursos/0acentral/datos/levels.py:7
@@ -791,7 +791,7 @@ msgstr ""
 #: recursos/0adelsur/datos/explorations.py:6
 #: recursos/0adelsur/datos/levels.py:7
 msgid "Countries"
-msgstr ""
+msgstr "Երկրներ"
 
 #: recursos/0acentral/datos/explorations.py:13
 #: recursos/0acentral/datos/levels.py:42
@@ -799,7 +799,7 @@ msgstr ""
 #: recursos/0adelsur/datos/explorations.py:13
 #: recursos/0adelsur/datos/levels.py:35
 msgid "Capitals"
-msgstr ""
+msgstr "Մայրաքաղաքներ"
 
 #: recursos/0acentral/datos/explorations.py:20
 #: recursos/0acentral/datos/levels.py:72
@@ -863,7 +863,7 @@ msgstr ""
 #: recursos/0venezuela/datos/explorations.py:20
 #: recursos/0venezuela/datos/levels.py:70
 msgid "Cities"
-msgstr ""
+msgstr "Քաղաքներ"
 
 #: recursos/0acentral/datos/levels.py:11 recursos/0acentral/datos/levels.py:12
 #: recursos/0acentral/datos/levels.py:47 recursos/0acentral/datos/levels.py:51
@@ -1134,7 +1134,7 @@ msgstr ""
 #: recursos/0venezuela/datos/levels.py:129
 #: recursos/0venezuela/datos/levels.py:130
 msgid "Is west"
-msgstr ""
+msgstr "Արևմուտքն է"
 
 #: recursos/0acentral/datos/levels.py:13 recursos/0acentral/datos/levels.py:14
 #: recursos/0acentral/datos/levels.py:15 recursos/0acentral/datos/levels.py:54
@@ -1333,7 +1333,7 @@ msgstr ""
 #: recursos/0venezuela/datos/levels.py:115
 #: recursos/0venezuela/datos/levels.py:131
 msgid "Is southwest"
-msgstr ""
+msgstr "Հարավ-արևմուտքն է"
 
 #: recursos/0acentral/datos/levels.py:16 recursos/0acentral/datos/levels.py:17
 #: recursos/0acentral/datos/levels.py:60 recursos/0acentral/datos/levels.py:90
@@ -1575,7 +1575,7 @@ msgstr ""
 #: recursos/0venezuela/datos/levels.py:133
 #: recursos/0venezuela/datos/levels.py:134
 msgid "Is south"
-msgstr ""
+msgstr "Հարավն է"
 
 #: recursos/0acentral/datos/levels.py:18 recursos/0acentral/datos/levels.py:19
 #: recursos/0acentral/datos/levels.py:24 recursos/0acentral/datos/levels.py:25
@@ -1877,7 +1877,7 @@ msgstr ""
 #: recursos/0venezuela/datos/levels.py:144
 #: recursos/0venezuela/datos/levels.py:145
 msgid "Is northwest"
-msgstr ""
+msgstr "Հյուսիս-արևմուտքն է"
 
 #: recursos/0acentral/datos/levels.py:20 recursos/0acentral/datos/levels.py:21
 #: recursos/0acentral/datos/levels.py:34 recursos/0acentral/datos/levels.py:35
@@ -2193,7 +2193,7 @@ msgstr ""
 #: recursos/0venezuela/datos/levels.py:142
 #: recursos/0venezuela/datos/levels.py:147
 msgid "Is north"
-msgstr ""
+msgstr "Հյուսիսն է"
 
 #: recursos/0acentral/datos/levels.py:22 recursos/0acentral/datos/levels.py:29
 #: recursos/0acentral/datos/levels.py:30 recursos/0acentral/datos/levels.py:61
@@ -2412,7 +2412,7 @@ msgstr ""
 #: recursos/0venezuela/datos/levels.py:148
 #: recursos/0venezuela/datos/levels.py:149
 msgid "Is northeast"
-msgstr ""
+msgstr "Հյուսիս-արևելքն է"
 
 #: recursos/0acentral/datos/levels.py:23 recursos/0acentral/datos/levels.py:27
 #: recursos/0acentral/datos/levels.py:28 recursos/0acentral/datos/levels.py:31
@@ -2671,7 +2671,7 @@ msgstr ""
 #: recursos/0venezuela/datos/levels.py:138
 #: recursos/0venezuela/datos/levels.py:139
 msgid "Is east"
-msgstr ""
+msgstr "Արևելքն է"
 
 #: recursos/0acentral/datos/levels.py:56 recursos/0acentral/datos/levels.py:62
 #: recursos/0acentral/datos/levels.py:86 recursos/0acentral/datos/levels.py:92
@@ -2895,22 +2895,22 @@ msgstr ""
 #: recursos/0venezuela/datos/levels.py:135
 #: recursos/0venezuela/datos/levels.py:136
 msgid "Is southeast"
-msgstr ""
+msgstr "Հարավ-արևելքն է"
 
 #: recursos/0adelnorte/datos/0adelnorte.py:5
 msgid "North America"
-msgstr ""
+msgstr "Հյուսիսային Ամերիկա"
 
 #: recursos/0adelnorte/datos/0adelnorte.py:9
 #: recursos/0adelnorte/datos/levels.py:12 recursos/0canada/datos/0canada.py:5
 #: recursos/0eunidos/datos/0eunidos.py:57
 msgid "Canada"
-msgstr ""
+msgstr "Կանադա"
 
 #: recursos/0adelnorte/datos/0adelnorte.py:10
 #: recursos/0adelnorte/datos/levels.py:13 recursos/0canada/datos/0canada.py:25
 msgid "Alaska"
-msgstr ""
+msgstr "Ալյասկա"
 
 #: recursos/0adelnorte/datos/0adelnorte.py:11
 #: recursos/0adelnorte/datos/0adelnorte.py:30
@@ -2921,23 +2921,22 @@ msgstr ""
 #: recursos/0mexico/datos/0mexico.py:22 recursos/0mexico/datos/0mexico.py:50
 #: recursos/0mexico/datos/0mexico.py:137 recursos/0mexico/datos/levels.py:25
 #: recursos/0mexico/datos/levels.py:50 recursos/0mexico/datos/levels.py:91
-#, fuzzy
 msgid "México"
 msgstr "Մեքսիկա"
 
 #: recursos/0adelnorte/datos/0adelnorte.py:18
 msgid "Russia"
-msgstr ""
+msgstr "Ռուսաստան"
 
 #: recursos/0adelnorte/datos/0adelnorte.py:19
 #: recursos/0canada/datos/0canada.py:23
 msgid "Greenland"
-msgstr ""
+msgstr "Գրենլանդիա"
 
 #: recursos/0adelnorte/datos/0adelnorte.py:20
 #: recursos/0eunidos/datos/0eunidos.py:11
 msgid "The Bahamas"
-msgstr ""
+msgstr "Բահամյան Կղզիներ"
 
 #: recursos/0adelnorte/datos/0adelnorte.py:21
 #: recursos/0adelnorte/datos/levels.py:15 recursos/0mexico/datos/0mexico.py:44
@@ -2974,7 +2973,7 @@ msgstr ""
 #: recursos/0canada/datos/0canada.py:111 recursos/0canada/datos/levels.py:31
 #: recursos/0canada/datos/levels.py:53
 msgid "Ottawa"
-msgstr ""
+msgstr "Օտտավա"
 
 #: recursos/0adelnorte/datos/0adelnorte.py:32
 #: recursos/0adelnorte/datos/levels.py:33
@@ -2984,13 +2983,13 @@ msgstr ""
 #: recursos/0eunidos/datos/levels.py:55 recursos/0eunidos/datos/levels.py:68
 #: recursos/0eunidos/datos/levels.py:126
 msgid "Washington"
-msgstr ""
+msgstr "Վաշինգտոն"
 
 #: recursos/0adelnorte/datos/0adelnorte.py:36
 #: recursos/0adelnorte/datos/levels.py:34 recursos/0mexico/datos/0mexico.py:85
 #: recursos/0mexico/datos/levels.py:123
 msgid "Acapulco"
-msgstr ""
+msgstr "Ակապուլկո"
 
 #: recursos/0adelnorte/datos/0adelnorte.py:37
 #: recursos/0adelnorte/datos/levels.py:35
@@ -3009,7 +3008,7 @@ msgstr ""
 #: recursos/0eunidos/datos/0eunidos.py:70 recursos/0eunidos/datos/levels.py:71
 #: recursos/0eunidos/datos/levels.py:129
 msgid "Atlanta"
-msgstr ""
+msgstr "Ատլանտա"
 
 #: recursos/0adelnorte/datos/0adelnorte.py:40
 #: recursos/0adelnorte/datos/levels.py:38
@@ -3026,7 +3025,7 @@ msgstr ""
 #: recursos/0eunidos/datos/0eunidos.py:76 recursos/0eunidos/datos/levels.py:77
 #: recursos/0eunidos/datos/levels.py:135
 msgid "Boston"
-msgstr ""
+msgstr "Բոստոն"
 
 #: recursos/0adelnorte/datos/0adelnorte.py:43
 #: recursos/0adelnorte/datos/levels.py:41 recursos/0canada/datos/0canada.py:48
@@ -3044,7 +3043,7 @@ msgstr ""
 #: recursos/0adelnorte/datos/levels.py:43 recursos/0mexico/datos/0mexico.py:86
 #: recursos/0mexico/datos/levels.py:124
 msgid "Cancún"
-msgstr ""
+msgstr "Կանկուն"
 
 #: recursos/0adelnorte/datos/0adelnorte.py:46
 #: recursos/0adelnorte/datos/levels.py:44
@@ -3064,7 +3063,7 @@ msgstr ""
 #: recursos/0eunidos/datos/0eunidos.py:123
 #: recursos/0eunidos/datos/levels.py:179
 msgid "Chicago"
-msgstr ""
+msgstr "Չիկագո"
 
 #: recursos/0adelnorte/datos/0adelnorte.py:49
 #: recursos/0adelnorte/datos/levels.py:47 recursos/0mexico/datos/0mexico.py:16
@@ -3097,7 +3096,7 @@ msgstr "Կոլոմբիա"
 #: recursos/0eunidos/datos/0eunidos.py:124
 #: recursos/0eunidos/datos/levels.py:180
 msgid "Dallas"
-msgstr ""
+msgstr "Դալաս"
 
 #: recursos/0adelnorte/datos/0adelnorte.py:54
 #: recursos/0adelnorte/datos/levels.py:52 recursos/0canada/datos/0canada.py:53
@@ -3193,7 +3192,7 @@ msgstr ""
 #: recursos/0eunidos/datos/0eunidos.py:128
 #: recursos/0eunidos/datos/levels.py:184
 msgid "Houston"
-msgstr ""
+msgstr "Հյուստոն"
 
 #: recursos/0adelnorte/datos/0adelnorte.py:70
 #: recursos/0adelnorte/datos/levels.py:68
@@ -3256,14 +3255,14 @@ msgstr ""
 #: recursos/0eunidos/datos/0eunidos.py:130
 #: recursos/0eunidos/datos/levels.py:186
 msgid "Las Vegas"
-msgstr ""
+msgstr "Լաս Վեգաս"
 
 #: recursos/0adelnorte/datos/0adelnorte.py:79
 #: recursos/0adelnorte/datos/levels.py:77
 #: recursos/0eunidos/datos/0eunidos.py:131
 #: recursos/0eunidos/datos/levels.py:187
 msgid "Los Angeles"
-msgstr ""
+msgstr "Լոս Անջելես"
 
 #: recursos/0adelnorte/datos/0adelnorte.py:80
 #: recursos/0adelnorte/datos/levels.py:78 recursos/0mexico/datos/0mexico.py:66
@@ -3300,7 +3299,7 @@ msgstr ""
 #: recursos/0eunidos/datos/0eunidos.py:133
 #: recursos/0eunidos/datos/levels.py:189
 msgid "Miami"
-msgstr ""
+msgstr "Մայամի"
 
 #: recursos/0adelnorte/datos/0adelnorte.py:85
 #: recursos/0adelnorte/datos/levels.py:83
@@ -3339,7 +3338,7 @@ msgstr ""
 #: recursos/0eunidos/datos/0eunidos.py:136
 #: recursos/0eunidos/datos/levels.py:40 recursos/0eunidos/datos/levels.py:192
 msgid "New York"
-msgstr ""
+msgstr "Նյու Յորք"
 
 #: recursos/0adelnorte/datos/0adelnorte.py:91
 #: recursos/0adelnorte/datos/levels.py:89
@@ -3484,7 +3483,7 @@ msgstr ""
 #: recursos/0guatemala/datos/0guatemala.py:100
 #: recursos/0guatemala/datos/levels.py:133
 msgid "San Francisco"
-msgstr ""
+msgstr "Սան Ֆրանցիսկո"
 
 #: recursos/0adelnorte/datos/0adelnorte.py:112
 #: recursos/0adelnorte/datos/levels.py:110
@@ -16703,47 +16702,47 @@ msgstr ""
 
 #: recursos/comun/datos/commons.py:23
 msgid "Where is it?"
-msgstr ""
+msgstr "Որտե՞ղ է այն"
 
 #: recursos/comun/datos/commons.py:24
 msgid "Can you show me where it is?"
-msgstr ""
+msgstr "Կարո՞ղ ես ցույց տալ որտեղ է այն"
 
 #: recursos/comun/datos/commons.py:25
 msgid "Can you find it?"
-msgstr ""
+msgstr "Կարո՞ղ ես գտնել այն"
 
 #: recursos/comun/datos/commons.py:29
 msgid "Very well!"
-msgstr ""
+msgstr "Շատ լավ "
 
 #: recursos/comun/datos/commons.py:30
 msgid "Brilliant!"
-msgstr ""
+msgstr "Փայլուն է"
 
 #: recursos/comun/datos/commons.py:31
 msgid "You found it!"
-msgstr ""
+msgstr "Դու գտար այն"
 
 #: recursos/comun/datos/commons.py:32
 msgid "Yes!"
-msgstr ""
+msgstr "Այո"
 
 #: recursos/comun/datos/commons.py:36
 msgid "No, that is not correct"
-msgstr ""
+msgstr "Ոչ, դա ճիշտ չէ"
 
 #: recursos/comun/datos/commons.py:37
 msgid "No, it is not there"
-msgstr ""
+msgstr "Ոչ, դա այնտեղ չէ"
 
 #: recursos/comun/datos/commons.py:38
 msgid "No, that seems to be wrong"
-msgstr ""
+msgstr "Ոչ, դա սխալ է թվում"
 
 #: recursos/comun/datos/commons.py:39
 msgid "That is not correct"
-msgstr ""
+msgstr "Դա ճիշտ չէ"
 
 #: recursos/comun/datos/commons.py:43
 msgid ""
@@ -16752,6 +16751,10 @@ msgid ""
 "I'm going to play...\n"
 "Thanks for your help!"
 msgstr ""
+"Հիմա ես պատրաստ եմ\n"
+"վաղվա համար...\n"
+"Ես պատրաստվում եմ խաղալ...\n"
+"Շնորհակալություն, օգնության համար"
 
 #: recursos/comun/datos/commons.py:44
 msgid ""
@@ -16789,6 +16792,9 @@ msgid ""
 "I'm going to play...\n"
 "Thanks!"
 msgstr ""
+"Խնդրում եմ, փորձիր կրկին...\n"
+"Ես պատրաստվում եմ խաղալ...\n"
+"Շնորհակալություն"
 
 #: recursos/comun/datos/commons.py:55
 msgid "Author: Alan Aguiar"
