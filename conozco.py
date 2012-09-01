@@ -221,7 +221,7 @@ class Nivel():
         self.preguntaActual = self.preguntas[self.indicePreguntaActual-1]
         return self.preguntaActual[3].split("\n")
 
-class ConozcoAm():
+class Conozco():
     """Clase principal del juego.
 
     """
