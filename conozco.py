@@ -1,8 +1,8 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 #
-# Conozco America
-# Copyright (C) 2008,2009,2010 Gabriel Eirea
+# Conozco
+# Copyright (C) 2008, 2009, 2010 Gabriel Eirea
 # Copyright (C) 2011, 2012 Alan Aguiar
 #
 # This program is free software: you can redistribute it and/or modify
@@ -30,6 +30,8 @@ import pygame
 import time
 import imp
 import gettext
+import ConfigParser
+
 gtk_present = True
 try:
     import gtk
@@ -598,7 +600,7 @@ class Conozco():
         self.pantalla.blit(self.jp1,
                         (int(925*scale+shift_x),
                             int(468*scale+shift_y)))
-        self.mostrarTexto(unicode(_("About I know America"), "UTF-8"),
+        self.mostrarTexto(unicode(_("About %s") % self.activity_name, "UTF-8"),
                         self.fuente40,
                         (int(600*scale+shift_x),
                         int(100*scale+shift_y)),
@@ -638,7 +640,7 @@ class Conozco():
         """Pantalla con el menu principal del juego"""
         global scale, shift_x, shift_y
         self.pantalla.fill((0,0,0))
-        self.mostrarTexto(unicode(_("I know America"), "UTF-8"),
+        self.mostrarTexto(unicode(self.activity_name, "UTF-8"),
                         self.fuente60,
                         (int(600*scale+shift_x),
                         int(80*scale+shift_y)),
@@ -746,7 +748,7 @@ class Conozco():
         """Pantalla con el menu de directorios"""
         global scale, shift_x, shift_y
         self.pantalla.fill((0,0,0))
-        self.mostrarTexto(unicode(_("I know America"), "UTF-8"),
+        self.mostrarTexto(unicode(self.activity_name, "UTF-8"),
                         self.fuente60,
                         (int(600*scale+shift_x),int(80*scale+shift_y)),
                         (255,255,255))
@@ -923,7 +925,11 @@ class Conozco():
         return imagen
 
     def __init__(self):
-        bundle_id = 'org.ceibaljam.conozcoamerica'
+        file_activity_info = ConfigParser.ConfigParser()
+        activity_info_path = os.path.abspath('activity/activity.info')
+        file_activity_info.read(activity_info_path)
+        bundle_id = file_activity_info.get('Activity', 'bundle_id')
+        self.activity_name = file_activity_info.get('Activity', 'name')
         path = os.path.abspath('locale')
         gettext.bindtextdomain(bundle_id, path)
         gettext.textdomain(bundle_id)
