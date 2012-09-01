@@ -385,6 +385,9 @@ class Conozco():
             print _('Cannot open %s') % 'commons'
 
         if f:
+            if hasattr(f, 'ACTIVITY_NAME'):
+                e = f.ACTIVITY_NAME
+                self.activity_name = unicode(e, 'UTF-8')
             if hasattr(f, 'PREFIX'):
                 for e in f.PREFIX:
                     e1 = unicode(e, 'UTF-8')
@@ -600,7 +603,7 @@ class Conozco():
         self.pantalla.blit(self.jp1,
                         (int(925*scale+shift_x),
                             int(468*scale+shift_y)))
-        self.mostrarTexto(unicode(_("About %s") % self.activity_name, "UTF-8"),
+        self.mostrarTexto(_("About %s") % self.activity_name,
                         self.fuente40,
                         (int(600*scale+shift_x),
                         int(100*scale+shift_y)),
@@ -640,7 +643,7 @@ class Conozco():
         """Pantalla con el menu principal del juego"""
         global scale, shift_x, shift_y
         self.pantalla.fill((0,0,0))
-        self.mostrarTexto(unicode(self.activity_name, "UTF-8"),
+        self.mostrarTexto(self.activity_name,
                         self.fuente60,
                         (int(600*scale+shift_x),
                         int(80*scale+shift_y)),
@@ -748,7 +751,7 @@ class Conozco():
         """Pantalla con el menu de directorios"""
         global scale, shift_x, shift_y
         self.pantalla.fill((0,0,0))
-        self.mostrarTexto(unicode(self.activity_name, "UTF-8"),
+        self.mostrarTexto(self.activity_name,
                         self.fuente60,
                         (int(600*scale+shift_x),int(80*scale+shift_y)),
                         (255,255,255))
