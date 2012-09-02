@@ -1,8 +1,8 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 #
-# Conozco America
-# Copyright (C) 2008,2009,2010 Gabriel Eirea
+# Conozco
+# Copyright (C) 2008, 2009, 2010 Gabriel Eirea
 # Copyright (C) 2011, 2012 Alan Aguiar
 #
 # This program is free software: you can redistribute it and/or modify
@@ -30,6 +30,8 @@ import pygame
 import time
 import imp
 import gettext
+import ConfigParser
+
 gtk_present = True
 try:
     import gtk
@@ -221,7 +223,7 @@ class Nivel():
         self.preguntaActual = self.preguntas[self.indicePreguntaActual-1]
         return self.preguntaActual[3].split("\n")
 
-class ConozcoAm():
+class Conozco():
     """Clase principal del juego.
 
     """
@@ -383,6 +385,9 @@ class ConozcoAm():
             print _('Cannot open %s') % 'commons'
 
         if f:
+            if hasattr(f, 'ACTIVITY_NAME'):
+                e = f.ACTIVITY_NAME
+                self.activity_name = unicode(e, 'UTF-8')
             if hasattr(f, 'PREFIX'):
                 for e in f.PREFIX:
                     e1 = unicode(e, 'UTF-8')
@@ -515,6 +520,15 @@ class ConozcoAm():
                             nuevoNivel.preguntas.append((texto,
                                 tipo, respuesta, ayuda))
 
+                    elif (index == 14):
+                        for i in listpreguntas:
+                            tipo = 1
+                            respuesta = unicode(i[0], 'UTF-8')
+                            ayuda = unicode(i[1], 'UTF-8')
+                            texto = _('the taluka of\n%s') % respuesta
+                            nuevoNivel.preguntas.append((texto,
+                                tipo, respuesta, ayuda))
+
                     elif (index == 6):
                         for i in listpreguntas:
                             tipo = 1
@@ -598,7 +612,7 @@ class ConozcoAm():
         self.pantalla.blit(self.jp1,
                         (int(925*scale+shift_x),
                             int(468*scale+shift_y)))
-        self.mostrarTexto(unicode(_("About I know America"), "UTF-8"),
+        self.mostrarTexto(_("About %s") % self.activity_name,
                         self.fuente40,
                         (int(600*scale+shift_x),
                         int(100*scale+shift_y)),
@@ -638,7 +652,7 @@ class ConozcoAm():
         """Pantalla con el menu principal del juego"""
         global scale, shift_x, shift_y
         self.pantalla.fill((0,0,0))
-        self.mostrarTexto(unicode(_("I know America"), "UTF-8"),
+        self.mostrarTexto(self.activity_name,
                         self.fuente60,
                         (int(600*scale+shift_x),
                         int(80*scale+shift_y)),
@@ -746,7 +760,7 @@ class ConozcoAm():
         """Pantalla con el menu de directorios"""
         global scale, shift_x, shift_y
         self.pantalla.fill((0,0,0))
-        self.mostrarTexto(unicode(_("I know America"), "UTF-8"),
+        self.mostrarTexto(self.activity_name,
                         self.fuente60,
                         (int(600*scale+shift_x),int(80*scale+shift_y)),
                         (255,255,255))
@@ -910,20 +924,27 @@ class ConozcoAm():
     def cargarImagen(self,nombre):
         """Carga una imagen y la escala de acuerdo a la resolucion"""
         global scale, xo_resolution
-        if xo_resolution:
-            imagen = pygame.image.load( \
-                os.path.join(self.camino_imagenes,nombre))
-        else:
-            imagen0 = pygame.image.load( \
-                os.path.join(self.camino_imagenes,nombre))
-            imagen = pygame.transform.scale(imagen0,
-                        (int(imagen0.get_width()*scale),
-                        int(imagen0.get_height()*scale)))
-            del imagen0
+        imagen = None
+        archivo = os.path.join(self.camino_imagenes, nombre)
+        if os.path.exists(archivo):
+            if xo_resolution:
+                imagen = pygame.image.load( \
+                    os.path.join(self.camino_imagenes,nombre))
+            else:
+                imagen0 = pygame.image.load( \
+                    os.path.join(self.camino_imagenes,nombre))
+                imagen = pygame.transform.scale(imagen0,
+                            (int(imagen0.get_width()*scale),
+                            int(imagen0.get_height()*scale)))
+                del imagen0
         return imagen
 
     def __init__(self):
-        bundle_id = 'org.ceibaljam.conozcoamerica'
+        file_activity_info = ConfigParser.ConfigParser()
+        activity_info_path = os.path.abspath('activity/activity.info')
+        file_activity_info.read(activity_info_path)
+        bundle_id = file_activity_info.get('Activity', 'bundle_id')
+        self.activity_name = file_activity_info.get('Activity', 'name')
         path = os.path.abspath('locale')
         gettext.bindtextdomain(bundle_id, path)
         gettext.textdomain(bundle_id)
@@ -2067,9 +2088,10 @@ class ConozcoAm():
                     pygame.display.flip()
                     self.jugarNivel()
                 else:
-                    self.pantalla.blit(self.bandera,
-                                    (int((XMAPAMAX+47)*scale+shift_x),
-                                    int(155*scale+shift_y)))
+                    if self.bandera:
+                        self.pantalla.blit(self.bandera,
+                                        (int((XMAPAMAX+47)*scale+shift_x),
+                                        int(155*scale+shift_y)))
                     yLinea = int(YTEXTO*scale) + shift_y + \
                                 self.fuente9.get_height()
                     for par in self.lista_estadisticas:
@@ -2086,7 +2108,7 @@ class ConozcoAm():
 
 
 def main():
-    juego = ConozcoAm()
+    juego = Conozco()
     juego.principal()
 
 
