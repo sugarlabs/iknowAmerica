@@ -2079,9 +2079,10 @@ class Conozco():
                     pygame.display.flip()
                     self.jugarNivel()
                 else:
-                    self.pantalla.blit(self.bandera,
-                                    (int((XMAPAMAX+47)*scale+shift_x),
-                                    int(155*scale+shift_y)))
+                    if self.bandera:
+                        self.pantalla.blit(self.bandera,
+                                        (int((XMAPAMAX+47)*scale+shift_x),
+                                        int(155*scale+shift_y)))
                     yLinea = int(YTEXTO*scale) + shift_y + \
                                 self.fuente9.get_height()
                     for par in self.lista_estadisticas:
