@@ -5,3 +5,4 @@ bundle_id = org.ceibaljam.conozcoamerica
 icon = america
 exec = sugar-activity activity.Activity
 license = GPLv3
+summary = Game about the geography of America
