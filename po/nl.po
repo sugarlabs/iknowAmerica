@@ -6,8 +6,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-07-13 19:26-0400\n"
-"PO-Revision-Date: 2012-08-20 21:31+0200\n"
+"POT-Creation-Date: 2012-09-27 14:56-0400\n"
+"PO-Revision-Date: 2012-10-03 19:28+0200\n"
 "Last-Translator: whe <heppew@yahoo.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: nl\n"
@@ -17,17 +17,22 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.0.5\n"
 
-#: activity/activity.info:2 conozcoam.py:637 conozcoam.py:745
+#. TRANS: "name" option from activity.info file
+#: recursos/comun/datos/commons.py:5
 msgid "I know America"
 msgstr "Ik ken Amerika"
 
-#: conozcoam.py:240 conozcoam.py:355 conozcoam.py:379 conozcoam.py:432
-#: conozcoam.py:559
+#. TRANS: "summary" option from activity.info file
+#. TRANS: "description" option from activity.info file
+msgid "Game about the geography of America"
+msgstr "Spel over de geografie van Amerika"
+
+#: conozco.py:246 conozco.py:361 conozco.py:385 conozco.py:441 conozco.py:577
 #, python-format
 msgid "Cannot open %s"
 msgstr "Kan niet openen %s"
 
-#: conozcoam.py:456
+#: conozco.py:465
 #, python-format
 msgid ""
 "the city of\n"
@@ -36,7 +41,7 @@ msgstr ""
 "de stad van\n"
 "%s"
 
-#: conozcoam.py:465
+#: conozco.py:474
 #, python-format
 msgid ""
 "the department of\n"
@@ -45,7 +50,7 @@ msgstr ""
 "het departement van\n"
 "%s"
 
-#: conozcoam.py:474
+#: conozco.py:483
 #, python-format
 msgid ""
 "the province of\n"
@@ -54,7 +59,7 @@ msgstr ""
 "de provincie van\n"
 "%s"
 
-#: conozcoam.py:483
+#: conozco.py:492
 #, python-format
 msgid ""
 "the district of\n"
@@ -63,7 +68,7 @@ msgstr ""
 "het district van\n"
 "%s"
 
-#: conozcoam.py:492
+#: conozco.py:501
 #, python-format
 msgid ""
 "the state of\n"
@@ -72,7 +77,7 @@ msgstr ""
 "de staat van\n"
 "%s"
 
-#: conozcoam.py:501
+#: conozco.py:510
 #, python-format
 msgid ""
 "the region of\n"
@@ -81,7 +86,7 @@ msgstr ""
 "de regio van\n"
 "%s"
 
-#: conozcoam.py:510 recursos/0sanvicenteyg/datos/levels.py:11
+#: conozco.py:519 recursos/0sanvicenteyg/datos/levels.py:11
 #: recursos/0sanvicenteyg/datos/levels.py:12
 #: recursos/0sanvicenteyg/datos/levels.py:13
 #: recursos/0sanvicenteyg/datos/levels.py:14
@@ -94,7 +99,16 @@ msgstr ""
 "de parochie van\n"
 "%s"
 
-#: conozcoam.py:519
+#: conozco.py:528
+#, python-format
+msgid ""
+"the taluka of\n"
+"%s"
+msgstr ""
+"de taluka van\n"
+"%s"
+
+#: conozco.py:537
 #, python-format
 msgid ""
 "the municipality of\n"
@@ -103,7 +117,7 @@ msgstr ""
 "de stad van\n"
 "%s"
 
-#: conozcoam.py:528 recursos/0adelnorte/datos/levels.py:15
+#: conozco.py:546 recursos/0adelnorte/datos/levels.py:15
 #: recursos/0adelnorte/datos/levels.py:16
 #: recursos/0adelnorte/datos/levels.py:17
 #: recursos/0adelnorte/datos/levels.py:18
@@ -129,59 +143,60 @@ msgstr ""
 msgid "the %s"
 msgstr "de %s"
 
-#: conozcoam.py:597
-msgid "About I know America"
-msgstr "Over ik ken Amerika"
+#: conozco.py:615
+#, python-format
+msgid "About %s"
+msgstr "Over %s"
 
-#: conozcoam.py:611
+#: conozco.py:629
 msgid "Press any key to return"
 msgstr "Druk een willekeurige toets om terug te keren"
 
-#: conozcoam.py:642
+#: conozco.py:660
 msgid "You have chosen the map "
 msgstr "Je hebt gekozen de kaart "
 
-#: conozcoam.py:648
+#: conozco.py:666
 msgid "Play"
 msgstr "Afspelen"
 
-#: conozcoam.py:664
+#: conozco.py:682
 msgid "Explore"
 msgstr "Onderzoek"
 
-#: conozcoam.py:684 conozcoam.py:828
+#: conozco.py:702 conozco.py:846
 msgid "About this game"
 msgstr "Over het spel"
 
-#: conozcoam.py:692
+#: conozco.py:710
 msgid "Return"
 msgstr "Terugkeren"
 
-#: conozcoam.py:749
+#: conozco.py:767
 msgid "Choose the map to use"
 msgstr "Kies de te gebruiken kaart"
 
-#: conozcoam.py:769
+#: conozco.py:787
 msgid "Previous page"
 msgstr "Vorige pagina"
 
-#: conozcoam.py:814
+#: conozco.py:832
 msgid "Next page"
 msgstr "Volgende pagina"
 
-#: conozcoam.py:835
+#: conozco.py:853
 msgid "Exit"
 msgstr "Verlaat"
 
-#: conozcoam.py:1292 conozcoam.py:1490
+#: conozco.py:1327 conozco.py:1525
 msgid "End"
 msgstr "Einde"
 
-#: conozcoam.py:1303
+#: conozco.py:1338
 msgid "Show all"
 msgstr "Toon alles"
 
-#: conozcoam.py:1745 conozcoam.py:1857 conozcoam.py:1938
+#: conozco.py:1780 conozco.py:1892 conozco.py:1973
 msgid "Press any key to skip"
 msgstr "Druk een toets om over te slaan"
 
@@ -6394,11 +6409,11 @@ msgstr "Álvaro García Linera"
 
 #: recursos/0bolivia/datos/0bolivia.py:108
 msgid "06 of august of 1825"
-msgstr "06 Augustus 1825"
+msgstr "06 augustus 1825"
 
 #: recursos/0bolivia/datos/0bolivia.py:109
 msgid "21 of july of 1847"
-msgstr "21 July 1847"
+msgstr "21 july 1847"
 
 #: recursos/0bolivia/datos/0bolivia.py:110
 msgid "1.098.581 km² (27th)"
@@ -6765,11 +6780,11 @@ msgstr "uit Portugal"
 
 #: recursos/0brasil/datos/0brasil.py:144
 msgid "7 of september of 1822"
-msgstr "7 September 1822"
+msgstr "7 september 1822"
 
 #: recursos/0brasil/datos/0brasil.py:145
 msgid "29 of august of 1825"
-msgstr "29 Augustus 1825"
+msgstr "29 augustus 1825"
 
 #: recursos/0brasil/datos/0brasil.py:146
 msgid "8.514.877 km² (5th)"
@@ -16644,11 +16659,11 @@ msgstr "Hoog - 0,696 (75ste)"
 msgid "Reservoir of Guarico"
 msgstr "Reservoir van Guarico"
 
-#: recursos/comun/datos/commons.py:7
+#: recursos/comun/datos/commons.py:8
 msgid "Hello friends..."
 msgstr "Hallo vrienden..."
 
-#: recursos/comun/datos/commons.py:8
+#: recursos/comun/datos/commons.py:9
 msgid ""
 "...tomorrow I have a\n"
 "test about America..."
@@ -16656,83 +16671,83 @@ msgstr ""
 "...morgen heb ik een\n"
 "test over Amerika..."
 
-#: recursos/comun/datos/commons.py:9
+#: recursos/comun/datos/commons.py:10
 msgid "...and I know nothing!!!"
 msgstr "...en ik weet niets!!!"
 
-#: recursos/comun/datos/commons.py:10
+#: recursos/comun/datos/commons.py:11
 msgid "...what do I do???"
 msgstr "...wat moet ik doen???"
 
-#: recursos/comun/datos/commons.py:11
+#: recursos/comun/datos/commons.py:12
 msgid "Can I ask you something?"
 msgstr "Ik kan je wat vragen?"
 
-#: recursos/comun/datos/commons.py:12
+#: recursos/comun/datos/commons.py:13
 msgid "Will you help me?"
 msgstr "Wil je me helpen?"
 
-#: recursos/comun/datos/commons.py:16
+#: recursos/comun/datos/commons.py:17
 msgid "We have to find"
 msgstr "We moeten zoeken"
 
-#: recursos/comun/datos/commons.py:17
+#: recursos/comun/datos/commons.py:18
 msgid "Now we have to find"
 msgstr "Nu moeten we kijken"
 
-#: recursos/comun/datos/commons.py:18
+#: recursos/comun/datos/commons.py:19
 msgid "We need to find"
 msgstr "We moeten vinden"
 
-#: recursos/comun/datos/commons.py:22
+#: recursos/comun/datos/commons.py:23
 msgid "Can you tell me where it is?"
 msgstr "Kun je me laten zien waar het is?"
 
-#: recursos/comun/datos/commons.py:23
+#: recursos/comun/datos/commons.py:24
 msgid "Where is it?"
 msgstr "Waar is het?"
 
-#: recursos/comun/datos/commons.py:24
+#: recursos/comun/datos/commons.py:25
 msgid "Can you show me where it is?"
 msgstr "Kun je me laten zien waar het is?"
 
-#: recursos/comun/datos/commons.py:25
+#: recursos/comun/datos/commons.py:26
 msgid "Can you find it?"
 msgstr "Kan je het vinden?"
 
-#: recursos/comun/datos/commons.py:29
+#: recursos/comun/datos/commons.py:30
 msgid "Very well!"
 msgstr "Zeer goed!"
 
-#: recursos/comun/datos/commons.py:30
+#: recursos/comun/datos/commons.py:31
 msgid "Brilliant!"
 msgstr "Briljant!"
 
-#: recursos/comun/datos/commons.py:31
+#: recursos/comun/datos/commons.py:32
 msgid "You found it!"
 msgstr "Gevonden!"
 
-#: recursos/comun/datos/commons.py:32
+#: recursos/comun/datos/commons.py:33
 msgid "Yes!"
 msgstr "Ja!"
 
-#: recursos/comun/datos/commons.py:36
+#: recursos/comun/datos/commons.py:37
 msgid "No, that is not correct"
 msgstr "Nee, dat is niet correct"
 
-#: recursos/comun/datos/commons.py:37
+#: recursos/comun/datos/commons.py:38
 msgid "No, it is not there"
 msgstr "Nee, het is niet daar"
 
-#: recursos/comun/datos/commons.py:38
+#: recursos/comun/datos/commons.py:39
 msgid "No, that seems to be wrong"
 msgstr "Nee, dat lijkt niet goed"
 
-#: recursos/comun/datos/commons.py:39
+#: recursos/comun/datos/commons.py:40
 msgid "That is not correct"
 msgstr "Dat is niet goed"
 
-#: recursos/comun/datos/commons.py:43
+#: recursos/comun/datos/commons.py:44
 msgid ""
 "Now I'm ready\n"
 "for tomorrow...\n"
@@ -16744,7 +16759,7 @@ msgstr ""
 "Ik ga spelen...\n"
 "Dank voor je hulp!"
 
-#: recursos/comun/datos/commons.py:44
+#: recursos/comun/datos/commons.py:45
 msgid ""
 "We made it!\n"
 "I'm going to play ball...\n"
@@ -16756,7 +16771,7 @@ msgstr ""
 "Dag en bedankt\n"
 "voor het helpen!"
 
-#: recursos/comun/datos/commons.py:45
+#: recursos/comun/datos/commons.py:46
 msgid ""
 "We did it!\n"
 "I'm ready for tomorrow...\n"
@@ -16768,7 +16783,7 @@ msgstr ""
 "Ik speel een tijdje...\n"
 "Tot de volgende keer!"
 
-#: recursos/comun/datos/commons.py:49
+#: recursos/comun/datos/commons.py:50
 msgid ""
 "Better luck next time\n"
 "I'll play a while...\n"
@@ -16778,7 +16793,7 @@ msgstr ""
 "Ik speel even...\n"
 "Bedankt!"
 
-#: recursos/comun/datos/commons.py:50
+#: recursos/comun/datos/commons.py:51
 msgid ""
 "The next time will be better\n"
 "I'm going to play ball...\n"
@@ -16788,7 +16803,7 @@ msgstr ""
 "Ik ga balspelen...\n"
 "Bedankt!"
 
-#: recursos/comun/datos/commons.py:51
+#: recursos/comun/datos/commons.py:52
 msgid ""
 "Please try again...\n"
 "I'm going to play...\n"
@@ -16798,33 +16813,36 @@ msgstr ""
 "Ik ga spelen...\n"
 "Bedankt!"
 
-#: recursos/comun/datos/commons.py:55
+#: recursos/comun/datos/commons.py:56
 msgid "Author: Alan Aguiar"
 msgstr "Auteur: Alan Aguiar"
 
-#: recursos/comun/datos/commons.py:56
+#: recursos/comun/datos/commons.py:57
 msgid "Send corrections, comments or suggestions to: alanjas@hotmail.com"
 msgstr "Stuur correcties, commentaar of suggesties naar: alanjas@hotmail.com"
 
-#: recursos/comun/datos/commons.py:58
+#: recursos/comun/datos/commons.py:59
 msgid "This program is free software developed by the community"
 msgstr "Dit programma is vrije software ontwikkeld door de community"
 
-#: recursos/comun/datos/commons.py:59
+#: recursos/comun/datos/commons.py:60
 msgid "For more information visit http://ceibaljam.org"
 msgstr "Voor meer informatie bezoek http://ceibaljam.org"
 
-#: recursos/comun/datos/commons.py:61
+#: recursos/comun/datos/commons.py:62
 msgid "This program is based on 'Conozco Uruguay' (Author: Gabriel Eirea)"
 msgstr "Dit programma is gebaseerd op 'Conozco Uruguay' (Author: Gabriel Eirea)"
 
-#: recursos/comun/datos/commons.py:62
+#: recursos/comun/datos/commons.py:63
 msgid "Sounds downloaded from freesound.org: btn117.wav courtesy of junggle."
 msgstr "Geluiden gedownload van freesound.org: btn117.wav dank aan junggle."
 
-#: recursos/comun/datos/commons.py:63
+#: recursos/comun/datos/commons.py:64
 msgid "Font: Share-Regular.ttf of urbanfonts.com"
 msgstr "Font: Share-Regular.ttf van urbanfonts.com"
+
+#~ msgid "About I know America"
+#~ msgstr "Over ik ken Amerika"
 
 #~ msgid "Next page >>>"
 #~ msgstr "Volgende pagina >>>"
