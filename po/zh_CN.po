@@ -6,8 +6,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-07-13 19:26-0400\n"
-"PO-Revision-Date: 2012-07-23 03:20+0200\n"
+"POT-Creation-Date: 2012-09-27 14:56-0400\n"
+"PO-Revision-Date: 2012-10-02 05:52+0200\n"
 "Last-Translator: lite <litekok@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: zh_CN\n"
@@ -17,59 +17,64 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pootle 2.0.5\n"
 
-#: activity/activity.info:2 conozcoam.py:637 conozcoam.py:745
+#. TRANS: "name" option from activity.info file
+#: recursos/comun/datos/commons.py:5
 msgid "I know America"
 msgstr "走遍美洲"
 
-#: conozcoam.py:240 conozcoam.py:355 conozcoam.py:379 conozcoam.py:432
-#: conozcoam.py:559
+#. TRANS: "summary" option from activity.info file
+#. TRANS: "description" option from activity.info file
+msgid "Game about the geography of America"
+msgstr "关于美洲地理的游戏"
+
+#: conozco.py:246 conozco.py:361 conozco.py:385 conozco.py:441 conozco.py:577
 #, python-format
 msgid "Cannot open %s"
 msgstr "无法打开 %s"
 
-#: conozcoam.py:456
+#: conozco.py:465
 #, python-format
 msgid ""
 "the city of\n"
 "%s"
 msgstr "%s 市"
 
-#: conozcoam.py:465
+#: conozco.py:474
 #, python-format
 msgid ""
 "the department of\n"
 "%s"
 msgstr "%s 省"
 
-#: conozcoam.py:474
+#: conozco.py:483
 #, python-format
 msgid ""
 "the province of\n"
 "%s"
 msgstr "%s 省"
 
-#: conozcoam.py:483
+#: conozco.py:492
 #, python-format
 msgid ""
 "the district of\n"
 "%s"
 msgstr "%s 区"
 
-#: conozcoam.py:492
+#: conozco.py:501
 #, python-format
 msgid ""
 "the state of\n"
 "%s"
 msgstr "%s 州"
 
-#: conozcoam.py:501
+#: conozco.py:510
 #, python-format
 msgid ""
 "the region of\n"
 "%s"
 msgstr "%s 地区"
 
-#: conozcoam.py:510 recursos/0sanvicenteyg/datos/levels.py:11
+#: conozco.py:519 recursos/0sanvicenteyg/datos/levels.py:11
 #: recursos/0sanvicenteyg/datos/levels.py:12
 #: recursos/0sanvicenteyg/datos/levels.py:13
 #: recursos/0sanvicenteyg/datos/levels.py:14
@@ -80,14 +85,21 @@ msgid ""
 "%s"
 msgstr "%s 教区"
 
-#: conozcoam.py:519
+#: conozco.py:528
+#, python-format
+msgid ""
+"the taluka of\n"
+"%s"
+msgstr "%s 乡"
+
+#: conozco.py:537
 #, python-format
 msgid ""
 "the municipality of\n"
 "%s"
 msgstr "%s 市镇"
 
-#: conozcoam.py:528 recursos/0adelnorte/datos/levels.py:15
+#: conozco.py:546 recursos/0adelnorte/datos/levels.py:15
 #: recursos/0adelnorte/datos/levels.py:16
 #: recursos/0adelnorte/datos/levels.py:17
 #: recursos/0adelnorte/datos/levels.py:18
@@ -113,59 +125,60 @@ msgstr "%s 市镇"
 msgid "the %s"
 msgstr "%s"
 
-#: conozcoam.py:597
-msgid "About I know America"
-msgstr "关于“走遍美洲”"
+#: conozco.py:615
+#, python-format
+msgid "About %s"
+msgstr "关于 %s"
 
-#: conozcoam.py:611
+#: conozco.py:629
 msgid "Press any key to return"
 msgstr "按任意键返回"
 
-#: conozcoam.py:642
+#: conozco.py:660
 msgid "You have chosen the map "
 msgstr "你选择了地图 "
 
-#: conozcoam.py:648
+#: conozco.py:666
 msgid "Play"
 msgstr "开始游戏"
 
-#: conozcoam.py:664
+#: conozco.py:682
 msgid "Explore"
 msgstr "探险"
 
-#: conozcoam.py:684 conozcoam.py:828
+#: conozco.py:702 conozco.py:846
 msgid "About this game"
 msgstr "关于本游戏"
 
-#: conozcoam.py:692
+#: conozco.py:710
 msgid "Return"
 msgstr "返回"
 
-#: conozcoam.py:749
+#: conozco.py:767
 msgid "Choose the map to use"
 msgstr "选择要使用的地图"
 
-#: conozcoam.py:769
+#: conozco.py:787
 msgid "Previous page"
 msgstr "上一页"
 
-#: conozcoam.py:814
+#: conozco.py:832
 msgid "Next page"
 msgstr "下一页"
 
-#: conozcoam.py:835
+#: conozco.py:853
 msgid "Exit"
 msgstr "退出"
 
-#: conozcoam.py:1292 conozcoam.py:1490
+#: conozco.py:1327 conozco.py:1525
 msgid "End"
 msgstr "结束"
 
-#: conozcoam.py:1303
+#: conozco.py:1338
 msgid "Show all"
 msgstr "显示全部"
 
-#: conozcoam.py:1745 conozcoam.py:1857 conozcoam.py:1938
+#: conozco.py:1780 conozco.py:1892 conozco.py:1973
 msgid "Press any key to skip"
 msgstr "按任意键跳过"
 
@@ -16630,94 +16643,94 @@ msgstr "高 - 0,696（第75名）"
 msgid "Reservoir of Guarico"
 msgstr "瓜里科水库"
 
-#: recursos/comun/datos/commons.py:7
+#: recursos/comun/datos/commons.py:8
 msgid "Hello friends..."
 msgstr "你好朋友..."
 
 # America应当翻译为什么？
-#: recursos/comun/datos/commons.py:8
+#: recursos/comun/datos/commons.py:9
 msgid ""
 "...tomorrow I have a\n"
 "test about America..."
 msgstr "...明天我有一个关于美洲的测试..."
 
-#: recursos/comun/datos/commons.py:9
+#: recursos/comun/datos/commons.py:10
 msgid "...and I know nothing!!!"
 msgstr "...并且我什么都不知道！！！"
 
-#: recursos/comun/datos/commons.py:10
+#: recursos/comun/datos/commons.py:11
 msgid "...what do I do???"
 msgstr "...我怎么办呢？？？"
 
-#: recursos/comun/datos/commons.py:11
+#: recursos/comun/datos/commons.py:12
 msgid "Can I ask you something?"
 msgstr "我可以问你些事吗？"
 
-#: recursos/comun/datos/commons.py:12
+#: recursos/comun/datos/commons.py:13
 msgid "Will you help me?"
 msgstr "你愿意帮助我吗？"
 
-#: recursos/comun/datos/commons.py:16
+#: recursos/comun/datos/commons.py:17
 msgid "We have to find"
 msgstr "我们要找一找"
 
-#: recursos/comun/datos/commons.py:17
+#: recursos/comun/datos/commons.py:18
 msgid "Now we have to find"
 msgstr "现在我们必须找一找"
 
-#: recursos/comun/datos/commons.py:18
+#: recursos/comun/datos/commons.py:19
 msgid "We need to find"
 msgstr "我们需要找一找"
 
-#: recursos/comun/datos/commons.py:22
+#: recursos/comun/datos/commons.py:23
 msgid "Can you tell me where it is?"
 msgstr "你能告诉我它在哪儿吗？"
 
-#: recursos/comun/datos/commons.py:23
+#: recursos/comun/datos/commons.py:24
 msgid "Where is it?"
 msgstr "它在哪儿呢？"
 
-#: recursos/comun/datos/commons.py:24
+#: recursos/comun/datos/commons.py:25
 msgid "Can you show me where it is?"
 msgstr "你能告诉我它在哪儿吗？"
 
-#: recursos/comun/datos/commons.py:25
+#: recursos/comun/datos/commons.py:26
 msgid "Can you find it?"
 msgstr "你能找到它吗？"
 
-#: recursos/comun/datos/commons.py:29
+#: recursos/comun/datos/commons.py:30
 msgid "Very well!"
 msgstr "太好了！"
 
-#: recursos/comun/datos/commons.py:30
+#: recursos/comun/datos/commons.py:31
 msgid "Brilliant!"
 msgstr "简直是天才！"
 
-#: recursos/comun/datos/commons.py:31
+#: recursos/comun/datos/commons.py:32
 msgid "You found it!"
 msgstr "你找到了！"
 
-#: recursos/comun/datos/commons.py:32
+#: recursos/comun/datos/commons.py:33
 msgid "Yes!"
 msgstr "对！"
 
-#: recursos/comun/datos/commons.py:36
+#: recursos/comun/datos/commons.py:37
 msgid "No, that is not correct"
 msgstr "不，那是不正确的"
 
-#: recursos/comun/datos/commons.py:37
+#: recursos/comun/datos/commons.py:38
 msgid "No, it is not there"
 msgstr "不，它不在那里"
 
-#: recursos/comun/datos/commons.py:38
+#: recursos/comun/datos/commons.py:39
 msgid "No, that seems to be wrong"
 msgstr "不，看上去是错的"
 
-#: recursos/comun/datos/commons.py:39
+#: recursos/comun/datos/commons.py:40
 msgid "That is not correct"
 msgstr "那是不正确的"
 
-#: recursos/comun/datos/commons.py:43
+#: recursos/comun/datos/commons.py:44
 msgid ""
 "Now I'm ready\n"
 "for tomorrow...\n"
@@ -16727,7 +16740,7 @@ msgstr ""
 "我们已经为明天\n"
 "准备好了...我们马上就开始完了...谢谢你的帮助！"
 
-#: recursos/comun/datos/commons.py:44
+#: recursos/comun/datos/commons.py:45
 msgid ""
 "We made it!\n"
 "I'm going to play ball...\n"
@@ -16737,7 +16750,7 @@ msgstr ""
 "我们做到了！\n"
 "我要去打球了...再见谢谢你的帮助!"
 
-#: recursos/comun/datos/commons.py:45
+#: recursos/comun/datos/commons.py:46
 msgid ""
 "We did it!\n"
 "I'm ready for tomorrow...\n"
@@ -16747,7 +16760,7 @@ msgstr ""
 "我们做到了！\n"
 "我已经为明天做好了准备...我玩了有一会儿了...下次再来吧！"
 
-#: recursos/comun/datos/commons.py:49
+#: recursos/comun/datos/commons.py:50
 msgid ""
 "Better luck next time\n"
 "I'll play a while...\n"
@@ -16757,7 +16770,7 @@ msgstr ""
 "我要玩一会儿...\n"
 "谢谢！"
 
-#: recursos/comun/datos/commons.py:50
+#: recursos/comun/datos/commons.py:51
 msgid ""
 "The next time will be better\n"
 "I'm going to play ball...\n"
@@ -16767,7 +16780,7 @@ msgstr ""
 "我要去打球了...\n"
 "谢谢！"
 
-#: recursos/comun/datos/commons.py:51
+#: recursos/comun/datos/commons.py:52
 msgid ""
 "Please try again...\n"
 "I'm going to play...\n"
@@ -16776,33 +16789,36 @@ msgstr ""
 "请再试一次...\n"
 "我正在玩...谢谢！"
 
-#: recursos/comun/datos/commons.py:55
+#: recursos/comun/datos/commons.py:56
 msgid "Author: Alan Aguiar"
 msgstr "作者：Alan Aguiar"
 
-#: recursos/comun/datos/commons.py:56
+#: recursos/comun/datos/commons.py:57
 msgid "Send corrections, comments or suggestions to: alanjas@hotmail.com"
 msgstr "将你的意见和建议发送到： alanjas@hotmail.com"
 
-#: recursos/comun/datos/commons.py:58
+#: recursos/comun/datos/commons.py:59
 msgid "This program is free software developed by the community"
 msgstr "本程序是由社区开发的自由软件"
 
-#: recursos/comun/datos/commons.py:59
+#: recursos/comun/datos/commons.py:60
 msgid "For more information visit http://ceibaljam.org"
 msgstr "请访问 http://ceibaljam.org 了解更多的信息"
 
-#: recursos/comun/datos/commons.py:61
+#: recursos/comun/datos/commons.py:62
 msgid "This program is based on 'Conozco Uruguay' (Author: Gabriel Eirea)"
 msgstr "本程序基于 'Conozco Uruguay' (原作者: Gabriel Eirea)开发"
 
-#: recursos/comun/datos/commons.py:62
+#: recursos/comun/datos/commons.py:63
 msgid "Sounds downloaded from freesound.org: btn117.wav courtesy of junggle."
 msgstr "从 freesound.org 下载的音频文件 btn117.wav 礼貌赞歌"
 
-#: recursos/comun/datos/commons.py:63
+#: recursos/comun/datos/commons.py:64
 msgid "Font: Share-Regular.ttf of urbanfonts.com"
 msgstr "字体：urbanfonts.com的TTF字体Share-Regular"
+
+#~ msgid "About I know America"
+#~ msgstr "关于“走遍美洲”"
 
 #~ msgid "Next page >>>"
 #~ msgstr "下一页 >>>"
