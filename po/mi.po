@@ -6,9 +6,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-09-02 00:32-0400\n"
-"PO-Revision-Date: 2012-09-21 11:31+0200\n"
-"Last-Translator: Chris <cjl@laptop.org>\n"
+"POT-Creation-Date: 2012-09-27 14:56-0400\n"
+"PO-Revision-Date: 2012-09-22 00:31+0200\n"
+"Last-Translator: hariru <hariruroa@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: mi\n"
 "MIME-Version: 1.0\n"
@@ -17,9 +17,15 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.0.5\n"
 
-#: activity/activity.info:2 recursos/comun/datos/commons.py:5
+#. TRANS: "name" option from activity.info file
+#: recursos/comun/datos/commons.py:5
 msgid "I know America"
 msgstr "Kei te mōhio au ki Amerika"
+
+#. TRANS: "summary" option from activity.info file
+#. TRANS: "description" option from activity.info file
+msgid "Game about the geography of America"
+msgstr ""
 
 #: conozco.py:246 conozco.py:361 conozco.py:385 conozco.py:441 conozco.py:577
 #, python-format
@@ -93,12 +99,15 @@ msgstr ""
 "te pāriha o\n"
 "ngā %s"
 
+# not familiar with taluka
 #: conozco.py:528
 #, python-format
 msgid ""
 "the taluka of\n"
 "%s"
 msgstr ""
+"te taluka o\n"
+"%s"
 
 #: conozco.py:537
 #, python-format
@@ -136,9 +145,10 @@ msgid "the %s"
 msgstr "ngā %s"
 
 #: conozco.py:615
-#, python-format, fuzzy
+#, python-format
+#, python-format,
 msgid "About %s"
-msgstr "Mōku Ake"
+msgstr "Mōku Ake %s"
 
 #: conozco.py:629
 msgid "Press any key to return"
@@ -9511,7 +9521,7 @@ msgstr "Teitei - 0,695 (77th)"
 #: recursos/0elsalvador/datos/0elsalvador.py:111
 #: recursos/0eunidos/datos/0eunidos.py:189 recursos/0prico/datos/0prico.py:196
 msgid "United States Dollar"
-msgstr ""
+msgstr "Tāra Amerikana"
 
 #: recursos/0ecuador/datos/levels.py:112
 msgid "Tigre"
@@ -9851,7 +9861,7 @@ msgstr "Salvador Sánchez Cerén"
 
 #: recursos/0elsalvador/datos/0elsalvador.py:106
 msgid "12 of june of 1824"
-msgstr ""
+msgstr "12 o hune 1824"
 
 #: recursos/0elsalvador/datos/0elsalvador.py:107
 msgid "21.041 km² (152th)"
@@ -10332,17 +10342,15 @@ msgstr "Joe Biden"
 
 #: recursos/0eunidos/datos/0eunidos.py:182
 msgid "from Great Britain"
-msgstr ""
+msgstr "nō Piritana Nui"
 
 #: recursos/0eunidos/datos/0eunidos.py:183
-#, fuzzy
 msgid "4 of july of 1776"
-msgstr "9 o hūrae o 1816"
+msgstr "9 o hūrae 1816"
 
 #: recursos/0eunidos/datos/0eunidos.py:184
-#, fuzzy
 msgid "3 of september of 1783"
-msgstr "3 o hepetema o 1783"
+msgstr "3 o hepetema 1783"
 
 #: recursos/0eunidos/datos/0eunidos.py:185
 msgid "9.826.675 km² (3rd)"
@@ -10358,7 +10366,7 @@ msgstr "USD 14.204.322 piriona (1st)"
 
 #: recursos/0eunidos/datos/0eunidos.py:188
 msgid "Muy High - 0,902 (4th)"
-msgstr ""
+msgstr "Muy Tiketike - 0,902 (4th)"
 
 #: recursos/0guatemala/datos/0guatemala.py:8
 #: recursos/0guatemala/datos/0guatemala.py:39
@@ -10489,9 +10497,8 @@ msgstr "Zacapa"
 #: recursos/0guatemala/datos/0guatemala.py:38
 #: recursos/0guatemala/datos/levels.py:43
 #: recursos/0guatemala/datos/levels.py:74
-#, fuzzy
 msgid "Antigua Guatemala"
-msgstr "Antigua Kuatamara"
+msgstr "Anatika Kuatamara"
 
 #: recursos/0guatemala/datos/0guatemala.py:41
 #: recursos/0guatemala/datos/levels.py:46
@@ -10903,7 +10910,7 @@ msgstr "Roxana Baldetti"
 
 #: recursos/0guatemala/datos/0guatemala.py:162
 msgid "11 of october of 1825"
-msgstr ""
+msgstr "11 o oketopa 1825"
 
 #: recursos/0guatemala/datos/0guatemala.py:163
 msgid "108.889 km² (106th)"
@@ -11132,12 +11139,12 @@ msgstr "(4º56' N - 52º19' W)"
 
 #: recursos/0guayanafr/datos/0guayanafr.py:68
 msgid "Overseas department"
-msgstr ""
+msgstr "Tari ki tāwāhi"
 
 #: recursos/0guayanafr/datos/0guayanafr.py:69
 #: recursos/0haiti/datos/0haiti.py:104
 msgid "from France"
-msgstr ""
+msgstr "nō Wīwī"
 
 #: recursos/0guayanafr/datos/0guayanafr.py:70
 msgid "86.504 km² (112th)"
@@ -11388,7 +11395,7 @@ msgstr "(6º49' N - 58º9' W)"
 
 #: recursos/0guyana/datos/0guyana.py:85
 msgid "Semi-Presidential Republic"
-msgstr ""
+msgstr "Whenua manapori ā-perehitini haurua"
 
 #: recursos/0guyana/datos/0guyana.py:86
 msgid "Donald Ramotar"
@@ -11396,7 +11403,7 @@ msgstr "Donald Ramotar"
 
 #: recursos/0guyana/datos/0guyana.py:87
 msgid "Prime minister:"
-msgstr ""
+msgstr "Pirimia:"
 
 #: recursos/0guyana/datos/0guyana.py:87
 msgid "Sam Hinds"
@@ -11424,7 +11431,7 @@ msgstr "Waenga - 0,611 (104th)"
 
 #: recursos/0guyana/datos/0guyana.py:94
 msgid "Guyanese dollar"
-msgstr ""
+msgstr "Tāra Guyanese"
 
 #: recursos/0haiti/datos/0haiti.py:8 recursos/0haiti/datos/levels.py:11
 msgid "Norte"
@@ -11464,7 +11471,7 @@ msgstr "Centro"
 
 #: recursos/0haiti/datos/0haiti.py:17
 msgid "Dominican Republic"
-msgstr ""
+msgstr "Tominika"
 
 #: recursos/0haiti/datos/0haiti.py:19
 msgid "Tortuga Island"
@@ -11723,7 +11730,7 @@ msgstr "Michel Martelly"
 #: recursos/0haiti/datos/0haiti.py:103 recursos/0peru/datos/0peru.py:138
 #: recursos/0tytobago/datos/0tytobago.py:77
 msgid "Prime Minister:"
-msgstr ""
+msgstr "Pirimia:"
 
 #: recursos/0haiti/datos/0haiti.py:103
 msgid "Jean-Max Bellerive"
@@ -11731,7 +11738,7 @@ msgstr "Jean-Max Bellerive"
 
 #: recursos/0haiti/datos/0haiti.py:105
 msgid "1 of january of 1804"
-msgstr ""
+msgstr "1 o hanuere 1804"
 
 #: recursos/0haiti/datos/0haiti.py:106
 msgid "27.750 km² (147th)"
@@ -11747,7 +11754,7 @@ msgstr "USD 11.056 piriona (138th)"
 
 #: recursos/0haiti/datos/0haiti.py:109
 msgid "Low - 0,404 (145th)"
-msgstr ""
+msgstr "Pāpaku - 0,404 (145th)"
 
 #: recursos/0haiti/datos/0haiti.py:110
 msgid "Gourde"
@@ -12171,7 +12178,7 @@ msgstr "Porfirio Lobo"
 
 #: recursos/0honduras/datos/0honduras.py:133
 msgid "11 of december of 1825"
-msgstr ""
+msgstr "11 o hepetema 1825"
 
 #: recursos/0honduras/datos/0honduras.py:134
 msgid "112.492 km² (102th)"
@@ -12459,7 +12466,7 @@ msgstr "(17º59' N - 76º48' W)"
 #: recursos/0jamaica/datos/0jamaica.py:92
 #: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:58
 msgid "Constitutional monarchy"
-msgstr ""
+msgstr "Kāhui ariki kāwanatanga"
 
 #: recursos/0jamaica/datos/0jamaica.py:94
 msgid "Patrick Allen"
@@ -12487,23 +12494,23 @@ msgstr "Teitei - 0,688 (80th)"
 
 #: recursos/0jamaica/datos/0jamaica.py:101
 msgid "Jamaican dollar"
-msgstr ""
+msgstr "Tāra Hamaikana"
 
 #: recursos/0jamaica/datos/explorations.py:6
 #: recursos/0jamaica/datos/levels.py:7
 #: recursos/0sanvicenteyg/datos/explorations.py:6
 msgid "Parishes"
-msgstr ""
+msgstr "Hāhī"
 
 #: recursos/0jamaica/datos/explorations.py:13
 #: recursos/0jamaica/datos/levels.py:30
 #: recursos/0sanvicenteyg/datos/explorations.py:13
 msgid "Parish capitals"
-msgstr ""
+msgstr "Hāhī Matua"
 
 #: recursos/0jamaica/datos/levels.py:118
 msgid "Is around"
-msgstr ""
+msgstr "He porohita"
 
 #: recursos/0mexico/datos/0mexico.py:8 recursos/0mexico/datos/levels.py:11
 #: recursos/0venezuela/datos/0venezuela.py:16
@@ -12824,7 +12831,7 @@ msgstr "(19º26' N - 99º08' W)"
 #: recursos/0mexico/datos/0mexico.py:139
 #: recursos/0venezuela/datos/0venezuela.py:122
 msgid "Federal republic"
-msgstr ""
+msgstr "Whenua"
 
 #: recursos/0mexico/datos/0mexico.py:140
 msgid "Felipe Calderón Hinojosa"
@@ -12836,7 +12843,7 @@ msgstr "16 o hepetema o 1810"
 
 #: recursos/0mexico/datos/0mexico.py:143
 msgid "28 of december of 1836"
-msgstr ""
+msgstr "28 o hepetema 1936"
 
 #: recursos/0mexico/datos/0mexico.py:144
 msgid "1.972.550 km² (14th)"
@@ -13326,7 +13333,7 @@ msgstr "Daniel Ortega Saavedra"
 
 #: recursos/0nicaragua/datos/0nicaragua.py:140
 msgid "8 of april of 1826"
-msgstr ""
+msgstr "8 o aperira 1826"
 
 #: recursos/0nicaragua/datos/0nicaragua.py:141
 msgid "129.494 km² (97th)"
@@ -13577,15 +13584,15 @@ msgstr "Juan Carlos Varela"
 
 #: recursos/0panama/datos/0panama.py:95
 msgid "28 of november of 1821"
-msgstr ""
+msgstr "28 o noema 1821"
 
 #: recursos/0panama/datos/0panama.py:96
 msgid "from Colombia:"
-msgstr ""
+msgstr "nō Koromōpia:"
 
 #: recursos/0panama/datos/0panama.py:96
 msgid "3 of november of 1903"
-msgstr ""
+msgstr "3 o noema 1903"
 
 #: recursos/0panama/datos/0panama.py:97
 msgid "78.200 km² (118th)"
@@ -13981,7 +13988,7 @@ msgstr "Waenga - 0,640 (96th)"
 
 #: recursos/0paraguay/datos/levels.py:126
 msgid "Queda en el sureste"
-msgstr ""
+msgstr "Quenda en el sureste"
 
 #: recursos/0peru/datos/0peru.py:5
 msgid "Peru"
@@ -14320,7 +14327,7 @@ msgstr "Oscar Valdés Dancuart"
 
 #: recursos/0peru/datos/0peru.py:140
 msgid "28 of july of 1821"
-msgstr ""
+msgstr "28 o hurae 1821"
 
 #: recursos/0peru/datos/0peru.py:141
 msgid "14 of august of 1879"
@@ -14767,10 +14774,9 @@ msgstr "Te Awa o Bayamón"
 
 #: recursos/0prico/datos/0prico.py:169 recursos/0prico/datos/levels.py:227
 msgid "Lake Grande"
-msgstr ""
+msgstr "Te Roto o Grande"
 
 #: recursos/0prico/datos/0prico.py:170 recursos/0prico/datos/levels.py:228
-#, fuzzy
 msgid "Grande de Loíza River"
 msgstr "Te Awa o Grande de Lípez"
 
@@ -14804,7 +14810,7 @@ msgstr "(18º29' N - 66º08' W)"
 
 #: recursos/0prico/datos/0prico.py:186
 msgid "Unincorporated territory"
-msgstr ""
+msgstr "Whenua waho"
 
 #: recursos/0prico/datos/0prico.py:189
 msgid "Luis Fortuño"
@@ -14812,7 +14818,7 @@ msgstr "Luis Fortuño"
 
 #: recursos/0prico/datos/0prico.py:190
 msgid "Ceded by Spain to the United States"
-msgstr ""
+msgstr "I hoatu ki Paniora e Amerika"
 
 #: recursos/0prico/datos/0prico.py:191
 msgid "13 of august of 1898 "
@@ -14832,22 +14838,22 @@ msgstr "USD 96.260 piriona (--th)"
 
 #: recursos/0prico/datos/0prico.py:195
 msgid "Very High - 0.905 (53th)"
-msgstr ""
+msgstr "Tino Tiketike - 0.905 (53th)"
 
 #: recursos/0prico/datos/explorations.py:6 recursos/0prico/datos/levels.py:7
 msgid "Municipalities"
-msgstr ""
+msgstr "Manamotuhake"
 
 #: recursos/0prico/datos/explorations.py:13
 msgid "Municipal capitals"
-msgstr ""
+msgstr "Tāone matua manamotuhake"
 
 #: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:8
 #: recursos/0sanvicenteyg/datos/levels.py:11
 #: recursos/0tytobago/datos/0tytobago.py:9
 #: recursos/0tytobago/datos/levels.py:12
 msgid "Saint David"
-msgstr "Saint David"
+msgstr "Hātō Rawiri"
 
 #: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:9
 #: recursos/0sanvicenteyg/datos/levels.py:12
@@ -14859,7 +14865,7 @@ msgstr "Carlotte"
 #: recursos/0tytobago/datos/0tytobago.py:16
 #: recursos/0tytobago/datos/levels.py:19
 msgid "Saint Patrick"
-msgstr "Hato Patrick"
+msgstr "Hato Patariki"
 
 #: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:13
 #: recursos/0sanvicenteyg/datos/levels.py:16
@@ -15016,7 +15022,7 @@ msgstr "Frederick Ballantyne"
 
 #: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:62
 msgid "27 of october of 1979"
-msgstr ""
+msgstr "27 o oketopa 1979"
 
 #: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:63
 msgid "389 km² (206th)"
@@ -15036,11 +15042,11 @@ msgstr "Waenga - 0,791 (93rd)"
 
 #: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:67
 msgid "Caribbean Dollar"
-msgstr ""
+msgstr "Tāra Karipiani"
 
 #: recursos/0sanvicenteyg/datos/levels.py:7
 msgid "Parishes and Islands"
-msgstr ""
+msgstr "Ngā Hāhī me ngā Moutere"
 
 #: recursos/0surinam/datos/0surinam.py:8 recursos/0surinam/datos/levels.py:11
 msgid "Nickerie"
@@ -15233,11 +15239,11 @@ msgstr "(5º52' N - 55º10' W)"
 
 #: recursos/0surinam/datos/0surinam.py:78
 msgid "Dutch"
-msgstr ""
+msgstr "Tatimana"
 
 #: recursos/0surinam/datos/0surinam.py:79
 msgid "Representative republic"
-msgstr ""
+msgstr "Whenua repe"
 
 #: recursos/0surinam/datos/0surinam.py:80
 msgid "Dési Bouterse"
@@ -15249,11 +15255,11 @@ msgstr "Robert Ameerali"
 
 #: recursos/0surinam/datos/0surinam.py:82
 msgid "from Netherlands"
-msgstr ""
+msgstr "nō Hōrana"
 
 #: recursos/0surinam/datos/0surinam.py:83
 msgid "25 of november of 1975"
-msgstr ""
+msgstr "25 o noema 1975"
 
 #: recursos/0surinam/datos/0surinam.py:84
 msgid "163.820 km² (91th)"
@@ -15273,7 +15279,7 @@ msgstr "Waenga - 0,646 (94th)"
 
 #: recursos/0surinam/datos/0surinam.py:88
 msgid "Surinamese dollar"
-msgstr ""
+msgstr "Tāra Hurinamo"
 
 #: recursos/0tytobago/datos/0tytobago.py:8
 #: recursos/0tytobago/datos/levels.py:11
@@ -15488,11 +15494,11 @@ msgstr "(10º40' N - 61º31' W)"
 
 #: recursos/0tytobago/datos/0tytobago.py:75
 msgid "Parliamentary republic"
-msgstr ""
+msgstr "Whenua pāremata"
 
 #: recursos/0tytobago/datos/0tytobago.py:76
 msgid "George Maxwell Richards"
-msgstr ""
+msgstr "George Mawell Richards"
 
 #: recursos/0tytobago/datos/0tytobago.py:77
 msgid "Kamla Persad-Bissessar"
@@ -15500,7 +15506,7 @@ msgstr "Kamla Persad-Bissessar"
 
 #: recursos/0tytobago/datos/0tytobago.py:79
 msgid "31 of august of 1962"
-msgstr ""
+msgstr "31 o akuhata 1962"
 
 #: recursos/0tytobago/datos/0tytobago.py:80
 msgid "5.128 km² (172th)"
@@ -15520,7 +15526,7 @@ msgstr "Teitei - 0,736 (59th)"
 
 #: recursos/0tytobago/datos/0tytobago.py:84
 msgid "Trinidad and Tobago dollar"
-msgstr ""
+msgstr "Tāra Tirinaki-Tōpako"
 
 #: recursos/0uruguay/datos/0uruguay.py:8
 #: recursos/0uruguay/datos/0uruguay.py:30 recursos/0uruguay/datos/levels.py:11
@@ -16133,7 +16139,7 @@ msgstr "Teitei - 0,765 (52th)"
 
 #: recursos/0uruguay/datos/explorations.py:34
 msgid "Elevations"
-msgstr ""
+msgstr "Whakarewatanga"
 
 #: recursos/0uruguay/datos/levels.py:11 recursos/0uruguay/datos/levels.py:12
 #: recursos/0uruguay/datos/levels.py:13 recursos/0uruguay/datos/levels.py:14
@@ -16161,7 +16167,7 @@ msgstr ""
 #: recursos/0uruguay/datos/levels.py:164 recursos/0uruguay/datos/levels.py:168
 #: recursos/0uruguay/datos/levels.py:171 recursos/0uruguay/datos/levels.py:172
 msgid "It's easy"
-msgstr ""
+msgstr "He māmā"
 
 #: recursos/0uruguay/datos/levels.py:67 recursos/0uruguay/datos/levels.py:68
 #: recursos/0uruguay/datos/levels.py:70 recursos/0uruguay/datos/levels.py:71
@@ -16199,7 +16205,7 @@ msgstr ""
 #: recursos/0uruguay/datos/levels.py:176 recursos/0uruguay/datos/levels.py:177
 #, python-format
 msgid "It's in %s"
-msgstr ""
+msgstr "Kei roto %s"
 
 #: recursos/0uruguay/datos/levels.py:68 recursos/0uruguay/datos/levels.py:112
 #: recursos/0uruguay/datos/levels.py:124 recursos/0uruguay/datos/levels.py:166
@@ -16209,15 +16215,15 @@ msgstr "Tacuarembo"
 #: recursos/0uruguay/datos/levels.py:81 recursos/0uruguay/datos/levels.py:118
 #: recursos/0uruguay/datos/levels.py:169
 msgid "It's near Brazil"
-msgstr ""
+msgstr "He pātata ki Parahi"
 
 #: recursos/0uruguay/datos/levels.py:82
 msgid "Try again"
-msgstr ""
+msgstr "Ngana anō"
 
 #: recursos/0uruguay/datos/levels.py:85
 msgid "the center"
-msgstr ""
+msgstr "te pito"
 
 #: recursos/0uruguay/datos/levels.py:88 recursos/0uruguay/datos/levels.py:107
 #: recursos/0uruguay/datos/levels.py:140
@@ -16229,29 +16235,31 @@ msgstr "Río Negro"
 msgid "Paysandu"
 msgstr "Paysandu"
 
+# Need some context
 #: recursos/0uruguay/datos/levels.py:100 recursos/0uruguay/datos/levels.py:101
 #: recursos/0uruguay/datos/levels.py:102 recursos/0uruguay/datos/levels.py:119
 #: recursos/0uruguay/datos/levels.py:125 recursos/0uruguay/datos/levels.py:136
 #: recursos/0uruguay/datos/levels.py:137
+#, fuzzy
 msgid "It's a departmental capital"
-msgstr ""
+msgstr "He tari nui"
 
 #: recursos/0uruguay/datos/levels.py:130
 msgid "Queda en Florida"
-msgstr ""
+msgstr "Queda en Florida"
 
 #: recursos/0uruguay/datos/levels.py:151 recursos/0uruguay/datos/levels.py:154
 #: recursos/0uruguay/datos/levels.py:159
 msgid "Flows in the Uruguay River"
-msgstr ""
+msgstr "Ka rere ki te Awa o Uruguay"
 
 #: recursos/0uruguay/datos/levels.py:152 recursos/0uruguay/datos/levels.py:167
 msgid "Flows in the Merin Lagoon"
-msgstr ""
+msgstr "Ka rere ki te Pūroto o Merin"
 
 #: recursos/0uruguay/datos/levels.py:155
 msgid "Has three dams"
-msgstr ""
+msgstr "E toru ngā pāpuni"
 
 #: recursos/0uruguay/datos/levels.py:166
 msgid "Tacuarembo River"
@@ -16270,7 +16278,7 @@ msgstr "Apure"
 #: recursos/0venezuela/datos/0venezuela.py:11
 #: recursos/0venezuela/datos/levels.py:14
 msgid "Aragua"
-msgstr "Aragua"
+msgstr "Arakua"
 
 #: recursos/0venezuela/datos/0venezuela.py:12
 #: recursos/0venezuela/datos/0venezuela.py:44
@@ -16579,7 +16587,7 @@ msgstr "Te Awa o Gaura"
 #: recursos/0venezuela/datos/0venezuela.py:104
 #: recursos/0venezuela/datos/levels.py:139
 msgid "Reservoir of Sura"
-msgstr "Reservoir of Sura"
+msgstr "Puna wai o Sura"
 
 #: recursos/0venezuela/datos/0venezuela.py:105
 #: recursos/0venezuela/datos/levels.py:140
@@ -16593,12 +16601,12 @@ msgstr "Reservoir de Guarico"
 #: recursos/0venezuela/datos/0venezuela.py:107
 #: recursos/0venezuela/datos/levels.py:142
 msgid "Lake Valencia"
-msgstr ""
+msgstr "Te Roto o Valencia"
 
 #: recursos/0venezuela/datos/0venezuela.py:108
 #: recursos/0venezuela/datos/levels.py:143
 msgid "Lake de Maracaibo"
-msgstr ""
+msgstr "Te Roto de Maracaibo"
 
 #: recursos/0venezuela/datos/0venezuela.py:109
 #: recursos/0venezuela/datos/levels.py:144
@@ -16628,13 +16636,12 @@ msgid "Elías Jaua Milano"
 msgstr "Elías Jaua Milano"
 
 #: recursos/0venezuela/datos/0venezuela.py:126
-#, fuzzy
 msgid "5 of july of 1811"
-msgstr "9 o hūrae o 1816"
+msgstr "9 o hūrae 1816"
 
 #: recursos/0venezuela/datos/0venezuela.py:127
 msgid "30 of march of 1845"
-msgstr ""
+msgstr "30 o maehe 1845"
 
 #: recursos/0venezuela/datos/0venezuela.py:128
 msgid "916.445 km² (33th)"
@@ -16658,89 +16665,91 @@ msgstr "Reservoir of Guarico"
 
 #: recursos/comun/datos/commons.py:8
 msgid "Hello friends..."
-msgstr ""
+msgstr "Kia Ora e hoa mā..."
 
 #: recursos/comun/datos/commons.py:9
 msgid ""
 "...tomorrow I have a\n"
 "test about America..."
 msgstr ""
+"...āpōpō he whakamātautau tāku a\n"
+"mō Amerika..."
 
 #: recursos/comun/datos/commons.py:10
 msgid "...and I know nothing!!!"
-msgstr ""
+msgstr "...tē mōhio hoki i te aha!!!"
 
 #: recursos/comun/datos/commons.py:11
 msgid "...what do I do???"
-msgstr ""
+msgstr "...me aha au???"
 
 #: recursos/comun/datos/commons.py:12
 msgid "Can I ask you something?"
-msgstr ""
+msgstr "He pātai tāku."
 
 #: recursos/comun/datos/commons.py:13
 msgid "Will you help me?"
-msgstr ""
+msgstr "Ka āwhina mai koe i a au?"
 
 #: recursos/comun/datos/commons.py:17
 msgid "We have to find"
-msgstr ""
+msgstr "Me rapu tātaou i"
 
 #: recursos/comun/datos/commons.py:18
 msgid "Now we have to find"
-msgstr ""
+msgstr "Īnāianei me rapu tātou i"
 
 #: recursos/comun/datos/commons.py:19
 msgid "We need to find"
-msgstr ""
+msgstr "Me rapu tātou i"
 
 #: recursos/comun/datos/commons.py:23
 msgid "Can you tell me where it is?"
-msgstr ""
+msgstr "Kōrero mai koa kei whea?"
 
 #: recursos/comun/datos/commons.py:24
 msgid "Where is it?"
-msgstr ""
+msgstr "Kei whea?"
 
 #: recursos/comun/datos/commons.py:25
 msgid "Can you show me where it is?"
-msgstr ""
+msgstr "Whakaatu mai koa kei whea?"
 
 #: recursos/comun/datos/commons.py:26
 msgid "Can you find it?"
-msgstr ""
+msgstr "Ka kitea e koe?"
 
 #: recursos/comun/datos/commons.py:30
 msgid "Very well!"
-msgstr ""
+msgstr "Tino pai!"
 
 #: recursos/comun/datos/commons.py:31
 msgid "Brilliant!"
-msgstr ""
+msgstr "Ka ngangaro!"
 
 #: recursos/comun/datos/commons.py:32
 msgid "You found it!"
-msgstr ""
+msgstr "I kitea e koe!"
 
 #: recursos/comun/datos/commons.py:33
 msgid "Yes!"
-msgstr ""
+msgstr "Ae!"
 
 #: recursos/comun/datos/commons.py:37
 msgid "No, that is not correct"
-msgstr ""
+msgstr "Kao, kāore i te tika"
 
 #: recursos/comun/datos/commons.py:38
 msgid "No, it is not there"
-msgstr ""
+msgstr "Kao, kāore i reira"
 
 #: recursos/comun/datos/commons.py:39
 msgid "No, that seems to be wrong"
-msgstr ""
+msgstr "Kao, te āhua nei he hē"
 
 #: recursos/comun/datos/commons.py:40
 msgid "That is not correct"
-msgstr ""
+msgstr "Kāore i te tika"
 
 #: recursos/comun/datos/commons.py:44
 msgid ""
@@ -16749,6 +16758,10 @@ msgid ""
 "I'm going to play...\n"
 "Thanks for your help!"
 msgstr ""
+"Kua reri au īnāianei\n"
+"mō āpōpō...\n"
+"Ka tākaro ahau...\n"
+"Tēnā koe mō tō āwhina!"
 
 #: recursos/comun/datos/commons.py:45
 msgid ""
@@ -16757,6 +16770,10 @@ msgid ""
 "Bye and thanks\n"
 "for helping me!"
 msgstr ""
+"Kua eke tāua!\n"
+"Ka tākau pōi whiu au...\n"
+"Hei konā, tēnā anō koe\n"
+"mō te āwhina mai i a au!"
 
 #: recursos/comun/datos/commons.py:46
 msgid ""
@@ -16765,6 +16782,10 @@ msgid ""
 "I'm playing a while...\n"
 "Until next time!"
 msgstr ""
+"I eke tāua!\n"
+"Kua reri au mō āpōpō...\n"
+"Kei te tākaro au mō tēnei wā...\n"
+"Mā te wā!"
 
 #: recursos/comun/datos/commons.py:50
 msgid ""
@@ -16772,6 +16793,9 @@ msgid ""
 "I'll play a while...\n"
 "Thanks!"
 msgstr ""
+"Kia kaha tonu\n"
+"Ka tākaro tonu au...\n"
+"Kia Ora!"
 
 #: recursos/comun/datos/commons.py:51
 msgid ""
@@ -16779,6 +16803,9 @@ msgid ""
 "I'm going to play ball...\n"
 "Thanks!"
 msgstr ""
+"Ka piki te kaha\n"
+"Ka tākara poi whiu au...\n"
+"Kia Ora!"
 
 #: recursos/comun/datos/commons.py:52
 msgid ""
@@ -16786,34 +16813,42 @@ msgid ""
 "I'm going to play...\n"
 "Thanks!"
 msgstr ""
+"Ngana anō koa...\n"
+"Ka tākaro ahau...\n"
+"Kia Ora!"
 
 #: recursos/comun/datos/commons.py:56
 msgid "Author: Alan Aguiar"
-msgstr ""
+msgstr "Kaituhi: Alan Aquitar"
 
 #: recursos/comun/datos/commons.py:57
 msgid "Send corrections, comments or suggestions to: alanjas@hotmail.com"
 msgstr ""
+"Tukuna ngā whakatikatanga, kōrero poka, kōrero hāpai rānei ki a: "
+"alanjas@hotmail.com"
 
 #: recursos/comun/datos/commons.py:59
 msgid "This program is free software developed by the community"
-msgstr ""
+msgstr "He pūmanawa utu kore tēnei i whakawhanaketia e te hāpori"
 
 #: recursos/comun/datos/commons.py:60
 msgid "For more information visit http://ceibaljam.org"
-msgstr ""
+msgstr "Kia whai mōhiohio anō haere ki http://ceibaljam.org"
 
 #: recursos/comun/datos/commons.py:62
 msgid "This program is based on 'Conozco Uruguay' (Author: Gabriel Eirea)"
 msgstr ""
+"Kua tuhia tēnei papatono e ai ki 'Conozco Uruguau' (Kaituhi: Gabriel Eirea)"
 
 #: recursos/comun/datos/commons.py:63
 msgid "Sounds downloaded from freesound.org: btn117.wav courtesy of junggle."
 msgstr ""
+"I tikina ake ngā oro mai i freesound.org: btn117.wav he mea tākoha nā "
+"junggle."
 
 #: recursos/comun/datos/commons.py:64
 msgid "Font: Share-Regular.ttf of urbanfonts.com"
-msgstr ""
+msgstr "Momotuhi: Share-Regular.ttf o urbanfonts.com"
 
 #~ msgid "(R) how quickly the sound goes away."
 #~ msgstr "(R) te tere o te oro kore."
