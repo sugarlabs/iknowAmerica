@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-07-13 19:26-0400\n"
+"POT-Creation-Date: 2012-09-27 14:56-0400\n"
 "PO-Revision-Date: 2012-09-07 20:12+0200\n"
 "Last-Translator: Yannis <kiolalis@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,59 +17,64 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.0.5\n"
 
-#: activity/activity.info:2 conozcoam.py:637 conozcoam.py:745
+#. TRANS: "name" option from activity.info file
+#: recursos/comun/datos/commons.py:5
 msgid "I know America"
 msgstr "Γνωρίζω την Αμερική"
 
-#: conozcoam.py:240 conozcoam.py:355 conozcoam.py:379 conozcoam.py:432
-#: conozcoam.py:559
+#. TRANS: "summary" option from activity.info file
+#. TRANS: "description" option from activity.info file
+msgid "Game about the geography of America"
+msgstr ""
+
+#: conozco.py:246 conozco.py:361 conozco.py:385 conozco.py:441 conozco.py:577
 #, python-format
 msgid "Cannot open %s"
 msgstr "Δεν είναι δυνατό το άνοιγμα του %s"
 
-#: conozcoam.py:456
+#: conozco.py:465
 #, python-format
 msgid ""
 "the city of\n"
 "%s"
 msgstr ""
 
-#: conozcoam.py:465
+#: conozco.py:474
 #, python-format
 msgid ""
 "the department of\n"
 "%s"
 msgstr ""
 
-#: conozcoam.py:474
+#: conozco.py:483
 #, python-format
 msgid ""
 "the province of\n"
 "%s"
 msgstr ""
 
-#: conozcoam.py:483
+#: conozco.py:492
 #, python-format
 msgid ""
 "the district of\n"
 "%s"
 msgstr ""
 
-#: conozcoam.py:492
+#: conozco.py:501
 #, python-format
 msgid ""
 "the state of\n"
 "%s"
 msgstr ""
 
-#: conozcoam.py:501
+#: conozco.py:510
 #, python-format
 msgid ""
 "the region of\n"
 "%s"
 msgstr ""
 
-#: conozcoam.py:510 recursos/0sanvicenteyg/datos/levels.py:11
+#: conozco.py:519 recursos/0sanvicenteyg/datos/levels.py:11
 #: recursos/0sanvicenteyg/datos/levels.py:12
 #: recursos/0sanvicenteyg/datos/levels.py:13
 #: recursos/0sanvicenteyg/datos/levels.py:14
@@ -80,14 +85,21 @@ msgid ""
 "%s"
 msgstr ""
 
-#: conozcoam.py:519
+#: conozco.py:528
+#, python-format
+msgid ""
+"the taluka of\n"
+"%s"
+msgstr ""
+
+#: conozco.py:537
 #, python-format
 msgid ""
 "the municipality of\n"
 "%s"
 msgstr ""
 
-#: conozcoam.py:528 recursos/0adelnorte/datos/levels.py:15
+#: conozco.py:546 recursos/0adelnorte/datos/levels.py:15
 #: recursos/0adelnorte/datos/levels.py:16
 #: recursos/0adelnorte/datos/levels.py:17
 #: recursos/0adelnorte/datos/levels.py:18
@@ -113,59 +125,60 @@ msgstr ""
 msgid "the %s"
 msgstr ""
 
-#: conozcoam.py:597
-msgid "About I know America"
+#: conozco.py:615
+#, python-format
+msgid "About %s"
 msgstr ""
 
-#: conozcoam.py:611
+#: conozco.py:629
 msgid "Press any key to return"
 msgstr ""
 
-#: conozcoam.py:642
+#: conozco.py:660
 msgid "You have chosen the map "
 msgstr ""
 
-#: conozcoam.py:648
+#: conozco.py:666
 msgid "Play"
 msgstr "Αναπαραγωγή"
 
-#: conozcoam.py:664
+#: conozco.py:682
 msgid "Explore"
 msgstr "Εξερεύνηση"
 
-#: conozcoam.py:684 conozcoam.py:828
+#: conozco.py:702 conozco.py:846
 msgid "About this game"
 msgstr "Σχετικά με το παιχνίδι"
 
-#: conozcoam.py:692
+#: conozco.py:710
 msgid "Return"
 msgstr "Επιστροφή"
 
-#: conozcoam.py:749
+#: conozco.py:767
 msgid "Choose the map to use"
 msgstr "Επιλέξτε τον χάρτη που θα χρησιμοποιήσετε"
 
-#: conozcoam.py:769
+#: conozco.py:787
 msgid "Previous page"
 msgstr "Προηγούμενη σελίδα"
 
-#: conozcoam.py:814
+#: conozco.py:832
 msgid "Next page"
 msgstr "Επόμενη σελίδα"
 
-#: conozcoam.py:835
+#: conozco.py:853
 msgid "Exit"
 msgstr "Έξοδος"
 
-#: conozcoam.py:1292 conozcoam.py:1490
+#: conozco.py:1327 conozco.py:1525
 msgid "End"
 msgstr ""
 
-#: conozcoam.py:1303
+#: conozco.py:1338
 msgid "Show all"
 msgstr ""
 
-#: conozcoam.py:1745 conozcoam.py:1857 conozcoam.py:1938
+#: conozco.py:1780 conozco.py:1892 conozco.py:1973
 msgid "Press any key to skip"
 msgstr ""
 
@@ -16628,93 +16641,93 @@ msgstr ""
 msgid "Reservoir of Guarico"
 msgstr ""
 
-#: recursos/comun/datos/commons.py:7
+#: recursos/comun/datos/commons.py:8
 msgid "Hello friends..."
 msgstr ""
 
-#: recursos/comun/datos/commons.py:8
+#: recursos/comun/datos/commons.py:9
 msgid ""
 "...tomorrow I have a\n"
 "test about America..."
 msgstr ""
 
-#: recursos/comun/datos/commons.py:9
+#: recursos/comun/datos/commons.py:10
 msgid "...and I know nothing!!!"
 msgstr ""
 
-#: recursos/comun/datos/commons.py:10
+#: recursos/comun/datos/commons.py:11
 msgid "...what do I do???"
 msgstr ""
 
-#: recursos/comun/datos/commons.py:11
+#: recursos/comun/datos/commons.py:12
 msgid "Can I ask you something?"
 msgstr ""
 
-#: recursos/comun/datos/commons.py:12
+#: recursos/comun/datos/commons.py:13
 msgid "Will you help me?"
 msgstr ""
 
-#: recursos/comun/datos/commons.py:16
+#: recursos/comun/datos/commons.py:17
 msgid "We have to find"
 msgstr ""
 
-#: recursos/comun/datos/commons.py:17
+#: recursos/comun/datos/commons.py:18
 msgid "Now we have to find"
 msgstr ""
 
-#: recursos/comun/datos/commons.py:18
+#: recursos/comun/datos/commons.py:19
 msgid "We need to find"
 msgstr ""
 
-#: recursos/comun/datos/commons.py:22
+#: recursos/comun/datos/commons.py:23
 msgid "Can you tell me where it is?"
 msgstr ""
 
-#: recursos/comun/datos/commons.py:23
+#: recursos/comun/datos/commons.py:24
 msgid "Where is it?"
 msgstr ""
 
-#: recursos/comun/datos/commons.py:24
+#: recursos/comun/datos/commons.py:25
 msgid "Can you show me where it is?"
 msgstr ""
 
-#: recursos/comun/datos/commons.py:25
+#: recursos/comun/datos/commons.py:26
 msgid "Can you find it?"
 msgstr ""
 
-#: recursos/comun/datos/commons.py:29
+#: recursos/comun/datos/commons.py:30
 msgid "Very well!"
 msgstr ""
 
-#: recursos/comun/datos/commons.py:30
+#: recursos/comun/datos/commons.py:31
 msgid "Brilliant!"
 msgstr ""
 
-#: recursos/comun/datos/commons.py:31
+#: recursos/comun/datos/commons.py:32
 msgid "You found it!"
 msgstr ""
 
-#: recursos/comun/datos/commons.py:32
+#: recursos/comun/datos/commons.py:33
 msgid "Yes!"
 msgstr ""
 
-#: recursos/comun/datos/commons.py:36
+#: recursos/comun/datos/commons.py:37
 msgid "No, that is not correct"
 msgstr ""
 
-#: recursos/comun/datos/commons.py:37
+#: recursos/comun/datos/commons.py:38
 msgid "No, it is not there"
 msgstr ""
 
-#: recursos/comun/datos/commons.py:38
+#: recursos/comun/datos/commons.py:39
 msgid "No, that seems to be wrong"
 msgstr ""
 
-#: recursos/comun/datos/commons.py:39
+#: recursos/comun/datos/commons.py:40
 msgid "That is not correct"
 msgstr ""
 
-#: recursos/comun/datos/commons.py:43
+#: recursos/comun/datos/commons.py:44
 msgid ""
 "Now I'm ready\n"
 "for tomorrow...\n"
@@ -16722,7 +16735,7 @@ msgid ""
 "Thanks for your help!"
 msgstr ""
 
-#: recursos/comun/datos/commons.py:44
+#: recursos/comun/datos/commons.py:45
 msgid ""
 "We made it!\n"
 "I'm going to play ball...\n"
@@ -16730,7 +16743,7 @@ msgid ""
 "for helping me!"
 msgstr ""
 
-#: recursos/comun/datos/commons.py:45
+#: recursos/comun/datos/commons.py:46
 msgid ""
 "We did it!\n"
 "I'm ready for tomorrow...\n"
@@ -16738,51 +16751,51 @@ msgid ""
 "Until next time!"
 msgstr ""
 
-#: recursos/comun/datos/commons.py:49
+#: recursos/comun/datos/commons.py:50
 msgid ""
 "Better luck next time\n"
 "I'll play a while...\n"
 "Thanks!"
 msgstr ""
 
-#: recursos/comun/datos/commons.py:50
+#: recursos/comun/datos/commons.py:51
 msgid ""
 "The next time will be better\n"
 "I'm going to play ball...\n"
 "Thanks!"
 msgstr ""
 
-#: recursos/comun/datos/commons.py:51
+#: recursos/comun/datos/commons.py:52
 msgid ""
 "Please try again...\n"
 "I'm going to play...\n"
 "Thanks!"
 msgstr ""
 
-#: recursos/comun/datos/commons.py:55
+#: recursos/comun/datos/commons.py:56
 msgid "Author: Alan Aguiar"
 msgstr ""
 
-#: recursos/comun/datos/commons.py:56
+#: recursos/comun/datos/commons.py:57
 msgid "Send corrections, comments or suggestions to: alanjas@hotmail.com"
 msgstr ""
 
-#: recursos/comun/datos/commons.py:58
+#: recursos/comun/datos/commons.py:59
 msgid "This program is free software developed by the community"
 msgstr ""
 
-#: recursos/comun/datos/commons.py:59
+#: recursos/comun/datos/commons.py:60
 msgid "For more information visit http://ceibaljam.org"
 msgstr ""
 
-#: recursos/comun/datos/commons.py:61
+#: recursos/comun/datos/commons.py:62
 msgid "This program is based on 'Conozco Uruguay' (Author: Gabriel Eirea)"
 msgstr ""
 
-#: recursos/comun/datos/commons.py:62
+#: recursos/comun/datos/commons.py:63
 msgid "Sounds downloaded from freesound.org: btn117.wav courtesy of junggle."
 msgstr ""
 
-#: recursos/comun/datos/commons.py:63
+#: recursos/comun/datos/commons.py:64
 msgid "Font: Share-Regular.ttf of urbanfonts.com"
 msgstr ""

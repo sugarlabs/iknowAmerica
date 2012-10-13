@@ -6,8 +6,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-07-13 19:26-0400\n"
-"PO-Revision-Date: 2012-08-17 17:00+0200\n"
+"POT-Creation-Date: 2012-09-27 14:56-0400\n"
+"PO-Revision-Date: 2012-09-06 21:19+0200\n"
 "Last-Translator: anush.mkrtchyan <anush.mkrtchyan@ca1492.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: hy\n"
@@ -17,17 +17,22 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Pootle 2.0.5\n"
 
-#: activity/activity.info:2 conozcoam.py:637 conozcoam.py:745
+#. TRANS: "name" option from activity.info file
+#: recursos/comun/datos/commons.py:5
 msgid "I know America"
 msgstr "Ես գիտեմ Ամերիկան"
 
-#: conozcoam.py:240 conozcoam.py:355 conozcoam.py:379 conozcoam.py:432
-#: conozcoam.py:559
+#. TRANS: "summary" option from activity.info file
+#. TRANS: "description" option from activity.info file
+msgid "Game about the geography of America"
+msgstr ""
+
+#: conozco.py:246 conozco.py:361 conozco.py:385 conozco.py:441 conozco.py:577
 #, python-format
 msgid "Cannot open %s"
 msgstr "Չի բացում %s"
 
-#: conozcoam.py:456
+#: conozco.py:465
 #, python-format
 msgid ""
 "the city of\n"
@@ -36,7 +41,7 @@ msgstr ""
 "%s \n"
 " -ի քաղաքը"
 
-#: conozcoam.py:465
+#: conozco.py:474
 #, python-format
 msgid ""
 "the department of\n"
@@ -45,7 +50,7 @@ msgstr ""
 "%s \n"
 " - ի դեպարտամենտը"
 
-#: conozcoam.py:474
+#: conozco.py:483
 #, python-format
 msgid ""
 "the province of\n"
@@ -54,7 +59,7 @@ msgstr ""
 "%s \n"
 " -ի գավառը"
 
-#: conozcoam.py:483
+#: conozco.py:492
 #, python-format
 msgid ""
 "the district of\n"
@@ -63,7 +68,7 @@ msgstr ""
 "%s \n"
 "-ի շրջանը"
 
-#: conozcoam.py:492
+#: conozco.py:501
 #, python-format
 msgid ""
 "the state of\n"
@@ -72,7 +77,7 @@ msgstr ""
 "%s \n"
 " -ի նահանգը"
 
-#: conozcoam.py:501
+#: conozco.py:510
 #, python-format
 msgid ""
 "the region of\n"
@@ -81,7 +86,7 @@ msgstr ""
 "%s \n"
 "-ի մարզը"
 
-#: conozcoam.py:510 recursos/0sanvicenteyg/datos/levels.py:11
+#: conozco.py:519 recursos/0sanvicenteyg/datos/levels.py:11
 #: recursos/0sanvicenteyg/datos/levels.py:12
 #: recursos/0sanvicenteyg/datos/levels.py:13
 #: recursos/0sanvicenteyg/datos/levels.py:14
@@ -94,7 +99,14 @@ msgstr ""
 "%s \n"
 "-ի ծխականը"
 
-#: conozcoam.py:519
+#: conozco.py:528
+#, python-format
+msgid ""
+"the taluka of\n"
+"%s"
+msgstr ""
+
+#: conozco.py:537
 #, python-format
 msgid ""
 "the municipality of\n"
@@ -103,7 +115,7 @@ msgstr ""
 "%s \n"
 "-ի քաղաքապետարանը"
 
-#: conozcoam.py:528 recursos/0adelnorte/datos/levels.py:15
+#: conozco.py:546 recursos/0adelnorte/datos/levels.py:15
 #: recursos/0adelnorte/datos/levels.py:16
 #: recursos/0adelnorte/datos/levels.py:17
 #: recursos/0adelnorte/datos/levels.py:18
@@ -129,59 +141,60 @@ msgstr ""
 msgid "the %s"
 msgstr "%s"
 
-#: conozcoam.py:597
-msgid "About I know America"
-msgstr "Ես գիտեմ Ամերիկայի մասին"
+#: conozco.py:615
+#, python-format
+msgid "About %s"
+msgstr ""
 
-#: conozcoam.py:611
+#: conozco.py:629
 msgid "Press any key to return"
 msgstr "Սեղմեք որևէ ստեղն, վերադառնալու համար"
 
-#: conozcoam.py:642
+#: conozco.py:660
 msgid "You have chosen the map "
 msgstr "Դուք ընտրել եք քարտեզը "
 
-#: conozcoam.py:648
+#: conozco.py:666
 msgid "Play"
 msgstr "Խաղալ"
 
-#: conozcoam.py:664
+#: conozco.py:682
 msgid "Explore"
 msgstr "Հետազոտել"
 
-#: conozcoam.py:684 conozcoam.py:828
+#: conozco.py:702 conozco.py:846
 msgid "About this game"
 msgstr "Այս խաղի մասին"
 
-#: conozcoam.py:692
+#: conozco.py:710
 msgid "Return"
 msgstr "Վերադառնալ"
 
-#: conozcoam.py:749
+#: conozco.py:767
 msgid "Choose the map to use"
 msgstr "Ընտրեք քարտեզը, օգտվելու համար"
 
-#: conozcoam.py:769
+#: conozco.py:787
 msgid "Previous page"
 msgstr "Նախորդ էջ"
 
-#: conozcoam.py:814
+#: conozco.py:832
 msgid "Next page"
 msgstr "Հաջորդ էջ"
 
-#: conozcoam.py:835
+#: conozco.py:853
 msgid "Exit"
 msgstr "Ելք"
 
-#: conozcoam.py:1292 conozcoam.py:1490
+#: conozco.py:1327 conozco.py:1525
 msgid "End"
 msgstr "Վերջ"
 
-#: conozcoam.py:1303
+#: conozco.py:1338
 msgid "Show all"
 msgstr "Ցուցադրել ամբողջը"
 
-#: conozcoam.py:1745 conozcoam.py:1857 conozcoam.py:1938
+#: conozco.py:1780 conozco.py:1892 conozco.py:1973
 msgid "Press any key to skip"
 msgstr "Սեղմեք որևէ ստեղն, բաց թողնելու համար"
 
@@ -4188,8 +4201,9 @@ msgid "Is in the center"
 msgstr ""
 
 #: recursos/0adelsur/datos/0adelsur.py:5
+#, fuzzy
 msgid "South America"
-msgstr ""
+msgstr "Հյուսիսային Ամերիկա"
 
 #: recursos/0adelsur/datos/0adelsur.py:8 recursos/0adelsur/datos/levels.py:11
 #: recursos/0argentina/datos/0argentina.py:32
@@ -5119,8 +5133,9 @@ msgstr ""
 
 #: recursos/0argentina/datos/0argentina.py:73
 #: recursos/0argentina/datos/levels.py:107
+#, fuzzy
 msgid "Las Heras"
-msgstr ""
+msgstr "Լաս Վեգաս"
 
 #: recursos/0argentina/datos/0argentina.py:75
 #: recursos/0argentina/datos/levels.py:109
@@ -5268,8 +5283,9 @@ msgstr ""
 #: recursos/0tytobago/datos/0tytobago.py:73
 #: recursos/0uruguay/datos/0uruguay.py:181
 #: recursos/0venezuela/datos/0venezuela.py:120
+#, fuzzy
 msgid "Capital:"
-msgstr ""
+msgstr "Մայրաքաղաքներ"
 
 #: recursos/0argentina/datos/0argentina.py:111
 msgid "(34º40' S - 58º24' W)"
@@ -5475,8 +5491,9 @@ msgid "declared: %s"
 msgstr ""
 
 #: recursos/0argentina/datos/0argentina.py:117
+#, fuzzy
 msgid "9 of july of 1816"
-msgstr ""
+msgstr "1811 թ.-ի հուլիսի 5"
 
 #: recursos/0argentina/datos/0argentina.py:118
 #: recursos/0bolivia/datos/0bolivia.py:109
@@ -5628,8 +5645,9 @@ msgid "HDI:"
 msgstr ""
 
 #: recursos/0argentina/datos/0argentina.py:122
+#, fuzzy
 msgid "High - 0,775 (46th)"
-msgstr ""
+msgstr "Բարձր - 0,696 (75րդ)"
 
 #: recursos/0argentina/datos/0argentina.py:123
 #: recursos/0belice/datos/0belice.py:106
@@ -6062,12 +6080,14 @@ msgid "372.000 (170th)"
 msgstr ""
 
 #: recursos/0belice/datos/0belice.py:104
+#, fuzzy
 msgid "USD 2.046 billion (166th)"
-msgstr ""
+msgstr "350.276 բիլիոն ԱՄՆ (31րդ)"
 
 #: recursos/0belice/datos/0belice.py:105
+#, fuzzy
 msgid "High - 0,694 (78th)"
-msgstr ""
+msgstr "Բարձր - 0,696 (75րդ)"
 
 #: recursos/0belice/datos/0belice.py:106
 msgid "Belize Dollar"
@@ -6224,8 +6244,9 @@ msgid "Montero"
 msgstr ""
 
 #: recursos/0bolivia/datos/0bolivia.py:61 recursos/0bolivia/datos/levels.py:80
+#, fuzzy
 msgid "Las Petas"
-msgstr ""
+msgstr "Լաս Վեգաս"
 
 #: recursos/0bolivia/datos/0bolivia.py:62 recursos/0bolivia/datos/levels.py:81
 msgid "San José de Chiquitos"
@@ -6398,8 +6419,9 @@ msgid "06 of august of 1825"
 msgstr ""
 
 #: recursos/0bolivia/datos/0bolivia.py:109
+#, fuzzy
 msgid "21 of july of 1847"
-msgstr ""
+msgstr "1811 թ.-ի հուլիսի 5"
 
 #: recursos/0bolivia/datos/0bolivia.py:110
 msgid "1.098.581 km² (27th)"
@@ -6410,8 +6432,9 @@ msgid "10.426.160 (87th)"
 msgstr ""
 
 #: recursos/0bolivia/datos/0bolivia.py:112
+#, fuzzy
 msgid "USD 47.980 billion (87th)"
-msgstr ""
+msgstr "350.276 բիլիոն ԱՄՆ (31րդ)"
 
 #: recursos/0bolivia/datos/0bolivia.py:113
 msgid "Medium - 0,643 (95th)"
@@ -6786,8 +6809,9 @@ msgid "USD 2.172 trillion (5th)"
 msgstr ""
 
 #: recursos/0brasil/datos/0brasil.py:149
+#, fuzzy
 msgid "High - 0,699 (73th)"
-msgstr ""
+msgstr "Բարձր - 0,696 (75րդ)"
 
 #: recursos/0brasil/datos/0brasil.py:150
 msgid "Real"
@@ -6990,8 +7014,9 @@ msgid "from United Kingdom"
 msgstr ""
 
 #: recursos/0canada/datos/0canada.py:117
+#, fuzzy
 msgid "1st of july of 1867"
-msgstr ""
+msgstr "1811 թ.-ի հուլիսի 5"
 
 #: recursos/0canada/datos/0canada.py:118
 msgid "11 of december of 1931"
@@ -7010,8 +7035,9 @@ msgid "GPD:"
 msgstr ""
 
 #: recursos/0canada/datos/0canada.py:121
+#, fuzzy
 msgid "USD 1.996.753 billion (13th)"
-msgstr ""
+msgstr "350.276 բիլիոն ԱՄՆ (31րդ)"
 
 #: recursos/0canada/datos/0canada.py:122
 msgid "Very high - 0,888 (8th)"
@@ -7132,8 +7158,9 @@ msgid "USD 276.338 billion (43rd)"
 msgstr ""
 
 #: recursos/0chile/datos/0chile.py:56
+#, fuzzy
 msgid "High - 0,783 (45th)"
-msgstr ""
+msgstr "Բարձր - 0,696 (75րդ)"
 
 #: recursos/0chile/datos/explorations.py:6 recursos/0chile/datos/levels.py:7
 #: recursos/0guyana/datos/explorations.py:6 recursos/0guyana/datos/levels.py:7
@@ -7660,8 +7687,9 @@ msgid "Arauca River"
 msgstr ""
 
 #: recursos/0colombia/datos/0colombia.py:135
+#, fuzzy
 msgid "(4º39' N - 74º3' W)"
-msgstr ""
+msgstr "(10º30' N - 66º58' W)"
 
 #: recursos/0colombia/datos/0colombia.py:138
 msgid "Juan Manuel Santos"
@@ -7672,8 +7700,9 @@ msgid "Angelino Garzón"
 msgstr ""
 
 #: recursos/0colombia/datos/0colombia.py:141
+#, fuzzy
 msgid "20 of july of 1810"
-msgstr ""
+msgstr "1811 թ.-ի հուլիսի 5"
 
 #: recursos/0colombia/datos/0colombia.py:142
 msgid "7 of august of 1819"
@@ -7688,12 +7717,14 @@ msgid "45.925.397 (28th)"
 msgstr ""
 
 #: recursos/0colombia/datos/0colombia.py:145
+#, fuzzy
 msgid "USD 404.995 billion (27th)"
-msgstr ""
+msgstr "350.276 բիլիոն ԱՄՆ (31րդ)"
 
 #: recursos/0colombia/datos/0colombia.py:146
+#, fuzzy
 msgid "High - 0,689 (79th)"
-msgstr ""
+msgstr "Բարձր - 0,696 (75րդ)"
 
 #: recursos/0costarica/datos/0costarica.py:8
 #: recursos/0costarica/datos/levels.py:11
@@ -8294,12 +8325,14 @@ msgid "4.615.518 (115th)"
 msgstr ""
 
 #: recursos/0costarica/datos/0costarica.py:158
+#, fuzzy
 msgid "USD 52.885 billion (84th)"
-msgstr ""
+msgstr "350.276 բիլիոն ԱՄՆ (31րդ)"
 
 #: recursos/0costarica/datos/0costarica.py:159
+#, fuzzy
 msgid "High - 0,725 (62th)"
-msgstr ""
+msgstr "Բարձր - 0,696 (75րդ)"
 
 #: recursos/0costarica/datos/0costarica.py:160
 msgid "Costa Rica Colon"
@@ -8481,8 +8514,9 @@ msgid "Santa Cruz del Sur"
 msgstr ""
 
 #: recursos/0cuba/datos/0cuba.py:83
+#, fuzzy
 msgid "(23º80' N - 82º23' W)"
-msgstr ""
+msgstr "(10º30' N - 66º58' W)"
 
 #: recursos/0cuba/datos/0cuba.py:85
 msgid "Communist state"
@@ -8501,8 +8535,9 @@ msgid "from United States"
 msgstr ""
 
 #: recursos/0cuba/datos/0cuba.py:89
+#, fuzzy
 msgid "20 of may of 1902"
-msgstr ""
+msgstr "1811 թ.-ի հուլիսի 5"
 
 #: recursos/0cuba/datos/0cuba.py:90
 msgid "110.860 km² (105th)"
@@ -8513,12 +8548,14 @@ msgid "11.242.621 (71th)"
 msgstr ""
 
 #: recursos/0cuba/datos/0cuba.py:92
+#, fuzzy
 msgid "USD 110.800 billion (65th)"
-msgstr ""
+msgstr "350.276 բիլիոն ԱՄՆ (31րդ)"
 
 #: recursos/0cuba/datos/0cuba.py:93
+#, fuzzy
 msgid "High - 0,760 (53th)"
-msgstr ""
+msgstr "Բարձր - 0,696 (75րդ)"
 
 #: recursos/0cuba/datos/0cuba.py:94
 msgid "Cuban peso"
@@ -8688,8 +8725,9 @@ msgstr ""
 #: recursos/0dominicana/datos/levels.py:107
 #: recursos/0honduras/datos/0honduras.py:75
 #: recursos/0honduras/datos/levels.py:99
+#, fuzzy
 msgid "La Vega"
-msgstr ""
+msgstr "Լաս Վեգաս"
 
 #: recursos/0dominicana/datos/0dominicana.py:38
 #: recursos/0dominicana/datos/0dominicana.py:73
@@ -8931,8 +8969,9 @@ msgid "Iguamo River"
 msgstr ""
 
 #: recursos/0dominicana/datos/0dominicana.py:113
+#, fuzzy
 msgid "(18º28' N - 69º54' W)"
-msgstr ""
+msgstr "(10º30' N - 66º58' W)"
 
 #: recursos/0dominicana/datos/0dominicana.py:116
 msgid "Leonel Fernández"
@@ -8959,8 +8998,9 @@ msgid "10.090.000 (80th)"
 msgstr ""
 
 #: recursos/0dominicana/datos/0dominicana.py:122
+#, fuzzy
 msgid "USD 93.095 billion (71th)"
-msgstr ""
+msgstr "350.276 բիլիոն ԱՄՆ (31րդ)"
 
 #: recursos/0dominicana/datos/0dominicana.py:123
 msgid "Medium - 0,783 (88th)"
@@ -9483,8 +9523,9 @@ msgid "Lenín Moreno"
 msgstr ""
 
 #: recursos/0ecuador/datos/0ecuador.py:146
+#, fuzzy
 msgid "24 of may of 1822"
-msgstr ""
+msgstr "1811 թ.-ի հուլիսի 5"
 
 #: recursos/0ecuador/datos/0ecuador.py:147
 msgid "of Colombia: 13 may of 1830"
@@ -9499,12 +9540,14 @@ msgid "14.306.876 (--th)"
 msgstr ""
 
 #: recursos/0ecuador/datos/0ecuador.py:150
+#, fuzzy
 msgid "USD 119.827 billion (--th)"
-msgstr ""
+msgstr "350.276 բիլիոն ԱՄՆ (31րդ)"
 
 #: recursos/0ecuador/datos/0ecuador.py:151
+#, fuzzy
 msgid "High - 0,695 (77th)"
-msgstr ""
+msgstr "Բարձր - 0,696 (75րդ)"
 
 #: recursos/0ecuador/datos/0ecuador.py:152
 #: recursos/0elsalvador/datos/0elsalvador.py:111
@@ -9837,8 +9880,9 @@ msgid "Cerrón Grande Reservoir"
 msgstr ""
 
 #: recursos/0elsalvador/datos/0elsalvador.py:99
+#, fuzzy
 msgid "(13º40' N - 89º10' W)"
-msgstr ""
+msgstr "(10º30' N - 66º58' W)"
 
 #: recursos/0elsalvador/datos/0elsalvador.py:102
 msgid "Mauricio Funes"
@@ -9861,8 +9905,9 @@ msgid "5.744.113 (97th)"
 msgstr ""
 
 #: recursos/0elsalvador/datos/0elsalvador.py:109
+#, fuzzy
 msgid "USD 11.145 billion (88th)"
-msgstr ""
+msgstr "350.276 բիլիոն ԱՄՆ (31րդ)"
 
 #: recursos/0elsalvador/datos/0elsalvador.py:110
 msgid "Medium - 0,659 (90th)"
@@ -10319,8 +10364,9 @@ msgid "Williston"
 msgstr ""
 
 #: recursos/0eunidos/datos/0eunidos.py:177
+#, fuzzy
 msgid "(38º53' N - 77º02' W)"
-msgstr ""
+msgstr "(10º30' N - 66º58' W)"
 
 #: recursos/0eunidos/datos/0eunidos.py:180 recursos/0prico/datos/0prico.py:188
 msgid "Barack Obama"
@@ -10335,8 +10381,9 @@ msgid "from Great Britain"
 msgstr ""
 
 #: recursos/0eunidos/datos/0eunidos.py:183
+#, fuzzy
 msgid "4 of july of 1776"
-msgstr ""
+msgstr "1811 թ.-ի հուլիսի 5"
 
 #: recursos/0eunidos/datos/0eunidos.py:184
 msgid "3 of september of 1783"
@@ -10888,8 +10935,9 @@ msgid "Perdida Lagoon"
 msgstr ""
 
 #: recursos/0guatemala/datos/0guatemala.py:155
+#, fuzzy
 msgid "(14º38' N - 90º33' W)"
-msgstr ""
+msgstr "(10º30' N - 66º58' W)"
 
 #: recursos/0guatemala/datos/0guatemala.py:158
 msgid "Otto Pérez Molina"
@@ -10912,8 +10960,9 @@ msgid "13.718.000 (67th)"
 msgstr ""
 
 #: recursos/0guatemala/datos/0guatemala.py:165
+#, fuzzy
 msgid "USD 73.022 billion (79th)"
-msgstr ""
+msgstr "350.276 բիլիոն ԱՄՆ (31րդ)"
 
 #: recursos/0guatemala/datos/0guatemala.py:166
 msgid "Medium - 0,560 (116th)"
@@ -11125,8 +11174,9 @@ msgid "Lawa River"
 msgstr ""
 
 #: recursos/0guayanafr/datos/0guayanafr.py:66
+#, fuzzy
 msgid "(4º56' N - 52º19' W)"
-msgstr ""
+msgstr "(10º30' N - 66º58' W)"
 
 #: recursos/0guayanafr/datos/0guayanafr.py:68
 msgid "Overseas department"
@@ -11146,8 +11196,9 @@ msgid "230.000 (187th)"
 msgstr ""
 
 #: recursos/0guayanafr/datos/0guayanafr.py:72
+#, fuzzy
 msgid "USD 1.151 billion (181th)"
-msgstr ""
+msgstr "350.276 բիլիոն ԱՄՆ (31րդ)"
 
 #: recursos/0guayanafr/datos/0guayanafr.py:73
 msgid "-- (--th)"
@@ -11401,8 +11452,9 @@ msgid "Sam Hinds"
 msgstr ""
 
 #: recursos/0guyana/datos/0guyana.py:89
+#, fuzzy
 msgid "26 of may of 1966"
-msgstr ""
+msgstr "1811 թ.-ի հուլիսի 5"
 
 #: recursos/0guyana/datos/0guyana.py:90
 msgid "214.970 km² (81th)"
@@ -11413,8 +11465,9 @@ msgid "784.894 (161th)"
 msgstr ""
 
 #: recursos/0guyana/datos/0guyana.py:92
+#, fuzzy
 msgid "USD 3.082 billion (158th)"
-msgstr ""
+msgstr "350.276 բիլիոն ԱՄՆ (31րդ)"
 
 #: recursos/0guyana/datos/0guyana.py:93
 msgid "Medium - 0,611 (104th)"
@@ -11741,8 +11794,9 @@ msgid "9.800.000 (90th)"
 msgstr ""
 
 #: recursos/0haiti/datos/0haiti.py:108
+#, fuzzy
 msgid "USD 11.056 billion (138th)"
-msgstr ""
+msgstr "350.276 բիլիոն ԱՄՆ (31րդ)"
 
 #: recursos/0haiti/datos/0haiti.py:109
 msgid "Low - 0,404 (145th)"
@@ -12162,8 +12216,9 @@ msgid "Gulf of Fonseca"
 msgstr ""
 
 #: recursos/0honduras/datos/0honduras.py:127
+#, fuzzy
 msgid "(14º6' N - 87º13' W)"
-msgstr ""
+msgstr "(10º30' N - 66º58' W)"
 
 #: recursos/0honduras/datos/0honduras.py:130
 msgid "Porfirio Lobo"
@@ -12182,8 +12237,9 @@ msgid "8.144.000 (93th)"
 msgstr ""
 
 #: recursos/0honduras/datos/0honduras.py:136
+#, fuzzy
 msgid "USD 35.173 billion (98th)"
-msgstr ""
+msgstr "350.276 բիլիոն ԱՄՆ (31րդ)"
 
 #: recursos/0honduras/datos/0honduras.py:137
 msgid "Medium - 0,604 (106th)"
@@ -12453,8 +12509,9 @@ msgid "Cobre River"
 msgstr ""
 
 #: recursos/0jamaica/datos/0jamaica.py:90
+#, fuzzy
 msgid "(17º59' N - 76º48' W)"
-msgstr ""
+msgstr "(10º30' N - 66º58' W)"
 
 #: recursos/0jamaica/datos/0jamaica.py:92
 #: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:58
@@ -12478,12 +12535,14 @@ msgid "2.735.520 (131st)"
 msgstr ""
 
 #: recursos/0jamaica/datos/0jamaica.py:99
+#, fuzzy
 msgid "USD 11.690 billion (131st)"
-msgstr ""
+msgstr "350.276 բիլիոն ԱՄՆ (31րդ)"
 
 #: recursos/0jamaica/datos/0jamaica.py:100
+#, fuzzy
 msgid "High - 0,688 (80th)"
-msgstr ""
+msgstr "Բարձր - 0,696 (75րդ)"
 
 #: recursos/0jamaica/datos/0jamaica.py:101
 msgid "Jamaican dollar"
@@ -12818,8 +12877,9 @@ msgid "Gulf of México"
 msgstr ""
 
 #: recursos/0mexico/datos/0mexico.py:137
+#, fuzzy
 msgid "(19º26' N - 99º08' W)"
-msgstr ""
+msgstr "(10º30' N - 66º58' W)"
 
 #: recursos/0mexico/datos/0mexico.py:139
 #: recursos/0venezuela/datos/0venezuela.py:122
@@ -12847,12 +12907,14 @@ msgid "112.322.757 (11th)"
 msgstr ""
 
 #: recursos/0mexico/datos/0mexico.py:146
+#, fuzzy
 msgid "USD 1.658.197 billion (11th)"
-msgstr ""
+msgstr "350.276 բիլիոն ԱՄՆ (31րդ)"
 
 #: recursos/0mexico/datos/0mexico.py:147
+#, fuzzy
 msgid "High - 0,750 (56th)"
-msgstr ""
+msgstr "Բարձր - 0,696 (75րդ)"
 
 #: recursos/0nicaragua/datos/0nicaragua.py:8
 #: recursos/0nicaragua/datos/0nicaragua.py:34
@@ -13318,8 +13380,9 @@ msgid "Punta Gorda Bay"
 msgstr ""
 
 #: recursos/0nicaragua/datos/0nicaragua.py:134
+#, fuzzy
 msgid "(13º0' N - 85º0' W)"
-msgstr ""
+msgstr "(10º30' N - 66º58' W)"
 
 #: recursos/0nicaragua/datos/0nicaragua.py:137
 msgid "Daniel Ortega Saavedra"
@@ -13338,8 +13401,9 @@ msgid "5.465.100 (108th)"
 msgstr ""
 
 #: recursos/0nicaragua/datos/0nicaragua.py:143
+#, fuzzy
 msgid "USD 18.533 billion (123th)"
-msgstr ""
+msgstr "350.276 բիլիոն ԱՄՆ (31րդ)"
 
 #: recursos/0nicaragua/datos/0nicaragua.py:144
 msgid "Medium - 0,565 (115th)"
@@ -13566,8 +13630,9 @@ msgid "Gulf of the Mosquitos"
 msgstr ""
 
 #: recursos/0panama/datos/0panama.py:89
+#, fuzzy
 msgid "(8º58' N - 79º32' W)"
-msgstr ""
+msgstr "(10º30' N - 66º58' W)"
 
 #: recursos/0panama/datos/0panama.py:92
 msgid "Ricardo Martinelli"
@@ -13598,12 +13663,14 @@ msgid "3.405.813 (129th)"
 msgstr ""
 
 #: recursos/0panama/datos/0panama.py:99
+#, fuzzy
 msgid "USD 48.804 billion (85th)"
-msgstr ""
+msgstr "350.276 բիլիոն ԱՄՆ (31րդ)"
 
 #: recursos/0panama/datos/0panama.py:100
+#, fuzzy
 msgid "High - 0,755 (54th)"
-msgstr ""
+msgstr "Բարձր - 0,696 (75րդ)"
 
 #: recursos/0paraguay/datos/0paraguay.py:8
 #: recursos/0paraguay/datos/levels.py:11
@@ -13958,8 +14025,9 @@ msgid "Federico Franco"
 msgstr ""
 
 #: recursos/0paraguay/datos/0paraguay.py:114
+#, fuzzy
 msgid "15 of may of 1811"
-msgstr ""
+msgstr "1811 թ.-ի հուլիսի 5"
 
 #: recursos/0paraguay/datos/0paraguay.py:115
 msgid "10 of september of 1880"
@@ -13974,8 +14042,9 @@ msgid "6.459.000 (103th)"
 msgstr ""
 
 #: recursos/0paraguay/datos/0paraguay.py:118
+#, fuzzy
 msgid "USD 30.943 billion (102th)"
-msgstr ""
+msgstr "350.276 բիլիոն ԱՄՆ (31րդ)"
 
 #: recursos/0paraguay/datos/0paraguay.py:119
 msgid "Medium - 0,640 (96th)"
@@ -14092,8 +14161,9 @@ msgstr ""
 
 #: recursos/0peru/datos/0peru.py:47 recursos/0peru/datos/levels.py:52
 #: recursos/0peru/datos/levels.py:86
+#, fuzzy
 msgid "Chiclayo"
-msgstr ""
+msgstr "Չիկագո"
 
 #: recursos/0peru/datos/0peru.py:51 recursos/0peru/datos/levels.py:56
 #: recursos/0peru/datos/levels.py:90
@@ -14321,8 +14391,9 @@ msgid "Oscar Valdés Dancuart"
 msgstr ""
 
 #: recursos/0peru/datos/0peru.py:140
+#, fuzzy
 msgid "28 of july of 1821"
-msgstr ""
+msgstr "1811 թ.-ի հուլիսի 5"
 
 #: recursos/0peru/datos/0peru.py:141
 msgid "14 of august of 1879"
@@ -14337,12 +14408,14 @@ msgid "30.165.000 (40th)"
 msgstr ""
 
 #: recursos/0peru/datos/0peru.py:144
+#, fuzzy
 msgid "USD 299.648 billion (41th)"
-msgstr ""
+msgstr "350.276 բիլիոն ԱՄՆ (31րդ)"
 
 #: recursos/0peru/datos/0peru.py:145
+#, fuzzy
 msgid "High - 0,723 (63th)"
-msgstr ""
+msgstr "Բարձր - 0,696 (75րդ)"
 
 #: recursos/0peru/datos/0peru.py:146
 msgid "Nuevo sol"
@@ -14800,8 +14873,9 @@ msgid "Aguadilla Bay"
 msgstr ""
 
 #: recursos/0prico/datos/0prico.py:184
+#, fuzzy
 msgid "(18º29' N - 66º08' W)"
-msgstr ""
+msgstr "(10º30' N - 66º58' W)"
 
 #: recursos/0prico/datos/0prico.py:186
 msgid "Unincorporated territory"
@@ -14828,8 +14902,9 @@ msgid "3.725.789 (127th)"
 msgstr ""
 
 #: recursos/0prico/datos/0prico.py:194
+#, fuzzy
 msgid "USD 96.260 billion (--th)"
-msgstr ""
+msgstr "350.276 բիլիոն ԱՄՆ (31րդ)"
 
 #: recursos/0prico/datos/0prico.py:195
 msgid "Very High - 0.905 (53th)"
@@ -15009,8 +15084,9 @@ msgid "Wallibou"
 msgstr ""
 
 #: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:56
+#, fuzzy
 msgid "(13º10' N - 61º14' W)"
-msgstr ""
+msgstr "(10º30' N - 66º58' W)"
 
 #: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:60
 msgid "Frederick Ballantyne"
@@ -15029,8 +15105,9 @@ msgid "100.369 (193rd)"
 msgstr ""
 
 #: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:65
+#, fuzzy
 msgid "USD 751 billion (181st)"
-msgstr ""
+msgstr "350.276 բիլիոն ԱՄՆ (31րդ)"
 
 #: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:66
 msgid "Medium - 0,791 (93rd)"
@@ -15266,8 +15343,9 @@ msgid "542.000 (171th)"
 msgstr ""
 
 #: recursos/0surinam/datos/0surinam.py:86
+#, fuzzy
 msgid "USD 2.812 billion (161th)"
-msgstr ""
+msgstr "350.276 բիլիոն ԱՄՆ (31րդ)"
 
 #: recursos/0surinam/datos/0surinam.py:87
 msgid "Medium - 0,646 (94th)"
@@ -15417,8 +15495,9 @@ msgstr ""
 
 #: recursos/0tytobago/datos/0tytobago.py:49
 #: recursos/0tytobago/datos/levels.py:54
+#, fuzzy
 msgid "San Francique"
-msgstr ""
+msgstr "Սան Ֆրանցիսկո"
 
 #: recursos/0tytobago/datos/0tytobago.py:51
 #: recursos/0tytobago/datos/levels.py:56
@@ -15485,8 +15564,9 @@ msgid "Gulf of Paria"
 msgstr ""
 
 #: recursos/0tytobago/datos/0tytobago.py:73
+#, fuzzy
 msgid "(10º40' N - 61º31' W)"
-msgstr ""
+msgstr "(10º30' N - 66º58' W)"
 
 #: recursos/0tytobago/datos/0tytobago.py:75
 msgid "Parliamentary republic"
@@ -15513,12 +15593,14 @@ msgid "1.299.953 (153th)"
 msgstr ""
 
 #: recursos/0tytobago/datos/0tytobago.py:82
+#, fuzzy
 msgid "USD 26.536 billion (115th)"
-msgstr ""
+msgstr "350.276 բիլիոն ԱՄՆ (31րդ)"
 
 #: recursos/0tytobago/datos/0tytobago.py:83
+#, fuzzy
 msgid "High - 0,736 (59th)"
-msgstr ""
+msgstr "Բարձր - 0,696 (75րդ)"
 
 #: recursos/0tytobago/datos/0tytobago.py:84
 msgid "Trinidad and Tobago dollar"
@@ -16127,12 +16209,14 @@ msgid "3.424.595 (128th)"
 msgstr ""
 
 #: recursos/0uruguay/datos/0uruguay.py:190
+#, fuzzy
 msgid "USD 51.209 billion (86th)"
-msgstr ""
+msgstr "350.276 բիլիոն ԱՄՆ (31րդ)"
 
 #: recursos/0uruguay/datos/0uruguay.py:191
+#, fuzzy
 msgid "High - 0,765 (52th)"
-msgstr ""
+msgstr "Բարձր - 0,696 (75րդ)"
 
 #: recursos/0uruguay/datos/explorations.py:34
 msgid "Elevations"
@@ -16581,8 +16665,9 @@ msgstr ""
 
 #: recursos/0venezuela/datos/0venezuela.py:104
 #: recursos/0venezuela/datos/levels.py:139
+#, fuzzy
 msgid "Reservoir of Sura"
-msgstr ""
+msgstr "Գուարիկոյի Ջրամբար"
 
 #: recursos/0venezuela/datos/0venezuela.py:105
 #: recursos/0venezuela/datos/levels.py:140
@@ -16590,8 +16675,9 @@ msgid "Guarico River"
 msgstr ""
 
 #: recursos/0venezuela/datos/0venezuela.py:106
+#, fuzzy
 msgid "Reservoir de Guarico"
-msgstr ""
+msgstr "Գուարիկոյի Ջրամբար"
 
 #: recursos/0venezuela/datos/0venezuela.py:107
 #: recursos/0venezuela/datos/levels.py:142
@@ -16620,131 +16706,133 @@ msgstr ""
 
 #: recursos/0venezuela/datos/0venezuela.py:120
 msgid "(10º30' N - 66º58' W)"
-msgstr ""
+msgstr "(10º30' N - 66º58' W)"
 
 #: recursos/0venezuela/datos/0venezuela.py:123
 msgid "Hugo Chávez Frías"
-msgstr ""
+msgstr "Հուգո Չավես Ֆրիաս"
 
 #: recursos/0venezuela/datos/0venezuela.py:124
 msgid "Elías Jaua Milano"
-msgstr ""
+msgstr "Էլիաս Խաուա Միլանո"
 
 #: recursos/0venezuela/datos/0venezuela.py:126
 msgid "5 of july of 1811"
-msgstr ""
+msgstr "1811 թ.-ի հուլիսի 5"
 
 #: recursos/0venezuela/datos/0venezuela.py:127
 msgid "30 of march of 1845"
-msgstr ""
+msgstr "1845 թ.-ի մարտի 30"
 
 #: recursos/0venezuela/datos/0venezuela.py:128
 msgid "916.445 km² (33th)"
-msgstr ""
+msgstr "916.445 կմ² (33րդ)"
 
 #: recursos/0venezuela/datos/0venezuela.py:129
 msgid "28.892.735 (41th)"
-msgstr ""
+msgstr "28.892.735 (41րդ)"
 
 #: recursos/0venezuela/datos/0venezuela.py:130
 msgid "USD 350.276 billion (31th)"
-msgstr ""
+msgstr "350.276 բիլիոն ԱՄՆ (31րդ)"
 
 #: recursos/0venezuela/datos/0venezuela.py:131
 msgid "High - 0,696 (75th)"
-msgstr ""
+msgstr "Բարձր - 0,696 (75րդ)"
 
 #: recursos/0venezuela/datos/levels.py:141
 msgid "Reservoir of Guarico"
-msgstr ""
-
-#: recursos/comun/datos/commons.py:7
-msgid "Hello friends..."
-msgstr ""
+msgstr "Գուարիկոյի Ջրամբար"
 
 #: recursos/comun/datos/commons.py:8
+msgid "Hello friends..."
+msgstr "Ողջույն ընկերներ..."
+
+#: recursos/comun/datos/commons.py:9
 msgid ""
 "...tomorrow I have a\n"
 "test about America..."
 msgstr ""
-
-#: recursos/comun/datos/commons.py:9
-msgid "...and I know nothing!!!"
-msgstr ""
+"...վաղը ստուգարք ունեմ\n"
+"Ամերիայի մասին..."
 
 #: recursos/comun/datos/commons.py:10
-msgid "...what do I do???"
-msgstr ""
+msgid "...and I know nothing!!!"
+msgstr "...և ես ոչինչ չգիտեմ!!!"
 
 #: recursos/comun/datos/commons.py:11
-msgid "Can I ask you something?"
-msgstr ""
+msgid "...what do I do???"
+msgstr "...ինչով եմ զբաղվում?"
 
 #: recursos/comun/datos/commons.py:12
-msgid "Will you help me?"
-msgstr ""
+msgid "Can I ask you something?"
+msgstr "Կարող եմ քեզ մի բան հարցնել?"
 
-#: recursos/comun/datos/commons.py:16
-msgid "We have to find"
-msgstr ""
+#: recursos/comun/datos/commons.py:13
+msgid "Will you help me?"
+msgstr "Ինձ կօգնես?"
 
 #: recursos/comun/datos/commons.py:17
-msgid "Now we have to find"
-msgstr ""
+msgid "We have to find"
+msgstr "Մենք պետք է գտնենք"
 
 #: recursos/comun/datos/commons.py:18
-msgid "We need to find"
-msgstr ""
+msgid "Now we have to find"
+msgstr "Այժմ պետք է գտնենք"
 
-#: recursos/comun/datos/commons.py:22
-msgid "Can you tell me where it is?"
-msgstr ""
+#: recursos/comun/datos/commons.py:19
+msgid "We need to find"
+msgstr "Մեզ անհրաժեշտ է գտնել"
 
 #: recursos/comun/datos/commons.py:23
+msgid "Can you tell me where it is?"
+msgstr "Կարող ես ինձ ասել որտեղ է դա?"
+
+#: recursos/comun/datos/commons.py:24
 msgid "Where is it?"
 msgstr "Որտե՞ղ է այն"
 
-#: recursos/comun/datos/commons.py:24
+#: recursos/comun/datos/commons.py:25
 msgid "Can you show me where it is?"
 msgstr "Կարո՞ղ ես ցույց տալ որտեղ է այն"
 
-#: recursos/comun/datos/commons.py:25
+#: recursos/comun/datos/commons.py:26
 msgid "Can you find it?"
 msgstr "Կարո՞ղ ես գտնել այն"
 
-#: recursos/comun/datos/commons.py:29
+#: recursos/comun/datos/commons.py:30
 msgid "Very well!"
 msgstr "Շատ լավ "
 
-#: recursos/comun/datos/commons.py:30
+#: recursos/comun/datos/commons.py:31
 msgid "Brilliant!"
 msgstr "Փայլուն է"
 
-#: recursos/comun/datos/commons.py:31
+#: recursos/comun/datos/commons.py:32
 msgid "You found it!"
 msgstr "Դու գտար այն"
 
-#: recursos/comun/datos/commons.py:32
+#: recursos/comun/datos/commons.py:33
 msgid "Yes!"
 msgstr "Այո"
 
-#: recursos/comun/datos/commons.py:36
+#: recursos/comun/datos/commons.py:37
 msgid "No, that is not correct"
 msgstr "Ոչ, դա ճիշտ չէ"
 
-#: recursos/comun/datos/commons.py:37
+#: recursos/comun/datos/commons.py:38
 msgid "No, it is not there"
 msgstr "Ոչ, դա այնտեղ չէ"
 
-#: recursos/comun/datos/commons.py:38
+#: recursos/comun/datos/commons.py:39
 msgid "No, that seems to be wrong"
 msgstr "Ոչ, դա սխալ է թվում"
 
-#: recursos/comun/datos/commons.py:39
+#: recursos/comun/datos/commons.py:40
 msgid "That is not correct"
 msgstr "Դա ճիշտ չէ"
 
-#: recursos/comun/datos/commons.py:43
+#: recursos/comun/datos/commons.py:44
 msgid ""
 "Now I'm ready\n"
 "for tomorrow...\n"
@@ -16756,37 +16844,51 @@ msgstr ""
 "Ես պատրաստվում եմ խաղալ...\n"
 "Շնորհակալություն, օգնության համար"
 
-#: recursos/comun/datos/commons.py:44
+#: recursos/comun/datos/commons.py:45
 msgid ""
 "We made it!\n"
 "I'm going to play ball...\n"
 "Bye and thanks\n"
 "for helping me!"
 msgstr ""
+"Մենք պատրաստեցինք դա!\n"
+"Ես պատրաստվում եմ գնդակ խաղալ...\n"
+"Հաջողություն և շնորհակալություն\n"
+"ինձ օգնելու համար!"
 
-#: recursos/comun/datos/commons.py:45
+#: recursos/comun/datos/commons.py:46
 msgid ""
 "We did it!\n"
 "I'm ready for tomorrow...\n"
 "I'm playing a while...\n"
 "Until next time!"
 msgstr ""
+"Մենք դա արեցինք!\n"
+"Ես պատրաստ եմ վաղվա համար...\n"
+"Ես մի փոքր կխաղամ...\n"
+"Մինչ նոր հանդիպում!"
 
-#: recursos/comun/datos/commons.py:49
+#: recursos/comun/datos/commons.py:50
 msgid ""
 "Better luck next time\n"
 "I'll play a while...\n"
 "Thanks!"
 msgstr ""
+"Հաջողություն հաջորդ անգամ\n"
+"Ես մի փոքր կխաղամ...\n"
+"Շնորհակալություն!"
 
-#: recursos/comun/datos/commons.py:50
+#: recursos/comun/datos/commons.py:51
 msgid ""
 "The next time will be better\n"
 "I'm going to play ball...\n"
 "Thanks!"
 msgstr ""
+"Հաջորդ անգամ ավելի լավ կլինի\n"
+"Ես պատրաստվում եմ գնդակ խաղալու...\n"
+"Շնորհակալություն!"
 
-#: recursos/comun/datos/commons.py:51
+#: recursos/comun/datos/commons.py:52
 msgid ""
 "Please try again...\n"
 "I'm going to play...\n"
@@ -16796,33 +16898,40 @@ msgstr ""
 "Ես պատրաստվում եմ խաղալ...\n"
 "Շնորհակալություն"
 
-#: recursos/comun/datos/commons.py:55
+#: recursos/comun/datos/commons.py:56
 msgid "Author: Alan Aguiar"
 msgstr ""
 
-#: recursos/comun/datos/commons.py:56
+#: recursos/comun/datos/commons.py:57
 msgid "Send corrections, comments or suggestions to: alanjas@hotmail.com"
 msgstr ""
-
-#: recursos/comun/datos/commons.py:58
-msgid "This program is free software developed by the community"
-msgstr ""
+"Ուղարկեք ուղղումները, մեկնաբանությունները կամ առաջարկությունները հետևյալ "
+"հասցեով` alanjas@hotmail.com"
 
 #: recursos/comun/datos/commons.py:59
-msgid "For more information visit http://ceibaljam.org"
-msgstr ""
+msgid "This program is free software developed by the community"
+msgstr "Այս ծրագիրը հասարակության կողմից ստեղծված ազատ բաց ծրագիր է"
 
-#: recursos/comun/datos/commons.py:61
-msgid "This program is based on 'Conozco Uruguay' (Author: Gabriel Eirea)"
-msgstr ""
+#: recursos/comun/datos/commons.py:60
+msgid "For more information visit http://ceibaljam.org"
+msgstr "Մանրամասն տեղեկությունների համար այցելեք` http://ceibaljam.org"
 
 #: recursos/comun/datos/commons.py:62
+msgid "This program is based on 'Conozco Uruguay' (Author: Gabriel Eirea)"
+msgstr ""
+"Այս ծրագիրը հիմնված է \"Ճանաչում եմ Ուրուգվայը\" ծրագրի վրա (Հեղինակ` Գաբրիել "
+"Էիրեա)"
+
+#: recursos/comun/datos/commons.py:63
 msgid "Sounds downloaded from freesound.org: btn117.wav courtesy of junggle."
 msgstr ""
 
-#: recursos/comun/datos/commons.py:63
+#: recursos/comun/datos/commons.py:64
 msgid "Font: Share-Regular.ttf of urbanfonts.com"
 msgstr ""
+
+#~ msgid "About I know America"
+#~ msgstr "Ես գիտեմ Ամերիկայի մասին"
 
 #~ msgid "Next page >>>"
 #~ msgstr "Հաջորդ էջ>>>"
