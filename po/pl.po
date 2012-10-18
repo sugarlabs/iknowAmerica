@@ -7,8 +7,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-09-27 14:56-0400\n"
-"PO-Revision-Date: 2012-10-14 00:32+0200\n"
-"Last-Translator: joasia1 <joannaboguc@gmail.com>\n"
+"PO-Revision-Date: 2012-10-18 07:52+0200\n"
+"Last-Translator: Chris <cjl@laptop.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
@@ -50,7 +50,7 @@ msgstr ""
 msgid ""
 "the department of\n"
 "%s"
-msgstr "departament |%"
+msgstr "departament |%s"
 
 #: conozco.py:483
 #, python-format
@@ -58,7 +58,7 @@ msgstr "departament |%"
 msgid ""
 "the province of\n"
 "%s"
-msgstr "prowincja |%"
+msgstr "prowincja |%s"
 
 #: conozco.py:492
 #, python-format
@@ -74,7 +74,7 @@ msgstr "dzielnica |%s"
 msgid ""
 "the state of\n"
 "%s"
-msgstr "stan |%"
+msgstr "stan |%s"
 
 #: conozco.py:510
 #, python-format
@@ -82,7 +82,7 @@ msgstr "stan |%"
 msgid ""
 "the region of\n"
 "%s"
-msgstr "region |%"
+msgstr "region |%s"
 
 #: conozco.py:519 recursos/0sanvicenteyg/datos/levels.py:11
 #: recursos/0sanvicenteyg/datos/levels.py:12
@@ -93,7 +93,7 @@ msgstr "region |%"
 msgid ""
 "the parish of\n"
 "%s"
-msgstr "parafia %"
+msgstr "parafia %s"
 
 #: conozco.py:528
 #, python-format
@@ -108,7 +108,7 @@ msgstr ""
 msgid ""
 "the municipality of\n"
 "%s"
-msgstr "okręg %"
+msgstr "okręg %s"
 
 #: conozco.py:546 recursos/0adelnorte/datos/levels.py:15
 #: recursos/0adelnorte/datos/levels.py:16
@@ -134,12 +134,12 @@ msgstr "okręg %"
 #: recursos/0sanvicenteyg/datos/levels.py:29
 #, python-format
 msgid "the %s"
-msgstr "%"
+msgstr "%s"
 
 #: conozco.py:615
 #, python-format
 msgid "About %s"
-msgstr "O %"
+msgstr "około %s"
 
 #: conozco.py:629
 msgid "Press any key to return"
@@ -4536,7 +4536,7 @@ msgstr "Fortaleza"
 #: recursos/0brasil/datos/0brasil.py:59 recursos/0brasil/datos/levels.py:56
 #: recursos/0brasil/datos/levels.py:92
 msgid "Goiania"
-msgstr "Goiania "
+msgstr "Goiania"
 
 #: recursos/0adelsur/datos/0adelsur.py:73 recursos/0adelsur/datos/levels.py:94
 #: recursos/0ecuador/datos/0ecuador.py:42 recursos/0ecuador/datos/levels.py:49
@@ -5207,7 +5207,7 @@ msgstr "rzeka Chico"
 #: recursos/0argentina/datos/0argentina.py:92
 #: recursos/0argentina/datos/levels.py:132
 msgid "Deseado River"
-msgstr "rzeka Deseado "
+msgstr "rzeka Deseado"
 
 #: recursos/0argentina/datos/0argentina.py:94
 #: recursos/0argentina/datos/levels.py:134
@@ -5221,7 +5221,7 @@ msgstr "rzeka Salado"
 #: recursos/0bolivia/datos/0bolivia.py:77
 #: recursos/0bolivia/datos/levels.py:102
 msgid "Desaguadero River"
-msgstr "rzeka Desaguadero "
+msgstr "rzeka Desaguadero"
 
 #: recursos/0argentina/datos/0argentina.py:97
 #: recursos/0argentina/datos/levels.py:137
@@ -5234,12 +5234,12 @@ msgstr "rzeka Alto Parana"
 #: recursos/0paraguay/datos/0paraguay.py:89
 #: recursos/0paraguay/datos/levels.py:124
 msgid "Pilcomayo River"
-msgstr "rzeka Pilcomayo "
+msgstr "rzeka Pilcomayo"
 
 #: recursos/0argentina/datos/0argentina.py:100
 #: recursos/0argentina/datos/levels.py:140
 msgid "Bermejo River"
-msgstr "rzeka Bermejo "
+msgstr "rzeka Bermejo"
 
 #: recursos/0argentina/datos/0argentina.py:101
 #: recursos/0argentina/datos/levels.py:141
@@ -5512,7 +5512,7 @@ msgstr "9 lipca 1816 roku"
 #: recursos/0venezuela/datos/0venezuela.py:127
 #, python-format
 msgid "recognized: %s"
-msgstr "uznana: %"
+msgstr "uznana: %s"
 
 #: recursos/0argentina/datos/0argentina.py:119
 #: recursos/0belice/datos/0belice.py:102
@@ -5643,7 +5643,7 @@ msgstr "642 402 mln $ (22.)"
 #: recursos/0uruguay/datos/0uruguay.py:191
 #: recursos/0venezuela/datos/0venezuela.py:131
 msgid "HDI:"
-msgstr "Wskaźnik rozwoju społecznego"
+msgstr "Wskaźnik rozwoju społecznego:"
 
 #: recursos/0argentina/datos/0argentina.py:122
 msgid "High - 0,775 (46th)"
@@ -5791,7 +5791,7 @@ msgstr "Staan Creek"
 
 #: recursos/0belice/datos/0belice.py:17
 msgid "Turneffe Islands"
-msgstr "wyspy Turneffe "
+msgstr "wyspy Turneffe"
 
 #: recursos/0belice/datos/0belice.py:24 recursos/0belice/datos/levels.py:29
 #: recursos/0belice/datos/levels.py:45
@@ -6381,7 +6381,7 @@ msgstr "(19º2' S - 65º15' W)"
 
 #: recursos/0bolivia/datos/0bolivia.py:103 recursos/0peru/datos/0peru.py:135
 msgid "Quechua"
-msgstr "Keczua "
+msgstr "Keczua"
 
 #: recursos/0bolivia/datos/0bolivia.py:103
 msgid "Guarani"
@@ -6733,19 +6733,19 @@ msgstr "Vitoria da Conquista"
 
 #: recursos/0brasil/datos/0brasil.py:117 recursos/0brasil/datos/levels.py:153
 msgid "Purus River"
-msgstr "rzeka Purus "
+msgstr "rzeka Purus"
 
 #: recursos/0brasil/datos/0brasil.py:120 recursos/0brasil/datos/levels.py:156
 msgid "Tapajos River"
-msgstr "rzeka Tapajos "
+msgstr "rzeka Tapajos"
 
 #: recursos/0brasil/datos/0brasil.py:121 recursos/0brasil/datos/levels.py:157
 msgid "Juruena River"
-msgstr "rzeka Juruena "
+msgstr "rzeka Juruena"
 
 #: recursos/0brasil/datos/0brasil.py:122 recursos/0brasil/datos/levels.py:158
 msgid "Teles Pires River"
-msgstr "rzeka Teles Pires "
+msgstr "rzeka Teles Pires"
 
 #: recursos/0brasil/datos/0brasil.py:124 recursos/0brasil/datos/levels.py:160
 msgid "Araguaia River"
@@ -6761,7 +6761,7 @@ msgstr "rzeka San Fransisco River"
 
 #: recursos/0brasil/datos/0brasil.py:128 recursos/0brasil/datos/levels.py:164
 msgid "Paranaiba River"
-msgstr "rzeka Paranaiba "
+msgstr "rzeka Paranaiba"
 
 #: recursos/0brasil/datos/0brasil.py:138
 msgid "(15º45' S - 47º57' W)"
@@ -6802,7 +6802,7 @@ msgstr "190 732 694 (5.)"
 # W Polsce stosuje się długą skalę - polski bilion ma 12 zer, podczas gdy w UK i USA 12 zer ma trillion.
 #: recursos/0brasil/datos/0brasil.py:148
 msgid "USD 2.172 trillion (5th)"
-msgstr " 2 172 bilionów USD (5.)"
+msgstr "2 172 bilionów USD (5.)"
 
 #: recursos/0brasil/datos/0brasil.py:149
 msgid "High - 0,699 (73th)"
@@ -7042,19 +7042,19 @@ msgstr "dolar kanadyjski"
 
 #: recursos/0chile/datos/0chile.py:8 recursos/0chile/datos/levels.py:11
 msgid "Tarapacá"
-msgstr ""
+msgstr "Tarapacá"
 
 #: recursos/0chile/datos/0chile.py:10 recursos/0chile/datos/levels.py:13
 msgid "Atacama"
-msgstr ""
+msgstr "Atacama"
 
 #: recursos/0chile/datos/0chile.py:11 recursos/0chile/datos/levels.py:14
 msgid "Coquimbo"
-msgstr ""
+msgstr "Coquimbo"
 
 #: recursos/0chile/datos/0chile.py:13 recursos/0chile/datos/levels.py:16
 msgid "Metropolitana"
-msgstr ""
+msgstr "Metropolitana"
 
 #: recursos/0chile/datos/0chile.py:14 recursos/0chile/datos/levels.py:17
 msgid "Libertador General Bernardo O'Higgins"
@@ -15004,9 +15004,8 @@ msgid "Ceded by Spain to the United States"
 msgstr ""
 
 #: recursos/0prico/datos/0prico.py:191
-#, fuzzy
 msgid "13 of august of 1898 "
-msgstr "14 sierpnia 1879"
+msgstr ""
 
 #: recursos/0prico/datos/0prico.py:192
 #, fuzzy
@@ -16960,7 +16959,7 @@ msgstr "Nie, to nie jest tutaj"
 
 #: recursos/comun/datos/commons.py:39
 msgid "No, that seems to be wrong"
-msgstr "Nie, to wydaje się błędne."
+msgstr "Nie, to wydaje się błędne"
 
 #: recursos/comun/datos/commons.py:40
 msgid "That is not correct"
@@ -16972,7 +16971,7 @@ msgid ""
 "for tomorrow...\n"
 "I'm going to play...\n"
 "Thanks for your help!"
-msgstr ""
+msgstr "Jestem gotowy na jutro...Zagram...Dziękuje za pomoc!"
 
 #: recursos/comun/datos/commons.py:45
 msgid ""
@@ -16996,6 +16995,9 @@ msgid ""
 "I'll play a while...\n"
 "Thanks!"
 msgstr ""
+"Powodzenia następnym razem\n"
+"Ja chwilę pogram...\n"
+"Dzięki!"
 
 #: recursos/comun/datos/commons.py:51
 msgid ""
@@ -17009,7 +17011,7 @@ msgid ""
 "Please try again...\n"
 "I'm going to play...\n"
 "Thanks!"
-msgstr "Spróbuj jeszcze raz. Zagraj. Dziękuję!"
+msgstr "Spróbuj jeszcze raz. Ja zagram. Dziękuję!"
 
 #: recursos/comun/datos/commons.py:56
 msgid "Author: Alan Aguiar"
@@ -17023,7 +17025,7 @@ msgstr ""
 
 #: recursos/comun/datos/commons.py:59
 msgid "This program is free software developed by the community"
-msgstr "Program ten jest opracowanym przez społeczność wolnym oprogramowaniem "
+msgstr "Program ten jest opracowanym przez społeczność wolnym oprogramowaniem"
 
 #: recursos/comun/datos/commons.py:60
 msgid "For more information visit http://ceibaljam.org"
@@ -17035,7 +17037,7 @@ msgstr "Program oparty na 'Conozco Uruguay' (Autor - Gabriel Eirea)"
 
 #: recursos/comun/datos/commons.py:63
 msgid "Sounds downloaded from freesound.org: btn117.wav courtesy of junggle."
-msgstr "Dźwięki pobrane z freesound.org: btn117.wav dzięki uprzejmości junggle"
+msgstr "Dźwięki pobrane z freesound.org: btn117.wav dzięki uprzejmości junggle."
 
 #: recursos/comun/datos/commons.py:64
 msgid "Font: Share-Regular.ttf of urbanfonts.com"
