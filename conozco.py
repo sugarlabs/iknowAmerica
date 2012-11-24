@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 #
 # Conozco
-# Copyright (C) 2008, 2009, 2010 Gabriel Eirea
+# Copyright (C) 2008, 2012 Gabriel Eirea
 # Copyright (C) 2011, 2012 Alan Aguiar
 #
 # This program is free software: you can redistribute it and/or modify
@@ -457,108 +457,53 @@ class Conozco():
 
                     listpreguntas = ln[4]
 
-                    if (index == 2):
-                        for i in listpreguntas:
-                            tipo = 2
-                            respuesta = unicode(i[0], 'UTF-8')
-                            ayuda = unicode(i[1], 'UTF-8')
-                            texto = _('the city of\n%s') % respuesta
-                            nuevoNivel.preguntas.append((texto,
-                                tipo, respuesta, ayuda))
 
-                    elif (index == 7):
-                        for i in listpreguntas:
-                            tipo = 1
-                            respuesta = unicode(i[0], 'UTF-8')
-                            ayuda = unicode(i[1], 'UTF-8')
-                            texto = _('the department of\n%s') % respuesta
-                            nuevoNivel.preguntas.append((texto,
-                                tipo, respuesta, ayuda))
-
-                    elif (index == 8):
-                        for i in listpreguntas:
-                            tipo = 1
-                            respuesta = unicode(i[0], 'UTF-8')
-                            ayuda = unicode(i[1], 'UTF-8')
-                            texto = _('the province of\n%s') % respuesta
-                            nuevoNivel.preguntas.append((texto,
-                                tipo, respuesta, ayuda))
-
-                    elif (index == 9):
-                        for i in listpreguntas:
-                            tipo = 1
-                            respuesta = unicode(i[0], 'UTF-8')
-                            ayuda = unicode(i[1], 'UTF-8')
-                            texto = _('the district of\n%s') % respuesta
-                            nuevoNivel.preguntas.append((texto,
-                                tipo, respuesta, ayuda))
-
-                    elif (index == 10):
-                        for i in listpreguntas:
-                            tipo = 1
-                            respuesta = unicode(i[0], 'UTF-8')
-                            ayuda = unicode(i[1], 'UTF-8')
-                            texto = _('the state of\n%s') % respuesta
-                            nuevoNivel.preguntas.append((texto,
-                                tipo, respuesta, ayuda))
-
-                    elif (index == 11):
-                        for i in listpreguntas:
-                            tipo = 1
-                            respuesta = unicode(i[0], 'UTF-8')
-                            ayuda = unicode(i[1], 'UTF-8')
-                            texto = _('the region of\n%s') % respuesta
-                            nuevoNivel.preguntas.append((texto,
-                                tipo, respuesta, ayuda))
-
-                    elif (index == 12):
-                        for i in listpreguntas:
-                            tipo = 1
-                            respuesta = unicode(i[0], 'UTF-8')
-                            ayuda = unicode(i[1], 'UTF-8')
-                            texto = _('the parish of\n%s') % respuesta
-                            nuevoNivel.preguntas.append((texto,
-                                tipo, respuesta, ayuda))
-
-                    elif (index == 14):
-                        for i in listpreguntas:
-                            tipo = 1
-                            respuesta = unicode(i[0], 'UTF-8')
-                            ayuda = unicode(i[1], 'UTF-8')
-                            texto = _('the taluka of\n%s') % respuesta
-                            nuevoNivel.preguntas.append((texto,
-                                tipo, respuesta, ayuda))
-
-                    elif (index == 6):
-                        for i in listpreguntas:
-                            tipo = 1
-                            respuesta = unicode(i[0], 'UTF-8')
-                            ayuda = unicode(i[1], 'UTF-8')
-                            texto = _('the municipality of\n%s') % respuesta
-                            nuevoNivel.preguntas.append((texto,
-                                tipo, respuesta, ayuda))
-
-                    elif (index == 4):
-                        for i in listpreguntas:
-                            tipo = 3
-                            respuesta = unicode(i[0], 'UTF-8')
-                            ayuda = unicode(i[1], 'UTF-8')
-                            texto = _('the %s') % respuesta
-                            nuevoNivel.preguntas.append((texto,
-                                tipo, respuesta, ayuda))
-
-                    elif (index == 1):
+                    if (index == 1):
                         for i in listpreguntas:
                             texto = unicode(i[0], 'UTF-8')
                             tipo = i[1]
                             respuesta = unicode(i[2], 'UTF-8')
                             ayuda = unicode(i[3], 'UTF-8')
+                            nuevoNivel.preguntas.append((texto, tipo, respuesta, ayuda))
+                    else:
 
-                            nuevoNivel.preguntas.append((texto,
-                                tipo, respuesta, ayuda))
+                        for i in listpreguntas:
+                            respuesta = unicode(i[0], 'UTF-8')
+                            ayuda = unicode(i[1], 'UTF-8')
+                            if (index == 2):
+                                tipo = 2
+                                texto = _('the city of\n%s') % respuesta
+                            elif (index == 7):
+                                tipo = 1
+                                texto = _('the department of\n%s') % respuesta
+                            elif (index == 8):
+                                tipo = 1
+                                texto = _('the province of\n%s') % respuesta
+                            elif (index == 9):
+                                tipo = 1
+                                texto = _('the district of\n%s') % respuesta
+                            elif (index == 10):
+                                tipo = 1
+                                texto = _('the state of\n%s') % respuesta
+                            elif (index == 11):
+                                tipo = 1
+                                texto = _('the region of\n%s') % respuesta
+                            elif (index == 12):
+                                tipo = 1
+                                texto = _('the parish of\n%s') % respuesta
+                            elif (index == 14):
+                                tipo = 1
+                                texto = _('the taluka of\n%s') % respuesta
+                            elif (index == 6):
+                                tipo = 1
+                                texto = _('the municipality of\n%s') % respuesta
+                            elif (index == 4):
+                                tipo = 3
+                                texto = _('the %s') % respuesta
+
+                            nuevoNivel.preguntas.append((texto, tipo, respuesta, ayuda))
 
                     self.listaNiveles.append(nuevoNivel)
-
 
         self.indiceNivelActual = 0
         self.numeroNiveles = len(self.listaNiveles)
