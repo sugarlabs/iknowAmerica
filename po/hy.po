@@ -5288,8 +5288,9 @@ msgid "Capital:"
 msgstr "Մայրաքաղաքներ"
 
 #: recursos/0argentina/datos/0argentina.py:111
+#, fuzzy
 msgid "(34º40' S - 58º24' W)"
-msgstr ""
+msgstr "(10º30' N - 66º58' W)"
 
 #: recursos/0argentina/datos/0argentina.py:112
 #: recursos/0belice/datos/0belice.py:96
@@ -6980,8 +6981,9 @@ msgid "Greenland Sea"
 msgstr ""
 
 #: recursos/0canada/datos/0canada.py:111
+#, fuzzy
 msgid "(45º24' N - 75º40' W)"
-msgstr ""
+msgstr "(10º30' N - 66º58' W)"
 
 #: recursos/0canada/datos/0canada.py:112
 #: recursos/0eunidos/datos/0eunidos.py:178
@@ -11432,8 +11434,9 @@ msgid "Barima River"
 msgstr ""
 
 #: recursos/0guyana/datos/0guyana.py:83
+#, fuzzy
 msgid "(6º49' N - 58º9' W)"
-msgstr ""
+msgstr "(10º30' N - 66º58' W)"
 
 #: recursos/0guyana/datos/0guyana.py:85
 msgid "Semi-Presidential Republic"
@@ -15307,8 +15310,9 @@ msgid "Kutari River"
 msgstr ""
 
 #: recursos/0surinam/datos/0surinam.py:77
+#, fuzzy
 msgid "(5º52' N - 55º10' W)"
-msgstr ""
+msgstr "(10º30' N - 66º58' W)"
 
 #: recursos/0surinam/datos/0surinam.py:78
 msgid "Dutch"
@@ -16181,8 +16185,9 @@ msgid "Route 26"
 msgstr ""
 
 #: recursos/0uruguay/datos/0uruguay.py:181
+#, fuzzy
 msgid "(34º53' S - 56º10' W)"
-msgstr ""
+msgstr "(10º30' N - 66º58' W)"
 
 #: recursos/0uruguay/datos/0uruguay.py:184
 msgid "José Mujica"

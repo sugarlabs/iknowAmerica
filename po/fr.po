@@ -2,35 +2,35 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-09-27 14:56-0400\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2012-11-24 17:42+0200\n"
+"Last-Translator: Lionel Laské <llaske@c2s.fr>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.7.0\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pootle 2.0.5\n"
 
 #. TRANS: "name" option from activity.info file
 #: recursos/comun/datos/commons.py:5
 msgid "I know America"
-msgstr ""
+msgstr "Je connais l'Amérique"
 
 #. TRANS: "summary" option from activity.info file
 #. TRANS: "description" option from activity.info file
 msgid "Game about the geography of America"
-msgstr ""
+msgstr "Un jeu sur la géographie de l'Amérique"
 
 #: conozco.py:246 conozco.py:361 conozco.py:385 conozco.py:441 conozco.py:577
 #, python-format
 msgid "Cannot open %s"
-msgstr ""
+msgstr "Ne peut pas ouvrir %s"
 
 #: conozco.py:465
 #, python-format
@@ -38,6 +38,8 @@ msgid ""
 "the city of\n"
 "%s"
 msgstr ""
+"la ville de\n"
+"%s"
 
 #: conozco.py:474
 #, python-format
@@ -45,6 +47,8 @@ msgid ""
 "the department of\n"
 "%s"
 msgstr ""
+"le département de\n"
+"%s"
 
 #: conozco.py:483
 #, python-format
@@ -52,6 +56,8 @@ msgid ""
 "the province of\n"
 "%s"
 msgstr ""
+"la province de\n"
+"%s"
 
 #: conozco.py:492
 #, python-format
@@ -59,6 +65,8 @@ msgid ""
 "the district of\n"
 "%s"
 msgstr ""
+"le district de\n"
+"%s"
 
 #: conozco.py:501
 #, python-format
@@ -66,6 +74,8 @@ msgid ""
 "the state of\n"
 "%s"
 msgstr ""
+"l'état de\n"
+"%s"
 
 #: conozco.py:510
 #, python-format
@@ -73,6 +83,8 @@ msgid ""
 "the region of\n"
 "%s"
 msgstr ""
+"la région de\n"
+"%s"
 
 #: conozco.py:519 recursos/0sanvicenteyg/datos/levels.py:11
 #: recursos/0sanvicenteyg/datos/levels.py:12
@@ -84,13 +96,17 @@ msgid ""
 "the parish of\n"
 "%s"
 msgstr ""
+"la paroisse de\n"
+"%s"
 
 #: conozco.py:528
-#, python-format
+#, python-format, fuzzy
 msgid ""
 "the taluka of\n"
 "%s"
 msgstr ""
+"le taluka de\n"
+"%s"
 
 #: conozco.py:537
 #, python-format
@@ -98,6 +114,8 @@ msgid ""
 "the municipality of\n"
 "%s"
 msgstr ""
+"la municipalité de\n"
+"%s"
 
 #: conozco.py:546 recursos/0adelnorte/datos/levels.py:15
 #: recursos/0adelnorte/datos/levels.py:16
@@ -123,7 +141,7 @@ msgstr ""
 #: recursos/0sanvicenteyg/datos/levels.py:29
 #, python-format
 msgid "the %s"
-msgstr ""
+msgstr "le %s"
 
 #: conozco.py:615
 #, python-format

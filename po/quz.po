@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-09-27 14:56-0400\n"
-"PO-Revision-Date: 2012-07-23 07:10+0200\n"
+"PO-Revision-Date: 2012-11-20 17:21+0200\n"
 "Last-Translator: Chris <cjl@laptop.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: quz\n"
@@ -17,21 +17,29 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : 1;\n"
 "X-Generator: Pootle 2.0.5\n"
 
+# Conozco América
+# 
 #. TRANS: "name" option from activity.info file
 #: recursos/comun/datos/commons.py:5
 msgid "I know America"
 msgstr ""
 
+# Juego sobre la geografía de América
+# 
 #. TRANS: "summary" option from activity.info file
 #. TRANS: "description" option from activity.info file
 msgid "Game about the geography of America"
 msgstr ""
 
+# No se puede abrir %s
+# 
 #: conozco.py:246 conozco.py:361 conozco.py:385 conozco.py:441 conozco.py:577
 #, python-format
 msgid "Cannot open %s"
 msgstr ""
 
+# la ciudad de\n
+# %s
 #: conozco.py:465
 #, python-format
 msgid ""
@@ -39,6 +47,8 @@ msgid ""
 "%s"
 msgstr ""
 
+# el departamento de\n
+# %s
 #: conozco.py:474
 #, python-format
 msgid ""
@@ -46,6 +56,8 @@ msgid ""
 "%s"
 msgstr ""
 
+# la provincia de\n
+# %s
 #: conozco.py:483
 #, python-format
 msgid ""
@@ -53,6 +65,8 @@ msgid ""
 "%s"
 msgstr ""
 
+# el distrito de\n
+# %s
 #: conozco.py:492
 #, python-format
 msgid ""
@@ -60,6 +74,8 @@ msgid ""
 "%s"
 msgstr ""
 
+# el estado de\n
+# %s
 #: conozco.py:501
 #, python-format
 msgid ""
@@ -67,6 +83,8 @@ msgid ""
 "%s"
 msgstr ""
 
+# la región de\n
+# %s
 #: conozco.py:510
 #, python-format
 msgid ""
@@ -74,6 +92,8 @@ msgid ""
 "%s"
 msgstr ""
 
+# la parroquia de\n
+# %s
 #: conozco.py:519 recursos/0sanvicenteyg/datos/levels.py:11
 #: recursos/0sanvicenteyg/datos/levels.py:12
 #: recursos/0sanvicenteyg/datos/levels.py:13
@@ -85,6 +105,8 @@ msgid ""
 "%s"
 msgstr ""
 
+# la taluka de\n
+# %s
 #: conozco.py:528
 #, python-format
 msgid ""
@@ -92,6 +114,8 @@ msgid ""
 "%s"
 msgstr ""
 
+# la municipalidad de\n
+# %s
 #: conozco.py:537
 #, python-format
 msgid ""
@@ -99,6 +123,8 @@ msgid ""
 "%s"
 msgstr ""
 
+# el %s
+# 
 #: conozco.py:546 recursos/0adelnorte/datos/levels.py:15
 #: recursos/0adelnorte/datos/levels.py:16
 #: recursos/0adelnorte/datos/levels.py:17
@@ -125,67 +151,92 @@ msgstr ""
 msgid "the %s"
 msgstr ""
 
+# Acerca de %s
+# 
 #: conozco.py:615
 #, python-format
 msgid "About %s"
 msgstr ""
 
+# Presione cualquier tecla para regresar
+# 
 #: conozco.py:629
 msgid "Press any key to return"
 msgstr ""
 
+# Has elegido el mapa de 
+# 
 #: conozco.py:660
 msgid "You have chosen the map "
 msgstr ""
 
+# Jugar
 #: conozco.py:666
 #, fuzzy
 msgid "Play"
 msgstr "Pukllay"
 
+# Explorar
+# 
 #: conozco.py:682
 msgid "Explore"
 msgstr ""
 
+# Sobre este juego
+# 
 #: conozco.py:702 conozco.py:846
 msgid "About this game"
 msgstr ""
 
+# Regresar
 #: conozco.py:710
 msgid "Return"
 msgstr ""
 
+# Elige el mapa a utilizar
+# 
 #: conozco.py:767
 msgid "Choose the map to use"
 msgstr ""
 
+# Página anterior
+# 
 #: conozco.py:787
 #, fuzzy
 msgid "Previous page"
 msgstr "Ñawpa raphi"
 
+# Página siguiente
 #: conozco.py:832
 #, fuzzy
 msgid "Next page"
 msgstr "Hamuq raphi"
 
+# Salir
 #: conozco.py:853
 msgid "Exit"
 msgstr ""
 
+# Terminar
 #: conozco.py:1327 conozco.py:1525
 msgid "End"
 msgstr ""
 
+# Mostrar todo
+# 
 #: conozco.py:1338
 #, fuzzy
 msgid "Show all"
 msgstr "Tukuyninta rikuchiy"
 
+# Presione cualquier tecla para saltear
+# 
 #: conozco.py:1780 conozco.py:1892 conozco.py:1973
 msgid "Press any key to skip"
 msgstr ""
 
+# América Central
+# 
 #: recursos/0acentral/datos/0acentral.py:5
 msgid "Central America"
 msgstr ""
@@ -309,6 +360,8 @@ msgstr ""
 msgid "Cuba"
 msgstr ""
 
+# Estados Unidos
+# 
 #: recursos/0acentral/datos/0acentral.py:19
 #: recursos/0adelnorte/datos/0adelnorte.py:8
 #: recursos/0adelnorte/datos/levels.py:11 recursos/0canada/datos/0canada.py:26
@@ -785,6 +838,7 @@ msgstr ""
 msgid "Santa Clara"
 msgstr ""
 
+# Países
 #: recursos/0acentral/datos/explorations.py:6
 #: recursos/0acentral/datos/levels.py:7
 #: recursos/0adelnorte/datos/explorations.py:6
@@ -794,6 +848,7 @@ msgstr ""
 msgid "Countries"
 msgstr ""
 
+# Capitales
 #: recursos/0acentral/datos/explorations.py:13
 #: recursos/0acentral/datos/levels.py:42
 #: recursos/0adelnorte/datos/explorations.py:13
@@ -802,6 +857,7 @@ msgstr ""
 msgid "Capitals"
 msgstr ""
 
+# Ciudades
 #: recursos/0acentral/datos/explorations.py:20
 #: recursos/0acentral/datos/levels.py:72
 #: recursos/0adelnorte/datos/explorations.py:20
@@ -866,6 +922,8 @@ msgstr ""
 msgid "Cities"
 msgstr ""
 
+# Está al oeste
+# 
 #: recursos/0acentral/datos/levels.py:11 recursos/0acentral/datos/levels.py:12
 #: recursos/0acentral/datos/levels.py:47 recursos/0acentral/datos/levels.py:51
 #: recursos/0acentral/datos/levels.py:77 recursos/0acentral/datos/levels.py:81
@@ -1137,6 +1195,8 @@ msgstr ""
 msgid "Is west"
 msgstr ""
 
+# Está en el suroeste
+# 
 #: recursos/0acentral/datos/levels.py:13 recursos/0acentral/datos/levels.py:14
 #: recursos/0acentral/datos/levels.py:15 recursos/0acentral/datos/levels.py:54
 #: recursos/0acentral/datos/levels.py:66 recursos/0acentral/datos/levels.py:84
@@ -1336,6 +1396,8 @@ msgstr ""
 msgid "Is southwest"
 msgstr ""
 
+# Está en el sur
+# 
 #: recursos/0acentral/datos/levels.py:16 recursos/0acentral/datos/levels.py:17
 #: recursos/0acentral/datos/levels.py:60 recursos/0acentral/datos/levels.py:90
 #: recursos/0acentral/datos/levels.py:97
@@ -1578,6 +1640,7 @@ msgstr ""
 msgid "Is south"
 msgstr ""
 
+# Está al noroeste
 #: recursos/0acentral/datos/levels.py:18 recursos/0acentral/datos/levels.py:19
 #: recursos/0acentral/datos/levels.py:24 recursos/0acentral/datos/levels.py:25
 #: recursos/0acentral/datos/levels.py:26 recursos/0acentral/datos/levels.py:52
@@ -1880,6 +1943,8 @@ msgstr ""
 msgid "Is northwest"
 msgstr ""
 
+# Está al norte
+# 
 #: recursos/0acentral/datos/levels.py:20 recursos/0acentral/datos/levels.py:21
 #: recursos/0acentral/datos/levels.py:34 recursos/0acentral/datos/levels.py:35
 #: recursos/0acentral/datos/levels.py:55 recursos/0acentral/datos/levels.py:58
@@ -2196,6 +2261,8 @@ msgstr ""
 msgid "Is north"
 msgstr ""
 
+# Está al noreste
+# 
 #: recursos/0acentral/datos/levels.py:22 recursos/0acentral/datos/levels.py:29
 #: recursos/0acentral/datos/levels.py:30 recursos/0acentral/datos/levels.py:61
 #: recursos/0acentral/datos/levels.py:65 recursos/0acentral/datos/levels.py:91
@@ -2415,6 +2482,8 @@ msgstr ""
 msgid "Is northeast"
 msgstr ""
 
+# Está en el este
+# 
 #: recursos/0acentral/datos/levels.py:23 recursos/0acentral/datos/levels.py:27
 #: recursos/0acentral/datos/levels.py:28 recursos/0acentral/datos/levels.py:31
 #: recursos/0acentral/datos/levels.py:32 recursos/0acentral/datos/levels.py:33
@@ -2674,6 +2743,8 @@ msgstr ""
 msgid "Is east"
 msgstr ""
 
+# Está en el sureste
+# 
 #: recursos/0acentral/datos/levels.py:56 recursos/0acentral/datos/levels.py:62
 #: recursos/0acentral/datos/levels.py:86 recursos/0acentral/datos/levels.py:92
 #: recursos/0acentral/datos/levels.py:109
@@ -2898,6 +2969,8 @@ msgstr ""
 msgid "Is southeast"
 msgstr ""
 
+# América del Norte
+# 
 #: recursos/0adelnorte/datos/0adelnorte.py:5
 msgid "North America"
 msgstr ""
@@ -3887,6 +3960,8 @@ msgstr ""
 msgid "Norwegian Sea"
 msgstr ""
 
+# Cursos de agua
+# 
 #: recursos/0adelnorte/datos/explorations.py:27
 #: recursos/0adelnorte/datos/levels.py:131
 #: recursos/0adelsur/datos/explorations.py:27
@@ -3947,6 +4022,8 @@ msgstr ""
 msgid "Waterways"
 msgstr ""
 
+# Está en el centro
+# 
 #: recursos/0adelnorte/datos/levels.py:11
 #: recursos/0adelnorte/datos/levels.py:35
 #: recursos/0adelnorte/datos/levels.py:41
@@ -4187,6 +4264,8 @@ msgstr ""
 msgid "Is in the center"
 msgstr ""
 
+# América del Sur
+# 
 #: recursos/0adelsur/datos/0adelsur.py:5
 msgid "South America"
 msgstr ""
