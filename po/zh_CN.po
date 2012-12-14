@@ -6,8 +6,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-09-27 14:56-0400\n"
-"PO-Revision-Date: 2012-10-02 05:52+0200\n"
+"POT-Creation-Date: 2012-12-11 00:31-0500\n"
+"PO-Revision-Date: 2012-12-12 14:57+0200\n"
 "Last-Translator: lite <litekok@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: zh_CN\n"
@@ -27,54 +27,54 @@ msgstr "走遍美洲"
 msgid "Game about the geography of America"
 msgstr "关于美洲地理的游戏"
 
-#: conozco.py:246 conozco.py:361 conozco.py:385 conozco.py:441 conozco.py:577
+#: conozco.py:246 conozco.py:361 conozco.py:385 conozco.py:441 conozco.py:525
 #, python-format
 msgid "Cannot open %s"
 msgstr "无法打开 %s"
 
-#: conozco.py:465
+#: conozco.py:475
 #, python-format
 msgid ""
 "the city of\n"
 "%s"
 msgstr "%s 市"
 
-#: conozco.py:474
+#: conozco.py:478
 #, python-format
 msgid ""
 "the department of\n"
 "%s"
 msgstr "%s 省"
 
-#: conozco.py:483
+#: conozco.py:481
 #, python-format
 msgid ""
 "the province of\n"
 "%s"
 msgstr "%s 省"
 
-#: conozco.py:492
+#: conozco.py:484
 #, python-format
 msgid ""
 "the district of\n"
 "%s"
 msgstr "%s 区"
 
-#: conozco.py:501
+#: conozco.py:487
 #, python-format
 msgid ""
 "the state of\n"
 "%s"
 msgstr "%s 州"
 
-#: conozco.py:510
+#: conozco.py:490
 #, python-format
 msgid ""
 "the region of\n"
 "%s"
 msgstr "%s 地区"
 
-#: conozco.py:519 recursos/0sanvicenteyg/datos/levels.py:11
+#: conozco.py:493 recursos/0sanvicenteyg/datos/levels.py:11
 #: recursos/0sanvicenteyg/datos/levels.py:12
 #: recursos/0sanvicenteyg/datos/levels.py:13
 #: recursos/0sanvicenteyg/datos/levels.py:14
@@ -85,21 +85,21 @@ msgid ""
 "%s"
 msgstr "%s 教区"
 
-#: conozco.py:528
+#: conozco.py:496
 #, python-format
 msgid ""
 "the taluka of\n"
 "%s"
 msgstr "%s 乡"
 
-#: conozco.py:537
+#: conozco.py:499
 #, python-format
 msgid ""
 "the municipality of\n"
 "%s"
 msgstr "%s 市镇"
 
-#: conozco.py:546 recursos/0adelnorte/datos/levels.py:15
+#: conozco.py:502 recursos/0adelnorte/datos/levels.py:15
 #: recursos/0adelnorte/datos/levels.py:16
 #: recursos/0adelnorte/datos/levels.py:17
 #: recursos/0adelnorte/datos/levels.py:18
@@ -125,60 +125,65 @@ msgstr "%s 市镇"
 msgid "the %s"
 msgstr "%s"
 
-#: conozco.py:615
+#: conozco.py:505
+#, python-format
+msgid "the %(route)s"
+msgstr "%(route)s"
+
+#: conozco.py:563
 #, python-format
 msgid "About %s"
 msgstr "关于 %s"
 
-#: conozco.py:629
+#: conozco.py:577
 msgid "Press any key to return"
 msgstr "按任意键返回"
 
-#: conozco.py:660
+#: conozco.py:608
 msgid "You have chosen the map "
 msgstr "你选择了地图 "
 
-#: conozco.py:666
+#: conozco.py:614
 msgid "Play"
 msgstr "开始游戏"
 
-#: conozco.py:682
+#: conozco.py:630
 msgid "Explore"
 msgstr "探险"
 
-#: conozco.py:702 conozco.py:846
+#: conozco.py:650 conozco.py:794
 msgid "About this game"
 msgstr "关于本游戏"
 
-#: conozco.py:710
+#: conozco.py:658
 msgid "Return"
 msgstr "返回"
 
-#: conozco.py:767
+#: conozco.py:715
 msgid "Choose the map to use"
 msgstr "选择要使用的地图"
 
-#: conozco.py:787
+#: conozco.py:735
 msgid "Previous page"
 msgstr "上一页"
 
-#: conozco.py:832
+#: conozco.py:780
 msgid "Next page"
 msgstr "下一页"
 
-#: conozco.py:853
+#: conozco.py:801
 msgid "Exit"
 msgstr "退出"
 
-#: conozco.py:1327 conozco.py:1525
+#: conozco.py:1275 conozco.py:1473
 msgid "End"
 msgstr "结束"
 
-#: conozco.py:1338
+#: conozco.py:1286
 msgid "Show all"
 msgstr "显示全部"
 
-#: conozco.py:1780 conozco.py:1892 conozco.py:1973
+#: conozco.py:1728 conozco.py:1840 conozco.py:1921
 msgid "Press any key to skip"
 msgstr "按任意键跳过"
 
