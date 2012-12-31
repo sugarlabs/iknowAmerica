@@ -6,9 +6,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-09-27 14:56-0400\n"
-"PO-Revision-Date: 2012-11-09 22:35+0200\n"
-"Last-Translator: joasia1 <joannaboguc@gmail.com>\n"
+"POT-Creation-Date: 2012-12-11 00:31-0500\n"
+"PO-Revision-Date: 2012-12-31 04:06+0200\n"
+"Last-Translator: Chris <cjl@laptop.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
@@ -29,12 +29,12 @@ msgstr "Poznaję Amerykę"
 msgid "Game about the geography of America"
 msgstr "Gra dotycząca geografii Ameryki"
 
-#: conozco.py:246 conozco.py:361 conozco.py:385 conozco.py:441 conozco.py:577
+#: conozco.py:246 conozco.py:361 conozco.py:385 conozco.py:441 conozco.py:525
 #, python-format
 msgid "Cannot open %s"
 msgstr "Nie można otworzyć %s"
 
-#: conozco.py:465
+#: conozco.py:475
 #, python-format
 #, python-format,
 msgid ""
@@ -44,7 +44,7 @@ msgstr ""
 "miasto\n"
 "%s"
 
-#: conozco.py:474
+#: conozco.py:478
 #, python-format
 #, python-format,
 msgid ""
@@ -52,7 +52,7 @@ msgid ""
 "%s"
 msgstr "departament |%s"
 
-#: conozco.py:483
+#: conozco.py:481
 #, python-format
 #, python-format,
 msgid ""
@@ -60,7 +60,7 @@ msgid ""
 "%s"
 msgstr "prowincja |%s"
 
-#: conozco.py:492
+#: conozco.py:484
 #, python-format
 #, python-format,
 msgid ""
@@ -68,7 +68,7 @@ msgid ""
 "%s"
 msgstr "dzielnica |%s"
 
-#: conozco.py:501
+#: conozco.py:487
 #, python-format
 #, python-format,
 msgid ""
@@ -76,7 +76,7 @@ msgid ""
 "%s"
 msgstr "stan |%s"
 
-#: conozco.py:510
+#: conozco.py:490
 #, python-format
 #, python-format,
 msgid ""
@@ -84,7 +84,7 @@ msgid ""
 "%s"
 msgstr "region |%s"
 
-#: conozco.py:519 recursos/0sanvicenteyg/datos/levels.py:11
+#: conozco.py:493 recursos/0sanvicenteyg/datos/levels.py:11
 #: recursos/0sanvicenteyg/datos/levels.py:12
 #: recursos/0sanvicenteyg/datos/levels.py:13
 #: recursos/0sanvicenteyg/datos/levels.py:14
@@ -97,14 +97,14 @@ msgstr "parafia %s"
 
 # jednostka podziału administracyjnego w Indiach
 #
-#: conozco.py:528
+#: conozco.py:496
 #, python-format
 msgid ""
 "the taluka of\n"
 "%s"
 msgstr "taluka %s"
 
-#: conozco.py:537
+#: conozco.py:499
 #, python-format
 #, python-format,
 msgid ""
@@ -112,7 +112,7 @@ msgid ""
 "%s"
 msgstr "okręg %s"
 
-#: conozco.py:546 recursos/0adelnorte/datos/levels.py:15
+#: conozco.py:502 recursos/0adelnorte/datos/levels.py:15
 #: recursos/0adelnorte/datos/levels.py:16
 #: recursos/0adelnorte/datos/levels.py:17
 #: recursos/0adelnorte/datos/levels.py:18
@@ -138,60 +138,65 @@ msgstr "okręg %s"
 msgid "the %s"
 msgstr "%s"
 
-#: conozco.py:615
+#: conozco.py:505
+#, python-format
+msgid "the %(route)s"
+msgstr ""
+
+#: conozco.py:563
 #, python-format
 msgid "About %s"
 msgstr "około %s"
 
-#: conozco.py:629
+#: conozco.py:577
 msgid "Press any key to return"
 msgstr "Naciśnij dowolny klawisz, aby powrócić"
 
-#: conozco.py:660
+#: conozco.py:608
 msgid "You have chosen the map "
 msgstr "Wybrałeś mapę "
 
-#: conozco.py:666
+#: conozco.py:614
 msgid "Play"
 msgstr "Graj"
 
-#: conozco.py:682
+#: conozco.py:630
 msgid "Explore"
 msgstr "Zbadaj"
 
-#: conozco.py:702 conozco.py:846
+#: conozco.py:650 conozco.py:794
 msgid "About this game"
 msgstr "O tej grze"
 
-#: conozco.py:710
+#: conozco.py:658
 msgid "Return"
 msgstr "Wróć"
 
-#: conozco.py:767
+#: conozco.py:715
 msgid "Choose the map to use"
 msgstr "Wybierz mapę"
 
-#: conozco.py:787
+#: conozco.py:735
 msgid "Previous page"
 msgstr "Poprzednia strona"
 
-#: conozco.py:832
+#: conozco.py:780
 msgid "Next page"
 msgstr "Następna strona"
 
-#: conozco.py:853
+#: conozco.py:801
 msgid "Exit"
 msgstr "Wyjdź"
 
-#: conozco.py:1327 conozco.py:1525
+#: conozco.py:1275 conozco.py:1473
 msgid "End"
 msgstr "Zakończ"
 
-#: conozco.py:1338
+#: conozco.py:1286
 msgid "Show all"
 msgstr "Pokaż wszystko"
 
-#: conozco.py:1780 conozco.py:1892 conozco.py:1973
+#: conozco.py:1728 conozco.py:1840 conozco.py:1921
 msgid "Press any key to skip"
 msgstr "Wciśnij dowolny klawisz, aby pominąć"
 
@@ -9178,7 +9183,7 @@ msgstr "Chone"
 
 #: recursos/0ecuador/datos/0ecuador.py:63 recursos/0ecuador/datos/levels.py:96
 msgid "Cononaco"
-msgstr "Cononaco "
+msgstr "Cononaco"
 
 #: recursos/0ecuador/datos/0ecuador.py:64 recursos/0ecuador/datos/levels.py:97
 msgid "Jipijapa"
@@ -9295,7 +9300,7 @@ msgstr "rzeka Curaray"
 #: recursos/0ecuador/datos/0ecuador.py:90
 #: recursos/0ecuador/datos/levels.py:129
 msgid "Pintoyacu River"
-msgstr "rzeka Pintoyacu "
+msgstr "rzeka Pintoyacu"
 
 #: recursos/0ecuador/datos/0ecuador.py:91
 #: recursos/0ecuador/datos/levels.py:130
@@ -9332,7 +9337,7 @@ msgstr "rzeka Morona"
 #: recursos/0ecuador/datos/0ecuador.py:97
 #: recursos/0ecuador/datos/levels.py:136
 msgid "Mangosiza River"
-msgstr "rzeka Mangosiza "
+msgstr "rzeka Mangosiza"
 
 #: recursos/0ecuador/datos/0ecuador.py:98
 #: recursos/0ecuador/datos/levels.py:137 recursos/0peru/datos/0peru.py:119
@@ -9348,7 +9353,7 @@ msgstr "rzeka Numbala"
 #: recursos/0ecuador/datos/0ecuador.py:100
 #: recursos/0ecuador/datos/levels.py:139
 msgid "Alamaor River"
-msgstr "rzeka Alamaor "
+msgstr "rzeka Alamaor"
 
 #: recursos/0ecuador/datos/0ecuador.py:101
 #: recursos/0ecuador/datos/levels.py:140
@@ -9358,7 +9363,7 @@ msgstr "rzeka Catamayo"
 #: recursos/0ecuador/datos/0ecuador.py:102
 #: recursos/0ecuador/datos/levels.py:141
 msgid "Puyango River"
-msgstr "rzeka Puyango "
+msgstr "rzeka Puyango"
 
 #: recursos/0ecuador/datos/0ecuador.py:103
 #: recursos/0ecuador/datos/levels.py:142
@@ -9368,7 +9373,7 @@ msgstr "rzeka Zamora"
 #: recursos/0ecuador/datos/0ecuador.py:104
 #: recursos/0ecuador/datos/levels.py:143
 msgid "Tenguel River"
-msgstr "rzeka Tenguel "
+msgstr "rzeka Tenguel"
 
 #: recursos/0ecuador/datos/0ecuador.py:105
 #: recursos/0ecuador/datos/levels.py:144
@@ -9378,7 +9383,7 @@ msgstr "rzeka Jagua"
 #: recursos/0ecuador/datos/0ecuador.py:106
 #: recursos/0ecuador/datos/levels.py:145
 msgid "Caliu River"
-msgstr "rzeka Caliu "
+msgstr "rzeka Caliu"
 
 #: recursos/0ecuador/datos/0ecuador.py:107
 #: recursos/0ecuador/datos/levels.py:146 recursos/0mexico/datos/0mexico.py:123
@@ -9390,7 +9395,7 @@ msgstr "rzeka Balsas"
 #: recursos/0ecuador/datos/0ecuador.py:108
 #: recursos/0ecuador/datos/levels.py:147
 msgid "Daule River"
-msgstr "rzeka Daule "
+msgstr "rzeka Daule"
 
 #: recursos/0ecuador/datos/0ecuador.py:109
 #: recursos/0ecuador/datos/levels.py:148
@@ -9399,27 +9404,27 @@ msgstr "rzeka Chone"
 
 #: recursos/0ecuador/datos/0ecuador.py:110
 msgid "Reservoir Daule Peripa River"
-msgstr "rzeka Reservoir Daule Peripa "
+msgstr "rzeka Reservoir Daule Peripa"
 
 #: recursos/0ecuador/datos/0ecuador.py:111
 #: recursos/0ecuador/datos/levels.py:150
 msgid "Briceño River"
-msgstr "rzeka Briceño "
+msgstr "rzeka Briceño"
 
 #: recursos/0ecuador/datos/0ecuador.py:113
 #: recursos/0ecuador/datos/levels.py:152
 msgid "Toachi River"
-msgstr "rzeka Toachi "
+msgstr "rzeka Toachi"
 
 #: recursos/0ecuador/datos/0ecuador.py:114
 #: recursos/0ecuador/datos/levels.py:153
 msgid "Esmeraldas River"
-msgstr "rzeka Esmeraldas "
+msgstr "rzeka Esmeraldas"
 
 #: recursos/0ecuador/datos/0ecuador.py:115
 #: recursos/0ecuador/datos/levels.py:154
 msgid "Onzole River"
-msgstr "rzeka Onzole "
+msgstr "rzeka Onzole"
 
 #: recursos/0ecuador/datos/0ecuador.py:116
 #: recursos/0ecuador/datos/levels.py:155
@@ -9429,7 +9434,7 @@ msgstr "rzeka Mira"
 #: recursos/0ecuador/datos/0ecuador.py:118
 #: recursos/0ecuador/datos/levels.py:157
 msgid "Nashiño River"
-msgstr "rzeka Nashiño "
+msgstr "rzeka Nashiño"
 
 #: recursos/0ecuador/datos/0ecuador.py:119
 #: recursos/0ecuador/datos/levels.py:158
@@ -9439,7 +9444,7 @@ msgstr "rzeka Coronaco"
 #: recursos/0ecuador/datos/0ecuador.py:120
 #: recursos/0ecuador/datos/levels.py:159
 msgid "Tiguiño River"
-msgstr "rzeka Tiguiño "
+msgstr "rzeka Tiguiño"
 
 #: recursos/0ecuador/datos/0ecuador.py:121
 #: recursos/0ecuador/datos/levels.py:160 recursos/0peru/datos/0peru.py:103
@@ -9544,9 +9549,8 @@ msgid "Tigre"
 msgstr ""
 
 #: recursos/0ecuador/datos/levels.py:149
-#, fuzzy
 msgid "Reservoir Daule Peripa"
-msgstr "rzeka Reservoir Daule Peripa "
+msgstr "Reservoir Daule Peripa"
 
 #: recursos/0ecuador/datos/levels.py:169
 msgid "Canal de Jambeli"
@@ -12135,9 +12139,8 @@ msgstr ""
 
 #: recursos/0honduras/datos/0honduras.py:102
 #: recursos/0honduras/datos/levels.py:132
-#, fuzzy
 msgid "Higuito River"
-msgstr "rzeka Tiguiño "
+msgstr "rzeka Higuito"
 
 #: recursos/0honduras/datos/0honduras.py:103
 #: recursos/0honduras/datos/levels.py:133
@@ -14968,9 +14971,8 @@ msgid "Ceded by Spain to the United States"
 msgstr ""
 
 #: recursos/0prico/datos/0prico.py:191
-#, fuzzy
 msgid "13 of august of 1898 "
-msgstr "14 sierpnia 1879"
+msgstr ""
 
 #: recursos/0prico/datos/0prico.py:192
 #, fuzzy
