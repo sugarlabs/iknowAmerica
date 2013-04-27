@@ -7,8 +7,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-12-11 00:31-0500\n"
-"PO-Revision-Date: 2013-03-12 22:52+0200\n"
-"Last-Translator: Chris <cjl@laptop.org>\n"
+"PO-Revision-Date: 2013-04-15 20:24+0200\n"
+"Last-Translator: EdgarQuispeChambi <quispedgar@yahoo.es>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ayc\n"
 "MIME-Version: 1.0\n"
@@ -6546,7 +6546,6 @@ msgstr "Santa Catarina marka"
 #: recursos/0brasil/datos/0brasil.py:22 recursos/0brasil/datos/0brasil.py:73
 #: recursos/0brasil/datos/levels.py:25 recursos/0brasil/datos/levels.py:70
 #: recursos/0brasil/datos/levels.py:106
-#, fuzzy
 msgid "Sao Paulo"
 msgstr "San Pablo marka"
 
@@ -6757,7 +6756,6 @@ msgid "Tocantins River"
 msgstr "Tocantins jawira"
 
 #: recursos/0brasil/datos/0brasil.py:126 recursos/0brasil/datos/levels.py:162
-#, fuzzy
 msgid "Sao Francsico River"
 msgstr "San Francisco jawira"
 
@@ -6916,7 +6914,6 @@ msgid "Lethbridge"
 msgstr "Lethbridge marka"
 
 #: recursos/0canada/datos/0canada.py:63 recursos/0canada/datos/levels.py:82
-#, fuzzy
 msgid "Montreal"
 msgstr "Montreal marka"
 
@@ -6953,7 +6950,6 @@ msgid "Lake Reindeer"
 msgstr "Reindeer quta"
 
 #: recursos/0canada/datos/0canada.py:89 recursos/0canada/datos/levels.py:114
-#, fuzzy
 msgid "St. Lawrence River"
 msgstr "San Lorenzo jawira"
 
@@ -6970,7 +6966,6 @@ msgid "Lake Ontario"
 msgstr "Ontario"
 
 #: recursos/0canada/datos/0canada.py:99 recursos/0canada/datos/levels.py:124
-#, fuzzy
 msgid "Chukchi Sea"
 msgstr "Chukci lamara quta"
 
@@ -10941,7 +10936,6 @@ msgid "Quetzal"
 msgstr "Quetzal marka"
 
 #: recursos/0guatemala/datos/levels.py:114
-#, fuzzy
 msgid "Is in the center "
 msgstr "Taypinkiwa "
 
@@ -12830,7 +12824,6 @@ msgid "Gulf of Tehuantepec"
 msgstr "Tehuantepec jach'a lamara quta wit'upata"
 
 #: recursos/0mexico/datos/0mexico.py:129 recursos/0mexico/datos/levels.py:173
-#, fuzzy
 msgid "Gulf of México"
 msgstr "México jach'a lamara quta wit'u"
 
@@ -13852,7 +13845,6 @@ msgstr "Bahia Negra lamara quta laka marka"
 
 #: recursos/0paraguay/datos/0paraguay.py:72
 #: recursos/0paraguay/datos/levels.py:101
-#, fuzzy
 msgid "Puerto Casado"
 msgstr "Puerto Deseado lamara quta laka marka"
 
@@ -14030,7 +14022,6 @@ msgid "Ancash"
 msgstr "Ancash marka"
 
 #: recursos/0peru/datos/0peru.py:17 recursos/0peru/datos/levels.py:20
-#, fuzzy
 msgid "Huanuco"
 msgstr "Huánuco marka"
 
@@ -14049,9 +14040,8 @@ msgid "Madre de Dios"
 msgstr "Madre de Dios marka"
 
 #: recursos/0peru/datos/0peru.py:23 recursos/0peru/datos/levels.py:26
-#, fuzzy
 msgid "Cuzco"
-msgstr "Cusco marka"
+msgstr "Cuzco marka"
 
 #: recursos/0peru/datos/0peru.py:24 recursos/0peru/datos/0peru.py:53
 #: recursos/0peru/datos/levels.py:27 recursos/0peru/datos/levels.py:58
@@ -14147,7 +14137,6 @@ msgid "Bagua"
 msgstr "Bagua marka"
 
 #: recursos/0peru/datos/0peru.py:69 recursos/0peru/datos/levels.py:105
-#, fuzzy
 msgid "Barranca"
 msgstr "Barranco marka"
 
@@ -14727,7 +14716,6 @@ msgid "Guánica"
 msgstr "Guánica marka"
 
 #: recursos/0prico/datos/0prico.py:149 recursos/0prico/datos/levels.py:201
-#, fuzzy
 msgid "La Plaza"
 msgstr "La Plata marka"
 
@@ -14784,9 +14772,8 @@ msgid "Río de la Plata River"
 msgstr "Qullqi jawira"
 
 #: recursos/0prico/datos/0prico.py:168 recursos/0prico/datos/levels.py:226
-#, fuzzy
 msgid "Bayamón River"
-msgstr "Marañón jawira"
+msgstr "Bayamón jawira"
 
 #: recursos/0prico/datos/0prico.py:169 recursos/0prico/datos/levels.py:227
 msgid "Lake Grande"
@@ -15437,7 +15424,6 @@ msgstr "San Fernando marka"
 
 #: recursos/0tytobago/datos/0tytobago.py:49
 #: recursos/0tytobago/datos/levels.py:54
-#, fuzzy
 msgid "San Francique"
 msgstr "San Francisco marka"
 
@@ -16244,7 +16230,6 @@ msgstr "Taypiru"
 
 #: recursos/0uruguay/datos/levels.py:88 recursos/0uruguay/datos/levels.py:107
 #: recursos/0uruguay/datos/levels.py:140
-#, fuzzy
 msgid "Rio Negro"
 msgstr "Ch'amaka jawira"
 
