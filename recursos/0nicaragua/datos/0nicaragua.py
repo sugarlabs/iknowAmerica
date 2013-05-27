@@ -140,7 +140,7 @@ STATS = [
     ('', _('recognized: %s') % _('8 of april of 1826')),
     (_('Area:'), _('129.494 km² (97th)')),
     (_('Population:'), _('5.465.100 (108th)')),
-    (_('GDP:'), _('USD 18.533 billion (123th)')),
+    (_('GDP:'), _('USD 7.828 billion (138th)')),
     (_('HDI:'), _('Medium - 0,565 (115th)')),
     (_('Currency:'), _('Córdoba'))
 ]

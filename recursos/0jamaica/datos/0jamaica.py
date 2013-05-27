@@ -96,7 +96,7 @@ STATS = [
     ('', _('6 of august of 1962')),
     (_('Area:'), _('10.991 km² (166th)')),
     (_('Population:'), _('2.735.520 (131st)')),
-    (_('GDP:'), _('USD 11.690 billion (131st)')),
+    (_('GDP:'), _('USD 15.262 billion (116th)')),
     (_('HDI:'), _('High - 0,688 (80th)')),
     (_('Currency:'), _('Jamaican dollar'))
 ]

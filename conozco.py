@@ -31,6 +31,7 @@ import time
 import imp
 import gettext
 import ConfigParser
+from gettext import gettext as _
 
 gtk_present = True
 try:

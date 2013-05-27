@@ -120,14 +120,14 @@ STATS = [
     (_('Capital:'), _('Caracas') + _("(10º30' N - 66º58' W)")),
     (_('Language:'), _('Spanish')),
     (_('Government:'), _('Federal republic')),
-    (_('President:'), _('Hugo Chávez Frías')),
-    (_('Vice President:'), _('Elías Jaua Milano')),
+    (_('President:'), _('Nicolás Maduro')),
+    (_('Vice President:'), _('Jorge Arreaza')),
     (_('Independence:'), _('from Spain')),
     ('', _('declared: %s') % _('5 of july of 1811')),
     ('', _('recognized: %s') % _('30 of march of 1845')),
     (_('Area:'), _('916.445 km² (33th)')),
     (_('Population:'), _('28.892.735 (41th)')),
-    (_('GDP:'), _('USD 350.276 billion (31th)')),
+    (_('GDP:'), _('USD 337.979 billion (33th)')),
     (_('HDI:'), _('High - 0,696 (75th)')),
     (_('Currency:'), _('Bolívar'))
 ]

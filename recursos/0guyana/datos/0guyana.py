@@ -89,7 +89,7 @@ STATS = [
     ('', _('26 of may of 1966')),
     (_('Area:'), _('214.970 km² (81th)')),
     (_('Population:'), _('784.894 (161th)')),
-    (_('GDP:'), _('USD 3.082 billion (158th)')),
+    (_('GDP:'), _('USD 2.788 billion (158th)')),
     (_('HDI:'), _('Medium - 0,611 (104th)')),
     (_('Currency:'), _('Guyanese dollar'))
 ]

@@ -133,7 +133,7 @@ STATS = [
     ('', _('recognized: %s') % _('11 of december of 1825')),
     (_('Area:'), _('112.492 km² (102th)')),
     (_('Population:'), _('8.144.000 (93th)')),
-    (_('GDP:'), _('USD 35.173 billion (98th)')),
+    (_('GDP:'), _('USD 18.18 billion (108th)')),
     (_('HDI:'), _('Medium - 0,604 (106th)')),
     (_('Currency:'), _('Lempira'))
 ]

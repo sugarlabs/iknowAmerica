@@ -106,7 +106,7 @@ STATS = [
     ('', _('recognized: %s') % _('12 of june of 1824')),
     (_('Area:'), _('21.041 km² (152th)')),
     (_('Population:'), _('5.744.113 (97th)')),
-    (_('GDP:'), _('USD 11.145 billion (88th)')),
+    (_('GDP:'), _('USD 23.985 billion (99th)')),
     (_('HDI:'), _('Medium - 0,659 (90th)')),
     (_('Currency:'), _('United States Dollar'))
 ]

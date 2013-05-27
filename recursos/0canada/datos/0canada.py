@@ -118,7 +118,7 @@ STATS = [
     ('', _('recognized: %s') % _('11 of december of 1931')),
     (_('Area:'), _('9.984.670 km² (2nd)')),
     (_('Population:'), _('34.124.781 (37th)')),
-    (_('GPD:'), _('USD 1.996.753 billion (13th)')),
+    (_('GPD:'), _('USD 1770.084 billion (11st)')),
     (_('HDI:'), _('Very high - 0,888 (8th)')),
     (_('Currency:'), _('Canadian dollar'))
 ]

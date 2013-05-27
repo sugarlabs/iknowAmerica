@@ -83,7 +83,7 @@ STATS = [
     ('', _('25 of november of 1975')),
     (_('Area:'), _('163.820 km² (91th)')),
     (_('Population:'), _('542.000 (171th)')),
-    (_('GDP:'), _('USD 2.812 billion (161th)')),
+    (_('GDP:'), _('USD 5.094 billion (147th)')),
     (_('HDI:'), _('Medium - 0,646 (94th)')),
     (_('Currency:'), _('Surinamese dollar'))
 ]

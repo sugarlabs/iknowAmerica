@@ -187,8 +187,8 @@ STATS = [
     ('', _('recognized: %s') % _('28 of august of 1828')),
     (_('Area:'), _('176.215 km² (90th)')),
     (_('Population:'), _('3.424.595 (128th)')),
-    (_('GDP:'), _('USD 51.209 billion (86th)')),
-    (_('HDI:'), _('High - 0,765 (52th)')),
+    (_('GDP:'), _('USD 49.716 billion (78th)')),
+    (_('HDI:'), _('High - 0,792 (51st)')),
     (_('Currency:'), _('Peso'))
 ]
 

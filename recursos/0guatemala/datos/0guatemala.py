@@ -162,7 +162,7 @@ STATS = [
     ('', _('recognized: %s') % _('11 of october of 1825')),
     (_('Area:'), _('108.889 km² (106th)')),
     (_('Population:'), _('13.718.000 (67th)')),
-    (_('GDP:'), _('USD 73.022 billion (79th)')),
+    (_('GDP:'), _('USD 50.296 billion (77th)')),
     (_('HDI:'), _('Medium - 0,560 (116th)')),
     (_('Currency:'), _('Quetzal'))
 ]

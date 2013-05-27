@@ -96,7 +96,7 @@ STATS = [
     (_('from Colombia:'), _('3 of november of 1903')),
     (_('Area:'), _('78.200 km² (118th)')),
     (_('Population:'), _('3.405.813 (129th)')),
-    (_('GDP:'), _('USD 48.804 billion (85th)')),
+    (_('GDP:'), _('USD 34.819 billion (89th)')),
     (_('HDI:'), _('High - 0,755 (54th)')),
     (_('Currency:'), _('Balboa'))
 ]

@@ -141,13 +141,13 @@ STATS = [
     (_('Language:'), _('Spanish')),
     (_('Government:'), _('Presidential republic')),
     (_('President:'), _('Rafael Correa')),
-    (_('Vice President:'), _('Lenín Moreno')),
+    (_('Vice President:'), _('Jorge Glas')),
     (_('Independence:'), _('from Spain')),
     ('', _('24 of may of 1822')),
     ('', _('of Colombia: 13 may of 1830')),
     (_('Area:'), _('256.370 km² (71th)')),
     (_('Population:'), _('14.306.876 (--th)')),
-    (_('GDP:'), _('USD 119.827 billion (--th)')),
+    (_('GDP:'), _('USD 70.836 billion (67th)')),
     (_('HDI:'), _('High - 0,695 (77th)')),
     (_('Currency:'), _('United States Dollar'))
 ]

@@ -108,14 +108,14 @@ STATS = [
     (_('Capital:'), _('Asunción') + _("(25º16' S - 57º40' W)")),
     (_('Language:'), _('Spanish') + ' , ' + _('Guaraní')),
     (_('Government:'), _('Presidential republic')),
-    (_('President:'), _('Fernando Lugo')),
-    (_('Vice President:'), _('Federico Franco')),
+    (_('President:'), _('Federico Franco')),
+    (_('Vice President:'), _('Óscar Denis Sánchez')),
     (_('Independence:'), _('from Spain')),
     ('', _('declared: %s') % _('15 of may of 1811')),
     ('', _('recognized: %s') % _('10 of september of 1880')),
     (_('Area:'), _('406.752 km² (59th)')),
     (_('Population:'), _('6.459.000 (103th)')),
-    (_('GDP:'), _('USD 30.943 billion (102th)')),
+    (_('GDP:'), _('USD 26.089billion (96th)')),
     (_('HDI:'), _('Medium - 0,640 (96th)')),
     (_('Currency:'), _('Guaraní'))
 ]

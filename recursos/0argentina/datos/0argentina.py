@@ -118,7 +118,7 @@ STATS = [
     ('', _('recognized: %s') % ('21 of september of 1863')),
     (_('Area:'), _('2.780.400 km² (8th)')),
     (_('Population:'), _('40.091.359 (32nd)')),
-    (_('GDP:'), _('USD 642.402 billion (22nd)')),
+    (_('GDP:'), _('USD 474.812 billion (25th)')),
     (_('HDI:'), _('High - 0,775 (46th)')),
     (_('Currency:'), _('Peso'))
 ]
