@@ -6,8 +6,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-12-11 00:31-0500\n"
-"PO-Revision-Date: 2012-12-12 14:57+0200\n"
+"POT-Creation-Date: 2013-05-28 00:32-0400\n"
+"PO-Revision-Date: 2013-06-07 18:45+0200\n"
 "Last-Translator: lite <litekok@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: zh_CN\n"
@@ -27,54 +27,54 @@ msgstr "走遍美洲"
 msgid "Game about the geography of America"
 msgstr "关于美洲地理的游戏"
 
-#: conozco.py:246 conozco.py:361 conozco.py:385 conozco.py:441 conozco.py:525
+#: conozco.py:247 conozco.py:362 conozco.py:386 conozco.py:442 conozco.py:526
 #, python-format
 msgid "Cannot open %s"
 msgstr "无法打开 %s"
 
-#: conozco.py:475
+#: conozco.py:476
 #, python-format
 msgid ""
 "the city of\n"
 "%s"
 msgstr "%s 市"
 
-#: conozco.py:478
+#: conozco.py:479
 #, python-format
 msgid ""
 "the department of\n"
 "%s"
 msgstr "%s 省"
 
-#: conozco.py:481
+#: conozco.py:482
 #, python-format
 msgid ""
 "the province of\n"
 "%s"
 msgstr "%s 省"
 
-#: conozco.py:484
+#: conozco.py:485
 #, python-format
 msgid ""
 "the district of\n"
 "%s"
 msgstr "%s 区"
 
-#: conozco.py:487
+#: conozco.py:488
 #, python-format
 msgid ""
 "the state of\n"
 "%s"
 msgstr "%s 州"
 
-#: conozco.py:490
+#: conozco.py:491
 #, python-format
 msgid ""
 "the region of\n"
 "%s"
 msgstr "%s 地区"
 
-#: conozco.py:493 recursos/0sanvicenteyg/datos/levels.py:11
+#: conozco.py:494 recursos/0sanvicenteyg/datos/levels.py:11
 #: recursos/0sanvicenteyg/datos/levels.py:12
 #: recursos/0sanvicenteyg/datos/levels.py:13
 #: recursos/0sanvicenteyg/datos/levels.py:14
@@ -85,21 +85,21 @@ msgid ""
 "%s"
 msgstr "%s 教区"
 
-#: conozco.py:496
+#: conozco.py:497
 #, python-format
 msgid ""
 "the taluka of\n"
 "%s"
 msgstr "%s 乡"
 
-#: conozco.py:499
+#: conozco.py:500
 #, python-format
 msgid ""
 "the municipality of\n"
 "%s"
 msgstr "%s 市镇"
 
-#: conozco.py:502 recursos/0adelnorte/datos/levels.py:15
+#: conozco.py:503 recursos/0adelnorte/datos/levels.py:15
 #: recursos/0adelnorte/datos/levels.py:16
 #: recursos/0adelnorte/datos/levels.py:17
 #: recursos/0adelnorte/datos/levels.py:18
@@ -125,65 +125,65 @@ msgstr "%s 市镇"
 msgid "the %s"
 msgstr "%s"
 
-#: conozco.py:505
+#: conozco.py:506
 #, python-format
 msgid "the %(route)s"
 msgstr "%(route)s"
 
-#: conozco.py:563
+#: conozco.py:564
 #, python-format
 msgid "About %s"
 msgstr "关于 %s"
 
-#: conozco.py:577
+#: conozco.py:578
 msgid "Press any key to return"
 msgstr "按任意键返回"
 
-#: conozco.py:608
+#: conozco.py:609
 msgid "You have chosen the map "
 msgstr "你选择了地图 "
 
-#: conozco.py:614
+#: conozco.py:615
 msgid "Play"
 msgstr "开始游戏"
 
-#: conozco.py:630
+#: conozco.py:631
 msgid "Explore"
 msgstr "探险"
 
-#: conozco.py:650 conozco.py:794
+#: conozco.py:651 conozco.py:795
 msgid "About this game"
 msgstr "关于本游戏"
 
-#: conozco.py:658
+#: conozco.py:659
 msgid "Return"
 msgstr "返回"
 
-#: conozco.py:715
+#: conozco.py:716
 msgid "Choose the map to use"
 msgstr "选择要使用的地图"
 
-#: conozco.py:735
+#: conozco.py:736
 msgid "Previous page"
 msgstr "上一页"
 
-#: conozco.py:780
+#: conozco.py:781
 msgid "Next page"
 msgstr "下一页"
 
-#: conozco.py:801
+#: conozco.py:802
 msgid "Exit"
 msgstr "退出"
 
-#: conozco.py:1275 conozco.py:1473
+#: conozco.py:1276 conozco.py:1474
 msgid "End"
 msgstr "结束"
 
-#: conozco.py:1286
+#: conozco.py:1287
 msgid "Show all"
 msgstr "显示全部"
 
-#: conozco.py:1728 conozco.py:1840 conozco.py:1921
+#: conozco.py:1729 conozco.py:1841 conozco.py:1922
 msgid "Press any key to skip"
 msgstr "按任意键跳过"
 
@@ -5595,8 +5595,8 @@ msgid "GDP:"
 msgstr "国内生产总值："
 
 #: recursos/0argentina/datos/0argentina.py:121
-msgid "USD 642.402 billion (22nd)"
-msgstr "6,424.02亿美元（第22名）"
+msgid "USD 474.812 billion (25th)"
+msgstr "4748.12亿美元（第25名）"
 
 #: recursos/0argentina/datos/0argentina.py:122
 #: recursos/0belice/datos/0belice.py:105
@@ -6063,8 +6063,8 @@ msgid "372.000 (170th)"
 msgstr "372,000 (第170名)"
 
 #: recursos/0belice/datos/0belice.py:104
-msgid "USD 2.046 billion (166th)"
-msgstr "20.46亿美元（第166名）"
+msgid "USD 1.52 billions (167th)"
+msgstr "15.2 亿美元（第167名）"
 
 #: recursos/0belice/datos/0belice.py:105
 msgid "High - 0,694 (78th)"
@@ -6411,8 +6411,8 @@ msgid "10.426.160 (87th)"
 msgstr "10,426,160 (第87名)"
 
 #: recursos/0bolivia/datos/0bolivia.py:112
-msgid "USD 47.980 billion (87th)"
-msgstr "479.80亿美元（第87名）"
+msgid "USD 26.749 billion (94th)"
+msgstr "267.49亿美元（第94名）"
 
 #: recursos/0bolivia/datos/0bolivia.py:113
 msgid "Medium - 0,643 (95th)"
@@ -6782,8 +6782,8 @@ msgid "190.732.694 (5th)"
 msgstr "190,732,694 (第5名)"
 
 #: recursos/0brasil/datos/0brasil.py:148
-msgid "USD 2.172 trillion (5th)"
-msgstr "2.172万亿美元（第5名）"
+msgid "USD 2425.052 billion (7th)"
+msgstr "24250.52亿美元（第7名）"
 
 #: recursos/0brasil/datos/0brasil.py:149
 msgid "High - 0,699 (73th)"
@@ -7010,8 +7010,8 @@ msgid "GPD:"
 msgstr "国内生产总值："
 
 #: recursos/0canada/datos/0canada.py:121
-msgid "USD 1.996.753 billion (13th)"
-msgstr "19,967.53亿美元（第13名）"
+msgid "USD 1770.084 billion (11st)"
+msgstr "17700.84 亿美元 (第11名)"
 
 #: recursos/0canada/datos/0canada.py:122
 msgid "Very high - 0,888 (8th)"
@@ -7127,8 +7127,8 @@ msgid "17.248.450 (59th)"
 msgstr "17,248,450 (第59名)"
 
 #: recursos/0chile/datos/0chile.py:55
-msgid "USD 276.338 billion (43rd)"
-msgstr "2,763.38亿美元（第43名）"
+msgid "USD 268.278 billion (37th)"
+msgstr "2682.78亿美元（第37名）"
 
 #: recursos/0chile/datos/0chile.py:56
 msgid "High - 0,783 (45th)"
@@ -7687,8 +7687,8 @@ msgid "45.925.397 (28th)"
 msgstr "45,925,397 (第28名)"
 
 #: recursos/0colombia/datos/0colombia.py:145
-msgid "USD 404.995 billion (27th)"
-msgstr "4,049.95亿美元（第27名）"
+msgid "USD 365.402 billion (31st)"
+msgstr "3654.02亿美元(第31名)"
 
 #: recursos/0colombia/datos/0colombia.py:146
 msgid "High - 0,689 (79th)"
@@ -8263,8 +8263,8 @@ msgid "(9º56'N - 84º5'W)"
 msgstr "(9º56'北 - 84º5'西)"
 
 #: recursos/0costarica/datos/0costarica.py:151
-msgid "Laura Chinchilla Miranda"
-msgstr "劳拉钦奇利亚米兰达"
+msgid "Esteban Vixx"
+msgstr "Esteban Vixx"
 
 #: recursos/0costarica/datos/0costarica.py:152
 msgid "Alfio Piva Mesén"
@@ -8291,8 +8291,8 @@ msgid "4.615.518 (115th)"
 msgstr "4,615,518 (第115名)"
 
 #: recursos/0costarica/datos/0costarica.py:158
-msgid "USD 52.885 billion (84th)"
-msgstr "528.85亿美元（第84名）"
+msgid "USD 44.884 billion (80th)"
+msgstr "448.84亿美元（第80名）"
 
 #: recursos/0costarica/datos/0costarica.py:159
 msgid "High - 0,725 (62th)"
@@ -8931,12 +8931,12 @@ msgid "(18º28' N - 69º54' W)"
 msgstr "(18º28' 北 - 69º54' 西)"
 
 #: recursos/0dominicana/datos/0dominicana.py:116
-msgid "Leonel Fernández"
-msgstr "莱昂内尔·费尔南德斯"
+msgid "Danilo Medina"
+msgstr "达尼洛·梅迪纳"
 
 #: recursos/0dominicana/datos/0dominicana.py:117
-msgid "Rafael Alburquerque"
-msgstr "拉斐尔·阿尔布克"
+msgid "Margarita Cedeño"
+msgstr "玛格丽塔·塞德尼奥"
 
 #: recursos/0dominicana/datos/0dominicana.py:118
 msgid "1844 (of Haiti)"
@@ -8955,8 +8955,8 @@ msgid "10.090.000 (80th)"
 msgstr "10,090,000 (第80名)"
 
 #: recursos/0dominicana/datos/0dominicana.py:122
-msgid "USD 93.095 billion (71th)"
-msgstr "930.95亿美元（第71名）"
+msgid "USD 59.133 billion (69th)"
+msgstr "591.33亿美元（第69名）"
 
 #: recursos/0dominicana/datos/0dominicana.py:123
 msgid "Medium - 0,783 (88th)"
@@ -9475,8 +9475,8 @@ msgid "Rafael Correa"
 msgstr "拉斐尔·科雷亚"
 
 #: recursos/0ecuador/datos/0ecuador.py:144
-msgid "Lenín Moreno"
-msgstr "列宁·莫雷诺"
+msgid "Jorge Glas"
+msgstr "Jorge Glas"
 
 #: recursos/0ecuador/datos/0ecuador.py:146
 msgid "24 of may of 1822"
@@ -9495,8 +9495,8 @@ msgid "14.306.876 (--th)"
 msgstr "14,306,876 (第?名)"
 
 #: recursos/0ecuador/datos/0ecuador.py:150
-msgid "USD 119.827 billion (--th)"
-msgstr "1,198.27亿美元（第?名）"
+msgid "USD 70.836 billion (67th)"
+msgstr "708.36亿美元（第67名）"
 
 #: recursos/0ecuador/datos/0ecuador.py:151
 msgid "High - 0,695 (77th)"
@@ -9857,8 +9857,8 @@ msgid "5.744.113 (97th)"
 msgstr "5,744,113 (第97名)"
 
 #: recursos/0elsalvador/datos/0elsalvador.py:109
-msgid "USD 11.145 billion (88th)"
-msgstr "111.45亿美元（第88名）"
+msgid "USD 23.985 billion (99th)"
+msgstr " 239.85亿美元（第99名）"
 
 #: recursos/0elsalvador/datos/0elsalvador.py:110
 msgid "Medium - 0,659 (90th)"
@@ -10346,8 +10346,8 @@ msgid "308.745.538 (3rd)"
 msgstr "308,745,538 (第3名)"
 
 #: recursos/0eunidos/datos/0eunidos.py:187
-msgid "USD 14.204.322 billion (1st)"
-msgstr "142,043.22亿美元（第1名）"
+msgid "USD 15653.366 billion (1st)"
+msgstr "156533.66亿美元（第1名）"
 
 #: recursos/0eunidos/datos/0eunidos.py:188
 msgid "Muy High - 0,902 (4th)"
@@ -10906,8 +10906,8 @@ msgid "13.718.000 (67th)"
 msgstr "13,718,000 (第67名)"
 
 #: recursos/0guatemala/datos/0guatemala.py:165
-msgid "USD 73.022 billion (79th)"
-msgstr "730.22亿美元（第79名）"
+msgid "USD 50.296 billion (77th)"
+msgstr "502.96亿美元（第77名）"
 
 #: recursos/0guatemala/datos/0guatemala.py:166
 msgid "Medium - 0,560 (116th)"
@@ -11407,8 +11407,8 @@ msgid "784.894 (161th)"
 msgstr "784,894(第161名)"
 
 #: recursos/0guyana/datos/0guyana.py:92
-msgid "USD 3.082 billion (158th)"
-msgstr "30.82亿美元（第158名）"
+msgid "USD 2.788 billion (158th)"
+msgstr " 27.88亿美元（第158名）"
 
 #: recursos/0guyana/datos/0guyana.py:93
 msgid "Medium - 0,611 (104th)"
@@ -11718,8 +11718,8 @@ msgid "Prime Minister:"
 msgstr "总理："
 
 #: recursos/0haiti/datos/0haiti.py:103
-msgid "Jean-Max Bellerive"
-msgstr "让·马克斯·贝勒里夫"
+msgid "Laurent Lamothe"
+msgstr "洛朗·拉莫特"
 
 #: recursos/0haiti/datos/0haiti.py:105
 msgid "1 of january of 1804"
@@ -11734,8 +11734,8 @@ msgid "9.800.000 (90th)"
 msgstr "9,800,000 (第90名)"
 
 #: recursos/0haiti/datos/0haiti.py:108
-msgid "USD 11.056 billion (138th)"
-msgstr "110.56亿美元（第138名）"
+msgid "USD 7.895 billion (137th)"
+msgstr "78.95亿美元（第137名）"
 
 #: recursos/0haiti/datos/0haiti.py:109
 msgid "Low - 0,404 (145th)"
@@ -12174,8 +12174,8 @@ msgid "8.144.000 (93th)"
 msgstr "8,144,000 (第93名)"
 
 #: recursos/0honduras/datos/0honduras.py:136
-msgid "USD 35.173 billion (98th)"
-msgstr "351.73亿美元（第98名）"
+msgid "USD 18.18 billion (108th)"
+msgstr "181.8亿美元（第108名）"
 
 #: recursos/0honduras/datos/0honduras.py:137
 msgid "Medium - 0,604 (106th)"
@@ -12470,8 +12470,8 @@ msgid "2.735.520 (131st)"
 msgstr "2,735,520 (第131名)"
 
 #: recursos/0jamaica/datos/0jamaica.py:99
-msgid "USD 11.690 billion (131st)"
-msgstr "116.90亿美元（第131名）"
+msgid "USD 15.262 billion (116th)"
+msgstr "152.62亿美元（第116名）"
 
 #: recursos/0jamaica/datos/0jamaica.py:100
 msgid "High - 0,688 (80th)"
@@ -12819,8 +12819,8 @@ msgid "Federal republic"
 msgstr "联邦共和国"
 
 #: recursos/0mexico/datos/0mexico.py:140
-msgid "Felipe Calderón Hinojosa"
-msgstr "费利佩·卡尔德龙·伊诺霍萨"
+msgid "Enrique Peña Nieto"
+msgstr "恩里克·佩尼亚·涅托"
 
 #: recursos/0mexico/datos/0mexico.py:142
 msgid "16 of september of 1810"
@@ -12839,8 +12839,8 @@ msgid "112.322.757 (11th)"
 msgstr "112,322,757 (第11名)"
 
 #: recursos/0mexico/datos/0mexico.py:146
-msgid "USD 1.658.197 billion (11th)"
-msgstr "16,581.97亿美元（第11名）"
+msgid "USD 1162.891 billion (14th)"
+msgstr "11628.91亿美元（第14名）"
 
 #: recursos/0mexico/datos/0mexico.py:147
 msgid "High - 0,750 (56th)"
@@ -13329,8 +13329,8 @@ msgid "5.465.100 (108th)"
 msgstr "5,465,100 (第108名)"
 
 #: recursos/0nicaragua/datos/0nicaragua.py:143
-msgid "USD 18.533 billion (123th)"
-msgstr "185.33亿美元（第123名）"
+msgid "USD 7.828 billion (138th)"
+msgstr "78.28亿美元（第138名）"
 
 #: recursos/0nicaragua/datos/0nicaragua.py:144
 msgid "Medium - 0,565 (115th)"
@@ -13588,8 +13588,8 @@ msgid "3.405.813 (129th)"
 msgstr "3,405,813 (第129名)"
 
 #: recursos/0panama/datos/0panama.py:99
-msgid "USD 48.804 billion (85th)"
-msgstr "488.04亿美元（第85名）"
+msgid "USD 34.819 billion (89th)"
+msgstr "348.19亿美元（第89名）"
 
 #: recursos/0panama/datos/0panama.py:100
 msgid "High - 0,755 (54th)"
@@ -13940,12 +13940,12 @@ msgid "Guaraní"
 msgstr "瓜拉尼"
 
 #: recursos/0paraguay/datos/0paraguay.py:111
-msgid "Fernando Lugo"
-msgstr "费尔南多·卢戈"
-
-#: recursos/0paraguay/datos/0paraguay.py:112
 msgid "Federico Franco"
 msgstr "费德里科·佛朗哥"
+
+#: recursos/0paraguay/datos/0paraguay.py:112
+msgid "Óscar Denis Sánchez"
+msgstr "奥斯卡桑切斯丹尼斯"
 
 #: recursos/0paraguay/datos/0paraguay.py:114
 msgid "15 of may of 1811"
@@ -13964,8 +13964,8 @@ msgid "6.459.000 (103th)"
 msgstr "6,459,000 (第103名)"
 
 #: recursos/0paraguay/datos/0paraguay.py:118
-msgid "USD 30.943 billion (102th)"
-msgstr "309.43亿美元（第102名）"
+msgid "USD 26.089billion (96th)"
+msgstr "260.89亿美元（第96名）"
 
 #: recursos/0paraguay/datos/0paraguay.py:119
 msgid "Medium - 0,640 (96th)"
@@ -14307,8 +14307,8 @@ msgid "Ollanta Humala Tasso"
 msgstr "奥兰塔·乌马拉·塔索"
 
 #: recursos/0peru/datos/0peru.py:138
-msgid "Oscar Valdés Dancuart"
-msgstr "奥斯卡·巴尔德斯·丹夸尔特"
+msgid "Juan Jiménez Mayor"
+msgstr "胡安·希门尼斯·马约尔"
 
 #: recursos/0peru/datos/0peru.py:140
 msgid "28 of july of 1821"
@@ -14327,8 +14327,8 @@ msgid "30.165.000 (40th)"
 msgstr "30,165,000（第40名）"
 
 #: recursos/0peru/datos/0peru.py:144
-msgid "USD 299.648 billion (41th)"
-msgstr "2,996.48亿美元（第41名）"
+msgid "USD 200.292 billion (50th)"
+msgstr "2002.92亿美元（第50名）"
 
 #: recursos/0peru/datos/0peru.py:145
 msgid "High - 0,723 (63th)"
@@ -15018,8 +15018,8 @@ msgid "100.369 (193rd)"
 msgstr "100,369 (第193位)"
 
 #: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:65
-msgid "USD 751 billion (181st)"
-msgstr "7,510亿美元（第181名）"
+msgid "USD 0.717 billion (181st)"
+msgstr "7.17亿美元（第181名）"
 
 #: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:66
 msgid "Medium - 0,791 (93rd)"
@@ -15255,8 +15255,8 @@ msgid "542.000 (171th)"
 msgstr "542,000 (第171名)"
 
 #: recursos/0surinam/datos/0surinam.py:86
-msgid "USD 2.812 billion (161th)"
-msgstr "28.12亿美元（第161名）"
+msgid "USD 5.094 billion (147th)"
+msgstr "50.94亿美元（第147名）"
 
 #: recursos/0surinam/datos/0surinam.py:87
 msgid "Medium - 0,646 (94th)"
@@ -15482,8 +15482,8 @@ msgid "Parliamentary republic"
 msgstr "议会制共和国"
 
 #: recursos/0tytobago/datos/0tytobago.py:76
-msgid "George Maxwell Richards"
-msgstr "乔治·马克斯韦尔·理查兹"
+msgid "GAnthony Carmona"
+msgstr "安东尼·卡莫纳"
 
 #: recursos/0tytobago/datos/0tytobago.py:77
 msgid "Kamla Persad-Bissessar"
@@ -15502,8 +15502,8 @@ msgid "1.299.953 (153th)"
 msgstr "1,299,953 (第153名)"
 
 #: recursos/0tytobago/datos/0tytobago.py:82
-msgid "USD 26.536 billion (115th)"
-msgstr "265.36亿美元（第115名）"
+msgid "USD 23.837 billion (100th)"
+msgstr "238.37亿美元（第161名）"
 
 #: recursos/0tytobago/datos/0tytobago.py:83
 msgid "High - 0,736 (59th)"
@@ -16117,12 +16117,12 @@ msgid "3.424.595 (128th)"
 msgstr "3,424,595（第128位）"
 
 #: recursos/0uruguay/datos/0uruguay.py:190
-msgid "USD 51.209 billion (86th)"
-msgstr "512.09亿美元（第86名）"
+msgid "USD 49.716 billion (78th)"
+msgstr "497.16 亿美元（第78名）"
 
 #: recursos/0uruguay/datos/0uruguay.py:191
-msgid "High - 0,765 (52th)"
-msgstr "高 - 0,765 (第52名)"
+msgid "High - 0,792 (51st)"
+msgstr "高 - 0,792 (第51名)"
 
 #: recursos/0uruguay/datos/explorations.py:34
 msgid "Elevations"
@@ -16613,12 +16613,12 @@ msgid "(10º30' N - 66º58' W)"
 msgstr "(西经10º30' - 西经66º58')"
 
 #: recursos/0venezuela/datos/0venezuela.py:123
-msgid "Hugo Chávez Frías"
-msgstr "乌戈·查韦斯·弗里亚斯"
+msgid "Nicolás Maduro"
+msgstr "尼古拉斯·马杜罗"
 
 #: recursos/0venezuela/datos/0venezuela.py:124
-msgid "Elías Jaua Milano"
-msgstr "埃利亚斯·豪阿·米拉诺"
+msgid "Jorge Arreaza"
+msgstr "豪尔赫・阿雷亚萨"
 
 #: recursos/0venezuela/datos/0venezuela.py:126
 msgid "5 of july of 1811"
@@ -16637,8 +16637,8 @@ msgid "28.892.735 (41th)"
 msgstr "28,892,735（第41位）"
 
 #: recursos/0venezuela/datos/0venezuela.py:130
-msgid "USD 350.276 billion (31th)"
-msgstr "3,502.76亿美元（第31名）"
+msgid "USD 337.979 billion (33th)"
+msgstr "3379.79亿美元（第33名）"
 
 #: recursos/0venezuela/datos/0venezuela.py:131
 msgid "High - 0,696 (75th)"
@@ -16821,6 +16821,78 @@ msgstr "从 freesound.org 下载的音频文件 btn117.wav 礼貌赞歌"
 #: recursos/comun/datos/commons.py:64
 msgid "Font: Share-Regular.ttf of urbanfonts.com"
 msgstr "字体：urbanfonts.com的TTF字体Share-Regular"
+
+#~ msgid "USD 642.402 billion (22nd)"
+#~ msgstr "6,424.02亿美元（第22名）"
+
+#~ msgid "USD 2.172 trillion (5th)"
+#~ msgstr "2.172万亿美元（第5名）"
+
+#~ msgid "USD 1.996.753 billion (13th)"
+#~ msgstr "19,967.53亿美元（第13名）"
+
+#~ msgid "USD 276.338 billion (43rd)"
+#~ msgstr "2,763.38亿美元（第43名）"
+
+#~ msgid "Laura Chinchilla Miranda"
+#~ msgstr "劳拉钦奇利亚米兰达"
+
+#~ msgid "Leonel Fernández"
+#~ msgstr "莱昂内尔·费尔南德斯"
+
+#~ msgid "Rafael Alburquerque"
+#~ msgstr "拉斐尔·阿尔布克"
+
+#~ msgid "USD 93.095 billion (71th)"
+#~ msgstr "930.95亿美元（第71名）"
+
+#~ msgid "Lenín Moreno"
+#~ msgstr "列宁·莫雷诺"
+
+#~ msgid "USD 119.827 billion (--th)"
+#~ msgstr "1,198.27亿美元（第?名）"
+
+#~ msgid "USD 11.145 billion (88th)"
+#~ msgstr "111.45亿美元（第88名）"
+
+#~ msgid "Jean-Max Bellerive"
+#~ msgstr "让·马克斯·贝勒里夫"
+
+#~ msgid "USD 11.690 billion (131st)"
+#~ msgstr "116.90亿美元（第131名）"
+
+#~ msgid "Felipe Calderón Hinojosa"
+#~ msgstr "费利佩·卡尔德龙·伊诺霍萨"
+
+#~ msgid "USD 18.533 billion (123th)"
+#~ msgstr "185.33亿美元（第123名）"
+
+#~ msgid "Fernando Lugo"
+#~ msgstr "费尔南多·卢戈"
+
+#~ msgid "USD 30.943 billion (102th)"
+#~ msgstr "309.43亿美元（第102名）"
+
+#~ msgid "Oscar Valdés Dancuart"
+#~ msgstr "奥斯卡·巴尔德斯·丹夸尔特"
+
+#~ msgid "George Maxwell Richards"
+#~ msgstr "乔治·马克斯韦尔·理查兹"
+
+#~ msgid "USD 26.536 billion (115th)"
+#~ msgstr "265.36亿美元（第115名）"
+
+#~ msgid "USD 51.209 billion (86th)"
+#~ msgstr "512.09亿美元（第86名）"
+
+#~ msgid "High - 0,765 (52th)"
+#~ msgstr "高 - 0,765 (第52名)"
+
+#~ msgid "Hugo Chávez Frías"
+#~ msgstr "乌戈·查韦斯·弗里亚斯"
+
+#~ msgid "Elías Jaua Milano"
+#~ msgstr "埃利亚斯·豪阿·米拉诺"
 
 #~ msgid "About I know America"
 #~ msgstr "关于“走遍美洲”"
