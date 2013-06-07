@@ -73,7 +73,7 @@ STATS = [
     (_('Capital:'), _('Port of Spain') + _("(10º40' N - 61º31' W)")),
     (_('Language:'), _('English')),
     (_('Government:'), _('Parliamentary republic')),
-    (_('President:'), _('GAnthony Carmona')),
+    (_('President:'), _('Anthony Carmona')),
     (_('Prime Minister:'), _('Kamla Persad-Bissessar')),
     (_('Independence:'), _('from United Kingdom')),
     ('', _('31 of august of 1962')),
