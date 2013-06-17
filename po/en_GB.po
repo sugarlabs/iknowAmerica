@@ -6,8 +6,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-05-28 00:32-0400\n"
-"PO-Revision-Date: 2013-06-10 17:58+0200\n"
+"POT-Creation-Date: 2013-06-08 00:31-0400\n"
+"PO-Revision-Date: 2013-06-17 06:15+0200\n"
 "Last-Translator: Chris <cjl@laptop.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: en_GB\n"
@@ -15507,8 +15507,8 @@ msgid "Parliamentary republic"
 msgstr "Parliamentary republic"
 
 #: recursos/0tytobago/datos/0tytobago.py:76
-msgid "GAnthony Carmona"
-msgstr "GAnthony Carmona"
+msgid "Anthony Carmona"
+msgstr "Anthony Carmona"
 
 #: recursos/0tytobago/datos/0tytobago.py:77
 msgid "Kamla Persad-Bissessar"
