@@ -6,8 +6,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-12-11 00:31-0500\n"
-"PO-Revision-Date: 2012-12-12 20:59+0200\n"
+"POT-Creation-Date: 2013-06-08 00:31-0400\n"
+"PO-Revision-Date: 2013-06-17 16:50+0200\n"
 "Last-Translator: whe <heppew@yahoo.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: nl\n"
@@ -27,12 +27,12 @@ msgstr "Ik ken Amerika"
 msgid "Game about the geography of America"
 msgstr "Spel over de geografie van Amerika"
 
-#: conozco.py:246 conozco.py:361 conozco.py:385 conozco.py:441 conozco.py:525
+#: conozco.py:247 conozco.py:362 conozco.py:386 conozco.py:442 conozco.py:526
 #, python-format
 msgid "Cannot open %s"
 msgstr "Kan niet openen %s"
 
-#: conozco.py:475
+#: conozco.py:476
 #, python-format
 msgid ""
 "the city of\n"
@@ -41,7 +41,7 @@ msgstr ""
 "de stad van\n"
 "%s"
 
-#: conozco.py:478
+#: conozco.py:479
 #, python-format
 msgid ""
 "the department of\n"
@@ -50,7 +50,7 @@ msgstr ""
 "het departement van\n"
 "%s"
 
-#: conozco.py:481
+#: conozco.py:482
 #, python-format
 msgid ""
 "the province of\n"
@@ -59,7 +59,7 @@ msgstr ""
 "de provincie van\n"
 "%s"
 
-#: conozco.py:484
+#: conozco.py:485
 #, python-format
 msgid ""
 "the district of\n"
@@ -68,7 +68,7 @@ msgstr ""
 "het district van\n"
 "%s"
 
-#: conozco.py:487
+#: conozco.py:488
 #, python-format
 msgid ""
 "the state of\n"
@@ -77,7 +77,7 @@ msgstr ""
 "de staat van\n"
 "%s"
 
-#: conozco.py:490
+#: conozco.py:491
 #, python-format
 msgid ""
 "the region of\n"
@@ -86,7 +86,7 @@ msgstr ""
 "de regio van\n"
 "%s"
 
-#: conozco.py:493 recursos/0sanvicenteyg/datos/levels.py:11
+#: conozco.py:494 recursos/0sanvicenteyg/datos/levels.py:11
 #: recursos/0sanvicenteyg/datos/levels.py:12
 #: recursos/0sanvicenteyg/datos/levels.py:13
 #: recursos/0sanvicenteyg/datos/levels.py:14
@@ -99,7 +99,7 @@ msgstr ""
 "de parochie van\n"
 "%s"
 
-#: conozco.py:496
+#: conozco.py:497
 #, python-format
 msgid ""
 "the taluka of\n"
@@ -108,7 +108,7 @@ msgstr ""
 "de taluka van\n"
 "%s"
 
-#: conozco.py:499
+#: conozco.py:500
 #, python-format
 msgid ""
 "the municipality of\n"
@@ -117,7 +117,7 @@ msgstr ""
 "de stad van\n"
 "%s"
 
-#: conozco.py:502 recursos/0adelnorte/datos/levels.py:15
+#: conozco.py:503 recursos/0adelnorte/datos/levels.py:15
 #: recursos/0adelnorte/datos/levels.py:16
 #: recursos/0adelnorte/datos/levels.py:17
 #: recursos/0adelnorte/datos/levels.py:18
@@ -143,65 +143,65 @@ msgstr ""
 msgid "the %s"
 msgstr "de %s"
 
-#: conozco.py:505
+#: conozco.py:506
 #, python-format
 msgid "the %(route)s"
 msgstr "de %(route)s"
 
-#: conozco.py:563
+#: conozco.py:564
 #, python-format
 msgid "About %s"
 msgstr "Over %s"
 
-#: conozco.py:577
+#: conozco.py:578
 msgid "Press any key to return"
 msgstr "Druk een willekeurige toets om terug te keren"
 
-#: conozco.py:608
+#: conozco.py:609
 msgid "You have chosen the map "
 msgstr "Je hebt gekozen de kaart "
 
-#: conozco.py:614
+#: conozco.py:615
 msgid "Play"
 msgstr "Afspelen"
 
-#: conozco.py:630
+#: conozco.py:631
 msgid "Explore"
 msgstr "Onderzoek"
 
-#: conozco.py:650 conozco.py:794
+#: conozco.py:651 conozco.py:795
 msgid "About this game"
 msgstr "Over het spel"
 
-#: conozco.py:658
+#: conozco.py:659
 msgid "Return"
 msgstr "Terugkeren"
 
-#: conozco.py:715
+#: conozco.py:716
 msgid "Choose the map to use"
 msgstr "Kies de te gebruiken kaart"
 
-#: conozco.py:735
+#: conozco.py:736
 msgid "Previous page"
 msgstr "Vorige pagina"
 
-#: conozco.py:780
+#: conozco.py:781
 msgid "Next page"
 msgstr "Volgende pagina"
 
-#: conozco.py:801
+#: conozco.py:802
 msgid "Exit"
 msgstr "Verlaat"
 
-#: conozco.py:1275 conozco.py:1473
+#: conozco.py:1276 conozco.py:1474
 msgid "End"
 msgstr "Einde"
 
-#: conozco.py:1286
+#: conozco.py:1287
 msgid "Show all"
 msgstr "Toon alles"
 
-#: conozco.py:1728 conozco.py:1840 conozco.py:1921
+#: conozco.py:1729 conozco.py:1841 conozco.py:1922
 msgid "Press any key to skip"
 msgstr "Druk een toets om over te slaan"
 
@@ -5613,8 +5613,8 @@ msgid "GDP:"
 msgstr "BNP:"
 
 #: recursos/0argentina/datos/0argentina.py:121
-msgid "USD 642.402 billion (22nd)"
-msgstr "USD 642.402 miljard (22ste)"
+msgid "USD 474.812 billion (25th)"
+msgstr "USD 474.812 miljard (25ste)"
 
 #: recursos/0argentina/datos/0argentina.py:122
 #: recursos/0belice/datos/0belice.py:105
@@ -6081,8 +6081,8 @@ msgid "372.000 (170th)"
 msgstr "372.000 (170ste)"
 
 #: recursos/0belice/datos/0belice.py:104
-msgid "USD 2.046 billion (166th)"
-msgstr "USD 2.046 miljard (166ste)"
+msgid "USD 1.52 billions (167th)"
+msgstr "USD 1.52 miljard (167ste)"
 
 #: recursos/0belice/datos/0belice.py:105
 msgid "High - 0,694 (78th)"
@@ -6429,8 +6429,8 @@ msgid "10.426.160 (87th)"
 msgstr "10.426.160 (87ste)"
 
 #: recursos/0bolivia/datos/0bolivia.py:112
-msgid "USD 47.980 billion (87th)"
-msgstr "USD 47.980 miljard (87ste)"
+msgid "USD 26.749 billion (94th)"
+msgstr "USD 26.749 miljard (94ste)"
 
 #: recursos/0bolivia/datos/0bolivia.py:113
 msgid "Medium - 0,643 (95th)"
@@ -6800,8 +6800,8 @@ msgid "190.732.694 (5th)"
 msgstr "190.732.694 (5de)"
 
 #: recursos/0brasil/datos/0brasil.py:148
-msgid "USD 2.172 trillion (5th)"
-msgstr "USD 2.172 biljoen (5de)"
+msgid "USD 2425.052 billion (7th)"
+msgstr "USD 2425.052 miljard (7de)"
 
 #: recursos/0brasil/datos/0brasil.py:149
 msgid "High - 0,699 (73th)"
@@ -7009,7 +7009,7 @@ msgstr "uit Verenigd Koninkrijk"
 
 #: recursos/0canada/datos/0canada.py:117
 msgid "1st of july of 1867"
-msgstr "1 July 1867"
+msgstr "1 july 1867"
 
 #: recursos/0canada/datos/0canada.py:118
 msgid "11 of december of 1931"
@@ -7028,8 +7028,8 @@ msgid "GPD:"
 msgstr "BNP:"
 
 #: recursos/0canada/datos/0canada.py:121
-msgid "USD 1.996.753 billion (13th)"
-msgstr "USD 1.996.753 miljard (13de)"
+msgid "USD 1770.084 billion (11st)"
+msgstr "USD 1770.084 miljard (11de)"
 
 #: recursos/0canada/datos/0canada.py:122
 msgid "Very high - 0,888 (8th)"
@@ -7145,8 +7145,8 @@ msgid "17.248.450 (59th)"
 msgstr "17.248.450 (59ste)"
 
 #: recursos/0chile/datos/0chile.py:55
-msgid "USD 276.338 billion (43rd)"
-msgstr "USD 276.338 miljard (43ste)"
+msgid "USD 268.278 billion (37th)"
+msgstr "USD 268.278 miljard (37ste)"
 
 #: recursos/0chile/datos/0chile.py:56
 msgid "High - 0,783 (45th)"
@@ -7705,8 +7705,8 @@ msgid "45.925.397 (28th)"
 msgstr "45.925.397 (28ste)"
 
 #: recursos/0colombia/datos/0colombia.py:145
-msgid "USD 404.995 billion (27th)"
-msgstr "USD 404.995 miljard (27ste)"
+msgid "USD 365.402 billion (31st)"
+msgstr "USD 365.402 miljard (31ste)"
 
 #: recursos/0colombia/datos/0colombia.py:146
 msgid "High - 0,689 (79th)"
@@ -8281,8 +8281,8 @@ msgid "(9º56'N - 84º5'W)"
 msgstr "(9º56'N - 84º5'W)"
 
 #: recursos/0costarica/datos/0costarica.py:151
-msgid "Laura Chinchilla Miranda"
-msgstr "Laura Chinchilla Miranda"
+msgid "Esteban Vixx"
+msgstr "Esteban Vixx"
 
 #: recursos/0costarica/datos/0costarica.py:152
 msgid "Alfio Piva Mesén"
@@ -8309,8 +8309,8 @@ msgid "4.615.518 (115th)"
 msgstr "4.615.518 (115de)"
 
 #: recursos/0costarica/datos/0costarica.py:158
-msgid "USD 52.885 billion (84th)"
-msgstr "USD 52.885 miljard (84ste)"
+msgid "USD 44.884 billion (80th)"
+msgstr "USD 44.884 miljard (80ste)"
 
 #: recursos/0costarica/datos/0costarica.py:159
 msgid "High - 0,725 (62th)"
@@ -8949,12 +8949,12 @@ msgid "(18º28' N - 69º54' W)"
 msgstr "(18º28' N - 69º54' W)"
 
 #: recursos/0dominicana/datos/0dominicana.py:116
-msgid "Leonel Fernández"
-msgstr "Leonel Fernández"
+msgid "Danilo Medina"
+msgstr "Danilo Medina"
 
 #: recursos/0dominicana/datos/0dominicana.py:117
-msgid "Rafael Alburquerque"
-msgstr "Rafael Alburquerque"
+msgid "Margarita Cedeño"
+msgstr "Margarita Cedeño"
 
 #: recursos/0dominicana/datos/0dominicana.py:118
 msgid "1844 (of Haiti)"
@@ -8973,8 +8973,8 @@ msgid "10.090.000 (80th)"
 msgstr "10.090.000 (80ste)"
 
 #: recursos/0dominicana/datos/0dominicana.py:122
-msgid "USD 93.095 billion (71th)"
-msgstr "USD 93.095 miljard (71ste)"
+msgid "USD 59.133 billion (69th)"
+msgstr "USD 59.133 miljard (69ste)"
 
 #: recursos/0dominicana/datos/0dominicana.py:123
 msgid "Medium - 0,783 (88th)"
@@ -9493,8 +9493,8 @@ msgid "Rafael Correa"
 msgstr "Rafael Correa"
 
 #: recursos/0ecuador/datos/0ecuador.py:144
-msgid "Lenín Moreno"
-msgstr "Lenín Moreno"
+msgid "Jorge Glas"
+msgstr "Jorge Glas"
 
 #: recursos/0ecuador/datos/0ecuador.py:146
 msgid "24 of may of 1822"
@@ -9513,8 +9513,8 @@ msgid "14.306.876 (--th)"
 msgstr "14.306.876 (--ste)"
 
 #: recursos/0ecuador/datos/0ecuador.py:150
-msgid "USD 119.827 billion (--th)"
-msgstr "USD 119.827 miljard (--ste)"
+msgid "USD 70.836 billion (67th)"
+msgstr "USD 70.836 miljard (67ste)"
 
 #: recursos/0ecuador/datos/0ecuador.py:151
 msgid "High - 0,695 (77th)"
@@ -9875,8 +9875,8 @@ msgid "5.744.113 (97th)"
 msgstr "5.744.113 (97ste)"
 
 #: recursos/0elsalvador/datos/0elsalvador.py:109
-msgid "USD 11.145 billion (88th)"
-msgstr "USD 11.145 miljard (88ste)"
+msgid "USD 23.985 billion (99th)"
+msgstr "USD 23.985 miljard (99ste)"
 
 #: recursos/0elsalvador/datos/0elsalvador.py:110
 msgid "Medium - 0,659 (90th)"
@@ -10364,8 +10364,8 @@ msgid "308.745.538 (3rd)"
 msgstr "308.745.538 (3de)"
 
 #: recursos/0eunidos/datos/0eunidos.py:187
-msgid "USD 14.204.322 billion (1st)"
-msgstr "USD 14.204.322 miljard (1ste)"
+msgid "USD 15653.366 billion (1st)"
+msgstr "USD 15653.366  miljard (1ste)"
 
 #: recursos/0eunidos/datos/0eunidos.py:188
 msgid "Muy High - 0,902 (4th)"
@@ -10924,8 +10924,8 @@ msgid "13.718.000 (67th)"
 msgstr "13.718.000 (67ste)"
 
 #: recursos/0guatemala/datos/0guatemala.py:165
-msgid "USD 73.022 billion (79th)"
-msgstr "USD 73.022 miljard (79ste)"
+msgid "USD 50.296 billion (77th)"
+msgstr "USD 50.296 miljard (77ste)"
 
 #: recursos/0guatemala/datos/0guatemala.py:166
 msgid "Medium - 0,560 (116th)"
@@ -11425,8 +11425,8 @@ msgid "784.894 (161th)"
 msgstr "784.894 (161ste)"
 
 #: recursos/0guyana/datos/0guyana.py:92
-msgid "USD 3.082 billion (158th)"
-msgstr "USD 3.082 miljard (158ste)"
+msgid "USD 2.788 billion (158th)"
+msgstr "USD 2.788 miljard (158ste)"
 
 #: recursos/0guyana/datos/0guyana.py:93
 msgid "Medium - 0,611 (104th)"
@@ -11736,8 +11736,8 @@ msgid "Prime Minister:"
 msgstr "Prime Minister:"
 
 #: recursos/0haiti/datos/0haiti.py:103
-msgid "Jean-Max Bellerive"
-msgstr "Jean-Max Bellerive"
+msgid "Laurent Lamothe"
+msgstr "Laurent Lamothe"
 
 #: recursos/0haiti/datos/0haiti.py:105
 msgid "1 of january of 1804"
@@ -11752,8 +11752,8 @@ msgid "9.800.000 (90th)"
 msgstr "9.800.000 (90ste)"
 
 #: recursos/0haiti/datos/0haiti.py:108
-msgid "USD 11.056 billion (138th)"
-msgstr "USD 11.056 miljard (138ste)"
+msgid "USD 7.895 billion (137th)"
+msgstr "USD 7.895 miljard (137ste)"
 
 #: recursos/0haiti/datos/0haiti.py:109
 msgid "Low - 0,404 (145th)"
@@ -12192,8 +12192,8 @@ msgid "8.144.000 (93th)"
 msgstr "8.144.000 (93ste)"
 
 #: recursos/0honduras/datos/0honduras.py:136
-msgid "USD 35.173 billion (98th)"
-msgstr "USD 35.173 miljard (98ste)"
+msgid "USD 18.18 billion (108th)"
+msgstr "USD 18.18 miljard (108ste)"
 
 #: recursos/0honduras/datos/0honduras.py:137
 msgid "Medium - 0,604 (106th)"
@@ -12488,8 +12488,8 @@ msgid "2.735.520 (131st)"
 msgstr "2.735.520 (131ste)"
 
 #: recursos/0jamaica/datos/0jamaica.py:99
-msgid "USD 11.690 billion (131st)"
-msgstr "USD 11.690 miljard (131ste)"
+msgid "USD 15.262 billion (116th)"
+msgstr "USD 15.262 miljard (116ste)"
 
 #: recursos/0jamaica/datos/0jamaica.py:100
 msgid "High - 0,688 (80th)"
@@ -12837,8 +12837,8 @@ msgid "Federal republic"
 msgstr "Federale republiek"
 
 #: recursos/0mexico/datos/0mexico.py:140
-msgid "Felipe Calderón Hinojosa"
-msgstr "Felipe Calderón Hinojosa"
+msgid "Enrique Peña Nieto"
+msgstr "Enrique Peña Nieto"
 
 #: recursos/0mexico/datos/0mexico.py:142
 msgid "16 of september of 1810"
@@ -12857,8 +12857,8 @@ msgid "112.322.757 (11th)"
 msgstr "112.322.757 (11de)"
 
 #: recursos/0mexico/datos/0mexico.py:146
-msgid "USD 1.658.197 billion (11th)"
-msgstr "USD 1.658.197 miljard (11de)"
+msgid "USD 1162.891 billion (14th)"
+msgstr "USD 1162.891 miljard (14de)"
 
 #: recursos/0mexico/datos/0mexico.py:147
 msgid "High - 0,750 (56th)"
@@ -13347,8 +13347,8 @@ msgid "5.465.100 (108th)"
 msgstr "5.465.100 (108ste)"
 
 #: recursos/0nicaragua/datos/0nicaragua.py:143
-msgid "USD 18.533 billion (123th)"
-msgstr "USD 18.533 miljard (123ste)"
+msgid "USD 7.828 billion (138th)"
+msgstr "USD 7.828 miljard (138ste)"
 
 #: recursos/0nicaragua/datos/0nicaragua.py:144
 msgid "Medium - 0,565 (115th)"
@@ -13606,8 +13606,8 @@ msgid "3.405.813 (129th)"
 msgstr "3.405.813 (129ste)"
 
 #: recursos/0panama/datos/0panama.py:99
-msgid "USD 48.804 billion (85th)"
-msgstr "USD 48.804 miljard (85ste)"
+msgid "USD 34.819 billion (89th)"
+msgstr "USD 34.819 miljard (89ste)"
 
 #: recursos/0panama/datos/0panama.py:100
 msgid "High - 0,755 (54th)"
@@ -13958,12 +13958,12 @@ msgid "Guaraní"
 msgstr "Guaraní"
 
 #: recursos/0paraguay/datos/0paraguay.py:111
-msgid "Fernando Lugo"
-msgstr "Fernando Lugo"
-
-#: recursos/0paraguay/datos/0paraguay.py:112
 msgid "Federico Franco"
 msgstr "Federico Franco"
+
+#: recursos/0paraguay/datos/0paraguay.py:112
+msgid "Óscar Denis Sánchez"
+msgstr "Óscar Denis Sánchez"
 
 #: recursos/0paraguay/datos/0paraguay.py:114
 msgid "15 of may of 1811"
@@ -13982,8 +13982,8 @@ msgid "6.459.000 (103th)"
 msgstr "6.459.000 (103de)"
 
 #: recursos/0paraguay/datos/0paraguay.py:118
-msgid "USD 30.943 billion (102th)"
-msgstr "USD 30.943 miljard (102de)"
+msgid "USD 26.089billion (96th)"
+msgstr "USD 26.089 miljard (96ste)"
 
 #: recursos/0paraguay/datos/0paraguay.py:119
 msgid "Medium - 0,640 (96th)"
@@ -14325,8 +14325,8 @@ msgid "Ollanta Humala Tasso"
 msgstr "Ollanta Humala Tasso"
 
 #: recursos/0peru/datos/0peru.py:138
-msgid "Oscar Valdés Dancuart"
-msgstr "Oscar Valdés Dancuart"
+msgid "Juan Jiménez Mayor"
+msgstr "Juan Jiménez Mayor"
 
 #: recursos/0peru/datos/0peru.py:140
 msgid "28 of july of 1821"
@@ -14345,8 +14345,8 @@ msgid "30.165.000 (40th)"
 msgstr "30.165.000 (40ste)"
 
 #: recursos/0peru/datos/0peru.py:144
-msgid "USD 299.648 billion (41th)"
-msgstr "USD 299.648 miljard (41ste)"
+msgid "USD 200.292 billion (50th)"
+msgstr "USD 200.292 miljard (50ste)"
 
 #: recursos/0peru/datos/0peru.py:145
 msgid "High - 0,723 (63th)"
@@ -15036,8 +15036,8 @@ msgid "100.369 (193rd)"
 msgstr "100.369 (193ste)"
 
 #: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:65
-msgid "USD 751 billion (181st)"
-msgstr "USD 751 miljard (181ste)"
+msgid "USD 0.717 billion (181st)"
+msgstr "USD 0.717 miljard (181ste)"
 
 #: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:66
 msgid "Medium - 0,791 (93rd)"
@@ -15273,8 +15273,8 @@ msgid "542.000 (171th)"
 msgstr "542.000 (171ste)"
 
 #: recursos/0surinam/datos/0surinam.py:86
-msgid "USD 2.812 billion (161th)"
-msgstr "USD 2.812 miljard (161ste)"
+msgid "USD 5.094 billion (147th)"
+msgstr "USD 5.094 miljard (147ste)"
 
 #: recursos/0surinam/datos/0surinam.py:87
 msgid "Medium - 0,646 (94th)"
@@ -15500,8 +15500,8 @@ msgid "Parliamentary republic"
 msgstr "Parlementaire republiek"
 
 #: recursos/0tytobago/datos/0tytobago.py:76
-msgid "George Maxwell Richards"
-msgstr "George Maxwell Richards"
+msgid "Anthony Carmona"
+msgstr "Anthony Carmona"
 
 #: recursos/0tytobago/datos/0tytobago.py:77
 msgid "Kamla Persad-Bissessar"
@@ -15520,8 +15520,8 @@ msgid "1.299.953 (153th)"
 msgstr "1.299.953 (153ste)"
 
 #: recursos/0tytobago/datos/0tytobago.py:82
-msgid "USD 26.536 billion (115th)"
-msgstr "USD 26.536 miljard (115de)"
+msgid "USD 23.837 billion (100th)"
+msgstr "USD 23.837 miljard (100ste)"
 
 #: recursos/0tytobago/datos/0tytobago.py:83
 msgid "High - 0,736 (59th)"
@@ -16133,12 +16133,12 @@ msgid "3.424.595 (128th)"
 msgstr "3.424.595 (128ste)"
 
 #: recursos/0uruguay/datos/0uruguay.py:190
-msgid "USD 51.209 billion (86th)"
-msgstr "USD 51.209 miljard (86ste)"
+msgid "USD 49.716 billion (78th)"
+msgstr "USD 49.716 miljard (78ste)"
 
 #: recursos/0uruguay/datos/0uruguay.py:191
-msgid "High - 0,765 (52th)"
-msgstr "Hoog - 0,765 (52ste)"
+msgid "High - 0,792 (51st)"
+msgstr "Hoog - 0,792 (51ste)"
 
 #: recursos/0uruguay/datos/explorations.py:34
 msgid "Elevations"
@@ -16629,12 +16629,12 @@ msgid "(10º30' N - 66º58' W)"
 msgstr "(10º30' N - 66º58' W)"
 
 #: recursos/0venezuela/datos/0venezuela.py:123
-msgid "Hugo Chávez Frías"
-msgstr "Hugo Chávez Frías"
+msgid "Nicolás Maduro"
+msgstr "Nicolás Maduro"
 
 #: recursos/0venezuela/datos/0venezuela.py:124
-msgid "Elías Jaua Milano"
-msgstr "Elías Jaua Milano"
+msgid "Jorge Arreaza"
+msgstr "Jorge Arreaza"
 
 #: recursos/0venezuela/datos/0venezuela.py:126
 msgid "5 of july of 1811"
@@ -16653,8 +16653,8 @@ msgid "28.892.735 (41th)"
 msgstr "28.892.735 (41ste)"
 
 #: recursos/0venezuela/datos/0venezuela.py:130
-msgid "USD 350.276 billion (31th)"
-msgstr "USD 350.276 miljard (31ste)"
+msgid "USD 337.979 billion (33th)"
+msgstr "USD 337.979 miljard (33ste)"
 
 #: recursos/0venezuela/datos/0venezuela.py:131
 msgid "High - 0,696 (75th)"
@@ -16845,6 +16845,78 @@ msgstr "Geluiden gedownload van freesound.org: btn117.wav dank aan junggle."
 #: recursos/comun/datos/commons.py:64
 msgid "Font: Share-Regular.ttf of urbanfonts.com"
 msgstr "Font: Share-Regular.ttf van urbanfonts.com"
+
+#~ msgid "USD 642.402 billion (22nd)"
+#~ msgstr "USD 642.402 miljard (22ste)"
+
+#~ msgid "USD 2.172 trillion (5th)"
+#~ msgstr "USD 2.172 biljoen (5de)"
+
+#~ msgid "USD 1.996.753 billion (13th)"
+#~ msgstr "USD 1.996.753 miljard (13de)"
+
+#~ msgid "USD 276.338 billion (43rd)"
+#~ msgstr "USD 276.338 miljard (43ste)"
+
+#~ msgid "Laura Chinchilla Miranda"
+#~ msgstr "Laura Chinchilla Miranda"
+
+#~ msgid "Leonel Fernández"
+#~ msgstr "Leonel Fernández"
+
+#~ msgid "Rafael Alburquerque"
+#~ msgstr "Rafael Alburquerque"
+
+#~ msgid "USD 93.095 billion (71th)"
+#~ msgstr "USD 93.095 miljard (71ste)"
+
+#~ msgid "Lenín Moreno"
+#~ msgstr "Lenín Moreno"
+
+#~ msgid "USD 119.827 billion (--th)"
+#~ msgstr "USD 119.827 miljard (--ste)"
+
+#~ msgid "USD 11.145 billion (88th)"
+#~ msgstr "USD 11.145 miljard (88ste)"
+
+#~ msgid "Jean-Max Bellerive"
+#~ msgstr "Jean-Max Bellerive"
+
+#~ msgid "USD 11.690 billion (131st)"
+#~ msgstr "USD 11.690 miljard (131ste)"
+
+#~ msgid "Felipe Calderón Hinojosa"
+#~ msgstr "Felipe Calderón Hinojosa"
+
+#~ msgid "USD 18.533 billion (123th)"
+#~ msgstr "USD 18.533 miljard (123ste)"
+
+#~ msgid "Fernando Lugo"
+#~ msgstr "Fernando Lugo"
+
+#~ msgid "USD 30.943 billion (102th)"
+#~ msgstr "USD 30.943 miljard (102de)"
+
+#~ msgid "Oscar Valdés Dancuart"
+#~ msgstr "Oscar Valdés Dancuart"
+
+#~ msgid "George Maxwell Richards"
+#~ msgstr "George Maxwell Richards"
+
+#~ msgid "USD 26.536 billion (115th)"
+#~ msgstr "USD 26.536 miljard (115de)"
+
+#~ msgid "USD 51.209 billion (86th)"
+#~ msgstr "USD 51.209 miljard (86ste)"
+
+#~ msgid "High - 0,765 (52th)"
+#~ msgstr "Hoog - 0,765 (52ste)"
+
+#~ msgid "Hugo Chávez Frías"
+#~ msgstr "Hugo Chávez Frías"
+
+#~ msgid "Elías Jaua Milano"
+#~ msgstr "Elías Jaua Milano"
 
 #~ msgid "About I know America"
 #~ msgstr "Over ik ken Amerika"
