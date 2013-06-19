@@ -6,9 +6,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-05-28 00:32-0400\n"
-"PO-Revision-Date: 2013-06-07 18:45+0200\n"
-"Last-Translator: lite <litekok@gmail.com>\n"
+"POT-Creation-Date: 2013-06-08 00:31-0400\n"
+"PO-Revision-Date: 2013-06-19 04:09+0200\n"
+"Last-Translator: Chris <cjl@laptop.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
@@ -9858,7 +9858,7 @@ msgstr "5,744,113 (第97名)"
 
 #: recursos/0elsalvador/datos/0elsalvador.py:109
 msgid "USD 23.985 billion (99th)"
-msgstr " 239.85亿美元（第99名）"
+msgstr "239.85亿美元（第99名）"
 
 #: recursos/0elsalvador/datos/0elsalvador.py:110
 msgid "Medium - 0,659 (90th)"
@@ -11408,7 +11408,7 @@ msgstr "784,894(第161名)"
 
 #: recursos/0guyana/datos/0guyana.py:92
 msgid "USD 2.788 billion (158th)"
-msgstr " 27.88亿美元（第158名）"
+msgstr "27.88亿美元（第158名）"
 
 #: recursos/0guyana/datos/0guyana.py:93
 msgid "Medium - 0,611 (104th)"
@@ -15482,7 +15482,7 @@ msgid "Parliamentary republic"
 msgstr "议会制共和国"
 
 #: recursos/0tytobago/datos/0tytobago.py:76
-msgid "GAnthony Carmona"
+msgid "Anthony Carmona"
 msgstr "安东尼·卡莫纳"
 
 #: recursos/0tytobago/datos/0tytobago.py:77
