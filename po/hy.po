@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-12-11 00:31-0500\n"
+"POT-Creation-Date: 2013-06-08 00:31-0400\n"
 "PO-Revision-Date: 2013-05-30 08:21+0200\n"
 "Last-Translator: Chris <cjl@laptop.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -27,12 +27,12 @@ msgstr "Ես գիտեմ Ամերիկան"
 msgid "Game about the geography of America"
 msgstr "Ամերիկայի աշխարհագրության մասին խաղ"
 
-#: conozco.py:246 conozco.py:361 conozco.py:385 conozco.py:441 conozco.py:525
+#: conozco.py:247 conozco.py:362 conozco.py:386 conozco.py:442 conozco.py:526
 #, python-format
 msgid "Cannot open %s"
 msgstr "Չի բացում %s"
 
-#: conozco.py:475
+#: conozco.py:476
 #, python-format
 msgid ""
 "the city of\n"
@@ -41,7 +41,7 @@ msgstr ""
 "%s \n"
 " -ի քաղաքը"
 
-#: conozco.py:478
+#: conozco.py:479
 #, python-format
 msgid ""
 "the department of\n"
@@ -50,7 +50,7 @@ msgstr ""
 "%s \n"
 " - ի դեպարտամենտը"
 
-#: conozco.py:481
+#: conozco.py:482
 #, python-format
 msgid ""
 "the province of\n"
@@ -59,7 +59,7 @@ msgstr ""
 "%s \n"
 " -ի գավառը"
 
-#: conozco.py:484
+#: conozco.py:485
 #, python-format
 msgid ""
 "the district of\n"
@@ -68,7 +68,7 @@ msgstr ""
 "%s \n"
 "-ի շրջանը"
 
-#: conozco.py:487
+#: conozco.py:488
 #, python-format
 msgid ""
 "the state of\n"
@@ -77,7 +77,7 @@ msgstr ""
 "%s \n"
 " -ի նահանգը"
 
-#: conozco.py:490
+#: conozco.py:491
 #, python-format
 msgid ""
 "the region of\n"
@@ -86,7 +86,7 @@ msgstr ""
 "%s \n"
 "-ի մարզը"
 
-#: conozco.py:493 recursos/0sanvicenteyg/datos/levels.py:11
+#: conozco.py:494 recursos/0sanvicenteyg/datos/levels.py:11
 #: recursos/0sanvicenteyg/datos/levels.py:12
 #: recursos/0sanvicenteyg/datos/levels.py:13
 #: recursos/0sanvicenteyg/datos/levels.py:14
@@ -99,7 +99,7 @@ msgstr ""
 "%s \n"
 "-ի ծխականը"
 
-#: conozco.py:496
+#: conozco.py:497
 #, python-format
 msgid ""
 "the taluka of\n"
@@ -108,7 +108,7 @@ msgstr ""
 "%s \n"
 " -ի վարչական բաժանումը"
 
-#: conozco.py:499
+#: conozco.py:500
 #, python-format
 msgid ""
 "the municipality of\n"
@@ -117,7 +117,7 @@ msgstr ""
 "%s \n"
 "-ի քաղաքապետարանը"
 
-#: conozco.py:502 recursos/0adelnorte/datos/levels.py:15
+#: conozco.py:503 recursos/0adelnorte/datos/levels.py:15
 #: recursos/0adelnorte/datos/levels.py:16
 #: recursos/0adelnorte/datos/levels.py:17
 #: recursos/0adelnorte/datos/levels.py:18
@@ -144,65 +144,66 @@ msgid "the %s"
 msgstr "%s"
 
 # %(route)s is a variable, do not translate
-#: conozco.py:505
+#: conozco.py:506
+#, python-format
 #, python-format, fuzzy
 msgid "the %(route)s"
 msgstr "%(route)s ներ"
 
-#: conozco.py:563
+#: conozco.py:564
 #, python-format
 msgid "About %s"
 msgstr "%s -ի մասին"
 
-#: conozco.py:577
+#: conozco.py:578
 msgid "Press any key to return"
 msgstr "Սեղմեք որևէ ստեղն, վերադառնալու համար"
 
-#: conozco.py:608
+#: conozco.py:609
 msgid "You have chosen the map "
 msgstr "Դուք ընտրել եք քարտեզը "
 
-#: conozco.py:614
+#: conozco.py:615
 msgid "Play"
 msgstr "Խաղալ"
 
-#: conozco.py:630
+#: conozco.py:631
 msgid "Explore"
 msgstr "Հետազոտել"
 
-#: conozco.py:650 conozco.py:794
+#: conozco.py:651 conozco.py:795
 msgid "About this game"
 msgstr "Այս խաղի մասին"
 
-#: conozco.py:658
+#: conozco.py:659
 msgid "Return"
 msgstr "Վերադառնալ"
 
-#: conozco.py:715
+#: conozco.py:716
 msgid "Choose the map to use"
 msgstr "Ընտրեք քարտեզը, օգտվելու համար"
 
-#: conozco.py:735
+#: conozco.py:736
 msgid "Previous page"
 msgstr "Նախորդ էջ"
 
-#: conozco.py:780
+#: conozco.py:781
 msgid "Next page"
 msgstr "Հաջորդ էջ"
 
-#: conozco.py:801
+#: conozco.py:802
 msgid "Exit"
 msgstr "Ելք"
 
-#: conozco.py:1275 conozco.py:1473
+#: conozco.py:1276 conozco.py:1474
 msgid "End"
 msgstr "Վերջ"
 
-#: conozco.py:1286
+#: conozco.py:1287
 msgid "Show all"
 msgstr "Ցուցադրել ամբողջը"
 
-#: conozco.py:1728 conozco.py:1840 conozco.py:1921
+#: conozco.py:1729 conozco.py:1841 conozco.py:1922
 msgid "Press any key to skip"
 msgstr "Սեղմեք որևէ ստեղն, բաց թողնելու համար"
 
@@ -5627,8 +5628,9 @@ msgid "GDP:"
 msgstr ""
 
 #: recursos/0argentina/datos/0argentina.py:121
-msgid "USD 642.402 billion (22nd)"
-msgstr ""
+#, fuzzy
+msgid "USD 474.812 billion (25th)"
+msgstr "350.276 բիլիոն ԱՄՆ (31րդ)"
 
 #: recursos/0argentina/datos/0argentina.py:122
 #: recursos/0belice/datos/0belice.py:105
@@ -6097,7 +6099,7 @@ msgstr ""
 
 #: recursos/0belice/datos/0belice.py:104
 #, fuzzy
-msgid "USD 2.046 billion (166th)"
+msgid "USD 1.52 billions (167th)"
 msgstr "350.276 բիլիոն ԱՄՆ (31րդ)"
 
 #: recursos/0belice/datos/0belice.py:105
@@ -6449,7 +6451,7 @@ msgstr ""
 
 #: recursos/0bolivia/datos/0bolivia.py:112
 #, fuzzy
-msgid "USD 47.980 billion (87th)"
+msgid "USD 26.749 billion (94th)"
 msgstr "350.276 բիլիոն ԱՄՆ (31րդ)"
 
 #: recursos/0bolivia/datos/0bolivia.py:113
@@ -6821,8 +6823,9 @@ msgid "190.732.694 (5th)"
 msgstr ""
 
 #: recursos/0brasil/datos/0brasil.py:148
-msgid "USD 2.172 trillion (5th)"
-msgstr ""
+#, fuzzy
+msgid "USD 2425.052 billion (7th)"
+msgstr "350.276 բիլիոն ԱՄՆ (31րդ)"
 
 #: recursos/0brasil/datos/0brasil.py:149
 #, fuzzy
@@ -7052,9 +7055,8 @@ msgid "GPD:"
 msgstr ""
 
 #: recursos/0canada/datos/0canada.py:121
-#, fuzzy
-msgid "USD 1.996.753 billion (13th)"
-msgstr "350.276 բիլիոն ԱՄՆ (31րդ)"
+msgid "USD 1770.084 billion (11st)"
+msgstr ""
 
 #: recursos/0canada/datos/0canada.py:122
 msgid "Very high - 0,888 (8th)"
@@ -7171,8 +7173,9 @@ msgid "17.248.450 (59th)"
 msgstr ""
 
 #: recursos/0chile/datos/0chile.py:55
-msgid "USD 276.338 billion (43rd)"
-msgstr ""
+#, fuzzy
+msgid "USD 268.278 billion (37th)"
+msgstr "350.276 բիլիոն ԱՄՆ (31րդ)"
 
 #: recursos/0chile/datos/0chile.py:56
 #, fuzzy
@@ -7734,9 +7737,8 @@ msgid "45.925.397 (28th)"
 msgstr ""
 
 #: recursos/0colombia/datos/0colombia.py:145
-#, fuzzy
-msgid "USD 404.995 billion (27th)"
-msgstr "350.276 բիլիոն ԱՄՆ (31րդ)"
+msgid "USD 365.402 billion (31st)"
+msgstr ""
 
 #: recursos/0colombia/datos/0colombia.py:146
 #, fuzzy
@@ -8314,7 +8316,7 @@ msgid "(9º56'N - 84º5'W)"
 msgstr ""
 
 #: recursos/0costarica/datos/0costarica.py:151
-msgid "Laura Chinchilla Miranda"
+msgid "Esteban Vixx"
 msgstr ""
 
 #: recursos/0costarica/datos/0costarica.py:152
@@ -8343,7 +8345,7 @@ msgstr ""
 
 #: recursos/0costarica/datos/0costarica.py:158
 #, fuzzy
-msgid "USD 52.885 billion (84th)"
+msgid "USD 44.884 billion (80th)"
 msgstr "350.276 բիլիոն ԱՄՆ (31րդ)"
 
 #: recursos/0costarica/datos/0costarica.py:159
@@ -8991,11 +8993,11 @@ msgid "(18º28' N - 69º54' W)"
 msgstr "(10º30' N - 66º58' W)"
 
 #: recursos/0dominicana/datos/0dominicana.py:116
-msgid "Leonel Fernández"
+msgid "Danilo Medina"
 msgstr ""
 
 #: recursos/0dominicana/datos/0dominicana.py:117
-msgid "Rafael Alburquerque"
+msgid "Margarita Cedeño"
 msgstr ""
 
 #: recursos/0dominicana/datos/0dominicana.py:118
@@ -9016,7 +9018,7 @@ msgstr ""
 
 #: recursos/0dominicana/datos/0dominicana.py:122
 #, fuzzy
-msgid "USD 93.095 billion (71th)"
+msgid "USD 59.133 billion (69th)"
 msgstr "350.276 բիլիոն ԱՄՆ (31րդ)"
 
 #: recursos/0dominicana/datos/0dominicana.py:123
@@ -9536,7 +9538,7 @@ msgid "Rafael Correa"
 msgstr ""
 
 #: recursos/0ecuador/datos/0ecuador.py:144
-msgid "Lenín Moreno"
+msgid "Jorge Glas"
 msgstr ""
 
 #: recursos/0ecuador/datos/0ecuador.py:146
@@ -9558,7 +9560,7 @@ msgstr ""
 
 #: recursos/0ecuador/datos/0ecuador.py:150
 #, fuzzy
-msgid "USD 119.827 billion (--th)"
+msgid "USD 70.836 billion (67th)"
 msgstr "350.276 բիլիոն ԱՄՆ (31րդ)"
 
 #: recursos/0ecuador/datos/0ecuador.py:151
@@ -9925,7 +9927,7 @@ msgstr ""
 
 #: recursos/0elsalvador/datos/0elsalvador.py:109
 #, fuzzy
-msgid "USD 11.145 billion (88th)"
+msgid "USD 23.985 billion (99th)"
 msgstr "350.276 բիլիոն ԱՄՆ (31րդ)"
 
 #: recursos/0elsalvador/datos/0elsalvador.py:110
@@ -10417,8 +10419,9 @@ msgid "308.745.538 (3rd)"
 msgstr ""
 
 #: recursos/0eunidos/datos/0eunidos.py:187
-msgid "USD 14.204.322 billion (1st)"
-msgstr ""
+#, fuzzy
+msgid "USD 15653.366 billion (1st)"
+msgstr "350.276 բիլիոն ԱՄՆ (31րդ)"
 
 #: recursos/0eunidos/datos/0eunidos.py:188
 msgid "Muy High - 0,902 (4th)"
@@ -10980,7 +10983,7 @@ msgstr ""
 
 #: recursos/0guatemala/datos/0guatemala.py:165
 #, fuzzy
-msgid "USD 73.022 billion (79th)"
+msgid "USD 50.296 billion (77th)"
 msgstr "350.276 բիլիոն ԱՄՆ (31րդ)"
 
 #: recursos/0guatemala/datos/0guatemala.py:166
@@ -11487,7 +11490,7 @@ msgstr ""
 
 #: recursos/0guyana/datos/0guyana.py:92
 #, fuzzy
-msgid "USD 3.082 billion (158th)"
+msgid "USD 2.788 billion (158th)"
 msgstr "350.276 բիլիոն ԱՄՆ (31րդ)"
 
 #: recursos/0guyana/datos/0guyana.py:93
@@ -11799,7 +11802,7 @@ msgid "Prime Minister:"
 msgstr ""
 
 #: recursos/0haiti/datos/0haiti.py:103
-msgid "Jean-Max Bellerive"
+msgid "Laurent Lamothe"
 msgstr ""
 
 #: recursos/0haiti/datos/0haiti.py:105
@@ -11816,7 +11819,7 @@ msgstr ""
 
 #: recursos/0haiti/datos/0haiti.py:108
 #, fuzzy
-msgid "USD 11.056 billion (138th)"
+msgid "USD 7.895 billion (137th)"
 msgstr "350.276 բիլիոն ԱՄՆ (31րդ)"
 
 #: recursos/0haiti/datos/0haiti.py:109
@@ -12259,7 +12262,7 @@ msgstr ""
 
 #: recursos/0honduras/datos/0honduras.py:136
 #, fuzzy
-msgid "USD 35.173 billion (98th)"
+msgid "USD 18.18 billion (108th)"
 msgstr "350.276 բիլիոն ԱՄՆ (31րդ)"
 
 #: recursos/0honduras/datos/0honduras.py:137
@@ -12557,7 +12560,7 @@ msgstr ""
 
 #: recursos/0jamaica/datos/0jamaica.py:99
 #, fuzzy
-msgid "USD 11.690 billion (131st)"
+msgid "USD 15.262 billion (116th)"
 msgstr "350.276 բիլիոն ԱՄՆ (31րդ)"
 
 #: recursos/0jamaica/datos/0jamaica.py:100
@@ -12908,7 +12911,7 @@ msgid "Federal republic"
 msgstr ""
 
 #: recursos/0mexico/datos/0mexico.py:140
-msgid "Felipe Calderón Hinojosa"
+msgid "Enrique Peña Nieto"
 msgstr ""
 
 #: recursos/0mexico/datos/0mexico.py:142
@@ -12929,7 +12932,7 @@ msgstr ""
 
 #: recursos/0mexico/datos/0mexico.py:146
 #, fuzzy
-msgid "USD 1.658.197 billion (11th)"
+msgid "USD 1162.891 billion (14th)"
 msgstr "350.276 բիլիոն ԱՄՆ (31րդ)"
 
 #: recursos/0mexico/datos/0mexico.py:147
@@ -13423,7 +13426,7 @@ msgstr ""
 
 #: recursos/0nicaragua/datos/0nicaragua.py:143
 #, fuzzy
-msgid "USD 18.533 billion (123th)"
+msgid "USD 7.828 billion (138th)"
 msgstr "350.276 բիլիոն ԱՄՆ (31րդ)"
 
 #: recursos/0nicaragua/datos/0nicaragua.py:144
@@ -13685,7 +13688,7 @@ msgstr ""
 
 #: recursos/0panama/datos/0panama.py:99
 #, fuzzy
-msgid "USD 48.804 billion (85th)"
+msgid "USD 34.819 billion (89th)"
 msgstr "350.276 բիլիոն ԱՄՆ (31րդ)"
 
 #: recursos/0panama/datos/0panama.py:100
@@ -14038,11 +14041,11 @@ msgid "Guaraní"
 msgstr ""
 
 #: recursos/0paraguay/datos/0paraguay.py:111
-msgid "Fernando Lugo"
+msgid "Federico Franco"
 msgstr ""
 
 #: recursos/0paraguay/datos/0paraguay.py:112
-msgid "Federico Franco"
+msgid "Óscar Denis Sánchez"
 msgstr ""
 
 #: recursos/0paraguay/datos/0paraguay.py:114
@@ -14064,7 +14067,7 @@ msgstr ""
 
 #: recursos/0paraguay/datos/0paraguay.py:118
 #, fuzzy
-msgid "USD 30.943 billion (102th)"
+msgid "USD 26.089billion (96th)"
 msgstr "350.276 բիլիոն ԱՄՆ (31րդ)"
 
 #: recursos/0paraguay/datos/0paraguay.py:119
@@ -14408,7 +14411,7 @@ msgid "Ollanta Humala Tasso"
 msgstr ""
 
 #: recursos/0peru/datos/0peru.py:138
-msgid "Oscar Valdés Dancuart"
+msgid "Juan Jiménez Mayor"
 msgstr ""
 
 #: recursos/0peru/datos/0peru.py:140
@@ -14430,7 +14433,7 @@ msgstr ""
 
 #: recursos/0peru/datos/0peru.py:144
 #, fuzzy
-msgid "USD 299.648 billion (41th)"
+msgid "USD 200.292 billion (50th)"
 msgstr "350.276 բիլիոն ԱՄՆ (31րդ)"
 
 #: recursos/0peru/datos/0peru.py:145
@@ -15127,7 +15130,7 @@ msgstr ""
 
 #: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:65
 #, fuzzy
-msgid "USD 751 billion (181st)"
+msgid "USD 0.717 billion (181st)"
 msgstr "350.276 բիլիոն ԱՄՆ (31րդ)"
 
 #: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:66
@@ -15366,7 +15369,7 @@ msgstr ""
 
 #: recursos/0surinam/datos/0surinam.py:86
 #, fuzzy
-msgid "USD 2.812 billion (161th)"
+msgid "USD 5.094 billion (147th)"
 msgstr "350.276 բիլիոն ԱՄՆ (31րդ)"
 
 #: recursos/0surinam/datos/0surinam.py:87
@@ -15595,7 +15598,7 @@ msgid "Parliamentary republic"
 msgstr ""
 
 #: recursos/0tytobago/datos/0tytobago.py:76
-msgid "George Maxwell Richards"
+msgid "Anthony Carmona"
 msgstr ""
 
 #: recursos/0tytobago/datos/0tytobago.py:77
@@ -15616,7 +15619,7 @@ msgstr ""
 
 #: recursos/0tytobago/datos/0tytobago.py:82
 #, fuzzy
-msgid "USD 26.536 billion (115th)"
+msgid "USD 23.837 billion (100th)"
 msgstr "350.276 բիլիոն ԱՄՆ (31րդ)"
 
 #: recursos/0tytobago/datos/0tytobago.py:83
@@ -16234,13 +16237,12 @@ msgstr ""
 
 #: recursos/0uruguay/datos/0uruguay.py:190
 #, fuzzy
-msgid "USD 51.209 billion (86th)"
+msgid "USD 49.716 billion (78th)"
 msgstr "350.276 բիլիոն ԱՄՆ (31րդ)"
 
 #: recursos/0uruguay/datos/0uruguay.py:191
-#, fuzzy
-msgid "High - 0,765 (52th)"
-msgstr "Բարձր - 0,696 (75րդ)"
+msgid "High - 0,792 (51st)"
+msgstr ""
 
 #: recursos/0uruguay/datos/explorations.py:34
 msgid "Elevations"
@@ -16733,12 +16735,12 @@ msgid "(10º30' N - 66º58' W)"
 msgstr "(10º30' N - 66º58' W)"
 
 #: recursos/0venezuela/datos/0venezuela.py:123
-msgid "Hugo Chávez Frías"
-msgstr "Հուգո Չավես Ֆրիաս"
+msgid "Nicolás Maduro"
+msgstr ""
 
 #: recursos/0venezuela/datos/0venezuela.py:124
-msgid "Elías Jaua Milano"
-msgstr "Էլիաս Խաուա Միլանո"
+msgid "Jorge Arreaza"
+msgstr ""
 
 #: recursos/0venezuela/datos/0venezuela.py:126
 msgid "5 of july of 1811"
@@ -16757,7 +16759,8 @@ msgid "28.892.735 (41th)"
 msgstr "28.892.735 (41րդ)"
 
 #: recursos/0venezuela/datos/0venezuela.py:130
-msgid "USD 350.276 billion (31th)"
+#, fuzzy
+msgid "USD 337.979 billion (33th)"
 msgstr "350.276 բիլիոն ԱՄՆ (31րդ)"
 
 #: recursos/0venezuela/datos/0venezuela.py:131
@@ -16953,6 +16956,52 @@ msgstr ""
 #: recursos/comun/datos/commons.py:64
 msgid "Font: Share-Regular.ttf of urbanfonts.com"
 msgstr ""
+
+#, fuzzy
+#~ msgid "USD 1.996.753 billion (13th)"
+#~ msgstr "350.276 բիլիոն ԱՄՆ (31րդ)"
+
+#, fuzzy
+#~ msgid "USD 93.095 billion (71th)"
+#~ msgstr "350.276 բիլիոն ԱՄՆ (31րդ)"
+
+#, fuzzy
+#~ msgid "USD 119.827 billion (--th)"
+#~ msgstr "350.276 բիլիոն ԱՄՆ (31րդ)"
+
+#, fuzzy
+#~ msgid "USD 11.145 billion (88th)"
+#~ msgstr "350.276 բիլիոն ԱՄՆ (31րդ)"
+
+#, fuzzy
+#~ msgid "USD 11.690 billion (131st)"
+#~ msgstr "350.276 բիլիոն ԱՄՆ (31րդ)"
+
+#, fuzzy
+#~ msgid "USD 18.533 billion (123th)"
+#~ msgstr "350.276 բիլիոն ԱՄՆ (31րդ)"
+
+#, fuzzy
+#~ msgid "USD 30.943 billion (102th)"
+#~ msgstr "350.276 բիլիոն ԱՄՆ (31րդ)"
+
+#, fuzzy
+#~ msgid "USD 26.536 billion (115th)"
+#~ msgstr "350.276 բիլիոն ԱՄՆ (31րդ)"
+
+#, fuzzy
+#~ msgid "USD 51.209 billion (86th)"
+#~ msgstr "350.276 բիլիոն ԱՄՆ (31րդ)"
+
+#, fuzzy
+#~ msgid "High - 0,765 (52th)"
+#~ msgstr "Բարձր - 0,696 (75րդ)"
+
+#~ msgid "Hugo Chávez Frías"
+#~ msgstr "Հուգո Չավես Ֆրիաս"
+
+#~ msgid "Elías Jaua Milano"
+#~ msgstr "Էլիաս Խաուա Միլանո"
 
 #~ msgid "About I know America"
 #~ msgstr "Ես գիտեմ Ամերիկայի մասին"
