@@ -7,8 +7,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-06-08 00:31-0400\n"
-"PO-Revision-Date: 2013-05-30 08:21+0200\n"
-"Last-Translator: Chris <cjl@laptop.org>\n"
+"PO-Revision-Date: 2013-07-09 21:14+0200\n"
+"Last-Translator: Jasmine <udea_jasmine@yahoo.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: hy\n"
 "MIME-Version: 1.0\n"
@@ -146,7 +146,7 @@ msgstr "%s"
 # %(route)s is a variable, do not translate
 #: conozco.py:506
 #, python-format
-#, python-format, fuzzy
+#, python-format, 
 msgid "the %(route)s"
 msgstr "%(route)s ներ"
 
@@ -732,14 +732,14 @@ msgstr "Մատագալպա"
 #: recursos/0jamaica/datos/0jamaica.py:31 recursos/0jamaica/datos/levels.py:40
 #: recursos/0jamaica/datos/levels.py:62
 msgid "Montego Bay"
-msgstr ""
+msgstr "Մոնտեգո ծովախորշ"
 
 #: recursos/0acentral/datos/0acentral.py:83
 #: recursos/0acentral/datos/levels.py:113 recursos/0cuba/datos/0cuba.py:8
 #: recursos/0cuba/datos/0cuba.py:49 recursos/0cuba/datos/levels.py:11
 #: recursos/0cuba/datos/levels.py:42 recursos/0cuba/datos/levels.py:64
 msgid "Pinar del Río"
-msgstr ""
+msgstr "Պինար Դել Ռիո"
 
 #: recursos/0acentral/datos/0acentral.py:84
 #: recursos/0acentral/datos/levels.py:114
@@ -747,7 +747,7 @@ msgstr ""
 #: recursos/0guatemala/datos/levels.py:55
 #: recursos/0guatemala/datos/levels.py:86
 msgid "Puerto Barrios"
-msgstr ""
+msgstr "Պուերտո Բառիոս"
 
 #: recursos/0acentral/datos/0acentral.py:85
 #: recursos/0acentral/datos/levels.py:115
@@ -755,14 +755,14 @@ msgstr ""
 #: recursos/0nicaragua/datos/levels.py:50
 #: recursos/0nicaragua/datos/levels.py:76
 msgid "Puerto Cabezas"
-msgstr ""
+msgstr "Պուերտո Կաբեսաս"
 
 #: recursos/0acentral/datos/0acentral.py:86
 #: recursos/0acentral/datos/levels.py:116
 #: recursos/0honduras/datos/0honduras.py:46
 #: recursos/0honduras/datos/levels.py:47 recursos/0honduras/datos/levels.py:74
 msgid "Puerto Lempira"
-msgstr ""
+msgstr "Պուերտո Լեմպիրա"
 
 #: recursos/0acentral/datos/0acentral.py:87
 #: recursos/0acentral/datos/levels.py:117
@@ -770,7 +770,7 @@ msgstr ""
 #: recursos/0costarica/datos/levels.py:32
 #: recursos/0costarica/datos/levels.py:48
 msgid "Puerto Limón"
-msgstr ""
+msgstr "Պուերտո Լիմոն"
 
 #: recursos/0acentral/datos/0acentral.py:88
 #: recursos/0acentral/datos/levels.py:118
@@ -780,14 +780,14 @@ msgstr ""
 #: recursos/0guatemala/datos/levels.py:56
 #: recursos/0guatemala/datos/levels.py:87
 msgid "Quetzaltenango"
-msgstr ""
+msgstr "Կետցալտենանգո"
 
 #: recursos/0acentral/datos/0acentral.py:89
 #: recursos/0acentral/datos/levels.py:119
 #: recursos/0honduras/datos/0honduras.py:48
 #: recursos/0honduras/datos/levels.py:49 recursos/0honduras/datos/levels.py:76
 msgid "San Pedro Sula"
-msgstr ""
+msgstr "Սան Պեդրո Սուլա"
 
 #: recursos/0acentral/datos/0acentral.py:90
 #: recursos/0acentral/datos/levels.py:120
@@ -1162,7 +1162,7 @@ msgstr "Քաղաքներ"
 #: recursos/0venezuela/datos/levels.py:129
 #: recursos/0venezuela/datos/levels.py:130
 msgid "Is west"
-msgstr "Արևմուտքն է"
+msgstr "Դեպի Արևմուտք է"
 
 #: recursos/0acentral/datos/levels.py:13 recursos/0acentral/datos/levels.py:14
 #: recursos/0acentral/datos/levels.py:15 recursos/0acentral/datos/levels.py:54
@@ -1361,7 +1361,7 @@ msgstr "Արևմուտքն է"
 #: recursos/0venezuela/datos/levels.py:115
 #: recursos/0venezuela/datos/levels.py:131
 msgid "Is southwest"
-msgstr "Հարավ-արևմուտքն է"
+msgstr "Հարավ-արևմուտքում է"
 
 #: recursos/0acentral/datos/levels.py:16 recursos/0acentral/datos/levels.py:17
 #: recursos/0acentral/datos/levels.py:60 recursos/0acentral/datos/levels.py:90
@@ -1603,7 +1603,7 @@ msgstr "Հարավ-արևմուտքն է"
 #: recursos/0venezuela/datos/levels.py:133
 #: recursos/0venezuela/datos/levels.py:134
 msgid "Is south"
-msgstr "Հարավն է"
+msgstr "Հարավում է"
 
 #: recursos/0acentral/datos/levels.py:18 recursos/0acentral/datos/levels.py:19
 #: recursos/0acentral/datos/levels.py:24 recursos/0acentral/datos/levels.py:25
@@ -1905,7 +1905,7 @@ msgstr "Հարավն է"
 #: recursos/0venezuela/datos/levels.py:144
 #: recursos/0venezuela/datos/levels.py:145
 msgid "Is northwest"
-msgstr "Հյուսիս-արևմուտքն է"
+msgstr "Հյուսիս-արևմուտքում է"
 
 #: recursos/0acentral/datos/levels.py:20 recursos/0acentral/datos/levels.py:21
 #: recursos/0acentral/datos/levels.py:34 recursos/0acentral/datos/levels.py:35
@@ -2221,7 +2221,7 @@ msgstr "Հյուսիս-արևմուտքն է"
 #: recursos/0venezuela/datos/levels.py:142
 #: recursos/0venezuela/datos/levels.py:147
 msgid "Is north"
-msgstr "Հյուսիսն է"
+msgstr "Հյուսիսում է"
 
 #: recursos/0acentral/datos/levels.py:22 recursos/0acentral/datos/levels.py:29
 #: recursos/0acentral/datos/levels.py:30 recursos/0acentral/datos/levels.py:61
