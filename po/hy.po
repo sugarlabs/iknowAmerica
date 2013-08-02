@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-06-08 00:31-0400\n"
-"PO-Revision-Date: 2013-08-01 18:59+0200\n"
+"PO-Revision-Date: 2013-08-02 16:16+0200\n"
 "Last-Translator: Jasmine <udea_jasmine@yahoo.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: hy\n"
@@ -3177,49 +3177,51 @@ msgstr "Ֆէըրբանքս"
 #: recursos/0adelnorte/datos/0adelnorte.py:61
 #: recursos/0adelnorte/datos/levels.py:59
 msgid "Fort George"
-msgstr ""
+msgstr "Ֆորտ Ջորջ"
 
 #: recursos/0adelnorte/datos/0adelnorte.py:62
 #: recursos/0adelnorte/datos/levels.py:60 recursos/0canada/datos/0canada.py:34
 #: recursos/0canada/datos/levels.py:34 recursos/0canada/datos/levels.py:56
 msgid "Fredericton"
-msgstr ""
+msgstr "Ֆրեդերիկթըն"
 
 #: recursos/0adelnorte/datos/0adelnorte.py:63
 #: recursos/0adelnorte/datos/levels.py:61 recursos/0canada/datos/0canada.py:56
 #: recursos/0canada/datos/levels.py:75
 msgid "Frobisher Bay"
-msgstr ""
+msgstr "Ֆրոբիշեր Ծովածոց"
 
 #: recursos/0adelnorte/datos/0adelnorte.py:64
 #: recursos/0adelnorte/datos/levels.py:62 recursos/0canada/datos/0canada.py:58
 #: recursos/0canada/datos/levels.py:77
 msgid "Goose Bay"
-msgstr ""
+msgstr "Սագերի Ծովածոց"
 
 #: recursos/0adelnorte/datos/0adelnorte.py:65
 #: recursos/0adelnorte/datos/levels.py:63 recursos/0mexico/datos/0mexico.py:61
 #: recursos/0mexico/datos/levels.py:61 recursos/0mexico/datos/levels.py:102
 msgid "Guadalajara"
-msgstr ""
+msgstr "Գվադալախարա"
 
 #: recursos/0adelnorte/datos/0adelnorte.py:66
 #: recursos/0adelnorte/datos/levels.py:64 recursos/0canada/datos/0canada.py:35
 #: recursos/0canada/datos/levels.py:35 recursos/0canada/datos/levels.py:57
 msgid "Halifax"
-msgstr ""
+msgstr "Հալիֆաքս"
 
+# Hay River
 #: recursos/0adelnorte/datos/0adelnorte.py:67
 #: recursos/0adelnorte/datos/levels.py:65 recursos/0canada/datos/0canada.py:60
 #: recursos/0canada/datos/levels.py:79
 msgid "Hay River"
-msgstr ""
+msgstr "Հարդի գետ"
 
+# Քաղաք Մեքսիկայում
 #: recursos/0adelnorte/datos/0adelnorte.py:68
 #: recursos/0adelnorte/datos/levels.py:66 recursos/0mexico/datos/0mexico.py:63
 #: recursos/0mexico/datos/levels.py:63 recursos/0mexico/datos/levels.py:104
 msgid "Hermosillo"
-msgstr ""
+msgstr "Հերմոսիլիո"
 
 #: recursos/0adelnorte/datos/0adelnorte.py:69
 #: recursos/0adelnorte/datos/levels.py:67
@@ -3233,40 +3235,41 @@ msgstr "Հյուստոն"
 #: recursos/0eunidos/datos/0eunidos.py:90 recursos/0eunidos/datos/levels.py:91
 #: recursos/0eunidos/datos/levels.py:149
 msgid "Indianapolis"
-msgstr ""
+msgstr "Ինդիանապոլիս"
 
 #: recursos/0adelnorte/datos/0adelnorte.py:71
 #: recursos/0adelnorte/datos/levels.py:69 recursos/0canada/datos/0canada.py:61
 #: recursos/0canada/datos/levels.py:80
 msgid "Inuvik"
-msgstr ""
+msgstr "Ինուվիկ"
 
+# Կարմրամորթների ռեզերվացիա Կանադայում
 #: recursos/0adelnorte/datos/0adelnorte.py:72
 #: recursos/0adelnorte/datos/levels.py:70
 msgid "Ivujivik"
-msgstr ""
+msgstr "Իվուջիվիկ"
 
 #: recursos/0adelnorte/datos/0adelnorte.py:73
 #: recursos/0adelnorte/datos/levels.py:71
 #: recursos/0eunidos/datos/0eunidos.py:129
 #: recursos/0eunidos/datos/levels.py:185
 msgid "Jacksonville"
-msgstr ""
+msgstr "Ջեկսոնվիլ"
 
 #: recursos/0adelnorte/datos/0adelnorte.py:74
 #: recursos/0adelnorte/datos/levels.py:72
 msgid "Kansas City"
-msgstr ""
+msgstr "Կանզաս սիթի"
 
 #: recursos/0adelnorte/datos/0adelnorte.py:75
 #: recursos/0adelnorte/datos/levels.py:73
 msgid "Kaujuitoq"
-msgstr ""
+msgstr "Կաուջիտոք"
 
 #: recursos/0adelnorte/datos/0adelnorte.py:76
 #: recursos/0adelnorte/datos/levels.py:74
 msgid "Kodiak"
-msgstr ""
+msgstr "Կոդիակ"
 
 #: recursos/0adelnorte/datos/0adelnorte.py:77
 #: recursos/0adelnorte/datos/levels.py:75
@@ -3282,7 +3285,7 @@ msgstr ""
 #: recursos/0honduras/datos/levels.py:70 recursos/0mexico/datos/0mexico.py:65
 #: recursos/0mexico/datos/levels.py:65 recursos/0mexico/datos/levels.py:106
 msgid "La Paz"
-msgstr ""
+msgstr "Լա Պաս"
 
 #: recursos/0adelnorte/datos/0adelnorte.py:78
 #: recursos/0adelnorte/datos/levels.py:76
