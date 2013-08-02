@@ -7,8 +7,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-06-08 00:31-0400\n"
-"PO-Revision-Date: 2013-07-13 01:18+0200\n"
-"Last-Translator: Chris <cjl@laptop.org>\n"
+"PO-Revision-Date: 2013-08-01 18:59+0200\n"
+"Last-Translator: Jasmine <udea_jasmine@yahoo.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: hy\n"
 "MIME-Version: 1.0\n"
@@ -146,7 +146,7 @@ msgstr "%s"
 # %(route)s is a variable, do not translate
 #: conozco.py:506
 #, python-format
-#, python-format, 
+#, python-format,
 msgid "the %(route)s"
 msgstr "%(route)s ներ"
 
@@ -2969,32 +2969,32 @@ msgstr "Բահամյան Կղզիներ"
 #: recursos/0adelnorte/datos/0adelnorte.py:21
 #: recursos/0adelnorte/datos/levels.py:15 recursos/0mexico/datos/0mexico.py:44
 msgid "Revillagigedo Islands"
-msgstr ""
+msgstr "Ռևիլիախիխեդո կղզիներ"
 
 #: recursos/0adelnorte/datos/0adelnorte.py:22
 #: recursos/0adelnorte/datos/levels.py:16 recursos/0canada/datos/0canada.py:20
 msgid "Baffin Island"
-msgstr ""
+msgstr "Բաֆին կղզի"
 
 #: recursos/0adelnorte/datos/0adelnorte.py:23
 #: recursos/0adelnorte/datos/levels.py:17 recursos/0canada/datos/0canada.py:19
 msgid "Victoria Island"
-msgstr ""
+msgstr "Վիկտորիա կղզի"
 
 #: recursos/0adelnorte/datos/0adelnorte.py:24
 #: recursos/0adelnorte/datos/levels.py:18 recursos/0canada/datos/0canada.py:18
 msgid "Banks Island"
-msgstr ""
+msgstr "Բանկս կղզի"
 
 #: recursos/0adelnorte/datos/0adelnorte.py:25
 #: recursos/0adelnorte/datos/levels.py:19 recursos/0canada/datos/0canada.py:21
 msgid "Ellesmere Island"
-msgstr ""
+msgstr "Էլեսմեր կղզի"
 
 #: recursos/0adelnorte/datos/0adelnorte.py:26
 #: recursos/0adelnorte/datos/levels.py:20
 msgid "Elizabeth Island"
-msgstr ""
+msgstr "Եղիսաբեթի կղզի"
 
 #: recursos/0adelnorte/datos/0adelnorte.py:31
 #: recursos/0adelnorte/datos/levels.py:32 recursos/0canada/datos/0canada.py:31
@@ -3028,9 +3028,8 @@ msgstr "Ալբուկերկե"
 
 #: recursos/0adelnorte/datos/0adelnorte.py:38
 #: recursos/0adelnorte/datos/levels.py:36
-#, fuzzy
 msgid "Anchorage"
-msgstr "Անքորեջ շրջան"
+msgstr "Խարսխակայան"
 
 #: recursos/0adelnorte/datos/0adelnorte.py:39
 #: recursos/0adelnorte/datos/levels.py:37
@@ -3039,15 +3038,17 @@ msgstr "Անքորեջ շրջան"
 msgid "Atlanta"
 msgstr "Ատլանտա"
 
+# Քաղաք Ալիասկայում, ԱՄՆ:
 #: recursos/0adelnorte/datos/0adelnorte.py:40
 #: recursos/0adelnorte/datos/levels.py:38
 msgid "Barrow"
-msgstr ""
+msgstr "Բարոու"
 
+# Աստվածաշնչում նշված քաղաք Երուսաղեմից ոչ հեռու: Այժմ նրա տեղում գտնվում է արաբական Բեյթել գյուղը:
 #: recursos/0adelnorte/datos/0adelnorte.py:41
 #: recursos/0adelnorte/datos/levels.py:39
 msgid "Bethel"
-msgstr ""
+msgstr "Բեթ էլ"
 
 #: recursos/0adelnorte/datos/0adelnorte.py:42
 #: recursos/0adelnorte/datos/levels.py:40
@@ -3066,7 +3067,7 @@ msgstr "Կալգարի"
 #: recursos/0adelnorte/datos/levels.py:42 recursos/0canada/datos/0canada.py:49
 #: recursos/0canada/datos/levels.py:68
 msgid "Cambridge Bay"
-msgstr ""
+msgstr "Քեմբրիջի ծովածոց"
 
 #: recursos/0adelnorte/datos/0adelnorte.py:45
 #: recursos/0adelnorte/datos/levels.py:43 recursos/0mexico/datos/0mexico.py:86
@@ -3079,13 +3080,13 @@ msgstr "Կանկուն"
 #: recursos/0eunidos/datos/0eunidos.py:78 recursos/0eunidos/datos/levels.py:79
 #: recursos/0eunidos/datos/levels.py:137
 msgid "Charleston"
-msgstr ""
+msgstr "Չարլսթոն"
 
 #: recursos/0adelnorte/datos/0adelnorte.py:47
 #: recursos/0adelnorte/datos/levels.py:45 recursos/0canada/datos/0canada.py:32
 #: recursos/0canada/datos/levels.py:32 recursos/0canada/datos/levels.py:54
 msgid "Charlottetown"
-msgstr ""
+msgstr "Չարլոտթաուն"
 
 #: recursos/0adelnorte/datos/0adelnorte.py:48
 #: recursos/0adelnorte/datos/levels.py:46
@@ -3099,26 +3100,26 @@ msgstr "Չիկագո"
 #: recursos/0mexico/datos/0mexico.py:54 recursos/0mexico/datos/levels.py:19
 #: recursos/0mexico/datos/levels.py:54 recursos/0mexico/datos/levels.py:95
 msgid "Chihuahua"
-msgstr ""
+msgstr "Չիհուահուա"
 
 #: recursos/0adelnorte/datos/0adelnorte.py:50
 #: recursos/0adelnorte/datos/levels.py:48 recursos/0canada/datos/0canada.py:52
 #: recursos/0canada/datos/levels.py:71
 msgid "Churchill"
-msgstr ""
+msgstr "Չերչիլ"
 
 #: recursos/0adelnorte/datos/0adelnorte.py:51
 #: recursos/0adelnorte/datos/levels.py:49
 msgid "Cleveland"
 msgstr "Քլիվլենդ"
 
+# Քաղաք ԱՄՆ հյուսիսային մասում
 #: recursos/0adelnorte/datos/0adelnorte.py:52
 #: recursos/0adelnorte/datos/levels.py:50
 #: recursos/0eunidos/datos/0eunidos.py:81 recursos/0eunidos/datos/levels.py:82
 #: recursos/0eunidos/datos/levels.py:140
-#, fuzzy
 msgid "Columbus"
-msgstr "Կոլոմբիա"
+msgstr "Կոլումբոս"
 
 #: recursos/0adelnorte/datos/0adelnorte.py:53
 #: recursos/0adelnorte/datos/levels.py:51
@@ -3127,11 +3128,12 @@ msgstr "Կոլոմբիա"
 msgid "Dallas"
 msgstr "Դալաս"
 
+# Նեբրասկա նահանգի շրջան, ԱՄՆ
 #: recursos/0adelnorte/datos/0adelnorte.py:54
 #: recursos/0adelnorte/datos/levels.py:52 recursos/0canada/datos/0canada.py:53
 #: recursos/0canada/datos/levels.py:72
 msgid "Dawson"
-msgstr ""
+msgstr "Դաուսոն"
 
 #: recursos/0adelnorte/datos/0adelnorte.py:55
 #: recursos/0adelnorte/datos/levels.py:53
@@ -3147,27 +3149,30 @@ msgstr "Դենվեր"
 msgid "Detroit"
 msgstr "Դետրոյթ"
 
+# Echo Bay - Արձագանքների ծովախորշ. այս անունով մի քանի ծովախորշեր կան ԱՄՆ ատրբեր նահանգներում:
 #: recursos/0adelnorte/datos/0adelnorte.py:57
 #: recursos/0adelnorte/datos/levels.py:55 recursos/0canada/datos/0canada.py:54
 #: recursos/0canada/datos/levels.py:73
 msgid "Echo Bay"
-msgstr ""
+msgstr "Արձագանքների ծովախորշ"
 
 #: recursos/0adelnorte/datos/0adelnorte.py:58
 #: recursos/0adelnorte/datos/levels.py:56 recursos/0canada/datos/0canada.py:33
 #: recursos/0canada/datos/levels.py:33 recursos/0canada/datos/levels.py:55
 msgid "Edmonton"
-msgstr ""
+msgstr "Էդմոնտոն"
 
+# Քաղաք Տեխասում, ԱՄՆ
 #: recursos/0adelnorte/datos/0adelnorte.py:59
 #: recursos/0adelnorte/datos/levels.py:57
 msgid "El Paso"
-msgstr ""
+msgstr "Էլ Պասո"
 
+# քաղաք ԱՄՆ -ում
 #: recursos/0adelnorte/datos/0adelnorte.py:60
 #: recursos/0adelnorte/datos/levels.py:58
 msgid "Fairbanks"
-msgstr ""
+msgstr "Ֆէըրբանքս"
 
 #: recursos/0adelnorte/datos/0adelnorte.py:61
 #: recursos/0adelnorte/datos/levels.py:59
@@ -5892,8 +5897,9 @@ msgid "Hopkins"
 msgstr ""
 
 #: recursos/0belice/datos/0belice.py:46 recursos/0belice/datos/levels.py:64
+#, fuzzy
 msgid "Independence"
-msgstr ""
+msgstr "Անկախություն."
 
 #: recursos/0belice/datos/0belice.py:47 recursos/0belice/datos/levels.py:65
 msgid "Jalacte"
@@ -6052,8 +6058,9 @@ msgid "(17º15'N - 88º46'E)"
 msgstr "(17º15'N - 88º46'E)"
 
 #: recursos/0belice/datos/0belice.py:96
+#, fuzzy
 msgid "English (most speak: Spanish)"
-msgstr ""
+msgstr "Անգլերեն"
 
 #: recursos/0belice/datos/0belice.py:97
 msgid "Parliamentary democracy"
@@ -7010,7 +7017,7 @@ msgstr "(10º30' N - 66º58' W)"
 #: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:57
 #: recursos/0tytobago/datos/0tytobago.py:74
 msgid "English"
-msgstr ""
+msgstr "Անգլերեն"
 
 #: recursos/0canada/datos/0canada.py:112
 #: recursos/0guayanafr/datos/0guayanafr.py:67
@@ -7537,13 +7544,15 @@ msgstr ""
 
 #: recursos/0colombia/datos/0colombia.py:92
 #: recursos/0colombia/datos/levels.py:133
+#, fuzzy
 msgid "Paz del Río"
-msgstr ""
+msgstr "Պինար Դել Ռիո"
 
 #: recursos/0colombia/datos/0colombia.py:93
 #: recursos/0colombia/datos/levels.py:134
+#, fuzzy
 msgid "Puerto Berrío"
-msgstr ""
+msgstr "Պուերտո Բառիոս"
 
 #: recursos/0colombia/datos/0colombia.py:94
 #: recursos/0colombia/datos/levels.py:135
@@ -8638,8 +8647,9 @@ msgstr ""
 
 #: recursos/0dominicana/datos/0dominicana.py:18
 #: recursos/0dominicana/datos/levels.py:21
+#, fuzzy
 msgid "Independencia"
-msgstr ""
+msgstr "Անկախություն."
 
 #: recursos/0dominicana/datos/0dominicana.py:19
 #: recursos/0dominicana/datos/levels.py:22
