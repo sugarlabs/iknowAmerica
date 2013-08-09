@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-06-08 00:31-0400\n"
-"PO-Revision-Date: 2013-08-02 16:16+0200\n"
+"PO-Revision-Date: 2013-08-02 16:37+0200\n"
 "Last-Translator: Jasmine <udea_jasmine@yahoo.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: hy\n"
@@ -3310,13 +3310,13 @@ msgstr "Լոս Անջելես"
 #: recursos/0venezuela/datos/levels.py:52
 #: recursos/0venezuela/datos/levels.py:84
 msgid "Mérida"
-msgstr ""
+msgstr "Մերիդա"
 
 #: recursos/0adelnorte/datos/0adelnorte.py:81
 #: recursos/0adelnorte/datos/levels.py:79 recursos/0mexico/datos/0mexico.py:97
 #: recursos/0mexico/datos/levels.py:135
 msgid "Matamoros"
-msgstr ""
+msgstr "Մատամորոս"
 
 #: recursos/0adelnorte/datos/0adelnorte.py:82
 #: recursos/0adelnorte/datos/levels.py:80 recursos/0mexico/datos/0mexico.py:98
