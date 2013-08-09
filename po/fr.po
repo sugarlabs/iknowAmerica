@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-06-08 00:31-0400\n"
-"PO-Revision-Date: 2013-06-11 03:32+0200\n"
+"PO-Revision-Date: 2013-07-31 05:25+0200\n"
 "Last-Translator: Chris <cjl@laptop.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: fr\n"
@@ -155,32 +155,38 @@ msgid "About %s"
 msgstr ""
 
 #: conozco.py:578
+#, fuzzy
 msgid "Press any key to return"
-msgstr ""
+msgstr "Presser n'importe quelle touche pour revenir"
 
 #: conozco.py:609
+#, fuzzy
 msgid "You have chosen the map "
-msgstr ""
+msgstr "Vous avez choisi la carte "
 
 #: conozco.py:615
 msgid "Play"
-msgstr ""
+msgstr "Jouer"
 
 #: conozco.py:631
+#, fuzzy
 msgid "Explore"
-msgstr ""
+msgstr "Explore"
 
 #: conozco.py:651 conozco.py:795
+#, fuzzy
 msgid "About this game"
-msgstr ""
+msgstr "À propos de ce jeu"
 
 #: conozco.py:659
+#, fuzzy
 msgid "Return"
-msgstr ""
+msgstr "Retour"
 
 #: conozco.py:716
+#, fuzzy
 msgid "Choose the map to use"
-msgstr ""
+msgstr "Choisir la carte à utiliser"
 
 #: conozco.py:736
 msgid "Previous page"
@@ -191,24 +197,29 @@ msgid "Next page"
 msgstr ""
 
 #: conozco.py:802
+#, fuzzy
 msgid "Exit"
-msgstr ""
+msgstr "Sortie"
 
 #: conozco.py:1276 conozco.py:1474
+#, fuzzy
 msgid "End"
-msgstr ""
+msgstr "Fin"
 
 #: conozco.py:1287
+#, fuzzy
 msgid "Show all"
-msgstr ""
+msgstr "Montrer tout"
 
 #: conozco.py:1729 conozco.py:1841 conozco.py:1922
+#, fuzzy
 msgid "Press any key to skip"
-msgstr ""
+msgstr "Presser n'importe quelle touche pour sauter"
 
 #: recursos/0acentral/datos/0acentral.py:5
+#, fuzzy
 msgid "Central America"
-msgstr ""
+msgstr "Amérique centrale"
 
 #: recursos/0acentral/datos/0acentral.py:8
 #: recursos/0acentral/datos/0acentral.py:48
@@ -228,7 +239,7 @@ msgstr ""
 #: recursos/0honduras/datos/0honduras.py:27
 #: recursos/0mexico/datos/0mexico.py:39
 msgid "Guatemala"
-msgstr ""
+msgstr "Guatemala"
 
 #: recursos/0acentral/datos/0acentral.py:9
 #: recursos/0acentral/datos/levels.py:12 recursos/0belice/datos/0belice.py:5
@@ -238,8 +249,9 @@ msgstr ""
 #: recursos/0guatemala/datos/0guatemala.py:30
 #: recursos/0honduras/datos/0honduras.py:25
 #: recursos/0mexico/datos/0mexico.py:40
+#, fuzzy
 msgid "Belize"
-msgstr ""
+msgstr "Bélize"
 
 #: recursos/0acentral/datos/0acentral.py:10
 #: recursos/0acentral/datos/levels.py:13
@@ -253,7 +265,7 @@ msgstr ""
 #: recursos/0mexico/datos/0mexico.py:41
 #: recursos/0nicaragua/datos/0nicaragua.py:26
 msgid "Honduras"
-msgstr ""
+msgstr "Honduras"
 
 #: recursos/0acentral/datos/0acentral.py:11
 #: recursos/0acentral/datos/levels.py:14
@@ -263,7 +275,7 @@ msgstr ""
 #: recursos/0honduras/datos/0honduras.py:26
 #: recursos/0mexico/datos/0mexico.py:42
 msgid "El Salvador"
-msgstr ""
+msgstr "El Salvador"
 
 #: recursos/0acentral/datos/0acentral.py:12
 #: recursos/0acentral/datos/levels.py:15
@@ -273,7 +285,7 @@ msgstr ""
 #: recursos/0honduras/datos/0honduras.py:28
 #: recursos/0nicaragua/datos/0nicaragua.py:5
 msgid "Nicaragua"
-msgstr ""
+msgstr "Nicaragua"
 
 #: recursos/0acentral/datos/0acentral.py:13
 #: recursos/0acentral/datos/levels.py:16
@@ -283,7 +295,7 @@ msgstr ""
 #: recursos/0nicaragua/datos/0nicaragua.py:25
 #: recursos/0panama/datos/0panama.py:18
 msgid "Costa Rica"
-msgstr ""
+msgstr "Costa Rica"
 
 #: recursos/0acentral/datos/0acentral.py:14
 #: recursos/0acentral/datos/0acentral.py:53
@@ -296,7 +308,7 @@ msgstr ""
 #: recursos/0panama/datos/0panama.py:89 recursos/0panama/datos/levels.py:18
 #: recursos/0panama/datos/levels.py:30 recursos/0panama/datos/levels.py:49
 msgid "Panamá"
-msgstr ""
+msgstr "Panama"
 
 #: recursos/0acentral/datos/0acentral.py:15
 #: recursos/0adelsur/datos/0adelsur.py:16 recursos/0adelsur/datos/levels.py:19
@@ -304,8 +316,9 @@ msgstr ""
 #: recursos/0colombia/datos/0colombia.py:5
 #: recursos/0ecuador/datos/0ecuador.py:30 recursos/0panama/datos/0panama.py:17
 #: recursos/0peru/datos/0peru.py:34 recursos/0venezuela/datos/0venezuela.py:31
+#, fuzzy
 msgid "Colombia"
-msgstr ""
+msgstr "Colombie"
 
 #: recursos/0acentral/datos/0acentral.py:16
 #: recursos/0adelsur/datos/0adelsur.py:17 recursos/0adelsur/datos/levels.py:20
@@ -314,20 +327,22 @@ msgstr ""
 #: recursos/0guyana/datos/0guyana.py:19
 #: recursos/0tytobago/datos/0tytobago.py:17
 #: recursos/0venezuela/datos/0venezuela.py:5
+#, fuzzy
 msgid "Venezuela"
-msgstr ""
+msgstr "Vénézuela"
 
 #: recursos/0acentral/datos/0acentral.py:17
 #: recursos/0belice/datos/0belice.py:14 recursos/0mexico/datos/0mexico.py:5
+#, fuzzy
 msgid "Mexico"
-msgstr ""
+msgstr "Mexique"
 
 #: recursos/0acentral/datos/0acentral.py:18
 #: recursos/0acentral/datos/levels.py:18
 #: recursos/0adelnorte/datos/0adelnorte.py:12 recursos/0cuba/datos/0cuba.py:5
 #: recursos/0eunidos/datos/0eunidos.py:60 recursos/0haiti/datos/0haiti.py:18
 msgid "Cuba"
-msgstr ""
+msgstr "Cuba"
 
 #: recursos/0acentral/datos/0acentral.py:19
 #: recursos/0adelnorte/datos/0adelnorte.py:8
@@ -335,22 +350,24 @@ msgstr ""
 #: recursos/0cuba/datos/0cuba.py:23 recursos/0eunidos/datos/0eunidos.py:5
 #: recursos/0mexico/datos/0mexico.py:38
 msgid "United States"
-msgstr ""
+msgstr "États Unis"
 
 #: recursos/0acentral/datos/0acentral.py:20
 #: recursos/0acentral/datos/levels.py:19
 #: recursos/0adelnorte/datos/0adelnorte.py:16 recursos/0cuba/datos/0cuba.py:33
 #: recursos/0eunidos/datos/0eunidos.py:61
 #: recursos/0jamaica/datos/0jamaica.py:5
+#, fuzzy
 msgid "Jamaica"
-msgstr ""
+msgstr "Jamaïque"
 
 #: recursos/0acentral/datos/0acentral.py:21
 #: recursos/0acentral/datos/levels.py:20
 #: recursos/0adelnorte/datos/0adelnorte.py:17 recursos/0cuba/datos/0cuba.py:32
 #: recursos/0haiti/datos/0haiti.py:5
+#, fuzzy
 msgid "Haiti"
-msgstr ""
+msgstr "Haïti"
 
 #: recursos/0acentral/datos/0acentral.py:22
 #: recursos/0acentral/datos/levels.py:21
@@ -360,16 +377,18 @@ msgstr ""
 
 #: recursos/0acentral/datos/0acentral.py:23
 #: recursos/0acentral/datos/levels.py:22 recursos/0prico/datos/0prico.py:5
+#, fuzzy
 msgid "Puerto Rico"
-msgstr ""
+msgstr "Puerto Rico"
 
 #: recursos/0acentral/datos/0acentral.py:24
 #: recursos/0acentral/datos/levels.py:23
 #: recursos/0adelsur/datos/0adelsur.py:31
 #: recursos/0tytobago/datos/0tytobago.py:5
 #: recursos/0venezuela/datos/0venezuela.py:33
+#, fuzzy
 msgid "Trinidad and Tobago"
-msgstr ""
+msgstr "Trinidad et Tobago"
 
 #: recursos/0acentral/datos/0acentral.py:25
 #: recursos/0acentral/datos/levels.py:24 recursos/0cuba/datos/0cuba.py:35
@@ -820,8 +839,9 @@ msgstr ""
 #: recursos/0adelnorte/datos/explorations.py:13
 #: recursos/0adelsur/datos/explorations.py:13
 #: recursos/0adelsur/datos/levels.py:35
+#, fuzzy
 msgid "Capitals"
-msgstr ""
+msgstr "Capitales"
 
 #: recursos/0acentral/datos/explorations.py:20
 #: recursos/0acentral/datos/levels.py:72
@@ -884,8 +904,9 @@ msgstr ""
 #: recursos/0uruguay/datos/levels.py:63
 #: recursos/0venezuela/datos/explorations.py:20
 #: recursos/0venezuela/datos/levels.py:70
+#, fuzzy
 msgid "Cities"
-msgstr ""
+msgstr "Villes"
 
 #: recursos/0acentral/datos/levels.py:11 recursos/0acentral/datos/levels.py:12
 #: recursos/0acentral/datos/levels.py:47 recursos/0acentral/datos/levels.py:51
@@ -3965,8 +3986,9 @@ msgstr ""
 #: recursos/0uruguay/datos/levels.py:146
 #: recursos/0venezuela/datos/explorations.py:27
 #: recursos/0venezuela/datos/levels.py:124
+#, fuzzy
 msgid "Waterways"
-msgstr ""
+msgstr "Voies maritimes"
 
 #: recursos/0adelnorte/datos/levels.py:11
 #: recursos/0adelnorte/datos/levels.py:35
@@ -5704,8 +5726,9 @@ msgstr ""
 #: recursos/0guatemala/datos/explorations.py:6
 #: recursos/0guatemala/datos/levels.py:7
 #: recursos/0panama/datos/explorations.py:6 recursos/0panama/datos/levels.py:7
+#, fuzzy
 msgid "Provinces"
-msgstr ""
+msgstr "Provinces"
 
 #: recursos/0argentina/datos/explorations.py:13
 #: recursos/0argentina/datos/levels.py:39
@@ -5723,8 +5746,9 @@ msgstr ""
 #: recursos/0panama/datos/explorations.py:13
 #: recursos/0panama/datos/levels.py:26 recursos/0prico/datos/levels.py:91
 #: recursos/0surinam/datos/levels.py:25
+#, fuzzy
 msgid "Provincial capitals"
-msgstr ""
+msgstr "Capitales provinciales"
 
 #: recursos/0argentina/datos/explorations.py:34
 #: recursos/0belice/datos/explorations.py:34
@@ -6823,7 +6847,7 @@ msgstr ""
 #: recursos/0venezuela/datos/explorations.py:6
 #: recursos/0venezuela/datos/levels.py:7
 msgid "States"
-msgstr ""
+msgstr "États"
 
 #: recursos/0brasil/datos/explorations.py:13
 #: recursos/0brasil/datos/levels.py:42
@@ -6834,7 +6858,7 @@ msgstr ""
 #: recursos/0venezuela/datos/explorations.py:13
 #: recursos/0venezuela/datos/levels.py:38
 msgid "State capitals"
-msgstr ""
+msgstr "Capitales d'état"
 
 #: recursos/0canada/datos/0canada.py:8 recursos/0canada/datos/levels.py:11
 msgid "Yukon"
@@ -7163,13 +7187,15 @@ msgstr ""
 #: recursos/0guyana/datos/explorations.py:6 recursos/0guyana/datos/levels.py:7
 #: recursos/0tytobago/datos/explorations.py:6
 #: recursos/0tytobago/datos/levels.py:7
+#, fuzzy
 msgid "Regions"
-msgstr ""
+msgstr "Régions"
 
 #: recursos/0chile/datos/explorations.py:13 recursos/0chile/datos/levels.py:31
 #: recursos/0guyana/datos/explorations.py:13
+#, fuzzy
 msgid "Regional capitals"
-msgstr ""
+msgstr "Capitales régionales"
 
 #: recursos/0colombia/datos/0colombia.py:8
 #: recursos/0colombia/datos/levels.py:11
@@ -12515,14 +12541,16 @@ msgstr ""
 #: recursos/0jamaica/datos/explorations.py:6
 #: recursos/0jamaica/datos/levels.py:7
 #: recursos/0sanvicenteyg/datos/explorations.py:6
+#, fuzzy
 msgid "Parishes"
-msgstr ""
+msgstr "Paroisse"
 
 #: recursos/0jamaica/datos/explorations.py:13
 #: recursos/0jamaica/datos/levels.py:30
 #: recursos/0sanvicenteyg/datos/explorations.py:13
+#, fuzzy
 msgid "Parish capitals"
-msgstr ""
+msgstr "Capitales de paroisse"
 
 #: recursos/0jamaica/datos/levels.py:118
 msgid "Is around"
@@ -14868,12 +14896,14 @@ msgid "Very High - 0.905 (53th)"
 msgstr ""
 
 #: recursos/0prico/datos/explorations.py:6 recursos/0prico/datos/levels.py:7
+#, fuzzy
 msgid "Municipalities"
-msgstr ""
+msgstr "Municipalité"
 
 #: recursos/0prico/datos/explorations.py:13
+#, fuzzy
 msgid "Municipal capitals"
-msgstr ""
+msgstr "Capitales municipales"
 
 #: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:8
 #: recursos/0sanvicenteyg/datos/levels.py:11
@@ -15597,8 +15627,9 @@ msgstr ""
 #: recursos/0uruguay/datos/levels.py:108 recursos/0uruguay/datos/levels.py:120
 #: recursos/0uruguay/datos/levels.py:133 recursos/0uruguay/datos/levels.py:160
 #: recursos/0uruguay/datos/levels.py:162
+#, fuzzy
 msgid "Colonia"
-msgstr ""
+msgstr "Columbus"
 
 #: recursos/0uruguay/datos/0uruguay.py:17
 #: recursos/0uruguay/datos/0uruguay.py:40 recursos/0uruguay/datos/levels.py:22
@@ -15769,8 +15800,9 @@ msgid "La Coronilla"
 msgstr ""
 
 #: recursos/0uruguay/datos/0uruguay.py:75 recursos/0uruguay/datos/levels.py:95
+#, fuzzy
 msgid "La Paloma"
-msgstr ""
+msgstr "La Pampa"
 
 #: recursos/0uruguay/datos/0uruguay.py:77 recursos/0uruguay/datos/levels.py:97
 msgid "Lascano"
@@ -16449,8 +16481,9 @@ msgstr ""
 #: recursos/0venezuela/datos/0venezuela.py:54
 #: recursos/0venezuela/datos/levels.py:54
 #: recursos/0venezuela/datos/levels.py:86
+#, fuzzy
 msgid "Maracay"
-msgstr ""
+msgstr "Caracas"
 
 #: recursos/0venezuela/datos/0venezuela.py:55
 #: recursos/0venezuela/datos/levels.py:55
