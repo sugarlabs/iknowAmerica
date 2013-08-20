@@ -7,8 +7,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-06-08 00:31-0400\n"
-"PO-Revision-Date: 2013-06-10 06:42+0200\n"
-"Last-Translator: Chris <cjl@laptop.org>\n"
+"PO-Revision-Date: 2013-08-20 22:04+0200\n"
+"Last-Translator: EdgarQuispeChambi <quispedgar@yahoo.es>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ayc\n"
 "MIME-Version: 1.0\n"
@@ -5613,9 +5613,8 @@ msgid "GDP:"
 msgstr "PBI utjiri:"
 
 #: recursos/0argentina/datos/0argentina.py:121
-#, fuzzy
 msgid "USD 474.812 billion (25th)"
-msgstr "USD 474.812 billion (25th) chani"
+msgstr "USD 474.812 waranqanaka (25th) chani"
 
 #: recursos/0argentina/datos/0argentina.py:122
 #: recursos/0belice/datos/0belice.py:105
@@ -6082,9 +6081,8 @@ msgid "372.000 (170th)"
 msgstr "372.000 (170vo) chani"
 
 #: recursos/0belice/datos/0belice.py:104
-#, fuzzy
 msgid "USD 1.52 billions (167th)"
-msgstr "U$S 1.151 billones (181vo) chani"
+msgstr "U$S 1.520 waranqanaka (167°) chani"
 
 #: recursos/0belice/datos/0belice.py:105
 msgid "High - 0,694 (78th)"
@@ -6431,9 +6429,8 @@ msgid "10.426.160 (87th)"
 msgstr "10.426.160 (87th) chani"
 
 #: recursos/0bolivia/datos/0bolivia.py:112
-#, fuzzy
 msgid "USD 26.749 billion (94th)"
-msgstr "USD 299.648 billion (41th) chani"
+msgstr "USD 26.749 waranqanaka (94°) chani"
 
 #: recursos/0bolivia/datos/0bolivia.py:113
 msgid "Medium - 0,643 (95th)"
@@ -6803,9 +6800,8 @@ msgid "190.732.694 (5th)"
 msgstr "190.732.694 (5º) chani"
 
 #: recursos/0brasil/datos/0brasil.py:148
-#, fuzzy
 msgid "USD 2425.052 billion (7th)"
-msgstr "U$S 73.022 millones (79º) chani"
+msgstr "U$S 2425.052 waranqanaka (7º) chani"
 
 #: recursos/0brasil/datos/0brasil.py:149
 msgid "High - 0,699 (73th)"
@@ -7033,7 +7029,7 @@ msgstr "PIB utjiri:"
 
 #: recursos/0canada/datos/0canada.py:121
 msgid "USD 1770.084 billion (11st)"
-msgstr ""
+msgstr "US$ 1770.084 waranqanaka (11º) chani"
 
 #: recursos/0canada/datos/0canada.py:122
 msgid "Very high - 0,888 (8th)"
@@ -7149,9 +7145,8 @@ msgid "17.248.450 (59th)"
 msgstr "17.248.450 (59º) chani"
 
 #: recursos/0chile/datos/0chile.py:55
-#, fuzzy
 msgid "USD 268.278 billion (37th)"
-msgstr "USD 350.276 billion (31th) chani"
+msgstr "US$ 268.278 waranqanaka (37º) chani"
 
 #: recursos/0chile/datos/0chile.py:56
 msgid "High - 0,783 (45th)"
@@ -7711,7 +7706,7 @@ msgstr "45.925.397 (28º) chani"
 
 #: recursos/0colombia/datos/0colombia.py:145
 msgid "USD 365.402 billion (31st)"
-msgstr ""
+msgstr "US$ 365.402 waranqanaka (31º) chani"
 
 #: recursos/0colombia/datos/0colombia.py:146
 msgid "High - 0,689 (79th)"
@@ -8287,7 +8282,7 @@ msgstr "(9º56'N - 84º5'O) chani"
 
 #: recursos/0costarica/datos/0costarica.py:151
 msgid "Esteban Vixx"
-msgstr ""
+msgstr "Esteban Vixx wakichiri"
 
 #: recursos/0costarica/datos/0costarica.py:152
 msgid "Alfio Piva Mesén"
@@ -8314,9 +8309,8 @@ msgid "4.615.518 (115th)"
 msgstr "4.615.518 (115º) chani"
 
 #: recursos/0costarica/datos/0costarica.py:158
-#, fuzzy
 msgid "USD 44.884 billion (80th)"
-msgstr "USD 48.804 billion (85th) chani"
+msgstr "US$ 44.884 waranqanaka (80º) chani"
 
 #: recursos/0costarica/datos/0costarica.py:159
 msgid "High - 0,725 (62th)"
@@ -8956,11 +8950,11 @@ msgstr "(18º28' N - 69º54' W) chani"
 
 #: recursos/0dominicana/datos/0dominicana.py:116
 msgid "Danilo Medina"
-msgstr ""
+msgstr "Danilo Medina yatiñani tata"
 
 #: recursos/0dominicana/datos/0dominicana.py:117
 msgid "Margarita Cedeño"
-msgstr ""
+msgstr "Margarita Cedeño yatiñani mama"
 
 #: recursos/0dominicana/datos/0dominicana.py:118
 msgid "1844 (of Haiti)"
@@ -8979,9 +8973,8 @@ msgid "10.090.000 (80th)"
 msgstr "10.090.000 (80vo) chani"
 
 #: recursos/0dominicana/datos/0dominicana.py:122
-#, fuzzy
 msgid "USD 59.133 billion (69th)"
-msgstr "U$S 35.173 millones (98º) chani"
+msgstr "US$ 59.133 waranqanaka (69º) chani"
 
 #: recursos/0dominicana/datos/0dominicana.py:123
 msgid "Medium - 0,783 (88th)"
@@ -9501,7 +9494,7 @@ msgstr "Rafael Correa Jilïriri P'iqiña"
 
 #: recursos/0ecuador/datos/0ecuador.py:144
 msgid "Jorge Glas"
-msgstr ""
+msgstr "Jorge Glas yatiñani tata"
 
 #: recursos/0ecuador/datos/0ecuador.py:146
 msgid "24 of may of 1822"
@@ -9520,9 +9513,8 @@ msgid "14.306.876 (--th)"
 msgstr "14.306.876 (--º) chani"
 
 #: recursos/0ecuador/datos/0ecuador.py:150
-#, fuzzy
 msgid "USD 70.836 billion (67th)"
-msgstr "U$S 110.800 millones (65º) chani"
+msgstr "US$ 70.836 waranqanaka (67º) chani"
 
 #: recursos/0ecuador/datos/0ecuador.py:151
 msgid "High - 0,695 (77th)"
@@ -9883,9 +9875,8 @@ msgid "5.744.113 (97th)"
 msgstr "5.744.113 (97º) chani"
 
 #: recursos/0elsalvador/datos/0elsalvador.py:109
-#, fuzzy
 msgid "USD 23.985 billion (99th)"
-msgstr "U$S 47.980 millones (87º) chani"
+msgstr "US$ 23.985 waranqanaka (99º) chani"
 
 #: recursos/0elsalvador/datos/0elsalvador.py:110
 msgid "Medium - 0,659 (90th)"
@@ -10373,9 +10364,8 @@ msgid "308.745.538 (3rd)"
 msgstr "308.745.538 (3º) chani"
 
 #: recursos/0eunidos/datos/0eunidos.py:187
-#, fuzzy
 msgid "USD 15653.366 billion (1st)"
-msgstr "U$S 14.204.322 millones (1º) chani"
+msgstr "US$ 15653.366 waranqanaka (1º) chani"
 
 #: recursos/0eunidos/datos/0eunidos.py:188
 msgid "Muy High - 0,902 (4th)"
@@ -10934,9 +10924,8 @@ msgid "13.718.000 (67th)"
 msgstr "13.718.000 (67º) chani"
 
 #: recursos/0guatemala/datos/0guatemala.py:165
-#, fuzzy
 msgid "USD 50.296 billion (77th)"
-msgstr "USD 350.276 billion (31th) chani"
+msgstr "US$ 50.296 warawaranaka (77º) chani"
 
 #: recursos/0guatemala/datos/0guatemala.py:166
 msgid "Medium - 0,560 (116th)"
@@ -11436,9 +11425,8 @@ msgid "784.894 (161th)"
 msgstr "784.894 (161º) chani"
 
 #: recursos/0guyana/datos/0guyana.py:92
-#, fuzzy
 msgid "USD 2.788 billion (158th)"
-msgstr "U$S 3.082 millones (158º) chani"
+msgstr "US$ 2.788 waranqanaka (158º) chani"
 
 #: recursos/0guyana/datos/0guyana.py:93
 msgid "Medium - 0,611 (104th)"
@@ -11749,7 +11737,7 @@ msgstr "Primer ministro Jilïri p'iqiña:"
 
 #: recursos/0haiti/datos/0haiti.py:103
 msgid "Laurent Lamothe"
-msgstr ""
+msgstr "Laurent Lamothe yatiñani jaqi"
 
 #: recursos/0haiti/datos/0haiti.py:105
 msgid "1 of january of 1804"
@@ -11764,9 +11752,8 @@ msgid "9.800.000 (90th)"
 msgstr "9.800.000 (90º) chani"
 
 #: recursos/0haiti/datos/0haiti.py:108
-#, fuzzy
 msgid "USD 7.895 billion (137th)"
-msgstr "USD 2.812 billion (161th) chani"
+msgstr "US$ 7.895 waranqanaka (137º) chani"
 
 #: recursos/0haiti/datos/0haiti.py:109
 msgid "Low - 0,404 (145th)"
@@ -12205,9 +12192,8 @@ msgid "8.144.000 (93th)"
 msgstr "8.144.000 (93º) chani"
 
 #: recursos/0honduras/datos/0honduras.py:136
-#, fuzzy
 msgid "USD 18.18 billion (108th)"
-msgstr "U$S 11.056 millones (138º) chani"
+msgstr "US$ 18.180 waranqanaka (108º) chani"
 
 #: recursos/0honduras/datos/0honduras.py:137
 msgid "Medium - 0,604 (106th)"
@@ -12502,9 +12488,8 @@ msgid "2.735.520 (131st)"
 msgstr "2.735.520 (131º) chani"
 
 #: recursos/0jamaica/datos/0jamaica.py:99
-#, fuzzy
 msgid "USD 15.262 billion (116th)"
-msgstr "U$S 2.046 billones (166vo) chani"
+msgstr "US$ 15.262 waranqanaka (116º) chani"
 
 #: recursos/0jamaica/datos/0jamaica.py:100
 msgid "High - 0,688 (80th)"
@@ -12853,7 +12838,7 @@ msgstr "República Federal marka"
 
 #: recursos/0mexico/datos/0mexico.py:140
 msgid "Enrique Peña Nieto"
-msgstr ""
+msgstr "Enrique Peña Nieto yatiñani tata"
 
 #: recursos/0mexico/datos/0mexico.py:142
 msgid "16 of september of 1810"
@@ -12872,9 +12857,8 @@ msgid "112.322.757 (11th)"
 msgstr "112.322.757 (11º) chani"
 
 #: recursos/0mexico/datos/0mexico.py:146
-#, fuzzy
 msgid "USD 1162.891 billion (14th)"
-msgstr "U$S 1.658.197 millones (11º) chani"
+msgstr "US$ 1162.891 waranqanaka (14º) chani"
 
 #: recursos/0mexico/datos/0mexico.py:147
 msgid "High - 0,750 (56th)"
@@ -13363,9 +13347,8 @@ msgid "5.465.100 (108th)"
 msgstr "5.465.100 (108º) chani"
 
 #: recursos/0nicaragua/datos/0nicaragua.py:143
-#, fuzzy
 msgid "USD 7.828 billion (138th)"
-msgstr "U$S 3.082 millones (158º) chani"
+msgstr "US$ 7.828 waranqanaka (138º) chani"
 
 #: recursos/0nicaragua/datos/0nicaragua.py:144
 msgid "Medium - 0,565 (115th)"
@@ -13623,9 +13606,8 @@ msgid "3.405.813 (129th)"
 msgstr "3.405.813 (129vo) chani"
 
 #: recursos/0panama/datos/0panama.py:99
-#, fuzzy
 msgid "USD 34.819 billion (89th)"
-msgstr "U$S 52.885 billones (84vo) chani"
+msgstr "US$ 34.819 waranqanaka (89º) chani"
 
 #: recursos/0panama/datos/0panama.py:100
 msgid "High - 0,755 (54th)"
@@ -13981,7 +13963,7 @@ msgstr "Federico Franco p'iqiña kankañani tata"
 
 #: recursos/0paraguay/datos/0paraguay.py:112
 msgid "Óscar Denis Sánchez"
-msgstr ""
+msgstr "Óscar Denis Sánchez yatiñani tata"
 
 #: recursos/0paraguay/datos/0paraguay.py:114
 msgid "15 of may of 1811"
@@ -14000,9 +13982,8 @@ msgid "6.459.000 (103th)"
 msgstr "6.459.000 (103º) chani"
 
 #: recursos/0paraguay/datos/0paraguay.py:118
-#, fuzzy
 msgid "USD 26.089billion (96th)"
-msgstr "U$S 2.046 billones (166vo) chani"
+msgstr "US$ 26.089 waranqanaka (96º) chani"
 
 #: recursos/0paraguay/datos/0paraguay.py:119
 msgid "Medium - 0,640 (96th)"
@@ -14345,7 +14326,7 @@ msgstr "Ollanta Humala Tasso Jilïri P'iqiña Mallku"
 
 #: recursos/0peru/datos/0peru.py:138
 msgid "Juan Jiménez Mayor"
-msgstr ""
+msgstr "Juan Jiménez Mayor yatiñani tata"
 
 #: recursos/0peru/datos/0peru.py:140
 msgid "28 of july of 1821"
@@ -14364,9 +14345,8 @@ msgid "30.165.000 (40th)"
 msgstr "30.165.000 (40º) chani"
 
 #: recursos/0peru/datos/0peru.py:144
-#, fuzzy
 msgid "USD 200.292 billion (50th)"
-msgstr "U$S 404.995 millones (27º) chani"
+msgstr "US$ 200.292 waranqanaka (50º) chani"
 
 #: recursos/0peru/datos/0peru.py:145
 msgid "High - 0,723 (63th)"
@@ -15056,9 +15036,8 @@ msgid "100.369 (193rd)"
 msgstr "100.369 (193º) chani"
 
 #: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:65
-#, fuzzy
 msgid "USD 0.717 billion (181st)"
-msgstr "USD 751 billion (181st) chani"
+msgstr "US$ 717 waranqanaka (181º) chani"
 
 #: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:66
 msgid "Medium - 0,791 (93rd)"
@@ -15294,9 +15273,8 @@ msgid "542.000 (171th)"
 msgstr "542.000 (171º) chani"
 
 #: recursos/0surinam/datos/0surinam.py:86
-#, fuzzy
 msgid "USD 5.094 billion (147th)"
-msgstr "U$S 2.046 billones (166vo) chani"
+msgstr "US$ 5.094 waranqanaka (147º) chani"
 
 #: recursos/0surinam/datos/0surinam.py:87
 msgid "Medium - 0,646 (94th)"
@@ -15523,7 +15501,7 @@ msgstr "República parlamentaria marka"
 
 #: recursos/0tytobago/datos/0tytobago.py:76
 msgid "Anthony Carmona"
-msgstr ""
+msgstr "Anthony Carmona yatiñani tata"
 
 #: recursos/0tytobago/datos/0tytobago.py:77
 msgid "Kamla Persad-Bissessar"
@@ -15542,9 +15520,8 @@ msgid "1.299.953 (153th)"
 msgstr "1.299.953 (153º) chani"
 
 #: recursos/0tytobago/datos/0tytobago.py:82
-#, fuzzy
 msgid "USD 23.837 billion (100th)"
-msgstr "USD 2.812 billion (161th) chani"
+msgstr "US$ 23.837 waranqanaka (100º) chani"
 
 #: recursos/0tytobago/datos/0tytobago.py:83
 msgid "High - 0,736 (59th)"
@@ -16156,13 +16133,12 @@ msgid "3.424.595 (128th)"
 msgstr "3.424.595 (128º) chani"
 
 #: recursos/0uruguay/datos/0uruguay.py:190
-#, fuzzy
 msgid "USD 49.716 billion (78th)"
-msgstr "U$S 11.056 millones (138º) chani"
+msgstr "US$ 49.716 waranqanaka (78º) chani"
 
 #: recursos/0uruguay/datos/0uruguay.py:191
 msgid "High - 0,792 (51st)"
-msgstr ""
+msgstr "Jila - 0,792 (51º)"
 
 #: recursos/0uruguay/datos/explorations.py:34
 msgid "Elevations"
@@ -16654,11 +16630,11 @@ msgstr "(10º30' N - 66º58' O) chani"
 
 #: recursos/0venezuela/datos/0venezuela.py:123
 msgid "Nicolás Maduro"
-msgstr ""
+msgstr "Nicolás Maduro P'iqiña Tata"
 
 #: recursos/0venezuela/datos/0venezuela.py:124
 msgid "Jorge Arreaza"
-msgstr ""
+msgstr "Jorge Arreaza P'iqiña Tata"
 
 #: recursos/0venezuela/datos/0venezuela.py:126
 msgid "5 of july of 1811"
@@ -16677,9 +16653,8 @@ msgid "28.892.735 (41th)"
 msgstr "28.892.735 (41º) chani"
 
 #: recursos/0venezuela/datos/0venezuela.py:130
-#, fuzzy
 msgid "USD 337.979 billion (33th)"
-msgstr "USD 350.276 billion (31th) chani"
+msgstr "US$ 337.979 waranqanaka (33º) chani"
 
 #: recursos/0venezuela/datos/0venezuela.py:131
 msgid "High - 0,696 (75th)"
