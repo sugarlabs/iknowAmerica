@@ -5082,8 +5082,9 @@ msgstr ""
 #: recursos/0argentina/datos/0argentina.py:44
 #: recursos/0argentina/datos/levels.py:48
 #: recursos/0argentina/datos/levels.py:81
+#, fuzzy
 msgid "La Plata"
-msgstr ""
+msgstr "Լա Պաս"
 
 #: recursos/0argentina/datos/0argentina.py:48
 #: recursos/0argentina/datos/levels.py:52
@@ -5104,11 +5105,13 @@ msgstr ""
 msgid "Río Gallegos"
 msgstr ""
 
+# Նեբրասկա նահանգի շրջան, ԱՄՆ
 #: recursos/0argentina/datos/0argentina.py:51
 #: recursos/0argentina/datos/levels.py:55
 #: recursos/0argentina/datos/levels.py:88
+#, fuzzy
 msgid "Rawson"
-msgstr ""
+msgstr "Դաուսոն"
 
 #: recursos/0argentina/datos/0argentina.py:57
 #: recursos/0argentina/datos/levels.py:61
@@ -9849,12 +9852,14 @@ msgstr ""
 msgid "Tecoluca"
 msgstr ""
 
+# Hay River
 #: recursos/0elsalvador/datos/0elsalvador.py:80
 #: recursos/0elsalvador/datos/levels.py:113
 #: recursos/0guatemala/datos/0guatemala.py:132
 #: recursos/0guatemala/datos/levels.py:171
+#, fuzzy
 msgid "Paz River"
-msgstr ""
+msgstr "Հարդի գետ"
 
 #: recursos/0elsalvador/datos/0elsalvador.py:81
 #: recursos/0elsalvador/datos/levels.py:114
@@ -14818,8 +14823,9 @@ msgid "Guánica"
 msgstr ""
 
 #: recursos/0prico/datos/0prico.py:149 recursos/0prico/datos/levels.py:201
+#, fuzzy
 msgid "La Plaza"
-msgstr ""
+msgstr "Լա Պաս"
 
 #: recursos/0prico/datos/0prico.py:150 recursos/0prico/datos/levels.py:202
 msgid "Mora"
