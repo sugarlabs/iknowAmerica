@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-06-08 00:31-0400\n"
-"PO-Revision-Date: 2013-06-17 07:49+0200\n"
+"PO-Revision-Date: 2013-10-16 03:51+0200\n"
 "Last-Translator: AlanJAS <alanjas@hotmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: es\n"
@@ -80,7 +80,7 @@ msgid ""
 "%s"
 msgstr ""
 "el estado de\n"
-" %s"
+"%s"
 
 #: conozco.py:491
 #, python-format
@@ -111,7 +111,7 @@ msgid ""
 "the taluka of\n"
 "%s"
 msgstr ""
-"la taluka  de\n"
+"la taluka de\n"
 "%s"
 
 #: conozco.py:500
