@@ -916,6 +916,7 @@ class Conozco():
             #self.altoPantalla = self.altoPantalla - 100
             self.pantalla = pygame.display.set_mode((self.anchoPantalla,
                                                self.altoPantalla), pygame.FULLSCREEN)
+            pygame.display.set_caption(_(self.activity_name))
         pygame.display.flip()
         if self.anchoPantalla==1200 and self.altoPantalla==900:
             xo_resolution = True
