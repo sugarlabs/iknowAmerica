@@ -618,21 +618,35 @@ class Conozco():
         self.mostrarTexto(msg,
                         self.fuente32,
                         (int(400*scale+shift_x),
-                        int(400*scale+shift_y)),
+                        int(300*scale+shift_y)),
                         (100,100,200))
         msg = _('Game average score: %s') % self._average
         self.mostrarTexto(msg,
                         self.fuente32,
                         (int(400*scale+shift_x),
-                        int(450*scale+shift_y)),
+                        int(350*scale+shift_y)),
                         (100,100,200))
         msg = _('Times using Explore Mode: %s') % self._explore_times
         self.mostrarTexto(msg,
                         self.fuente32,
                         (int(400*scale+shift_x),
-                        int(500*scale+shift_y)),
+                        int(400*scale+shift_y)),
+                        (100,100,200))
+        msg = _('Places Explored: %s') % self._explore_places
+        self.mostrarTexto(msg,
+                        self.fuente32,
+                        (int(400*scale+shift_x),
+                        int(450*scale+shift_y)),
                         (100,100,200))
         msg = _('Times using Game Mode: %s') % self._game_times
+        self.mostrarTexto(msg,
+                        self.fuente32,
+                        (int(400*scale+shift_x),
+                        int(500*scale+shift_y)),
+                        (100,100,200))
+        t = int(time.time() - self._init_time) / 60
+        t = t + self._time
+        msg = _('Total time: %s minutes') % t
         self.mostrarTexto(msg,
                         self.fuente32,
                         (int(400*scale+shift_x),
@@ -985,46 +999,74 @@ class Conozco():
         gettext.textdomain(bundle_id)
         global _
         _ = gettext.gettext
+        # initial time
+        self._init_time = time.time()
         # stats
         self._score = 0
         self._average = 0
         self._explore_times = 0
+        self._explore_places = 0
         self._game_times = 0
-        #self.lives = 0
-        #self.high_score = 0
-        #self._time = 0
+        self._time = 0
 
     def load_stats(self):
         if self.parent is not None:
-            folder = self.parent.get_activity_root()
-            path = os.path.join(folder, 'data', 'stats.dat')
-            if os.path.exists(path):
-                try:
+            l = []
+            for i in range(7):
+                l.append(0)
+            try:
+                folder = self.parent.get_activity_root()
+                path = os.path.join(folder, 'data', 'stats.dat')
+                if os.path.exists(path):
                     f = open(path, 'r')
-                    s = int(f.readline())
-                    a = int(f.readline())
-                    e = int(f.readline())
-                    g = int(f.readline())
+                    for i in range(7):
+                        l[i] = int(f.readline())
                     f.close()
-                    self._score = s
-                    self._average = a
-                    self._explore_times = e
-                    self._game_times = g
-                except Exception, err:
-                    print 'Cannot load stats', err
+            except Exception, err:
+                print 'Cannot load stats', err
+                return
+            if self._validate_stats(l):
+                self._score = l[0]
+                self._average = l[1]
+                self._explore_times = l[2]
+                self._explore_places = l[3]
+                self._game_times = l[4]
+                self._time = l[5]
+
+    def _validate_stats(self, l):
+        return (self._calc_sum(l) == l[6])
+
+    def _calc_sum(self, l):
+        s = 0
+        for i in range(6):
+            s = s + l[i]
+        return s % 7
 
     def save_stats(self):
         if self.parent is not None:
-            folder = self.parent.get_activity_root()
-            path = os.path.join(folder, 'data', 'stats.dat')
-            f = open(path, 'w')
-            f.write(str(self._score) + '\n')
-            f.write(str(self._average) + '\n')
-            f.write(str(self._explore_times) + '\n')
-            f.write(str(self._game_times) + '\n')
-            f.close()
-            print 'Stats saved in', path
-
+            try:
+                t = int(time.time() - self._init_time) / 60
+                self._time = self._time + t
+                folder = self.parent.get_activity_root()
+                path = os.path.join(folder, 'data', 'stats.dat')
+                # use aux list
+                l = []
+                for i in range(7):
+                    l.append(0)
+                l[0] = self._score
+                l[1] = self._average
+                l[2] = self._explore_times
+                l[3] = self._explore_places
+                l[4] = self._game_times
+                l[5] = self._time
+                l[6] = self._calc_sum(l)
+                # save
+                f = open(path, 'w')
+                for i in range(7):
+                    f.write(str(l[i]) + '\n')
+                f.close()
+            except Exception, err:
+                print 'Error saving stats', err
 
     def loadAll(self):
         global scale, shift_x, shift_y, xo_resolution
@@ -1439,6 +1481,7 @@ class Conozco():
                                                         self.fuente24,
                                                         COLORNOMBRECAPITAL,
                                                         True)
+                                        self._explore_places += 1
                                         break
                             elif i.startswith("ciudades"):
                                 for l in self.listaLugares:
@@ -1447,6 +1490,7 @@ class Conozco():
                                                         self.fuente24,
                                                         COLORNOMBRECAPITAL,
                                                         True)
+                                        self._explore_places += 1
                                         break
                             elif i.startswith("rios"):
                                 for d in self.listaRios:
@@ -1455,6 +1499,7 @@ class Conozco():
                                                         self.fuente24,
                                                         COLORNOMBRERIO,
                                                         True)
+                                        self._explore_places += 1
                                         break
                             elif i.startswith("rutas"):
                                 for d in self.listaRutas:
@@ -1463,6 +1508,7 @@ class Conozco():
                                                         self.fuente24,
                                                         COLORNOMBRERUTA,
                                                         True)
+                                        self._explore_places += 1
                                         break
                             elif i.startswith("cuchillas"):
                                 for d in self.listaCuchillas:
@@ -1471,6 +1517,7 @@ class Conozco():
                                                         self.fuente24,
                                                         COLORNOMBREELEVACION,
                                                         True)
+                                        self._explore_places += 1
                                         break
                             elif i.startswith("cerros"):
                                 for l in self.listaLugares:
@@ -1479,6 +1526,7 @@ class Conozco():
                                                         self.fuente24,
                                                         COLORNOMBREELEVACION,
                                                         True)
+                                        self._explore_places += 1
                                         break
                             elif i.startswith("deptos"):
                                 for d in self.listaDeptos:
@@ -1487,6 +1535,7 @@ class Conozco():
                                                         self.fuente32,
                                                         COLORNOMBREDEPTO,
                                                         True)
+                                        self._explore_places += 1
                                         break
                     elif event.pos[0] > 975*scale+shift_x and \
                             event.pos[0] < 1175*scale+shift_x:
