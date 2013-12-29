@@ -1020,7 +1020,10 @@ class Conozco():
                 if os.path.exists(path):
                     f = open(path, 'r')
                     for i in range(7):
-                        l[i] = int(f.readline())
+                        val = f.readline()
+                        val = val.strip('\n')
+                        if not(val == ''):
+                            l[i] = int(val)
                     f.close()
             except Exception, err:
                 print 'Cannot load stats', err
