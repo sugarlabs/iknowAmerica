@@ -1332,11 +1332,7 @@ class Conozco():
             else:
                 return False
 
-    def explorarNombres(self):
-        """Juego principal en modo exploro."""
-        self._explore_times = self._explore_times + 1
-        self.nivelActual = self.listaExploraciones[self.indiceNivelActual]
-        # presentar nivel
+    def presentLevel(self):
         for i in self.nivelActual.dibujoInicial:
             if i.startswith("lineasDepto"):
                 self.pantalla.blit(self.deptosLineas, (shift_x, shift_y))
@@ -1390,6 +1386,13 @@ class Conozco():
                     if l.tipo == 5:
                         l.mostrarNombre(self.pantalla,self.fuente24,
                                         COLORNOMBREELEVACION,False)
+
+    def explorarNombres(self):
+        """Juego principal en modo exploro."""
+        self._explore_times = self._explore_times + 1
+        self.nivelActual = self.listaExploraciones[self.indiceNivelActual]
+        # presentar nivel
+        self.presentLevel()
         # boton terminar
         self.pantalla.fill((100,20,20),(int(975*scale+shift_x),
                                         int(25*scale+shift_y),
@@ -1536,59 +1539,7 @@ class Conozco():
         self.avanceNivel = 0
         self.nivelActual.prepararPreguntas()
         # presentar nivel
-        for i in self.nivelActual.dibujoInicial:
-            if i.startswith("lineasDepto"):
-                self.pantalla.blit(self.deptosLineas, (shift_x, shift_y))
-            elif i.startswith("rios"):
-                self.pantalla.blit(self.rios, (shift_x, shift_y))
-            elif i.startswith("rutas"):
-                self.pantalla.blit(self.rutas, (shift_x, shift_y))
-            elif i.startswith("cuchillas"):
-                self.pantalla.blit(self.cuchillas, (shift_x, shift_y))
-            elif i.startswith("capitales"):
-                for l in self.listaLugares:
-                    if ((l.tipo == 0) or (l.tipo == 1)):
-                        l.dibujar(self.pantalla,False)
-            elif i.startswith("ciudades"):
-                for l in self.listaLugares:
-                    if l.tipo == 2:
-                        l.dibujar(self.pantalla,False)
-            elif i.startswith("cerros"):
-                for l in self.listaLugares:
-                    if l.tipo == 5:
-                        l.dibujar(self.pantalla,False)
-        for i in self.nivelActual.nombreInicial:
-            if i.startswith("deptos"):
-                for d in self.listaDeptos:
-                    d.mostrarNombre(self.pantalla,self.fuente32,
-                                    COLORNOMBREDEPTO,False)
-            if i.startswith("rios"):
-                for d in self.listaRios:
-                    d.mostrarNombre(self.pantalla,self.fuente24,
-                                    COLORNOMBRERIO,False)
-            if i.startswith("rutas"):
-                for d in self.listaRutas:
-                    d.mostrarNombre(self.pantalla,self.fuente24,
-                                    COLORNOMBRERUTA,False)
-            if i.startswith("cuchillas"):
-                for d in self.listaCuchillas:
-                    d.mostrarNombre(self.pantalla,self.fuente24,
-                                    COLORNOMBREELEVACION,False)
-            elif i.startswith("capitales"):
-                for l in self.listaLugares:
-                    if ((l.tipo == 0) or (l.tipo == 1)):
-                        l.mostrarNombre(self.pantalla,self.fuente24,
-                                        COLORNOMBRECAPITAL,False)
-            elif i.startswith("ciudades"):
-                for l in self.listaLugares:
-                    if l.tipo == 2:
-                        l.mostrarNombre(self.pantalla,self.fuente24,
-                                        COLORNOMBRECAPITAL,False)
-            elif i.startswith("cerros"):
-                for l in self.listaLugares:
-                    if l.tipo == 5:
-                        l.mostrarNombre(self.pantalla,self.fuente24,
-                                        COLORNOMBREELEVACION,False)
+        self.presentLevel()
         self.pantalla.fill((100,20,20),
                         (int(975*scale+shift_x),
                             int(26*scale+shift_y),
