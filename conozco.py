@@ -597,6 +597,71 @@ class Conozco():
                 elif event.type == EVENTOREFRESCO:
                     pygame.display.flip()
 
+    def pantallaStats(self):
+        """Pantalla con los datos del juego, creditos, etc"""
+        global scale, shift_x, shift_y, xo_resolution
+        self.pantallaTemp = pygame.Surface(
+            (self.anchoPantalla,self.altoPantalla))
+        self.pantallaTemp.blit(self.pantalla,(0,0))
+        self.pantalla.fill((0,0,0))
+
+        self.pantalla.blit(self.jp1,
+                        (int(925*scale+shift_x),
+                            int(468*scale+shift_y)))
+        self.mostrarTexto(_("Stats of %s") % self.activity_name,
+                        self.fuente40,
+                        (int(600*scale+shift_x),
+                        int(100*scale+shift_y)),
+                        (255,255,255))
+
+        msg = _('Total score: %s') % self._score
+        self.mostrarTexto(msg,
+                        self.fuente32,
+                        (int(400*scale+shift_x),
+                        int(400*scale+shift_y)),
+                        (100,100,200))
+        msg = _('Game average score: %s') % self._average
+        self.mostrarTexto(msg,
+                        self.fuente32,
+                        (int(400*scale+shift_x),
+                        int(450*scale+shift_y)),
+                        (100,100,200))
+        msg = _('Times using Explore Mode: %s') % self._explore_times
+        self.mostrarTexto(msg,
+                        self.fuente32,
+                        (int(400*scale+shift_x),
+                        int(500*scale+shift_y)),
+                        (100,100,200))
+        msg = _('Times using Game Mode: %s') % self._game_times
+        self.mostrarTexto(msg,
+                        self.fuente32,
+                        (int(400*scale+shift_x),
+                        int(550*scale+shift_y)),
+                        (100,100,200))
+
+        self.mostrarTexto(_("Press any key to return"),
+                        self.fuente32,
+                        (int(600*scale+shift_x),
+                        int(800*scale+shift_y)),
+                        (255,155,155))
+
+        pygame.display.flip()
+        while 1:
+            if gtk_present:
+                while gtk.events_pending():
+                    gtk.main_iteration()
+
+            for event in wait_events():
+                if event.type == pygame.KEYDOWN or \
+                        event.type == pygame.MOUSEBUTTONDOWN:
+                    if self.sound:
+                        self.click.play()
+                    self.pantalla.blit(self.pantallaTemp,(0,0))
+                    pygame.display.flip()
+                    return
+                elif event.type == EVENTOREFRESCO:
+                    pygame.display.flip()
+
     def pantallaInicial(self):
         """Pantalla con el menu principal del juego"""
         global scale, shift_x, shift_y
@@ -882,7 +947,7 @@ class Conozco():
                                     self.pantallaAcercaDe() # acerca
                                 elif pos[0] > 420*scale+shift_x and \
                                      pos[0] < 790*scale+shift_x:
-                                    self.pantallaAcercaDe() # stats
+                                    self.pantallaStats() # stats
                                 elif pos[0] > 820*scale+shift_x and \
                                         pos[0] < 1190*scale+shift_x:
                                     self.save_stats()
