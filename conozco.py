@@ -831,54 +831,62 @@ class Conozco():
                         if self.sound:
                             self.click.play()
                         pos = event.pos
-                        if pos[1] > 175*scale+shift_y: # zona de opciones
-                            if pos[0] < 600*scale+shift_x: # primera columna
-                                if pos[1] < 175*scale + shift_y + \
-                                        (nDirectoriosCol1+1)*50*scale: # mapa
-                                    self.indiceDirectorioActual = \
-                                        int((pos[1]-int(175*scale+shift_y))//\
-                                                int(50*scale)) - 1 + \
-                                                paginaDirectorios*20
-                                    if self.indiceDirectorioActual == \
-                                            paginaDirectorios*20-1 and \
-                                            paginaAnteriorActiva: # pag. ant.
-                                        paginaDirectorios = paginaDirectorios-1
-                                        paginaSiguienteActiva = True
-                                        cambiarPagina = True
-                                    elif self.indiceDirectorioActual>\
-                                            paginaDirectorios*20-1:
-                                        self.paginaDir = paginaDirectorios
-                                        return
-                                elif pos[1] > 800*scale + shift_y and \
-                                        pos[1] < 850*scale + shift_y: # acerca
-                                    self.pantallaAcercaDe()
-                            else:
-                                if pos[1] < 225*scale + shift_y + \
-                                        nDirectoriosCol2*50*scale or \
-                                        (paginaSiguienteActiva and \
-                                            pos[1]<775*scale+shift_y): # mapa
-                                    self.indiceDirectorioActual = \
-                                        int((pos[1]-int(225*scale+shift_y))//\
-                                                int(50*scale)) + \
-                                                paginaDirectorios*20 + 10
-                                    if self.indiceDirectorioActual == \
-                                            paginaDirectorios*20+9:
-                                        pass # ignorar; espacio vacio
-                                    elif self.indiceDirectorioActual == \
-                                            paginaDirectorios*20+20 and \
-                                            paginaSiguienteActiva: # pag. sig.
-                                        paginaDirectorios = \
-                                            paginaDirectorios + 1
-                                        paginaAnteriorActiva = True
-                                        cambiarPagina = True
-                                    elif self.indiceDirectorioActual<\
-                                            paginaDirectorios*20+20:
-                                        self.paginaDir = paginaDirectorios
-                                        return
-                                elif pos[1] > 800*scale+shift_y and \
-                                        pos[1] < 850*scale+shift_y: # salir
+                        # zona de opciones
+                        if pos[1] < 800*scale+shift_y:
+                            if pos[1] > 175*scale+shift_y: 
+                                if pos[0] < 600*scale+shift_x: # primera columna
+                                    if pos[1] < 175*scale + shift_y + \
+                                            (nDirectoriosCol1+1)*50*scale: # mapa
+                                        self.indiceDirectorioActual = \
+                                            int((pos[1]-int(175*scale+shift_y))//\
+                                                    int(50*scale)) - 1 + \
+                                                    paginaDirectorios*20
+                                        if self.indiceDirectorioActual == \
+                                                paginaDirectorios*20-1 and \
+                                                paginaAnteriorActiva: # pag. ant.
+                                            paginaDirectorios = paginaDirectorios-1
+                                            paginaSiguienteActiva = True
+                                            cambiarPagina = True
+                                        elif self.indiceDirectorioActual>\
+                                                paginaDirectorios*20-1:
+                                            self.paginaDir = paginaDirectorios
+                                            return
+                                else:
+                                    if pos[1] < 225*scale + shift_y + \
+                                            nDirectoriosCol2*50*scale or \
+                                            (paginaSiguienteActiva and \
+                                                pos[1]<775*scale+shift_y): # mapa
+                                        self.indiceDirectorioActual = \
+                                            int((pos[1]-int(225*scale+shift_y))//\
+                                                    int(50*scale)) + \
+                                                    paginaDirectorios*20 + 10
+                                        if self.indiceDirectorioActual == \
+                                                paginaDirectorios*20+9:
+                                            pass # ignorar; espacio vacio
+                                        elif self.indiceDirectorioActual == \
+                                                paginaDirectorios*20+20 and \
+                                                paginaSiguienteActiva: # pag. sig.
+                                            paginaDirectorios = \
+                                                paginaDirectorios + 1
+                                            paginaAnteriorActiva = True
+                                            cambiarPagina = True
+                                        elif self.indiceDirectorioActual<\
+                                                paginaDirectorios*20+20:
+                                            self.paginaDir = paginaDirectorios
+                                            return
+                        # buttons zone
+                        else:
+                            if pos[1] < 850*scale + shift_y:
+                                if pos[0] > 20*scale+shift_x and \
+                                   pos[0] < 390*scale+shift_x:
+                                    self.pantallaAcercaDe() # acerca
+                                elif pos[0] > 420*scale+shift_x and \
+                                     pos[0] < 790*scale+shift_x:
+                                    self.pantallaAcercaDe() # stats
+                                elif pos[0] > 820*scale+shift_x and \
+                                        pos[0] < 1190*scale+shift_x:
                                     self.save_stats()
-                                    sys.exit()
+                                    sys.exit()  # exit
                     elif event.type == EVENTOREFRESCO:
                         pygame.display.flip()
 
