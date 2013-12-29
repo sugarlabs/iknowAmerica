@@ -789,19 +789,29 @@ class Conozco():
             else:
                 nDirectoriosCol1 = indiceDir - paginaDirectorios * 20
                 nDirectoriosCol2 = 0
+            # about button
             self.pantalla.fill((20,20,20),
-                            (int(10*scale+shift_x),int(801*scale+shift_y),
-                                int(590*scale),int(48*scale)))
+                            (int(20*scale+shift_x),int(801*scale+shift_y),
+                                int(370*scale),int(48*scale)))
             self.mostrarTexto(_("About this game"),
                             self.fuente40,
-                            (int(300*scale+shift_x),int(825*scale+shift_y)),
+                            (int(205*scale+shift_x),int(825*scale+shift_y)),
                             (100,200,100))
+            # stats button
             self.pantalla.fill((20,20,20),
-                            (int(610*scale+shift_x),int(801*scale+shift_y),
-                                int(590*scale),int(48*scale)))
+                            (int(420*scale+shift_x),int(801*scale+shift_y),
+                                int(370*scale),int(48*scale)))
+            self.mostrarTexto(_("Stats"),
+                            self.fuente40,
+                            (int(605*scale+shift_x),int(825*scale+shift_y)),
+                            (100,200,100))
+            # exit button
+            self.pantalla.fill((20,20,20),
+                            (int(820*scale+shift_x),int(801*scale+shift_y),
+                                int(370*scale),int(48*scale)))
             self.mostrarTexto(_("Exit"),
                             self.fuente40,
-                            (int(900*scale+shift_x),int(825*scale+shift_y)),
+                            (int(1005*scale+shift_x),int(825*scale+shift_y)),
                             (100,200,100))
             pygame.display.flip()
             cambiarPagina = False
