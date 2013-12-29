@@ -815,6 +815,7 @@ class Conozco():
                         if event.key == 27: # escape: salir
                             if self.sound:
                                 self.click.play()
+                            self.save_stats()
                             sys.exit()
                     elif event.type == pygame.MOUSEBUTTONDOWN:
                         if self.sound:
@@ -866,6 +867,7 @@ class Conozco():
                                         return
                                 elif pos[1] > 800*scale+shift_y and \
                                         pos[1] < 850*scale+shift_y: # salir
+                                    self.save_stats()
                                     sys.exit()
                     elif event.type == EVENTOREFRESCO:
                         pygame.display.flip()
@@ -888,7 +890,8 @@ class Conozco():
                 del imagen0
         return imagen
 
-    def __init__(self):
+    def __init__(self, parent=None):
+        self.parent = parent
         file_activity_info = ConfigParser.ConfigParser()
         activity_info_path = os.path.abspath('activity/activity.info')
         file_activity_info.read(activity_info_path)
@@ -899,6 +902,45 @@ class Conozco():
         gettext.textdomain(bundle_id)
         global _
         _ = gettext.gettext
+        # stats
+        self._score = 0
+        self._average = 0
+        self._explore_times = 0
+        self._game_times = 0
+        #self.lives = 0
+        #self.high_score = 0
+        #self._time = 0
+
+    def load_stats(self):
+        if self.parent is not None:
+            folder = self.parent.get_activity_root()
+            path = os.path.join(folder, 'data', 'stats.dat')
+            if os.path.exists(path):
+                try:
+                    f = open(path, 'r')
+                    s = int(f.readline())
+                    a = int(f.readline())
+                    e = int(f.readline())
+                    g = int(f.readline())
+                    f.close()
+                    self._score = s
+                    self._average = a
+                    self._explore_times = e
+                    self._game_times = g
+                except Exception, err:
+                    print 'Cannot load stats', err
+
+    def save_stats(self):
+        if self.parent is not None:
+            folder = self.parent.get_activity_root()
+            path = os.path.join(folder, 'data', 'stats.dat')
+            f = open(path, 'w')
+            f.write(str(self._score) + '\n')
+            f.write(str(self._average) + '\n')
+            f.write(str(self._explore_times) + '\n')
+            f.write(str(self._game_times) + '\n')
+            f.close()
+            print 'Stats saved in', path
 
 
     def loadAll(self):
@@ -1209,6 +1251,7 @@ class Conozco():
 
     def explorarNombres(self):
         """Juego principal en modo exploro."""
+        self._explore_times = self._explore_times + 1
         self.nivelActual = self.listaExploraciones[self.indiceNivelActual]
         # presentar nivel
         for i in self.nivelActual.dibujoInicial:
@@ -1405,6 +1448,7 @@ class Conozco():
 
     def jugarNivel(self):
         """Juego principal de preguntas y respuestas"""
+        self._game_times = self._game_times + 1
         self.nivelActual = self.listaNiveles[self.indiceNivelActual]
         self.avanceNivel = 0
         self.nivelActual.prepararPreguntas()
@@ -2006,6 +2050,8 @@ class Conozco():
 
         self.presentacion()
 
+        self.load_stats()
+
         self.paginaDir = 0
         while 1:
             self.pantallaDirectorios() # seleccion de mapa
@@ -2032,6 +2078,8 @@ class Conozco():
                     self.estadobicho = ESTADONORMAL
                     pygame.display.flip()
                     self.jugarNivel()
+                    self._score = self._score + self.puntos
+                    self._average = self._score / self._game_times
                 else:
                     if self.bandera:
                         self.pantalla.blit(self.bandera,
