@@ -727,7 +727,7 @@ class Conozco():
             self.pantalla.fill((20,20,20),
                             (int(420*scale+shift_x),int(801*scale+shift_y),
                                 int(370*scale),int(48*scale)))
-            self.mostrarTexto(_("Stats"),
+            self.mostrarTexto(unicode(_("Stats"), 'UTF-8'),
                             self.fuente40,
                             (int(605*scale+shift_x),int(825*scale+shift_y)),
                             (100,200,100))
