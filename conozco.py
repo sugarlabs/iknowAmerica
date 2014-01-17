@@ -597,42 +597,41 @@ class Conozco():
             (self.anchoPantalla,self.altoPantalla))
         self.pantallaTemp.blit(self.pantalla,(0,0))
         self.pantalla.fill((0,0,0))
-
         self.pantalla.blit(self.jp1,
                         (int(925*scale+shift_x),
                             int(468*scale+shift_y)))
-        self.mostrarTexto(_("Stats of %s") % self.activity_name,
+        msg = _("Stats of %s") % self.activity_name
+        self.mostrarTexto(msg,
                         self.fuente40,
                         (int(600*scale+shift_x),
                         int(100*scale+shift_y)),
                         (255,255,255))
-
         msg = _('Total score: %s') % self._score
-        self.mostrarTexto(msg,
+        self.mostrarTexto(unicode(msg, 'UTF-8'),
                         self.fuente32,
                         (int(400*scale+shift_x),
                         int(300*scale+shift_y)),
                         (100,100,200))
         msg = _('Game average score: %s') % self._average
-        self.mostrarTexto(msg,
+        self.mostrarTexto(unicode(msg, 'UTF-8'),
                         self.fuente32,
                         (int(400*scale+shift_x),
                         int(350*scale+shift_y)),
                         (100,100,200))
         msg = _('Times using Explore Mode: %s') % self._explore_times
-        self.mostrarTexto(msg,
+        self.mostrarTexto(unicode(msg, 'UTF-8'),
                         self.fuente32,
                         (int(400*scale+shift_x),
                         int(400*scale+shift_y)),
                         (100,100,200))
         msg = _('Places Explored: %s') % self._explore_places
-        self.mostrarTexto(msg,
+        self.mostrarTexto(unicode(msg, 'UTF-8'),
                         self.fuente32,
                         (int(400*scale+shift_x),
                         int(450*scale+shift_y)),
                         (100,100,200))
         msg = _('Times using Game Mode: %s') % self._game_times
-        self.mostrarTexto(msg,
+        self.mostrarTexto(unicode(msg, 'UTF-8'),
                         self.fuente32,
                         (int(400*scale+shift_x),
                         int(500*scale+shift_y)),
@@ -640,7 +639,7 @@ class Conozco():
         t = int(time.time() - self._init_time) / 60
         t = t + self._time
         msg = _('Total time: %s minutes') % t
-        self.mostrarTexto(msg,
+        self.mostrarTexto(unicode(msg, 'UTF-8'),
                         self.fuente32,
                         (int(400*scale+shift_x),
                         int(550*scale+shift_y)),
@@ -889,7 +888,7 @@ class Conozco():
             self.pantalla.fill((20,20,20),
                             (int(420*scale+shift_x),int(801*scale+shift_y),
                                 int(370*scale),int(48*scale)))
-            self.mostrarTexto(_("Stats"),
+            self.mostrarTexto(unicode(_("Stats"), 'UTF-8'),
                             self.fuente40,
                             (int(605*scale+shift_x),int(825*scale+shift_y)),
                             (100,200,100))
