@@ -6,8 +6,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-06-08 00:31-0400\n"
-"PO-Revision-Date: 2013-06-17 06:01+0200\n"
+"POT-Creation-Date: 2014-01-16 19:51-0500\n"
+"PO-Revision-Date: 2014-01-17 04:27+0200\n"
 "Last-Translator: Chris <cjl@laptop.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: en_US\n"
@@ -27,12 +27,12 @@ msgstr "I Know the Americas"
 msgid "Game about the geography of America"
 msgstr "Game about the geography of America"
 
-#: conozco.py:247 conozco.py:362 conozco.py:386 conozco.py:442 conozco.py:526
+#: conozco.py:247 conozco.py:357 conozco.py:381 conozco.py:437 conozco.py:520
 #, python-format
 msgid "Cannot open %s"
 msgstr "Cannot open %s"
 
-#: conozco.py:476
+#: conozco.py:470
 #, python-format
 #, python-format,
 msgid ""
@@ -40,59 +40,59 @@ msgid ""
 "%s"
 msgstr ""
 "the city of\n"
+"%s"
+
+#: conozco.py:473
+#, python-format
+#, python-format,
+msgid ""
+"the department of\n"
+"%s"
+msgstr ""
+"the department of\n"
+"%s"
+
+#: conozco.py:476
+#, python-format
+#, python-format,
+msgid ""
+"the province of\n"
+"%s"
+msgstr ""
+"the province of\n"
 "%s"
 
 #: conozco.py:479
 #, python-format
 #, python-format,
 msgid ""
-"the department of\n"
+"the district of\n"
 "%s"
 msgstr ""
-"the department of\n"
+"the district of\n"
 "%s"
 
 #: conozco.py:482
 #, python-format
 #, python-format,
 msgid ""
-"the province of\n"
+"the state of\n"
 "%s"
 msgstr ""
-"the province of\n"
+"the state of\n"
 "%s"
 
 #: conozco.py:485
 #, python-format
 #, python-format,
 msgid ""
-"the district of\n"
-"%s"
-msgstr ""
-"the district of\n"
-"%s"
-
-#: conozco.py:488
-#, python-format
-#, python-format,
-msgid ""
-"the state of\n"
-"%s"
-msgstr ""
-"the state of\n"
-"%s"
-
-#: conozco.py:491
-#, python-format
-#, python-format,
-msgid ""
 "the region of\n"
 "%s"
 msgstr ""
 "the region of\n"
 "%s"
 
-#: conozco.py:494 recursos/0sanvicenteyg/datos/levels.py:11
+#: conozco.py:488 recursos/0sanvicenteyg/datos/levels.py:11
 #: recursos/0sanvicenteyg/datos/levels.py:12
 #: recursos/0sanvicenteyg/datos/levels.py:13
 #: recursos/0sanvicenteyg/datos/levels.py:14
@@ -105,7 +105,7 @@ msgstr ""
 "the parish of\n"
 "%s"
 
-#: conozco.py:497
+#: conozco.py:491
 #, python-format
 msgid ""
 "the taluka of\n"
@@ -114,7 +114,7 @@ msgstr ""
 "the taluka of\n"
 "%s"
 
-#: conozco.py:500
+#: conozco.py:494
 #, python-format
 #, python-format,
 msgid ""
@@ -124,7 +124,7 @@ msgstr ""
 "the municipality of\n"
 "%s"
 
-#: conozco.py:503 recursos/0adelnorte/datos/levels.py:15
+#: conozco.py:497 recursos/0adelnorte/datos/levels.py:15
 #: recursos/0adelnorte/datos/levels.py:16
 #: recursos/0adelnorte/datos/levels.py:17
 #: recursos/0adelnorte/datos/levels.py:18
@@ -150,65 +150,104 @@ msgstr ""
 msgid "the %s"
 msgstr "the %s"
 
-#: conozco.py:506
+#: conozco.py:500
 #, python-format
 msgid "the %(route)s"
 msgstr "the %(route)s"
 
-#: conozco.py:564
+#: conozco.py:557
 #, python-format
 msgid "About %s"
 msgstr "About %s"
 
-#: conozco.py:578
+#: conozco.py:571 conozco.py:649
 msgid "Press any key to return"
 msgstr "Press any key to return"
 
-#: conozco.py:609
+#: conozco.py:604
+#, python-format
+msgid "Stats of %s"
+msgstr "Stats of %s"
+
+#: conozco.py:610
+#, python-format
+msgid "Total score: %s"
+msgstr "Total score: %s"
+
+#: conozco.py:616
+#, python-format
+msgid "Game average score: %s"
+msgstr "Game average score: %s"
+
+#: conozco.py:622
+#, python-format
+msgid "Times using Explore Mode: %s"
+msgstr "Times using Explore Mode: %s"
+
+#: conozco.py:628
+#, python-format
+msgid "Places Explored: %s"
+msgstr "Places Explored: %s"
+
+#: conozco.py:634
+#, python-format
+msgid "Times using Game Mode: %s"
+msgstr "Times using Game Mode: %s"
+
+#: conozco.py:642
+#, python-format
+msgid "Total time: %s minutes"
+msgstr "Total time: %s minutes"
+
+#: conozco.py:681
 msgid "You have chosen the map "
 msgstr "You have chosen the map "
 
-#: conozco.py:615
+#: conozco.py:687
 msgid "Play"
 msgstr "Play"
 
-#: conozco.py:631
+#: conozco.py:703
 msgid "Explore"
 msgstr "Explore"
 
-#: conozco.py:651 conozco.py:795
+#: conozco.py:723 conozco.py:884
 msgid "About this game"
 msgstr "About this game"
 
-#: conozco.py:659
+#: conozco.py:731 conozco.py:892
+msgid "Stats"
+msgstr "Stats"
+
+#: conozco.py:739
 msgid "Return"
 msgstr "Return"
 
-#: conozco.py:716
+#: conozco.py:804
 msgid "Choose the map to use"
 msgstr "Choose the map to use"
 
-#: conozco.py:736
+#: conozco.py:824
 msgid "Previous page"
 msgstr "Previous page"
 
-#: conozco.py:781
+#: conozco.py:869
 msgid "Next page"
 msgstr "Next page"
 
-#: conozco.py:802
+#: conozco.py:900
 msgid "Exit"
 msgstr "Exit"
 
-#: conozco.py:1276 conozco.py:1474
+#: conozco.py:1455 conozco.py:1609
 msgid "End"
 msgstr "End"
 
-#: conozco.py:1287
+#: conozco.py:1466
 msgid "Show all"
 msgstr "Show all"
 
-#: conozco.py:1729 conozco.py:1841 conozco.py:1922
+#: conozco.py:1864 conozco.py:1976 conozco.py:2057
 msgid "Press any key to skip"
 msgstr "Press any key to skip"
 
