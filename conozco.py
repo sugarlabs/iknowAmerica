@@ -355,7 +355,8 @@ class Conozco():
                     f = imp.load_source(d, a_path)
                 except:
                     print _('Cannot open %s') % d
-                if f:
+
+                if hasattr(f, 'NAME'):
                     name = unicode(f.NAME, 'UTF-8')
                     self.listaNombreDirectorios.append(name)
                     self.listaDirectorios.append(d)
@@ -517,25 +518,24 @@ class Conozco():
         except:
             print _('Cannot open %s') % ARCHIVOEXPLORACIONES
 
-        if f:
-            if hasattr(f, 'EXPLORATIONS'):
-                for e in f.EXPLORATIONS:
-                    nombreNivel= unicode(e[0], 'UTF-8')
-                    nuevoNivel = Nivel(nombreNivel)
+        if hasattr(f, 'EXPLORATIONS'):
+            for e in f.EXPLORATIONS:
+                nombreNivel= unicode(e[0], 'UTF-8')
+                nuevoNivel = Nivel(nombreNivel)
 
-                    listaDibujos = e[1]
-                    for i in listaDibujos:
-                        nuevoNivel.dibujoInicial.append(i.strip())
+                listaDibujos = e[1]
+                for i in listaDibujos:
+                    nuevoNivel.dibujoInicial.append(i.strip())
 
-                    listaNombres = e[2]
-                    for i in listaNombres:
-                        nuevoNivel.nombreInicial.append(i.strip())
+                listaNombres = e[2]
+                for i in listaNombres:
+                    nuevoNivel.nombreInicial.append(i.strip())
 
-                    listaNombres = e[3]
-                    for i in listaNombres:
-                        nuevoNivel.elementosActivos.append(i.strip())
+                listaNombres = e[3]
+                for i in listaNombres:
+                    nuevoNivel.elementosActivos.append(i.strip())
 
-                    self.listaExploraciones.append(nuevoNivel)
+                self.listaExploraciones.append(nuevoNivel)
 
         self.numeroExploraciones = len(self.listaExploraciones)
 
