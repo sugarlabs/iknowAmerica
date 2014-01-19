@@ -13,7 +13,6 @@ class Activity(activity.Activity):
         activity.Activity.__init__(self, handle)
 
         self.max_participants = 1
-
         self.actividad = conozco.Conozco(self)
         self._pygamecanvas = sugargame.canvas.PygameCanvas(self)
         self.set_canvas(self._pygamecanvas)
