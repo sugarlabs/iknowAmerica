@@ -78,6 +78,8 @@ COLORPREGUNTAS = (80,80,155)
 COLORPANEL = (156,158,172)
 COLORBARRA_P = (255, 0, 0)
 COLORBARRA_A = (0, 0, 255)
+COLORBARRA_C = (0, 0, 0)
+COLOR_FONDO = (0, 0, 0)
 TOTALAVANCE = 7
 EVENTORESPUESTA = pygame.USEREVENT+1
 TIEMPORESPUESTA = 2300
@@ -543,7 +545,7 @@ class Conozco():
         self.pantallaTemp = pygame.Surface(
             (self.anchoPantalla,self.altoPantalla))
         self.pantallaTemp.blit(self.pantalla,(0,0))
-        self.pantalla.fill((0,0,0))
+        self.pantalla.fill(COLOR_FONDO)
         self.pantalla.blit(self.terron,
                         (int(20*scale+shift_x),
                             int(20*scale+shift_y)))
@@ -591,7 +593,7 @@ class Conozco():
         self.pantallaTemp = pygame.Surface(
             (self.anchoPantalla,self.altoPantalla))
         self.pantallaTemp.blit(self.pantalla,(0,0))
-        self.pantalla.fill((0,0,0))
+        self.pantalla.fill(COLOR_FONDO)
         self.pantalla.blit(self.jp1,
                         (int(925*scale+shift_x),
                             int(468*scale+shift_y)))
@@ -665,7 +667,7 @@ class Conozco():
 
     def pantallaInicial(self):
         """Pantalla con el menu principal del juego"""
-        self.pantalla.fill((0,0,0))
+        self.pantalla.fill(COLOR_FONDO)
         self.mostrarTexto(self.activity_name,
                         self.fuente60,
                         (int(600*scale+shift_x),
@@ -788,7 +790,7 @@ class Conozco():
 
     def pantallaDirectorios(self):
         """Pantalla con el menu de directorios"""
-        self.pantalla.fill((0,0,0))
+        self.pantalla.fill(COLOR_FONDO)
         self.mostrarTexto(self.activity_name,
                         self.fuente60,
                         (int(600*scale+shift_x),int(80*scale+shift_y)),
@@ -801,7 +803,7 @@ class Conozco():
         paginaDirectorios = self.paginaDir
         while 1:
             yLista = int(200*scale+shift_y)
-            self.pantalla.fill((0,0,0),
+            self.pantalla.fill(COLOR_FONDO,
                             (int(shift_x),yLista-int(24*scale),
                                 int(1200*scale),int(600*scale)))
             if paginaDirectorios == 0:
@@ -1605,7 +1607,7 @@ class Conozco():
                 self.listaSufijos,self.listaPrefijos)
         self.mostrarGlobito(self.lineasPregunta)
         # barra puntaje
-        pygame.draw.rect(self.pantalla, (0,0,0),
+        pygame.draw.rect(self.pantalla, COLORBARRA_C,
                                 (int(XBARRA_P*scale+shift_x),
                                 int((YBARRA_P-350)*scale+shift_y),
                                 int(ABARRA_P*scale),
@@ -1615,14 +1617,14 @@ class Conozco():
             int(YBARRA_P+10)*scale+shift_y), COLORBARRA_P)
         # barra avance
         unidad = ABARRA_A / TOTALAVANCE
-        pygame.draw.rect(self.pantalla, (0,0,0),
+        pygame.draw.rect(self.pantalla, COLORBARRA_C,
                                 (int(XBARRA_A*scale+shift_x),
                                 int(YBARRA_A*scale+shift_y),
                                 int(ABARRA_A*scale),
                                 int(ABARRA_P*scale)), 3)
         for i in range(TOTALAVANCE-1):
             posx = int((XBARRA_A + unidad * (i+1))*scale+shift_x)
-            l = pygame.draw.line(self.pantalla, (0,0,0),
+            l = pygame.draw.line(self.pantalla, COLORBARRA_C,
                             (int(posx),
                             int(YBARRA_A*scale+shift_y)), 
                             (int(posx),
@@ -1684,7 +1686,7 @@ class Conozco():
                                             int(self.puntos*5*scale)
                                             )
                                             )
-                                    pygame.draw.rect(self.pantalla, (0,0,0),
+                                    pygame.draw.rect(self.pantalla, COLORBARRA_C,
                                         (int(XBARRA_P*scale+shift_x),
                                         int((YBARRA_P-350)*scale+shift_y),
                                         int(ABARRA_P*scale),
@@ -1733,14 +1735,14 @@ class Conozco():
                                             int(ABARRA_P*scale)
                                             )
                                             )
-                            pygame.draw.rect(self.pantalla, (0,0,0),
+                            pygame.draw.rect(self.pantalla, COLORBARRA_C,
                                                 (int(XBARRA_A*scale+shift_x),
                                                 int(YBARRA_A*scale+shift_y),
                                                 int(ABARRA_A*scale),
                                                 int(ABARRA_P*scale)), 3)
                             for i in range(TOTALAVANCE-1):
                                 posx = int((XBARRA_A + unidad * (i+1))*scale+shift_x)
-                                l = pygame.draw.line(self.pantalla, (0,0,0),
+                                l = pygame.draw.line(self.pantalla, COLORBARRA_C,
                                             (int(posx),
                                             int(YBARRA_A*scale+shift_y)), 
                                             (int(posx),
@@ -1759,14 +1761,14 @@ class Conozco():
                                         int(ABARRA_P*scale)
                                         )
                                         )
-                        pygame.draw.rect(self.pantalla, (0,0,0),
+                        pygame.draw.rect(self.pantalla, COLORBARRA_C,
                                             (int(XBARRA_A*scale+shift_x),
                                             int((YBARRA_A)*scale+shift_y),
                                             int(ABARRA_A*scale),
                                             int(ABARRA_P*scale)), 3)
                         for i in range(TOTALAVANCE-1):
                             posx = int((XBARRA_A + unidad * (i+1))*scale+shift_x)
-                            l = pygame.draw.line(self.pantalla, (0,0,0),
+                            l = pygame.draw.line(self.pantalla, COLORBARRA_C,
                                         (int(posx),
                                         int(YBARRA_A*scale+shift_y)), 
                                         (int(posx),
@@ -1850,7 +1852,7 @@ class Conozco():
     def presentacion(self):
 
         #***************************** cuadro 1 ******************************
-        self.pantalla.fill((0,0,0))
+        self.pantalla.fill(COLOR_FONDO)
         self.pantalla.blit(self.fondo1,
                         (int(75*scale+shift_x),int(75*scale+shift_y)))
         self.mostrarTexto(_("Press any key to skip"),
