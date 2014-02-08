@@ -1634,6 +1634,7 @@ class Conozco():
         self.otorgado = False
         self.estadodespedida = 0
         self.primera = False
+        self.respondiendo = False
         self.avanceNivel = 0
         pygame.time.set_timer(EVENTORESPUESTA,0)
         # leer eventos y ver si la respuesta es correcta
@@ -1651,50 +1652,52 @@ class Conozco():
                         return
                 elif event.type == pygame.MOUSEBUTTONDOWN:
                     self.click.play()
-                    if self.avanceNivel < TOTALAVANCE:
-                        if event.pos[0] < XMAPAMAX*scale+shift_x: # zona mapa
-                            self.borrarGlobito()
-                            if self.esCorrecta(self.nivelActual,
-                                            event.pos):
-                                if not(self.otorgado):
-                                    self.correcto()
-                                    self.otorgado = True
-                            else:
-                                self.mal()
-                            if self.puntos < 0:
-                                self.mostrarTexto('0',self.fuente32,
-                                    (int((XBARRA_P+ABARRA_P/2)*scale+shift_x),
-                                    int(YBARRA_P+15)*scale+shift_y),
-                                    COLORBARRA_P)
-                            else:
-                                self.pantalla.fill(COLORPANEL, (
-                                        int(XBARRA_P*scale+shift_x),
+                    if event.pos[0] < XMAPAMAX*scale+shift_x: # zona mapa
+                        if self.avanceNivel < TOTALAVANCE:
+                            if not(self.respondiendo):
+                                self.respondiendo = True
+                                if self.esCorrecta(self.nivelActual, event.pos):
+                                    if not(self.otorgado):
+                                        self.borrarGlobito()
+                                        self.correcto()
+                                        self.otorgado = True
+                                else:
+                                    self.borrarGlobito()
+                                    self.mal()
+                                if self.puntos < 0:
+                                    self.mostrarTexto('0',self.fuente32,
+                                        (int((XBARRA_P+ABARRA_P/2)*scale+shift_x),
+                                        int(YBARRA_P+15)*scale+shift_y),
+                                        COLORBARRA_P)
+                                else:
+                                    self.pantalla.fill(COLORPANEL, (
+                                            int(XBARRA_P*scale+shift_x),
+                                            int((YBARRA_P-350)*scale+shift_y),
+                                            int(ABARRA_P*scale),
+                                            int(390*scale)
+                                            )
+                                            )
+                                    self.pantalla.fill(COLORBARRA_P, (
+                                            int(XBARRA_P*scale+shift_x),
+                                            int((YBARRA_P-self.puntos*5)*scale+shift_y),
+                                            int(ABARRA_P*scale),
+                                            int(self.puntos*5*scale)
+                                            )
+                                            )
+                                    pygame.draw.rect(self.pantalla, (0,0,0),
+                                        (int(XBARRA_P*scale+shift_x),
                                         int((YBARRA_P-350)*scale+shift_y),
                                         int(ABARRA_P*scale),
-                                        int(390*scale)
-                                        )
-                                        )
-                                self.pantalla.fill(COLORBARRA_P, (
-                                        int(XBARRA_P*scale+shift_x),
-                                        int((YBARRA_P-self.puntos*5)*scale+shift_y),
-                                        int(ABARRA_P*scale),
-                                        int(self.puntos*5*scale)
-                                        )
-                                        )
-                                pygame.draw.rect(self.pantalla, (0,0,0),
-                                    (int(XBARRA_P*scale+shift_x),
-                                    int((YBARRA_P-350)*scale+shift_y),
-                                    int(ABARRA_P*scale),
-                                    int(350*scale)), 3)
-                                self.mostrarTexto(str(self.puntos),self.fuente32,
-                                    (int((XBARRA_P+ABARRA_P/2)*scale+shift_x),
-                                    int(YBARRA_P+15)*scale+shift_y),
-                                    COLORBARRA_P)
-                        elif event.pos[0] > 975*scale+shift_x and \
-                                event.pos[0] < 1175*scale+shift_x and \
-                                event.pos[1] > 25*scale+shift_y and \
-                                event.pos[1] < 75*scale+shift_y: # terminar
-                            return
+                                        int(350*scale)), 3)
+                                    self.mostrarTexto(str(self.puntos),self.fuente32,
+                                        (int((XBARRA_P+ABARRA_P/2)*scale+shift_x),
+                                        int(YBARRA_P+15)*scale+shift_y),
+                                        COLORBARRA_P)
+                            elif event.pos[0] > 975*scale+shift_x and \
+                                    event.pos[0] < 1175*scale+shift_x and \
+                                    event.pos[1] > 25*scale+shift_y and \
+                                    event.pos[1] < 75*scale+shift_y: # terminar
+                                return
                     else:
                         if event.pos[0] > 975*scale+shift_x and \
                            event.pos[0] < 1175*scale+shift_x and \
@@ -1704,6 +1707,7 @@ class Conozco():
                             return
                 elif event.type == EVENTORESPUESTA:
                     pygame.time.set_timer(EVENTORESPUESTA,0)
+                    self.respondiendo = False
                     if not(self.esCorrecto):
                         if self.nRespuestasMal == 1: # ayuda
                             linea = self.lineasPregunta
