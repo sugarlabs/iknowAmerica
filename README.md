@@ -1,3 +1,14 @@
+
+I know America
+========
+
+A sugar game about the America geography.
+Writted in python using pygame
+
+
+
+
+
 Las imágenes de este juego están licenciadas bajo una Licencia
 Atribución-No Comercial-Compartir Obras Derivadas Igual 3.0 Unported
 de Creative Commons. Para ver una copia de esta licencia, visite
