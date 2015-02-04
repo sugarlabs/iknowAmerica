@@ -181,14 +181,14 @@ STATS = [
     (_('Capital:'), _('Montevideo') + _("(34º53' S - 56º10' W)")),
     (_('Language:'), _('Spanish')),
     (_('Government:'), _('Presidential republic')),
-    (_('President:'), _('José Mujica')),
-    (_('Vice President:'), _('Danilo Astori')),
+    (_('President:'), _('Tabaré Vázquez')),
+    (_('Vice President:'), _('Raúl Sendic')),
     (_('Independence:'), _('declared: %s') % _('25 of august of 1825')),
     ('', _('recognized: %s') % _('28 of august of 1828')),
     (_('Area:'), _('176.215 km² (90th)')),
     (_('Population:'), _('3.424.595 (128th)')),
     (_('GDP:'), _('USD 49.716 billion (78th)')),
-    (_('HDI:'), _('High - 0,792 (51st)')),
+    (_('HDI:'), _('High - 0,790 (50th)')),
     (_('Currency:'), _('Peso'))
 ]
 
