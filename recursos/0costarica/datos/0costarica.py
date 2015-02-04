@@ -148,15 +148,15 @@ STATS = [
     (_('Capital:'), _('San José') + _("(9º56'N - 84º5'W)")),
     (_('Language:'), _('Spanish')),
     (_('Government:'), _('Presidential republic')),
-    (_('President:'), _('Esteban Vixx')),
-    (_('Vice President:'), _('Alfio Piva Mesén')),
-    ('', _('Luis Liberman Ginsburg')),
+    (_('President:'), _('Luis Guillermo Solís')),
+    (_('Vice President:'), _('Helio Fallas Venegas')),
+    ('', _('Ana Helena Chacón')),
     (_('Independence:'), _('from Spain')),
     ('', _('15 of september of 1821')),
     (_('Area:'), _('51.100 km² (129th)')),
     (_('Population:'), _('4.615.518 (115th)')),
     (_('GDP:'), _('USD 44.884 billion (80th)')),
-    (_('HDI:'), _('High - 0,725 (62th)')),
+    (_('HDI:'), _('High - 0,763 (68th)')),
     (_('Currency:'), _('Costa Rica Colon'))
 ]
 
