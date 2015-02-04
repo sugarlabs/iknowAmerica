@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-12-19 17:27+0000\n"
-"PO-Revision-Date: 2015-02-04 12:47+0000\n"
+"PO-Revision-Date: 2015-02-04 12:56+0000\n"
 "Last-Translator: Alan <alanjas@hotmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: es\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1423054039.000000\n"
+"X-POOTLE-MTIME: 1423054603.000000\n"
 
 #: /var/www/pootle/sugarlabs/clones/IKnowAmerica/recursos/comun/datos/commons.py:5
 msgid "I know America"
@@ -5739,11 +5739,11 @@ msgstr "1865 (de España)"
 
 #: /var/www/pootle/sugarlabs/clones/IKnowAmerica/recursos/0dominicana/datos/0dominicana.py:120
 msgid "48.442 km² (131th)"
-msgstr "48.442 km² (131vo)"
+msgstr "48.442 km² (131º)"
 
 #: /var/www/pootle/sugarlabs/clones/IKnowAmerica/recursos/0dominicana/datos/0dominicana.py:121
 msgid "10.090.000 (80th)"
-msgstr "10.090.000 (80vo)"
+msgstr "10.090.000 (80º)"
 
 #: /var/www/pootle/sugarlabs/clones/IKnowAmerica/recursos/0dominicana/datos/0dominicana.py:122
 msgid "USD 59.133 billion (69th)"
@@ -5751,7 +5751,7 @@ msgstr "US$ 59.133 millones (69º)"
 
 #: /var/www/pootle/sugarlabs/clones/IKnowAmerica/recursos/0dominicana/datos/0dominicana.py:123
 msgid "Medium - 0,783 (88th)"
-msgstr "Medio - 0,783 (88vo)"
+msgstr "Medio - 0,783 (88º)"
 
 #: /var/www/pootle/sugarlabs/clones/IKnowAmerica/recursos/0tytobago/datos/0tytobago.py:8
 #: /var/www/pootle/sugarlabs/clones/IKnowAmerica/recursos/0tytobago/datos/levels.py:11
