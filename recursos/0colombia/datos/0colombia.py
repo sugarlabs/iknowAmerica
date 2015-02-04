@@ -136,14 +136,14 @@ STATS = [
     (_('Language:'), _('Spanish')),
     (_('Government:'), _('Presidential republic')),
     (_('President:'), _('Juan Manuel Santos')),
-    (_('Vice President:'), _('Angelino Garzón')),
+    (_('Vice President:'), _('Germán Vargas Lleras')),
     (_('Independence:'), _('from Spain')),
     ('', _('declared: %s') % _('20 of july of 1810')),
     ('', _('recognized: %s') % _('7 of august of 1819')),
     (_('Area:'), _('1.141.748 km² (26th)')),
     (_('Population:'), _('45.925.397 (28th)')),
     (_('GDP:'), _('USD 365.402 billion (31st)')),
-    (_('HDI:'), _('High - 0,689 (79th)')),
+    (_('HDI:'), _('High - 0,711 (98th)')),
     (_('Currency:'), _('Peso'))
 ]
 
