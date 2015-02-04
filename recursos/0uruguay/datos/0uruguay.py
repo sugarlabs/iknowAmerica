@@ -189,6 +189,7 @@ STATS = [
     (_('Population:'), _('3.424.595 (128th)')),
     (_('GDP:'), _('USD 49.716 billion (78th)')),
     (_('HDI:'), _('High - 0,790 (50th)')),
-    (_('Currency:'), _('Peso'))
+    (_('Currency:'), _('Peso')),
+    (_('Info updated:'), _('1 of march of 2015'))
 ]
 

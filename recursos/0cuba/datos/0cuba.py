@@ -84,14 +84,15 @@ STATS = [
     (_('Language:'), _('Spanish')),
     (_('Government:'), _('Communist state')),
     (_('President:'), _('Raúl Castro')),
-    (_('Vice President:'), _('José Ramón Machado')),
+    (_('Vice President:'), _('Miguel Díaz-Canel')),
     (_('Independence:'), _('from United States')),
     ('', _('20 of may of 1902')),
     (_('Area:'), _('110.860 km² (105th)')),
     (_('Population:'), _('11.242.621 (71th)')),
     (_('GDP:'), _('USD 110.800 billion (65th)')),
-    (_('HDI:'), _('High - 0,760 (53th)')),
-    (_('Currency:'), _('Cuban peso'))
+    (_('HDI:'), _('High - 0,815 (44th)')),
+    (_('Currency:'), _('Cuban peso')),
+    (_('Info updated:'), _('4 of february of 2015'))
 ]
 
 

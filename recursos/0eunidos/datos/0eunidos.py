@@ -185,8 +185,9 @@ STATS = [
     (_('Area:'), _('9.826.675 km² (3rd)')),
     (_('Population:'), _('308.745.538 (3rd)')),
     (_('GDP:'), _('USD 15653.366 billion (1st)')),
-    (_('HDI:'), _('Muy High - 0,902 (4th)')),
-    (_('Currency:'), _('United States Dollar'))
+    (_('HDI:'), _('Muy High - 0,915 (5th)')),
+    (_('Currency:'), _('United States Dollar')),
+    (_('Info updated:'), _('4 of february of 2015'))
 ]
 
 

@@ -116,7 +116,8 @@ STATS = [
     (_('Area:'), _('406.752 km² (59th)')),
     (_('Population:'), _('6.459.000 (103th)')),
     (_('GDP:'), _('USD 26.089billion (96th)')),
-    (_('HDI:'), _('Medium - 0,676 (111th)')),
-    (_('Currency:'), _('Guaraní'))
+    (_('HDI:'), _('Medium - 0,676 (111st)')),
+    (_('Currency:'), _('Guaraní')),
+    (_('Info updated:'), _('4 of february of 2015'))
 ]
 

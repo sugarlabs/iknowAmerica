@@ -157,7 +157,8 @@ STATS = [
     (_('Population:'), _('4.615.518 (115th)')),
     (_('GDP:'), _('USD 44.884 billion (80th)')),
     (_('HDI:'), _('High - 0,763 (68th)')),
-    (_('Currency:'), _('Costa Rica Colon'))
+    (_('Currency:'), _('Costa Rica Colon')),
+    (_('Info updated:'), _('4 of february of 2015'))
 ]
 
 
