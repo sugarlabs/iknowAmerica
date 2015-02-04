@@ -46,14 +46,14 @@ STATS = [
     (_('Capital:'), _('Santiago') + _("(33º26' S - 70º39' W)")),
     (_('Language:'), _('Spanish')),
     (_('Government:'), _('Presidential republic')),
-    (_('President:'), _('Sebastián Piñera')),
+    (_('President:'), _('Michelle Bachelet Jeria')),
     (_('Independence:'), _('from Spain')),
     ('', _('declared: %s') % _('12 of february of 1818')),
     ('', _('recognized: %s') % _('24 of february of 1844')),
     (_('Area:'), _('756.096 km² (38th)')),
     (_('Population:'), _('17.248.450 (59th)')),
     (_('GDP:'), _('USD 268.278 billion (37th)')),
-    (_('HDI:'), _('High - 0,783 (45th)')),
+    (_('HDI:'), _('High - 0,822 (41st)')),
     (_('Currency:'), _('Peso'))
 ]
 
