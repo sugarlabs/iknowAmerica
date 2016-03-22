@@ -10349,7 +10349,7 @@ msgid "USD 15653.366 billion (1st)"
 msgstr ""
 
 #: recursos/0eunidos/datos/0eunidos.py:188
-msgid "Muy High - 0,902 (4th)"
+msgid "Very High - 0,902 (4th)"
 msgstr ""
 
 #: recursos/0guatemala/datos/0guatemala.py:8
