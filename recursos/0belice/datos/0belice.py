@@ -96,14 +96,15 @@ STATS = [
     (_('Language:'), _('English (most speak: Spanish)')),
     (_('Government:'), _('Parliamentary democracy')),
     (_('Monarch:'), _('Queen Elizabeth II')),
-    (_('Governor:'), _('Sir Colville Young')),
+    (_('Governor:'), _('Dean Barrow')),
     (_('Independence:'), _('from the United Kingdom')),
     ('', _('21 of september of 1981')),
     (_('Area:'), _('22.966 km² (151th)')),
-    (_('Population:'), _('372.000 (170th)')),
-    (_('GDP:'), _('USD 1.52 billions (167th)')),
-    (_('HDI:'), _('High - 0,694 (78th)')),
-    (_('Currency:'), _('Belize Dollar'))
+    (_('Population:'), _('347.369 (170th)')),
+    (_('GDP:'), _('USD 1.759 billions (167th)')),
+    (_('HDI:'), _('High - 0,715 (101st)')),
+    (_('Currency:'), _('Belize Dollar')),
+    (_('Info updated:'), _('5 of april of 2016'))
 ]
 
 

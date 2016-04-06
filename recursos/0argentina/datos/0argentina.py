@@ -111,17 +111,17 @@ STATS = [
     (_('Capital:'), _('Buenos Aires') + _("(34º40' S - 58º24' W)")),
     (_('Language:'), _('Spanish')),
     (_('Government:'), _('Federal presidential republic')),
-    (_('President:'), _('Cristina Fernández')),
-    (_('Vice President:'), _('Amado Boudou')),
+    (_('President:'), _('Mauricio Macri')),
+    (_('Vice President:'), _('Gabriela Michetti')),
     (_('Independence:'), _('from Spain')),
     ('', _('declared: %s') % _('9 of july of 1816')),
     ('', _('recognized: %s') % ('21 of september of 1863')),
     (_('Area:'), _('2.780.400 km² (8th)')),
-    (_('Population:'), _('40.091.359 (32nd)')),
-    (_('GDP:'), _('USD 474.812 billion (25th)')),
-    (_('HDI:'), _('High - 0,808 (49th)')),
+    (_('Population:'), _('43.417.000 (32nd)')),
+    (_('GDP:'), _('USD 964.279 billion (25th)')),
+    (_('HDI:'), _('Very High - 0,836 (40th)')),
     (_('Currency:'), _('Peso')),
-    (_('Info updated:'), _('4 of february of 2015'))
+    (_('Info updated:'), _('5 of april of 2016'))
 ]
 
 

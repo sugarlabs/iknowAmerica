@@ -155,10 +155,10 @@ STATS = [
     ('', _('15 of september of 1821')),
     (_('Area:'), _('51.100 km² (129th)')),
     (_('Population:'), _('4.615.518 (115th)')),
-    (_('GDP:'), _('USD 44.884 billion (80th)')),
-    (_('HDI:'), _('High - 0,763 (68th)')),
+    (_('GDP:'), _('USD 74.324 billion (80th)')),
+    (_('HDI:'), _('High - 0,766 (69th)')),
     (_('Currency:'), _('Costa Rica Colon')),
-    (_('Info updated:'), _('4 of february of 2015'))
+    (_('Info updated:'), _('5 of april of 2016'))
 ]
 
 

@@ -74,13 +74,14 @@ STATS = [
     (_('Language:'), _('English')),
     (_('Government:'), _('Parliamentary republic')),
     (_('President:'), _('Anthony Carmona')),
-    (_('Prime Minister:'), _('Kamla Persad-Bissessar')),
+    (_('Prime Minister:'), _('Keith Rowley')),
     (_('Independence:'), _('from United Kingdom')),
     ('', _('31 of august of 1962')),
     (_('Area:'), _('5.128 km² (172th)')),
-    (_('Population:'), _('1.299.953 (153th)')),
-    (_('GDP:'), _('USD 23.837 billion (100th)')),
-    (_('HDI:'), _('High - 0,736 (59th)')),
-    (_('Currency:'), _('Trinidad and Tobago dollar'))
+    (_('Population:'), _('1.223.916 (159th)')),
+    (_('GDP:'), _('USD 28.788 billion (100th)')),
+    (_('HDI:'), _('High - 0,772 (64th)')),
+    (_('Currency:'), _('Trinidad and Tobago dollar')),
+    (_('Info updated:'), _('5 of april of 2016'))
 ]
 

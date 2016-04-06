@@ -117,10 +117,10 @@ STATS = [
     ('', _('declared: %s') % _('1st of july of 1867')),
     ('', _('recognized: %s') % _('11 of december of 1931')),
     (_('Area:'), _('9.984.670 km² (2nd)')),
-    (_('Population:'), _('34.124.781 (37th)')),
-    (_('GPD:'), _('USD 1770.084 billion (11st)')),
-    (_('HDI:'), _('Very high - 0,902 (8th)')),
+    (_('Population:'), _('36.048.521 (37th)')),
+    (_('GPD:'), _('USD 1628.000 billion (15th)')),
+    (_('HDI:'), _('Very high - 0,913 (9th)')),
     (_('Currency:'), _('Canadian dollar')),
-    (_('Info updated:'), _('4 of february of 2015'))
+    (_('Info updated:'), _('5 of april of 2016'))
 ]
 

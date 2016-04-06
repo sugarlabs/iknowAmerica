@@ -140,11 +140,11 @@ STATS = [
     ('', _('declared: %s') % _('15 of september of 1821')),
     ('', _('recognized: %s') % _('8 of april of 1826')),
     (_('Area:'), _('129.494 km² (97th)')),
-    (_('Population:'), _('5.465.100 (108th)')),
-    (_('GDP:'), _('USD 7.828 billion (138th)')),
-    (_('HDI:'), _('Medium - 0,614 (132nd)')),
+    (_('Population:'), _('6.071.045 (108th)')),
+    (_('GDP:'), _('USD 12.557 billion (138th)')),
+    (_('HDI:'), _('Medium - 0,631 (125th)')),
     (_('Currency:'), _('Córdoba')),
-    (_('Info updated:'), _('4 of february of 2015'))
+    (_('Info updated:'), _('5 of april of 2016'))
 ]
 
 

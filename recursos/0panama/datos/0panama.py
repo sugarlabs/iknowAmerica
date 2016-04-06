@@ -95,10 +95,10 @@ STATS = [
     ('', _('28 of november of 1821')),
     (_('from Colombia:'), _('3 of november of 1903')),
     (_('Area:'), _('78.200 km² (118th)')),
-    (_('Population:'), _('3.405.813 (129th)')),
-    (_('GDP:'), _('USD 34.819 billion (89th)')),
-    (_('HDI:'), _('High - 0,765 (65th)')),
+    (_('Population:'), _('3.929.141 (129th)')),
+    (_('GDP:'), _('USD 49.142 billion (89th)')),
+    (_('HDI:'), _('High - 0,780 (60th)')),
     (_('Currency:'), _('Balboa')),
-    (_('Info updated:'), _('4 of february of 2015'))
+    (_('Info updated:'), _('5 of april of 2016'))
 ]
 

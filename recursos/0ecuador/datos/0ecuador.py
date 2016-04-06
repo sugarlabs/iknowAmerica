@@ -146,10 +146,10 @@ STATS = [
     ('', _('24 of may of 1822')),
     ('', _('of Colombia: 13 may of 1830')),
     (_('Area:'), _('256.370 km² (71th)')),
-    (_('Population:'), _('14.306.876 (--th)')),
-    (_('GDP:'), _('USD 70.836 billion (67th)')),
-    (_('HDI:'), _('High - 0,711 (98th)')),
+    (_('Population:'), _('16.144.000 (65th)')),
+    (_('GDP:'), _('USD 100.755 billion (64th)')),
+    (_('HDI:'), _('High - 0,732 (88th)')),
     (_('Currency:'), _('United States Dollar')),
-    (_('Info updated:'), _('4 of february of 2015'))
+    (_('Info updated:'), _('5 of april of 2016'))
 ]
 

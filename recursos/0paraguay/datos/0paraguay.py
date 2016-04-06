@@ -114,10 +114,10 @@ STATS = [
     ('', _('declared: %s') % _('15 of may of 1811')),
     ('', _('recognized: %s') % _('10 of september of 1880')),
     (_('Area:'), _('406.752 km² (59th)')),
-    (_('Population:'), _('6.459.000 (103th)')),
-    (_('GDP:'), _('USD 26.089billion (96th)')),
-    (_('HDI:'), _('Medium - 0,676 (111st)')),
+    (_('Population:'), _('7.012.433 (104th)')),
+    (_('GDP:'), _('USD 30.754 billion (99th)')),
+    (_('HDI:'), _('Medium - 0,679 (112nd)')),
     (_('Currency:'), _('Guaraní')),
-    (_('Info updated:'), _('4 of february of 2015'))
+    (_('Info updated:'), _('5 of april of 2016'))
 ]
 

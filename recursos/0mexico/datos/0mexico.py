@@ -142,10 +142,10 @@ STATS = [
     ('', _('declared: %s') % _('16 of september of 1810')),
     ('', _('recognized: %s') % _('28 of december of 1836')),
     (_('Area:'), _('1.972.550 km² (14th)')),
-    (_('Population:'), _('112.322.757 (11th)')),
-    (_('GDP:'), _('USD 1162.891 billion (14th)')),
-    (_('HDI:'), _('High - 0,756 (71st)')),
+    (_('Population:'), _('119.530.753 (11st)')),
+    (_('GDP:'), _('USD 1.232.000 billion (13th)')),
+    (_('HDI:'), _('High - 0,756 (74th)')),
     (_('Currency:'), _('Peso')),
-    (_('Info updated:'), _('4 of february of 2015'))
+    (_('Info updated:'), _('5 of april of 2016'))
 ]
 

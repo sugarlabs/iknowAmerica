@@ -155,16 +155,16 @@ STATS = [
     (_('Capital:'), _('Guatemala') + _("(14º38' N - 90º33' W)")),
     (_('Language:'), _('Spanish')),
     (_('Government:'), _('Presidential republic')),
-    (_('President:'), _('Otto Pérez Molina')),
-    (_('Vice President:'), _('Roxana Baldetti')),
+    (_('President:'), _('Jimmy Morales')),
+    (_('Vice President:'), _('Jafeth Cabrera')),
     (_('Independence:'), _('from Spain')),
     ('', _('declared: %s') % _('15 of september of 1821')),
     ('', _('recognized: %s') % _('11 of october of 1825')),
     (_('Area:'), _('108.889 km² (106th)')),
-    (_('Population:'), _('13.718.000 (67th)')),
-    (_('GDP:'), _('USD 50.296 billion (77th)')),
-    (_('HDI:'), _('Medium - 0,628 (125th)')),
+    (_('Population:'), _('15.806.675 (66th)')),
+    (_('GDP:'), _('USD 66.037 billion (77th)')),
+    (_('HDI:'), _('Medium - 0,627 (128th)')),
     (_('Currency:'), _('Quetzal')),
-    (_('Info updated:'), _('4 of february of 2015'))
+    (_('Info updated:'), _('5 of april of 2016'))
 ]
 

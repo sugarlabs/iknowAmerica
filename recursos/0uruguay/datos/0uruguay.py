@@ -186,10 +186,10 @@ STATS = [
     (_('Independence:'), _('declared: %s') % _('25 of august of 1825')),
     ('', _('recognized: %s') % _('28 of august of 1828')),
     (_('Area:'), _('176.215 km² (90th)')),
-    (_('Population:'), _('3.424.595 (128th)')),
-    (_('GDP:'), _('USD 49.716 billion (78th)')),
-    (_('HDI:'), _('High - 0,790 (50th)')),
+    (_('Population:'), _('3.324.460 (133rd)')),
+    (_('GDP:'), _('USD 54.968 billion (78th)')),
+    (_('HDI:'), _('High - 0,793 (52th)')),
     (_('Currency:'), _('Peso')),
-    (_('Info updated:'), _('1 of march of 2015'))
+    (_('Info updated:'), _('5 of april of 2016'))
 ]
 

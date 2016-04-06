@@ -78,13 +78,14 @@ STATS = [
     (_('Language:'), _('Dutch')),
     (_('Government:'), _('Representative republic')),
     (_('President:'), _('Dési Bouterse')),
-    (_('Vice President:'), _('Robert Ameerali')),
+    (_('Vice President:'), _('Ashwin Adhin')),
     (_('Independence:'), _('from Netherlands')),
     ('', _('25 of november of 1975')),
     (_('Area:'), _('163.820 km² (91th)')),
-    (_('Population:'), _('542.000 (171th)')),
-    (_('GDP:'), _('USD 5.094 billion (147th)')),
-    (_('HDI:'), _('Medium - 0,646 (94th)')),
-    (_('Currency:'), _('Surinamese dollar'))
+    (_('Population:'), _('573.311 (167th)')),
+    (_('GDP:'), _('USD 5.297 billion (147th)')),
+    (_('HDI:'), _('Medium - 0,714 (103rd)')),
+    (_('Currency:'), _('Surinamese dollar')),
+    (_('Info updated:'), _('5 of april of 2016'))
 ]
 

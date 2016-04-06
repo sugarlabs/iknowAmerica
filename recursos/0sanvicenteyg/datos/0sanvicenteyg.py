@@ -61,9 +61,10 @@ STATS = [
     (_('Independence:'), _('from United Kingdom')),
     ('', _('27 of october of 1979')),
     (_('Area:'), _('389 km² (206th)')),
-    (_('Population:'), _('100.369 (193rd)')),
-    (_('GDP:'), _('USD 0.717 billion (181st)')),
-    (_('HDI:'), _('Medium - 0,791 (93rd)')),
-    (_('Currency:'), _('Caribbean Dollar'))
+    (_('Population:'), _('103.000 (196th)')),
+    (_('GDP:'), _('USD 0.695 billion (181st)')),
+    (_('HDI:'), _('Medium - 0,720 (97th)')),
+    (_('Currency:'), _('Caribbean Dollar')),
+    (_('Info updated:'), _('5 of april of 2016'))
 ]
 

@@ -68,9 +68,10 @@ STATS = [
     (_('Government:'), _('Overseas department')),
     ('', _('from France')),
     (_('Area:'), _('86.504 km² (112th)')),
-    (_('Population:'), _('230.000 (187th)')),
+    (_('Population:'), _('259.109 (186th)')),
     (_('GDP:'), _('USD 1.151 billion (181th)')),
     (_('HDI:'), _('-- (--th)')),
-    (_('Currency:'), _('Euro'))
+    (_('Currency:'), _('Euro')),
+    (_('Info updated:'), _('5 of april of 2016'))
 ]
 

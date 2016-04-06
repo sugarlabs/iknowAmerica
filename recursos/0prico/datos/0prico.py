@@ -188,12 +188,12 @@ STATS = [
     (_('President:'), _('Barack Obama')),
     (_('Governor:'), _('Alejandro García Padilla')),
     (_('Ceded by Spain to the United States'), ''),
-    ('', _('13 of august of 1898 ')),
+    ('', _('13 of august of 1898')),
     (_('Area:'), _('9.104 km² (170th)')),
     (_('Population:'), _('3.725.789 (127th)')),
-    (_('GDP:'), _('USD 96.260 billion (--th)')),
+    (_('GDP:'), _('USD 105.100 billion (60th)')),
     (_('HDI:'), _('Very High - 0.865 (29th)')),
     (_('Currency:'), _('United States Dollar')),
-    (_('Info updated:'), _('4 of february of 2015'))
+    (_('Info updated:'), _('5 of april of 2016'))
 ]
 

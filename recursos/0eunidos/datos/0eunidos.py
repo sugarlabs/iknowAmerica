@@ -183,11 +183,11 @@ STATS = [
     ('', _('declared: %s') % _('4 of july of 1776')),
     ('', _('recognized: %s') % _('3 of september of 1783')),
     (_('Area:'), _('9.826.675 km² (3rd)')),
-    (_('Population:'), _('308.745.538 (3rd)')),
-    (_('GDP:'), _('USD 15653.366 billion (1st)')),
-    (_('HDI:'), _('Very High - 0,915 (5th)')),
+    (_('Population:'), _('322.369.319 (3rd)')),
+    (_('GDP:'), _('USD 17419.000 billion (2st)')),
+    (_('HDI:'), _('Very High - 0,915 (8th)')),
     (_('Currency:'), _('United States Dollar')),
-    (_('Info updated:'), _('4 of february of 2015'))
+    (_('Info updated:'), _('5 of april of 2016'))
 ]
 
 

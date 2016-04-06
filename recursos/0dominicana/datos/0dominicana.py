@@ -119,10 +119,10 @@ STATS = [
     ('', _('1865 (from Spain)')),
     (_('Area:'), _('48.442 km² (131th)')),
     (_('Population:'), _('10.090.000 (80th)')),
-    (_('GDP:'), _('USD 59.133 billion (69th)')),
-    (_('HDI:'), _('Medium - 0,700 (102nd)')),
+    (_('GDP:'), _('USD 66.575 billion (69th)')),
+    (_('HDI:'), _('High - 0,715 (101st)')),
     (_('Currency:'), _('Peso')),
-    (_('Info updated:'), _('4 of february of 2015'))
+    (_('Info updated:'), _('5 of april of 2016'))
 ]
 
 

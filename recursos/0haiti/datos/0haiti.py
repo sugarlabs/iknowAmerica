@@ -100,14 +100,14 @@ STATS = [
     (_('Language:'), _('French')),
     (_('Government:'), _('Presidential republic')),
     (_('President:'), _('Michel Martelly')),
-    (_('Prime Minister:'), _('Evans Paul')),
+    (_('Prime Minister:'), _('Enex Jean-Charles')),
     (_('Independence:'), _('from France')),
     ('', _('declared: %s') % _('1 of january of 1804')),
     (_('Area:'), _('27.750 km² (147th)')),
-    (_('Population:'), _('9.800.000 (90th)')),
-    (_('GDP:'), _('USD 7.895 billion (137th)')),
-    (_('HDI:'), _('Low - 0,471 (168th)')),
+    (_('Population:'), _('10.604.000 (85th)')),
+    (_('GDP:'), _('USD 8.924 billion (137th)')),
+    (_('HDI:'), _('Low - 0,483 (163rd)')),
     (_('Currency:'), _('Gourde')),
-    (_('Info updated:'), _('4 of february of 2015'))
+    (_('Info updated:'), _('5 of april of 2016'))
 ]
 

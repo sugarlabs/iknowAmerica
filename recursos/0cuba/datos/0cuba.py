@@ -89,10 +89,10 @@ STATS = [
     ('', _('20 of may of 1902')),
     (_('Area:'), _('110.860 km² (105th)')),
     (_('Population:'), _('11.242.621 (71th)')),
-    (_('GDP:'), _('USD 110.800 billion (65th)')),
-    (_('HDI:'), _('High - 0,815 (44th)')),
+    (_('GDP:'), _('USD 78.694 billion (64th)')),
+    (_('HDI:'), _('High - 0,769 (67th)')),
     (_('Currency:'), _('Cuban peso')),
-    (_('Info updated:'), _('4 of february of 2015'))
+    (_('Info updated:'), _('5 of april of 2016'))
 ]
 
 

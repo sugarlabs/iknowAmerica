@@ -121,14 +121,15 @@ STATS = [
     (_('Language:'), _('Spanish')),
     (_('Government:'), _('Federal republic')),
     (_('President:'), _('Nicolás Maduro')),
-    (_('Vice President:'), _('Jorge Arreaza')),
+    (_('Vice President:'), _('Aristóbulo Istúriz')),
     (_('Independence:'), _('from Spain')),
     ('', _('declared: %s') % _('5 of july of 1811')),
     ('', _('recognized: %s') % _('30 of march of 1845')),
     (_('Area:'), _('916.445 km² (33th)')),
-    (_('Population:'), _('28.892.735 (41th)')),
-    (_('GDP:'), _('USD 337.979 billion (33th)')),
-    (_('HDI:'), _('High - 0,696 (75th)')),
-    (_('Currency:'), _('Bolívar'))
+    (_('Population:'), _('30.933.000 (44th)')),
+    (_('GDP:'), _('USD 131.855 billion (33th)')),
+    (_('HDI:'), _('High - 0,762 (71st)')),
+    (_('Currency:'), _('Bolívar')),
+    (_('Info updated:'), _('5 of april of 2016'))
 ]
 
