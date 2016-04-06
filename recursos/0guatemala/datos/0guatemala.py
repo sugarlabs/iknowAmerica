@@ -163,7 +163,7 @@ STATS = [
     (_('Area:'), _('108.889 km² (106th)')),
     (_('Population:'), _('15.806.675 (66th)')),
     (_('GDP:'), _('USD 66.037 billion (77th)')),
-    (_('HDI:'), _('Medium - 0,627 (128th)')),
+    (_('HDI:'), '%(l)s - %(v)s (%(p)s)' % {'l': _('Medium'), 'v': _('0,627'), 'p': _('128th')}),
     (_('Currency:'), _('Quetzal')),
     (_('Info updated:'), _('5 of april of 2016'))
 ]

@@ -90,7 +90,7 @@ STATS = [
     (_('Area:'), _('214.970 km² (81th)')),
     (_('Population:'), _('735.554 (165th)')),
     (_('GDP:'), _('USD 2.788 billion (158th)')),
-    (_('HDI:'), _('Medium - 0,636 (124th)')),
+    (_('HDI:'), '%(l)s - %(v)s (%(p)s)' % {'l': _('Medium'), 'v': _('0,636'), 'p': _('124th')}),
     (_('Currency:'), _('Guyanese dollar')),
     (_('Info updated:'), _('5 of april of 2016'))
 ]

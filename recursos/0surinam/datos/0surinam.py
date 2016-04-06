@@ -84,7 +84,7 @@ STATS = [
     (_('Area:'), _('163.820 km² (91th)')),
     (_('Population:'), _('573.311 (167th)')),
     (_('GDP:'), _('USD 5.297 billion (147th)')),
-    (_('HDI:'), _('Medium - 0,714 (103rd)')),
+    (_('HDI:'), '%(l)s - %(v)s (%(p)s)' % {'l': _('Medium'), 'v': _('0,714'), 'p': _('103rd')}),
     (_('Currency:'), _('Surinamese dollar')),
     (_('Info updated:'), _('5 of april of 2016'))
 ]

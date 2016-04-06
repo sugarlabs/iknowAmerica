@@ -116,7 +116,7 @@ STATS = [
     (_('Area:'), _('406.752 km² (59th)')),
     (_('Population:'), _('7.012.433 (104th)')),
     (_('GDP:'), _('USD 30.754 billion (99th)')),
-    (_('HDI:'), _('Medium - 0,679 (112nd)')),
+    (_('HDI:'), '%(l)s - %(v)s (%(p)s)' % {'l': _('Medium'), 'v': _('0,679'), 'p': _('112nd')}),
     (_('Currency:'), _('Guaraní')),
     (_('Info updated:'), _('5 of april of 2016'))
 ]

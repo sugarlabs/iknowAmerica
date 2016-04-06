@@ -97,7 +97,7 @@ STATS = [
     (_('Area:'), _('10.991 km² (166th)')),
     (_('Population:'), _('2.950.210 (139th)')),
     (_('GDP:'), _('USD 15.569 billion (116th)')),
-    (_('HDI:'), _('High - 0,719 (99th)')),
+    (_('HDI:'), '%(l)s - %(v)s (%(p)s)' % {'l': _('High'), 'v': _('0,719'), 'p': _('99th')}),
     (_('Currency:'), _('Jamaican dollar')),
     (_('Info updated:'), _('5 of april of 2016'))
 ]

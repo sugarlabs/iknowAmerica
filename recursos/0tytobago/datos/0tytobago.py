@@ -80,7 +80,7 @@ STATS = [
     (_('Area:'), _('5.128 km² (172th)')),
     (_('Population:'), _('1.223.916 (159th)')),
     (_('GDP:'), _('USD 28.788 billion (100th)')),
-    (_('HDI:'), _('High - 0,772 (64th)')),
+    (_('HDI:'), '%(l)s - %(v)s (%(p)s)' % {'l': _('High'), 'v': _('0,772'), 'p': _('64th')}),
     (_('Currency:'), _('Trinidad and Tobago dollar')),
     (_('Info updated:'), _('5 of april of 2016'))
 ]

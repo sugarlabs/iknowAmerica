@@ -97,7 +97,7 @@ STATS = [
     (_('Area:'), _('78.200 km² (118th)')),
     (_('Population:'), _('3.929.141 (129th)')),
     (_('GDP:'), _('USD 49.142 billion (89th)')),
-    (_('HDI:'), _('High - 0,780 (60th)')),
+    (_('HDI:'), '%(l)s - %(v)s (%(p)s)' % {'l': _('High'), 'v': _('0,780'), 'p': _('60th')}),
     (_('Currency:'), _('Balboa')),
     (_('Info updated:'), _('5 of april of 2016'))
 ]

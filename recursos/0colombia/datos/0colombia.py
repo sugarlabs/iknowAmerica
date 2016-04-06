@@ -143,7 +143,7 @@ STATS = [
     (_('Area:'), _('1.141.748 km² (26th)')),
     (_('Population:'), _('48.400.388 (28th)')),
     (_('GDP:'), _('USD 427.139 billion (29th)')),
-    (_('HDI:'), _('High - 0,720 (97th)')),
+    (_('HDI:'), '%(l)s - %(v)s (%(p)s)' % {'l': _('High'), 'v': _('0,720'), 'p': _('97th')}),
     (_('Currency:'), _('Peso')),
     (_('Info updated:'), _('5 of abril of 2016'))
 ]

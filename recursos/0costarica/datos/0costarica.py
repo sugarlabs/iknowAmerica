@@ -156,7 +156,7 @@ STATS = [
     (_('Area:'), _('51.100 km² (129th)')),
     (_('Population:'), _('4.615.518 (115th)')),
     (_('GDP:'), _('USD 74.324 billion (80th)')),
-    (_('HDI:'), _('High - 0,766 (69th)')),
+    (_('HDI:'), '%(l)s - %(v)s (%(p)s)' % {'l': _('High'), 'v': _('0,766'), 'p': _('69th')}),
     (_('Currency:'), _('Costa Rica Colon')),
     (_('Info updated:'), _('5 of april of 2016'))
 ]
