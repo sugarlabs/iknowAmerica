@@ -16816,6 +16816,3 @@ msgstr ""
 msgid "Font: Share-Regular.ttf of urbanfonts.com"
 msgstr ""
 
-#, fuzzy
-#~ msgid "Next page >>>"
-#~ msgstr "Halaman selanjutnya >>>"
