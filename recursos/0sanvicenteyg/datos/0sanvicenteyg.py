@@ -60,11 +60,11 @@ STATS = [
     (_('Governor:'), _('Frederick Ballantyne')),
     (_('Independence:'), _('from United Kingdom')),
     ('', _('27 of october of 1979')),
-    (_('Area:'), _('389 km² (206th)')),
-    (_('Population:'), _('103.000 (196th)')),
-    (_('GDP:'), _('USD 0.695 billion (181st)')),
+    (_('Area:'), '%(sup)s %(u)s (%(p)s)' % {'sup': _('389'), 'u': _('km²'), 'p': _('206th')}),
+    (_('Population:'), '%(v)s (%(p)s)' % {'v': _('103.000'), 'p': _('196th')}),
+    (_('GDP:'), '%(c)s %(v)s %(u)s (%(p)s)' % {'c': _('USD'), 'v': _('0.695'), 'u': _('billion'), 'p': _('181st')}),
     (_('HDI:'), '%(l)s - %(v)s (%(p)s)' % {'l': _('Medium'), 'v': _('0,720'), 'p': _('97th')}),
     (_('Currency:'), _('Caribbean Dollar')),
-    (_('Info updated:'), _('5 of april of 2016'))
+    (_('Updated:'), _('5 of april of 2016'))
 ]
 

@@ -182,12 +182,11 @@ STATS = [
     (_('Independence:'), _('from Great Britain')),
     ('', _('declared: %s') % _('4 of july of 1776')),
     ('', _('recognized: %s') % _('3 of september of 1783')),
-    (_('Area:'), _('9.826.675 km² (3rd)')),
-    (_('Population:'), _('322.369.319 (3rd)')),
-    (_('GDP:'), _('USD 17419.000 billion (2st)')),
+    (_('Area:'), '%(sup)s %(u)s (%(p)s)' % {'sup': _('9.826.675'), 'u': _('km²'), 'p': _('3rd')}),
+    (_('Population:'), '%(v)s (%(p)s)' % {'v': _('322.369.319'), 'p': _('3rd')}),
+    (_('GDP:'), '%(c)s %(v)s %(u)s (%(p)s)' % {'c': _('USD'), 'v': _('17419.000'), 'u': _('billion'), 'p': _('2nd')}),
     (_('HDI:'), '%(l)s - %(v)s (%(p)s)' % {'l': _('Very High'), 'v': _('0,915'), 'p': _('8th')}),
     (_('Currency:'), _('United States Dollar')),
-    (_('Info updated:'), _('5 of april of 2016'))
+    (_('Updated:'), _('5 of april of 2016'))
 ]
-
 

@@ -103,11 +103,11 @@ STATS = [
     (_('Prime Minister:'), _('Enex Jean-Charles')),
     (_('Independence:'), _('from France')),
     ('', _('declared: %s') % _('1 of january of 1804')),
-    (_('Area:'), _('27.750 km² (147th)')),
-    (_('Population:'), _('10.604.000 (85th)')),
-    (_('GDP:'), _('USD 8.924 billion (137th)')),
+    (_('Area:'), '%(sup)s %(u)s (%(p)s)' % {'sup': _('27.750'), 'u': _('km²'), 'p': _('147th')}),
+    (_('Population:'), '%(v)s (%(p)s)' % {'v': _('10.604.000'), 'p': _('85th')}),
+    (_('GDP:'), '%(c)s %(v)s %(u)s (%(p)s)' % {'c': _('USD'), 'v': _('8.924'), 'u': _('billion'), 'p': _('137th')}),
     (_('HDI:'), '%(l)s - %(v)s (%(p)s)' % {'l': _('Low'), 'v': _('0,483'), 'p': _('163rd')}),
     (_('Currency:'), _('Gourde')),
-    (_('Info updated:'), _('5 of april of 2016'))
+    (_('Updated:'), _('5 of april of 2016'))
 ]
 

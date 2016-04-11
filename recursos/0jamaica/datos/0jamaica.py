@@ -94,11 +94,11 @@ STATS = [
     (_('Governor:'), _('Patrick Allen')),
     (_('Independence:'), _('from United Kingdom')),
     ('', _('6 of august of 1962')),
-    (_('Area:'), _('10.991 km² (166th)')),
-    (_('Population:'), _('2.950.210 (139th)')),
-    (_('GDP:'), _('USD 15.569 billion (116th)')),
+    (_('Area:'), '%(sup)s %(u)s (%(p)s)' % {'sup': _('10.991'), 'u': _('km²'), 'p': _('166th')}),
+    (_('Population:'), '%(v)s (%(p)s)' % {'v': _('2.950.210'), 'p': _('139th')}),
+    (_('GDP:'), '%(c)s %(v)s %(u)s (%(p)s)' % {'c': _('USD'), 'v': _('15.569'), 'u': _('billion'), 'p': _('116th')}),
     (_('HDI:'), '%(l)s - %(v)s (%(p)s)' % {'l': _('High'), 'v': _('0,719'), 'p': _('99th')}),
     (_('Currency:'), _('Jamaican dollar')),
-    (_('Info updated:'), _('5 of april of 2016'))
+    (_('Updated:'), _('5 of april of 2016'))
 ]
 

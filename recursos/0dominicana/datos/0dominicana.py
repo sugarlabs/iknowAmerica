@@ -117,12 +117,11 @@ STATS = [
     (_('Vice President:'), _('Margarita Cedeño')),
     (_('Independence:'), _('1844 (of Haiti)')),
     ('', _('1865 (from Spain)')),
-    (_('Area:'), _('48.442 km² (131th)')),
-    (_('Population:'), _('10.090.000 (80th)')),
-    (_('GDP:'), _('USD 66.575 billion (69th)')),
+    (_('Area:'), '%(sup)s %(u)s (%(p)s)' % {'sup': _('48.442'), 'u': _('km²'), 'p': _('131st')}),
+    (_('Population:'), '%(v)s (%(p)s)' % {'v': _('10.090.000'), 'p': _('80th')}),
+    (_('GDP:'), '%(c)s %(v)s %(u)s (%(p)s)' % {'c': _('USD'), 'v': _('66.575'), 'u': _('billion'), 'p': _('69th')}),
     (_('HDI:'), '%(l)s - %(v)s (%(p)s)' % {'l': _('High'), 'v': _('0,715'), 'p': _('101st')}),
     (_('Currency:'), _('Peso')),
-    (_('Info updated:'), _('5 of april of 2016'))
+    (_('Updated:'), _('5 of april of 2016'))
 ]
-
 

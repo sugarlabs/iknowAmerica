@@ -87,11 +87,11 @@ STATS = [
     (_('Prime minister:'), _('Moses Nagamootoo')),
     (_('Independence:'), _('from United Kingdom')),
     ('', _('26 of may of 1966')),
-    (_('Area:'), _('214.970 km² (81th)')),
-    (_('Population:'), _('735.554 (165th)')),
-    (_('GDP:'), _('USD 2.788 billion (158th)')),
+    (_('Area:'), '%(sup)s %(u)s (%(p)s)' % {'sup': _('214.970'), 'u': _('km²'), 'p': _('81th')}),
+    (_('Population:'), '%(v)s (%(p)s)' % {'v': _('735.554'), 'p': _('165th')}),
+    (_('GDP:'), '%(c)s %(v)s %(u)s (%(p)s)' % {'c': _('USD'), 'v': _('2.788'), 'u': _('billion'), 'p': _('158th')}),
     (_('HDI:'), '%(l)s - %(v)s (%(p)s)' % {'l': _('Medium'), 'v': _('0,636'), 'p': _('124th')}),
     (_('Currency:'), _('Guyanese dollar')),
-    (_('Info updated:'), _('5 of april of 2016'))
+    (_('Updated:'), _('5 of april of 2016'))
 ]
 

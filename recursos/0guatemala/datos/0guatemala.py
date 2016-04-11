@@ -160,11 +160,11 @@ STATS = [
     (_('Independence:'), _('from Spain')),
     ('', _('declared: %s') % _('15 of september of 1821')),
     ('', _('recognized: %s') % _('11 of october of 1825')),
-    (_('Area:'), _('108.889 km² (106th)')),
-    (_('Population:'), _('15.806.675 (66th)')),
-    (_('GDP:'), _('USD 66.037 billion (77th)')),
+    (_('Area:'), '%(sup)s %(u)s (%(p)s)' % {'sup': _('108.889'), 'u': _('km²'), 'p': _('106th')}),
+    (_('Population:'), '%(v)s (%(p)s)' % {'v': _('15.806.675'), 'p': _('66th')}),
+    (_('GDP:'), '%(c)s %(v)s %(u)s (%(p)s)' % {'c': _('USD'), 'v': _('66.037'), 'u': _('billion'), 'p': _('77th')}),
     (_('HDI:'), '%(l)s - %(v)s (%(p)s)' % {'l': _('Medium'), 'v': _('0,627'), 'p': _('128th')}),
     (_('Currency:'), _('Quetzal')),
-    (_('Info updated:'), _('5 of april of 2016'))
+    (_('Updated:'), _('5 of april of 2016'))
 ]
 

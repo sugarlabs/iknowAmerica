@@ -87,12 +87,11 @@ STATS = [
     (_('Vice President:'), _('Miguel Díaz-Canel')),
     (_('Independence:'), _('from United States')),
     ('', _('20 of may of 1902')),
-    (_('Area:'), _('110.860 km² (105th)')),
-    (_('Population:'), _('11.242.621 (71th)')),
-    (_('GDP:'), _('USD 78.694 billion (64th)')),
+    (_('Area:'), '%(sup)s %(u)s (%(p)s)' % {'sup': _('110.860'), 'u': _('km²'), 'p': _('105th')}),
+    (_('Population:'), '%(v)s (%(p)s)' % {'v': _('11.242.621'), 'p': _('71th')}),
+    (_('GDP:'), '%(c)s %(v)s %(u)s (%(p)s)' % {'c': _('USD'), 'v': _('78.694'), 'u': _('billion'), 'p': _('64th')}),
     (_('HDI:'), '%(l)s - %(v)s (%(p)s)' % {'l': _('High'), 'v': _('0,769'), 'p': _('67th')}),
     (_('Currency:'), _('Cuban peso')),
-    (_('Info updated:'), _('5 of april of 2016'))
+    (_('Updated:'), _('5 of april of 2016'))
 ]
-
 

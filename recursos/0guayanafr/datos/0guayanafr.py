@@ -67,11 +67,11 @@ STATS = [
     (_('Language:'), _('French')),
     (_('Government:'), _('Overseas department')),
     ('', _('from France')),
-    (_('Area:'), _('86.504 km² (112th)')),
-    (_('Population:'), _('259.109 (186th)')),
-    (_('GDP:'), _('USD 1.151 billion (181th)')),
+    (_('Area:'), '%(sup)s %(u)s (%(p)s)' % {'sup': _('86.504'), 'u': _('km²'), 'p': _('112th')}),
+    (_('Population:'), '%(v)s (%(p)s)' % {'v': _('259.109'), 'p': _('186th')}),
+    (_('GDP:'), '%(c)s %(v)s %(u)s (%(p)s)' % {'c': _('USD'), 'v': _('1.151'), 'u': _('billion'), 'p': _('181th')}),
     (_('HDI:'), '%(l)s - %(v)s (%(p)s)' % {'l': '--', 'v': '--', 'p': '--'}),
     (_('Currency:'), _('Euro')),
-    (_('Info updated:'), _('5 of april of 2016'))
+    (_('Updated:'), _('5 of april of 2016'))
 ]
 

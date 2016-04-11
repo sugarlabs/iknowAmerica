@@ -153,12 +153,11 @@ STATS = [
     ('', _('Ana Helena Chacón')),
     (_('Independence:'), _('from Spain')),
     ('', _('15 of september of 1821')),
-    (_('Area:'), _('51.100 km² (129th)')),
-    (_('Population:'), _('4.615.518 (115th)')),
-    (_('GDP:'), _('USD 74.324 billion (80th)')),
+    (_('Area:'), '%(sup)s %(u)s (%(p)s)' % {'sup': _('51.100'), 'u': _('km²'), 'p': _('129th')}),
+    (_('Population:'), '%(v)s (%(p)s)' % {'v': _('4.615.518'), 'p': _('115th')}),
+    (_('GDP:'), '%(c)s %(v)s %(u)s (%(p)s)' % {'c': _('USD'), 'v': _('74.324'), 'u': _('billion'), 'p': _('80th')}),
     (_('HDI:'), '%(l)s - %(v)s (%(p)s)' % {'l': _('High'), 'v': _('0,766'), 'p': _('69th')}),
     (_('Currency:'), _('Costa Rica Colon')),
-    (_('Info updated:'), _('5 of april of 2016'))
+    (_('Updated:'), _('5 of april of 2016'))
 ]
-
 

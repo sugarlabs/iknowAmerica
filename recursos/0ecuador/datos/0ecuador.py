@@ -145,11 +145,11 @@ STATS = [
     (_('Independence:'), _('from Spain')),
     ('', _('24 of may of 1822')),
     ('', _('of Colombia: 13 may of 1830')),
-    (_('Area:'), _('256.370 km² (71th)')),
-    (_('Population:'), _('16.144.000 (65th)')),
-    (_('GDP:'), _('USD 100.755 billion (64th)')),
+    (_('Area:'), '%(sup)s %(u)s (%(p)s)' % {'sup': _('256.370'), 'u': _('km²'), 'p': _('71th')}),
+    (_('Population:'), '%(v)s (%(p)s)' % {'v': _('16.144.000'), 'p': _('65th')}),
+    (_('GDP:'), '%(c)s %(v)s %(u)s (%(p)s)' % {'c': _('USD'), 'v': _('100.755'), 'u': _('billion'), 'p': _('64th')}),
     (_('HDI:'), '%(l)s - %(v)s (%(p)s)' % {'l': _('High'), 'v': _('0,732'), 'p': _('88th')}),
     (_('Currency:'), _('United States Dollar')),
-    (_('Info updated:'), _('5 of april of 2016'))
+    (_('Updated:'), _('5 of april of 2016'))
 ]
 

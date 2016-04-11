@@ -139,12 +139,11 @@ STATS = [
     (_('Independence:'), _('from Spain')),
     ('', _('declared: %s') % _('15 of september of 1821')),
     ('', _('recognized: %s') % _('8 of april of 1826')),
-    (_('Area:'), _('129.494 km² (97th)')),
-    (_('Population:'), _('6.071.045 (108th)')),
-    (_('GDP:'), _('USD 12.557 billion (138th)')),
+    (_('Area:'), '%(sup)s %(u)s (%(p)s)' % {'sup': _('129.494'), 'u': _('km²'), 'p': _('97th')}),
+    (_('Population:'), '%(v)s (%(p)s)' % {'v': _('6.071.045'), 'p': _('108th')}),
+    (_('GDP:'), '%(c)s %(v)s %(u)s (%(p)s)' % {'c': _('USD'), 'v': _('12.557'), 'u': _('billion'), 'p': _('138th')}),
     (_('HDI:'), '%(l)s - %(v)s (%(p)s)' % {'l': _('Medium'), 'v': _('0,631'), 'p': _('125th')}),
     (_('Currency:'), _('Córdoba')),
-    (_('Info updated:'), _('5 of april of 2016'))
+    (_('Updated:'), _('5 of april of 2016'))
 ]
-
 

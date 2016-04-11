@@ -189,11 +189,11 @@ STATS = [
     (_('Governor:'), _('Alejandro García Padilla')),
     (_('Ceded by Spain to the United States'), ''),
     ('', _('13 of august of 1898')),
-    (_('Area:'), _('9.104 km² (170th)')),
-    (_('Population:'), _('3.725.789 (127th)')),
-    (_('GDP:'), _('USD 105.100 billion (60th)')),
+    (_('Area:'), '%(sup)s %(u)s (%(p)s)' % {'sup': _('9.104'), 'u': _('km²'), 'p': _('170th')}),
+    (_('Population:'), '%(v)s (%(p)s)' % {'v': _('3.725.789'), 'p': _('127th')}),
+    (_('GDP:'), '%(c)s %(v)s %(u)s (%(p)s)' % {'c': _('USD'), 'v': _('105.100'), 'u': _('billion'), 'p': _('60th')}),
     (_('HDI:'), '%(l)s - %(v)s (%(p)s)' % {'l': _('Very High'), 'v': _('0,865'), 'p': _('29th')}),
     (_('Currency:'), _('United States Dollar')),
-    (_('Info updated:'), _('5 of april of 2016'))
+    (_('Updated:'), _('5 of april of 2016'))
 ]
 

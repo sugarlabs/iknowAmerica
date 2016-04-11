@@ -77,11 +77,11 @@ STATS = [
     (_('Prime Minister:'), _('Keith Rowley')),
     (_('Independence:'), _('from United Kingdom')),
     ('', _('31 of august of 1962')),
-    (_('Area:'), _('5.128 km² (172th)')),
-    (_('Population:'), _('1.223.916 (159th)')),
-    (_('GDP:'), _('USD 28.788 billion (100th)')),
+    (_('Area:'), '%(sup)s %(u)s (%(p)s)' % {'sup': _('5.128'), 'u': _('km²'), 'p': _('172th')}),
+    (_('Population:'), '%(v)s (%(p)s)' % {'v': _('1.223.916'), 'p': _('159th')}),
+    (_('GDP:'), '%(c)s %(v)s %(u)s (%(p)s)' % {'c': _('USD'), 'v': _('28.788'), 'u': _('billion'), 'p': _('100th')}),
     (_('HDI:'), '%(l)s - %(v)s (%(p)s)' % {'l': _('High'), 'v': _('0,772'), 'p': _('64th')}),
     (_('Currency:'), _('Trinidad and Tobago dollar')),
-    (_('Info updated:'), _('5 of april of 2016'))
+    (_('Updated:'), _('5 of april of 2016'))
 ]
 
