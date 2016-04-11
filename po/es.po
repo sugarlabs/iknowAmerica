@@ -6,8 +6,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-04-05 23:47+0000\n"
-"PO-Revision-Date: 2016-04-05 23:57+0000\n"
+"POT-Creation-Date: 2016-04-06 20:21+0000\n"
+"PO-Revision-Date: 2016-04-11 02:50+0000\n"
 "Last-Translator: Alan <alanjas@hotmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: es\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1459900633.000000\n"
+"X-POOTLE-MTIME: 1460343006.000000\n"
 
 #. TRANS: "name" option from activity.info file
 #: recursos/comun/datos/commons.py:5
@@ -1528,8 +1528,8 @@ msgid "Population:"
 msgstr "Población:"
 
 #: recursos/0chile/datos/0chile.py:54
-msgid "17.248.450 (59th)"
-msgstr "17.248.450 (59º)"
+msgid "18.006.407 (62nd)"
+msgstr "18.006.407 (62º)"
 
 #: recursos/0chile/datos/0chile.py:55
 #: recursos/0venezuela/datos/0venezuela.py:130
@@ -1560,8 +1560,8 @@ msgid "GDP:"
 msgstr "PBI:"
 
 #: recursos/0chile/datos/0chile.py:55
-msgid "USD 268.278 billion (37th)"
-msgstr "US$ 268.278 millones (37º)"
+msgid "USD 410.277 billion (42nd)"
+msgstr "U$S 410.277 millones (42º)"
 
 #: recursos/0chile/datos/0chile.py:56
 #: recursos/0venezuela/datos/0venezuela.py:131
@@ -1593,8 +1593,19 @@ msgid "HDI:"
 msgstr "IDH:"
 
 #: recursos/0chile/datos/0chile.py:56
-msgid "High - 0,822 (41st)"
-msgstr "Alta - 0,822 (41º)"
+#: recursos/0argentina/datos/0argentina.py:122
+#: recursos/0canada/datos/0canada.py:122
+#: recursos/0eunidos/datos/0eunidos.py:188 recursos/0prico/datos/0prico.py:195
+msgid "Very High"
+msgstr "Muy alto"
+
+#: recursos/0chile/datos/0chile.py:56
+msgid "0,832"
+msgstr "0,832"
+
+#: recursos/0chile/datos/0chile.py:56
+msgid "42th"
+msgstr "42º"
 
 #: recursos/0chile/datos/0chile.py:57
 #: recursos/0venezuela/datos/0venezuela.py:132
@@ -1635,43 +1646,61 @@ msgid "Peso"
 msgstr "Peso"
 
 #: recursos/0chile/datos/0chile.py:58
+#: recursos/0venezuela/datos/0venezuela.py:133
 #: recursos/0dominicana/datos/0dominicana.py:125
+#: recursos/0tytobago/datos/0tytobago.py:85
 #: recursos/0argentina/datos/0argentina.py:124
 #: recursos/0canada/datos/0canada.py:124 recursos/0cuba/datos/0cuba.py:95
+#: recursos/0honduras/datos/0honduras.py:139
 #: recursos/0uruguay/datos/0uruguay.py:193
 #: recursos/0panama/datos/0panama.py:102
 #: recursos/0eunidos/datos/0eunidos.py:190 recursos/0prico/datos/0prico.py:197
 #: recursos/0mexico/datos/0mexico.py:149
 #: recursos/0guatemala/datos/0guatemala.py:168
 #: recursos/0paraguay/datos/0paraguay.py:121
+#: recursos/0jamaica/datos/0jamaica.py:102
 #: recursos/0costarica/datos/0costarica.py:161
+#: recursos/0peru/datos/0peru.py:147 recursos/0surinam/datos/0surinam.py:89
+#: recursos/0guayanafr/datos/0guayanafr.py:75
 #: recursos/0nicaragua/datos/0nicaragua.py:147
+#: recursos/0guyana/datos/0guyana.py:95
 #: recursos/0elsalvador/datos/0elsalvador.py:112
+#: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:68
 #: recursos/0colombia/datos/0colombia.py:148
 #: recursos/0brasil/datos/0brasil.py:151 recursos/0haiti/datos/0haiti.py:111
 #: recursos/0ecuador/datos/0ecuador.py:153
+#: recursos/0belice/datos/0belice.py:107
 #: recursos/0bolivia/datos/0bolivia.py:115
 msgid "Info updated:"
 msgstr "Información actualizada:"
 
 #: recursos/0chile/datos/0chile.py:58
+#: recursos/0venezuela/datos/0venezuela.py:133
 #: recursos/0dominicana/datos/0dominicana.py:125
+#: recursos/0tytobago/datos/0tytobago.py:85
 #: recursos/0argentina/datos/0argentina.py:124
 #: recursos/0canada/datos/0canada.py:124 recursos/0cuba/datos/0cuba.py:95
+#: recursos/0honduras/datos/0honduras.py:139
+#: recursos/0uruguay/datos/0uruguay.py:193
 #: recursos/0panama/datos/0panama.py:102
 #: recursos/0eunidos/datos/0eunidos.py:190 recursos/0prico/datos/0prico.py:197
 #: recursos/0mexico/datos/0mexico.py:149
 #: recursos/0guatemala/datos/0guatemala.py:168
 #: recursos/0paraguay/datos/0paraguay.py:121
+#: recursos/0jamaica/datos/0jamaica.py:102
 #: recursos/0costarica/datos/0costarica.py:161
+#: recursos/0peru/datos/0peru.py:147 recursos/0surinam/datos/0surinam.py:89
+#: recursos/0guayanafr/datos/0guayanafr.py:75
 #: recursos/0nicaragua/datos/0nicaragua.py:147
+#: recursos/0guyana/datos/0guyana.py:95
 #: recursos/0elsalvador/datos/0elsalvador.py:112
-#: recursos/0colombia/datos/0colombia.py:148
+#: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:68
 #: recursos/0brasil/datos/0brasil.py:151 recursos/0haiti/datos/0haiti.py:111
 #: recursos/0ecuador/datos/0ecuador.py:153
+#: recursos/0belice/datos/0belice.py:107
 #: recursos/0bolivia/datos/0bolivia.py:115
-msgid "4 of february of 2015"
-msgstr "4 de febrero de 2015"
+msgid "5 of april of 2016"
+msgstr "5 de abril de 2016"
 
 #: recursos/0venezuela/datos/explorations.py:6
 #: recursos/0venezuela/datos/levels.py:7
@@ -3990,8 +4019,8 @@ msgid "Vice President:"
 msgstr "Vicepresidente:"
 
 #: recursos/0venezuela/datos/0venezuela.py:124
-msgid "Jorge Arreaza"
-msgstr "Jorge Arreaza"
+msgid "Aristóbulo Istúriz"
+msgstr "Aristóbulo Istúriz"
 
 #: recursos/0venezuela/datos/0venezuela.py:126
 msgid "5 of july of 1811"
@@ -4006,16 +4035,34 @@ msgid "916.445 km² (33th)"
 msgstr "916.445 km² (33º)"
 
 #: recursos/0venezuela/datos/0venezuela.py:129
-msgid "28.892.735 (41th)"
-msgstr "28.892.735 (41º)"
+msgid "30.933.000 (44th)"
+msgstr "30.933.000 (44º)"
 
 #: recursos/0venezuela/datos/0venezuela.py:130
-msgid "USD 337.979 billion (33th)"
-msgstr "US$ 337.979 millones (33º)"
+msgid "USD 131.855 billion (33th)"
+msgstr "USD 131.855 millones (33º)"
 
 #: recursos/0venezuela/datos/0venezuela.py:131
-msgid "High - 0,696 (75th)"
-msgstr "Alto - 0.696 (75º)"
+#: recursos/0dominicana/datos/0dominicana.py:123
+#: recursos/0tytobago/datos/0tytobago.py:83 recursos/0cuba/datos/0cuba.py:93
+#: recursos/0uruguay/datos/0uruguay.py:191
+#: recursos/0panama/datos/0panama.py:100 recursos/0mexico/datos/0mexico.py:147
+#: recursos/0jamaica/datos/0jamaica.py:100
+#: recursos/0costarica/datos/0costarica.py:159
+#: recursos/0peru/datos/0peru.py:145 recursos/0colombia/datos/0colombia.py:146
+#: recursos/0brasil/datos/0brasil.py:149
+#: recursos/0ecuador/datos/0ecuador.py:151
+#: recursos/0belice/datos/0belice.py:105
+msgid "High"
+msgstr "Alto"
+
+#: recursos/0venezuela/datos/0venezuela.py:131
+msgid "0,762"
+msgstr "0,762"
+
+#: recursos/0venezuela/datos/0venezuela.py:131
+msgid "71st"
+msgstr "71º"
 
 #: recursos/0dominicana/datos/explorations.py:6
 #: recursos/0dominicana/datos/levels.py:7
@@ -4543,12 +4590,18 @@ msgid "10.090.000 (80th)"
 msgstr "10.090.000 (80º)"
 
 #: recursos/0dominicana/datos/0dominicana.py:122
-msgid "USD 59.133 billion (69th)"
-msgstr "US$ 59.133 millones (69º)"
+msgid "USD 66.575 billion (69th)"
+msgstr "USD 66.575 millones (69º)"
 
 #: recursos/0dominicana/datos/0dominicana.py:123
-msgid "Medium - 0,700 (102nd)"
-msgstr "Medio - 0,700 (102º)"
+#: recursos/0belice/datos/0belice.py:105
+msgid "0,715"
+msgstr "0,715"
+
+#: recursos/0dominicana/datos/0dominicana.py:123
+#: recursos/0belice/datos/0belice.py:105
+msgid "101st"
+msgstr "101º"
 
 #: recursos/0tytobago/datos/0tytobago.py:8
 #: recursos/0tytobago/datos/levels.py:11
@@ -4815,8 +4868,8 @@ msgid "Prime Minister:"
 msgstr "Primer ministro:"
 
 #: recursos/0tytobago/datos/0tytobago.py:77
-msgid "Kamla Persad-Bissessar"
-msgstr "Kamla Persad-Bissessar"
+msgid "Keith Rowley"
+msgstr "Keith Rowley"
 
 #: recursos/0tytobago/datos/0tytobago.py:78
 #: recursos/0canada/datos/0canada.py:116
@@ -4834,16 +4887,20 @@ msgid "5.128 km² (172th)"
 msgstr "5.128 km² (172º)"
 
 #: recursos/0tytobago/datos/0tytobago.py:81
-msgid "1.299.953 (153th)"
-msgstr "1.299.953 (153º)"
+msgid "1.223.916 (159th)"
+msgstr "1.223.916 (159º)"
 
 #: recursos/0tytobago/datos/0tytobago.py:82
-msgid "USD 23.837 billion (100th)"
-msgstr "US$ 23.837 millones (100º)"
+msgid "USD 28.788 billion (100th)"
+msgstr "USD 28.788 millones (100º)"
 
 #: recursos/0tytobago/datos/0tytobago.py:83
-msgid "High - 0,736 (59th)"
-msgstr "Alto - 0,736 (59º)"
+msgid "0,772"
+msgstr "0,772"
+
+#: recursos/0tytobago/datos/0tytobago.py:83
+msgid "64th"
+msgstr "64º"
 
 #: recursos/0tytobago/datos/0tytobago.py:84
 msgid "Trinidad and Tobago dollar"
@@ -5376,12 +5433,12 @@ msgid "Federal presidential republic"
 msgstr "República federal presidencialista"
 
 #: recursos/0argentina/datos/0argentina.py:114
-msgid "Cristina Fernández"
-msgstr "Cristina Fernández"
+msgid "Mauricio Macri"
+msgstr "Mauricio Macri"
 
 #: recursos/0argentina/datos/0argentina.py:115
-msgid "Amado Boudou"
-msgstr "Amado Boudou"
+msgid "Gabriela Michetti"
+msgstr "Gabriela Michetti"
 
 #: recursos/0argentina/datos/0argentina.py:117
 msgid "9 of july of 1816"
@@ -5392,16 +5449,20 @@ msgid "2.780.400 km² (8th)"
 msgstr "2.780.400 km² (8º)"
 
 #: recursos/0argentina/datos/0argentina.py:120
-msgid "40.091.359 (32nd)"
-msgstr "40.091.359 (32º)"
+msgid "43.417.000 (32nd)"
+msgstr "43.417.000 (32º)"
 
 #: recursos/0argentina/datos/0argentina.py:121
-msgid "USD 474.812 billion (25th)"
-msgstr "US$ 474.812 millones (25º)"
+msgid "USD 964.279 billion (25th)"
+msgstr "USD 96.260 millones (25º)"
 
 #: recursos/0argentina/datos/0argentina.py:122
-msgid "High - 0,808 (49th)"
-msgstr "Alto - 0,808 (49º)"
+msgid "0,836"
+msgstr "0,836"
+
+#: recursos/0argentina/datos/0argentina.py:122
+msgid "40th"
+msgstr "40º"
 
 #: recursos/0canada/datos/0canada.py:5 recursos/0eunidos/datos/0eunidos.py:57
 #: recursos/0adelnorte/datos/0adelnorte.py:9
@@ -5931,8 +5992,8 @@ msgid "9.984.670 km² (2nd)"
 msgstr "9.984.670 km² (2º)"
 
 #: recursos/0canada/datos/0canada.py:120
-msgid "34.124.781 (37th)"
-msgstr "34.124.781 (37º)"
+msgid "36.048.521 (37th)"
+msgstr "36.048.521 (37º)"
 
 # PIB:
 #: recursos/0canada/datos/0canada.py:121
@@ -5940,12 +6001,16 @@ msgid "GPD:"
 msgstr "PIB:"
 
 #: recursos/0canada/datos/0canada.py:121
-msgid "USD 1770.084 billion (11st)"
-msgstr "US$ 1770.084 millones (11º)"
+msgid "USD 1628.000 billion (15th)"
+msgstr "USD 1628.000 millones (15º)"
 
 #: recursos/0canada/datos/0canada.py:122
-msgid "Very high - 0,902 (8th)"
-msgstr "Muy alto - 0,902 (8º)"
+msgid "0,913"
+msgstr "0,913"
+
+#: recursos/0canada/datos/0canada.py:122
+msgid "9th"
+msgstr "9º"
 
 #: recursos/0canada/datos/0canada.py:123
 msgid "Canadian dollar"
@@ -6268,12 +6333,16 @@ msgid "11.242.621 (71th)"
 msgstr "11.242.621 (71º)"
 
 #: recursos/0cuba/datos/0cuba.py:92
-msgid "USD 110.800 billion (65th)"
-msgstr "US$ 110.800 millones (65º)"
+msgid "USD 78.694 billion (64th)"
+msgstr "USD 78.694 millones (64º)"
 
 #: recursos/0cuba/datos/0cuba.py:93
-msgid "High - 0,815 (44th)"
-msgstr "Alto - 0,815 (44º)"
+msgid "0,769"
+msgstr "0,769"
+
+#: recursos/0cuba/datos/0cuba.py:93
+msgid "67th"
+msgstr "67º"
 
 #: recursos/0cuba/datos/0cuba.py:94
 msgid "Cuban peso"
@@ -6860,8 +6929,8 @@ msgid "(14º6' N - 87º13' W)"
 msgstr "(14º6' N - 87º13' O)"
 
 #: recursos/0honduras/datos/0honduras.py:130
-msgid "Porfirio Lobo"
-msgstr "Porfirio Lobo"
+msgid "Juan Orlando Hernández"
+msgstr "Juan Orlando Hernández"
 
 #: recursos/0honduras/datos/0honduras.py:132
 #: recursos/0guatemala/datos/0guatemala.py:161
@@ -6880,16 +6949,32 @@ msgid "112.492 km² (102th)"
 msgstr "112.492 km² (102º)"
 
 #: recursos/0honduras/datos/0honduras.py:135
-msgid "8.144.000 (93th)"
-msgstr "8.144.000 (93º)"
+msgid "8.249.574 (94th)"
+msgstr "8.249.574 (94º)"
 
 #: recursos/0honduras/datos/0honduras.py:136
-msgid "USD 18.18 billion (108th)"
-msgstr "US$ 18.180 millones (108º)"
+msgid "USD 19.567 billion (108th)"
+msgstr "USD 19.567 millones (108º)"
 
 #: recursos/0honduras/datos/0honduras.py:137
-msgid "Medium - 0,604 (106th)"
-msgstr "Medio - 0,604 (106º)"
+#: recursos/0guatemala/datos/0guatemala.py:166
+#: recursos/0paraguay/datos/0paraguay.py:119
+#: recursos/0surinam/datos/0surinam.py:87
+#: recursos/0nicaragua/datos/0nicaragua.py:145
+#: recursos/0guyana/datos/0guyana.py:93
+#: recursos/0elsalvador/datos/0elsalvador.py:110
+#: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:66
+#: recursos/0bolivia/datos/0bolivia.py:113
+msgid "Medium"
+msgstr "Medio"
+
+#: recursos/0honduras/datos/0honduras.py:137
+msgid "0,606"
+msgstr "0,606"
+
+#: recursos/0honduras/datos/0honduras.py:137
+msgid "131st"
+msgstr "131º"
 
 #: recursos/0uruguay/datos/explorations.py:34
 msgid "Elevations"
@@ -7701,20 +7786,20 @@ msgid "176.215 km² (90th)"
 msgstr "176.215 km² (90º)"
 
 #: recursos/0uruguay/datos/0uruguay.py:189
-msgid "3.424.595 (128th)"
-msgstr "3.424.595 (128º)"
+msgid "3.324.460 (133rd)"
+msgstr "3.324.460 (133º)"
 
 #: recursos/0uruguay/datos/0uruguay.py:190
-msgid "USD 49.716 billion (78th)"
-msgstr "US$ 49.716 millones (78º)"
+msgid "USD 54.968 billion (78th)"
+msgstr "USD 54.968 millones (78º)"
 
 #: recursos/0uruguay/datos/0uruguay.py:191
-msgid "High - 0,790 (50th)"
-msgstr "Alto - 0,790 (50º)"
+msgid "0,793"
+msgstr "0,793"
 
-#: recursos/0uruguay/datos/0uruguay.py:193
-msgid "1 of march of 2015"
-msgstr "1 de marzo de 2015"
+#: recursos/0uruguay/datos/0uruguay.py:191
+msgid "52th"
+msgstr "52º"
 
 #: recursos/0panama/datos/levels.py:11 recursos/0panama/datos/levels.py:31
 #: recursos/0panama/datos/levels.py:50 recursos/0panama/datos/0panama.py:8
@@ -8004,16 +8089,20 @@ msgid "78.200 km² (118th)"
 msgstr "78.200 km² (118vo)"
 
 #: recursos/0panama/datos/0panama.py:98
-msgid "3.405.813 (129th)"
-msgstr "3.405.813 (129vo)"
+msgid "3.929.141 (129th)"
+msgstr "3.929.141 (129º)"
 
 #: recursos/0panama/datos/0panama.py:99
-msgid "USD 34.819 billion (89th)"
-msgstr "US$ 34.819 millones (89º)"
+msgid "USD 49.142 billion (89th)"
+msgstr "USD 49.142 millones (89º)"
 
 #: recursos/0panama/datos/0panama.py:100
-msgid "High - 0,765 (65th)"
-msgstr "Alto - 0,765 (65º)"
+msgid "0,780"
+msgstr "0,780"
+
+#: recursos/0panama/datos/0panama.py:100
+msgid "60th"
+msgstr "60º"
 
 #: recursos/0acentral/datos/explorations.py:6
 #: recursos/0acentral/datos/levels.py:7
@@ -9005,16 +9094,20 @@ msgid "9.826.675 km² (3rd)"
 msgstr "9.826.675 km² (3º)"
 
 #: recursos/0eunidos/datos/0eunidos.py:186
-msgid "308.745.538 (3rd)"
-msgstr "308.745.538 (3º)"
+msgid "322.369.319 (3rd)"
+msgstr "322.369.319 (3º)"
 
 #: recursos/0eunidos/datos/0eunidos.py:187
-msgid "USD 15653.366 billion (1st)"
-msgstr "US$ 15653.366 millones (1º)"
+msgid "USD 17419.000 billion (2st)"
+msgstr "USD17419.000 millones (2º)"
 
 #: recursos/0eunidos/datos/0eunidos.py:188
-msgid "Very High - 0,915 (5th)"
-msgstr "Muy Alto - 0.905 (53vo)"
+msgid "0,915"
+msgstr "0,915"
+
+#: recursos/0eunidos/datos/0eunidos.py:188
+msgid "8th"
+msgstr "8º"
 
 #: recursos/0eunidos/datos/0eunidos.py:189 recursos/0prico/datos/0prico.py:196
 #: recursos/0elsalvador/datos/0elsalvador.py:111
@@ -9532,7 +9625,7 @@ msgid "Ceded by Spain to the United States"
 msgstr "Cedido por España a los Estados Unidos"
 
 #: recursos/0prico/datos/0prico.py:191
-msgid "13 of august of 1898 "
+msgid "13 of august of 1898"
 msgstr "13 de agosto de 1898 "
 
 #: recursos/0prico/datos/0prico.py:192
@@ -9544,12 +9637,16 @@ msgid "3.725.789 (127th)"
 msgstr "3.725.789 (127º)"
 
 #: recursos/0prico/datos/0prico.py:194
-msgid "USD 96.260 billion (--th)"
-msgstr "US$ 96.260 millones (--th)"
+msgid "USD 105.100 billion (60th)"
+msgstr "USD 105.100 millones (60º)"
 
 #: recursos/0prico/datos/0prico.py:195
-msgid "Very High - 0.865 (29th)"
-msgstr "Muy alto - 0.865 (29º)"
+msgid "0,865"
+msgstr "0,865"
+
+#: recursos/0prico/datos/0prico.py:195
+msgid "29th"
+msgstr "29º"
 
 #: recursos/0mexico/datos/levels.py:12 recursos/0mexico/datos/levels.py:51
 #: recursos/0mexico/datos/levels.py:92 recursos/0mexico/datos/0mexico.py:9
@@ -9996,16 +10093,20 @@ msgid "1.972.550 km² (14th)"
 msgstr "1.972.550 km² (14º)"
 
 #: recursos/0mexico/datos/0mexico.py:145
-msgid "112.322.757 (11th)"
-msgstr "112.322.757 (11º)"
+msgid "119.530.753 (11st)"
+msgstr "119.530.753 (11º)"
 
 #: recursos/0mexico/datos/0mexico.py:146
-msgid "USD 1162.891 billion (14th)"
-msgstr "US$ 1162.891 millones (14º)"
+msgid "USD 1.232.000 billion (13th)"
+msgstr "USD 110.800 millones (65º)"
 
 #: recursos/0mexico/datos/0mexico.py:147
-msgid "High - 0,756 (71st)"
-msgstr "Alto - 0,756 (71º)"
+msgid "0,756"
+msgstr "0,756"
+
+#: recursos/0mexico/datos/0mexico.py:147
+msgid "74th"
+msgstr "74º"
 
 #: recursos/0guatemala/datos/0guatemala.py:8
 #: recursos/0guatemala/datos/0guatemala.py:39
@@ -10570,12 +10671,12 @@ msgid "(14º38' N - 90º33' W)"
 msgstr "(14º38' N - 90º33' O)"
 
 #: recursos/0guatemala/datos/0guatemala.py:158
-msgid "Otto Pérez Molina"
-msgstr "Otto Pérez Molina"
+msgid "Jimmy Morales"
+msgstr "Jimmy Morales"
 
 #: recursos/0guatemala/datos/0guatemala.py:159
-msgid "Roxana Baldetti"
-msgstr "Roxana Baldetti"
+msgid "Jafeth Cabrera"
+msgstr "Jafeth Cabrera"
 
 #: recursos/0guatemala/datos/0guatemala.py:162
 msgid "11 of october of 1825"
@@ -10586,16 +10687,20 @@ msgid "108.889 km² (106th)"
 msgstr "108.889 km² (106º)"
 
 #: recursos/0guatemala/datos/0guatemala.py:164
-msgid "13.718.000 (67th)"
-msgstr "13.718.000 (67º)"
+msgid "15.806.675 (66th)"
+msgstr "15.806.675 (66º)"
 
 #: recursos/0guatemala/datos/0guatemala.py:165
-msgid "USD 50.296 billion (77th)"
-msgstr "US$ 50.296 millones (77º)"
+msgid "USD 66.037 billion (77th)"
+msgstr "USD 66.037 millones (77º)"
 
 #: recursos/0guatemala/datos/0guatemala.py:166
-msgid "Medium - 0,628 (125th)"
-msgstr "Medio - 0,628 (125º)"
+msgid "0,627"
+msgstr "0,627"
+
+#: recursos/0guatemala/datos/0guatemala.py:166
+msgid "128th"
+msgstr "128º"
 
 #: recursos/0guatemala/datos/0guatemala.py:167
 msgid "Quetzal"
@@ -11025,16 +11130,20 @@ msgid "406.752 km² (59th)"
 msgstr "406.752 km² (59º)"
 
 #: recursos/0paraguay/datos/0paraguay.py:117
-msgid "6.459.000 (103th)"
-msgstr "6.459.000 (103º)"
+msgid "7.012.433 (104th)"
+msgstr "7.012.433 (104º)"
 
 #: recursos/0paraguay/datos/0paraguay.py:118
-msgid "USD 26.089billion (96th)"
-msgstr "US$ 26.089 millones (96º)"
+msgid "USD 30.754 billion (99th)"
+msgstr "USD 30.754 millones (99º)"
 
 #: recursos/0paraguay/datos/0paraguay.py:119
-msgid "Medium - 0,676 (111st)"
-msgstr "Medio - 0,676 (111º)"
+msgid "0,679"
+msgstr "0,679"
+
+#: recursos/0paraguay/datos/0paraguay.py:119
+msgid "112nd"
+msgstr "112º"
 
 #: recursos/0jamaica/datos/0jamaica.py:8 recursos/0jamaica/datos/levels.py:11
 msgid "Hanover"
@@ -11319,16 +11428,20 @@ msgid "10.991 km² (166th)"
 msgstr "10.991 km² (166º)"
 
 #: recursos/0jamaica/datos/0jamaica.py:98
-msgid "2.735.520 (131st)"
-msgstr "2.735.520 (131º)"
+msgid "2.950.210 (139th)"
+msgstr "2.950.210 (139º)"
 
 #: recursos/0jamaica/datos/0jamaica.py:99
-msgid "USD 15.262 billion (116th)"
-msgstr "US$ 15.262 millones (116º)"
+msgid "USD 15.569 billion (116th)"
+msgstr "USD 15.569 millones (116º)"
 
 #: recursos/0jamaica/datos/0jamaica.py:100
-msgid "High - 0,688 (80th)"
-msgstr "Alto - 0,688 (80vo)"
+msgid "0,719"
+msgstr "0,719"
+
+#: recursos/0jamaica/datos/0jamaica.py:100
+msgid "99th"
+msgstr "99º"
 
 #: recursos/0jamaica/datos/0jamaica.py:101
 msgid "Jamaican dollar"
@@ -11901,12 +12014,16 @@ msgid "4.615.518 (115th)"
 msgstr "4.615.518 (115º)"
 
 #: recursos/0costarica/datos/0costarica.py:158
-msgid "USD 44.884 billion (80th)"
-msgstr "US$ 44.884 millones (80º)"
+msgid "USD 74.324 billion (80th)"
+msgstr "USD 44.884 millones (80º)"
 
 #: recursos/0costarica/datos/0costarica.py:159
-msgid "High - 0,763 (68th)"
-msgstr "Alto - 0,763 (68º)"
+msgid "0,766"
+msgstr "0,766"
+
+#: recursos/0costarica/datos/0costarica.py:159
+msgid "69th"
+msgstr "69º"
 
 #: recursos/0costarica/datos/0costarica.py:160
 msgid "Costa Rica Colon"
@@ -12371,8 +12488,8 @@ msgid "Ollanta Humala Tasso"
 msgstr "Ollanta Humala Tasso"
 
 #: recursos/0peru/datos/0peru.py:138
-msgid "Juan Jiménez Mayor"
-msgstr "Juan Jiménez Mayor"
+msgid "Pedro Cateriano"
+msgstr "Pedro Cateriano"
 
 #: recursos/0peru/datos/0peru.py:140
 msgid "28 of july of 1821"
@@ -12387,16 +12504,20 @@ msgid "1.285.216 km² (20th)"
 msgstr "1.285.216 km² (20º)"
 
 #: recursos/0peru/datos/0peru.py:143
-msgid "30.165.000 (40th)"
-msgstr "30.165.000 (40º)"
+msgid "31.151.643 (40th)"
+msgstr "31.151.643 (40º)"
 
 #: recursos/0peru/datos/0peru.py:144
-msgid "USD 200.292 billion (50th)"
-msgstr "US$ 200.292 millones (50º)"
+msgid "USD 217.607 billion (50th)"
+msgstr "USD 200.292 millones (50º)"
 
 #: recursos/0peru/datos/0peru.py:145
-msgid "High - 0,723 (63th)"
-msgstr "Alto - 0,723 (63º)"
+msgid "0,734"
+msgstr "0,734"
+
+#: recursos/0peru/datos/0peru.py:145
+msgid "84th"
+msgstr "84º"
 
 #: recursos/0peru/datos/0peru.py:146
 msgid "Nuevo sol"
@@ -12667,8 +12788,8 @@ msgid "Dési Bouterse"
 msgstr "Dési Bouterse"
 
 #: recursos/0surinam/datos/0surinam.py:81
-msgid "Robert Ameerali"
-msgstr "Robert Ameerali"
+msgid "Ashwin Adhin"
+msgstr "Ashwin Adhin"
 
 #: recursos/0surinam/datos/0surinam.py:82
 msgid "from Netherlands"
@@ -12683,16 +12804,20 @@ msgid "163.820 km² (91th)"
 msgstr "163.820 km² (91º)"
 
 #: recursos/0surinam/datos/0surinam.py:85
-msgid "542.000 (171th)"
-msgstr "542.000 (171º)"
+msgid "573.311 (167th)"
+msgstr "573.311 (167º)"
 
 #: recursos/0surinam/datos/0surinam.py:86
-msgid "USD 5.094 billion (147th)"
-msgstr "US$ 5.094 millones (147º)"
+msgid "USD 5.297 billion (147th)"
+msgstr "USD 5.297 millones (147º)"
 
 #: recursos/0surinam/datos/0surinam.py:87
-msgid "Medium - 0,646 (94th)"
-msgstr "Medio - 0,646 (94º)"
+msgid "0,714"
+msgstr "0,714"
+
+#: recursos/0surinam/datos/0surinam.py:87
+msgid "103rd"
+msgstr "103º"
 
 #: recursos/0surinam/datos/0surinam.py:88
 msgid "Surinamese dollar"
@@ -12895,16 +13020,12 @@ msgid "86.504 km² (112th)"
 msgstr "86.504 km² (112º)"
 
 #: recursos/0guayanafr/datos/0guayanafr.py:71
-msgid "230.000 (187th)"
-msgstr "230.000 (187º)"
+msgid "259.109 (186th)"
+msgstr "259.109 (186º)"
 
 #: recursos/0guayanafr/datos/0guayanafr.py:72
 msgid "USD 1.151 billion (181th)"
 msgstr "US$ 1.151 millones (181º)"
-
-#: recursos/0guayanafr/datos/0guayanafr.py:73
-msgid "-- (--th)"
-msgstr "-- (--º)"
 
 #: recursos/0guayanafr/datos/0guayanafr.py:74
 msgid "Euro"
@@ -13384,16 +13505,20 @@ msgid "129.494 km² (97th)"
 msgstr "129.494 km² (97º)"
 
 #: recursos/0nicaragua/datos/0nicaragua.py:143
-msgid "5.465.100 (108th)"
-msgstr "5.465.100 (108º)"
+msgid "6.071.045 (108th)"
+msgstr "6.071.045 (108º)"
 
 #: recursos/0nicaragua/datos/0nicaragua.py:144
-msgid "USD 7.828 billion (138th)"
-msgstr "US$ 7.828 millones (138º)"
+msgid "USD 12.557 billion (138th)"
+msgstr "USD 182.557 millones (138º)"
 
 #: recursos/0nicaragua/datos/0nicaragua.py:145
-msgid "Medium - 0,614 (132nd)"
-msgstr "Medio - 0,614 (132º)"
+msgid "0,631"
+msgstr "0,631"
+
+#: recursos/0nicaragua/datos/0nicaragua.py:145
+msgid "125th"
+msgstr "125º"
 
 #: recursos/0guyana/datos/levels.py:11 recursos/0guyana/datos/0guyana.py:8
 msgid "Barima-Waini"
@@ -13630,16 +13755,16 @@ msgid "Semi-Presidential Republic"
 msgstr "República Semipresidencialista"
 
 #: recursos/0guyana/datos/0guyana.py:86
-msgid "Donald Ramotar"
-msgstr "Donald Ramotar"
+msgid "David Granger"
+msgstr "David Granger"
 
 #: recursos/0guyana/datos/0guyana.py:87
 msgid "Prime minister:"
 msgstr "Primer ministro:"
 
 #: recursos/0guyana/datos/0guyana.py:87
-msgid "Sam Hinds"
-msgstr "Sam Hinds"
+msgid "Moses Nagamootoo"
+msgstr "Moses Nagamootoo"
 
 #: recursos/0guyana/datos/0guyana.py:89
 msgid "26 of may of 1966"
@@ -13650,16 +13775,20 @@ msgid "214.970 km² (81th)"
 msgstr "214.970 km² (81º)"
 
 #: recursos/0guyana/datos/0guyana.py:91
-msgid "784.894 (161th)"
-msgstr "784.894 (161º)"
+msgid "735.554 (165th)"
+msgstr "735.554 (165º)"
 
 #: recursos/0guyana/datos/0guyana.py:92
 msgid "USD 2.788 billion (158th)"
 msgstr "US$ 2.788 millones (158º)"
 
 #: recursos/0guyana/datos/0guyana.py:93
-msgid "Medium - 0,611 (104th)"
-msgstr "Medio - 0,611 (104º)"
+msgid "0,636"
+msgstr "0,636"
+
+#: recursos/0guyana/datos/0guyana.py:93
+msgid "124th"
+msgstr "124º"
 
 #: recursos/0guyana/datos/0guyana.py:94
 msgid "Guyanese dollar"
@@ -13992,16 +14121,20 @@ msgid "21.041 km² (152th)"
 msgstr "21.041 km² (152º)"
 
 #: recursos/0elsalvador/datos/0elsalvador.py:108
-msgid "5.744.113 (97th)"
-msgstr "5.744.113 (97º)"
+msgid "6.377.195 (99th)"
+msgstr "6.377.195 (99º)"
 
 #: recursos/0elsalvador/datos/0elsalvador.py:109
-msgid "USD 23.985 billion (99th)"
-msgstr "US$ 23.985 millones (99º)"
+msgid "USD 28.986 billion (99th)"
+msgstr "USD 28.986 millones (99º)"
 
 #: recursos/0elsalvador/datos/0elsalvador.py:110
-msgid "Medium - 0,662 (115th)"
-msgstr "Medio - 0,662 (115º)"
+msgid "0,686"
+msgstr "0,686"
+
+#: recursos/0elsalvador/datos/0elsalvador.py:110
+msgid "116th"
+msgstr "116º"
 
 #: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:9
 #: recursos/0sanvicenteyg/datos/levels.py:12
@@ -14170,16 +14303,22 @@ msgid "389 km² (206th)"
 msgstr "389 km² (206º)"
 
 #: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:64
-msgid "100.369 (193rd)"
-msgstr "100.369 (193º)"
+msgid "103.000 (196th)"
+msgstr "103.000 (196º)"
 
 #: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:65
-msgid "USD 0.717 billion (181st)"
-msgstr "US$ 717 millones (181º)"
+msgid "USD 0.695 billion (181st)"
+msgstr "USD 0.695 millones (181º)"
 
 #: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:66
-msgid "Medium - 0,791 (93rd)"
-msgstr "Medio - 0,791 (93º)"
+#: recursos/0colombia/datos/0colombia.py:146
+msgid "0,720"
+msgstr "0,720"
+
+#: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:66
+#: recursos/0colombia/datos/0colombia.py:146
+msgid "97th"
+msgstr "97º"
 
 #: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:67
 msgid "Caribbean Dollar"
@@ -14945,17 +15084,16 @@ msgid "1.141.748 km² (26th)"
 msgstr "1.141.748 km² (26º)"
 
 #: recursos/0colombia/datos/0colombia.py:144
-msgid "45.925.397 (28th)"
-msgstr "45.925.397 (28º)"
+msgid "48.400.388 (28th)"
+msgstr "48.400.388 (28º)"
 
 #: recursos/0colombia/datos/0colombia.py:145
-msgid "USD 365.402 billion (31st)"
-msgstr "US$ 365.402 millones (31º)"
+msgid "USD 427.139 billion (29th)"
+msgstr "USD 427.139 millones (29º)"
 
-#: recursos/0colombia/datos/0colombia.py:146
-#: recursos/0ecuador/datos/0ecuador.py:151
-msgid "High - 0,711 (98th)"
-msgstr "Alto - 0,711 (98º)"
+#: recursos/0colombia/datos/0colombia.py:148
+msgid "5 of abril of 2016"
+msgstr "5 de abril de 2016"
 
 #: recursos/0brasil/datos/levels.py:12 recursos/0brasil/datos/0brasil.py:9
 msgid "Acre"
@@ -15247,16 +15385,20 @@ msgid "8.514.877 km² (5th)"
 msgstr "8.514.877 km² (5º)"
 
 #: recursos/0brasil/datos/0brasil.py:147
-msgid "190.732.694 (5th)"
-msgstr "190.732.694 (5º)"
+msgid "205.338.000 (5th)"
+msgstr "205.338.000 (5º)"
 
 #: recursos/0brasil/datos/0brasil.py:148
-msgid "USD 2425.052 billion (7th)"
-msgstr "US$ 2425.052 millones (7º)"
+msgid "USD 1672.000 billion (9th)"
+msgstr "USD 1672.000 millones (9º)"
 
 #: recursos/0brasil/datos/0brasil.py:149
-msgid "High - 0,744 (79th)"
-msgstr "Alto - 0,744 (79º)"
+msgid "0,755"
+msgstr "0,755"
+
+#: recursos/0brasil/datos/0brasil.py:149
+msgid "75th"
+msgstr "75º"
 
 #: recursos/0brasil/datos/0brasil.py:150
 msgid "Real"
@@ -15705,8 +15847,8 @@ msgid "Michel Martelly"
 msgstr "Michel Martelly"
 
 #: recursos/0haiti/datos/0haiti.py:103
-msgid "Evans Paul"
-msgstr "Evans Paul"
+msgid "Enex Jean-Charles"
+msgstr "Enex Jean-Charles"
 
 #: recursos/0haiti/datos/0haiti.py:105
 msgid "1 of january of 1804"
@@ -15717,16 +15859,24 @@ msgid "27.750 km² (147th)"
 msgstr "27.750 km² (147º)"
 
 #: recursos/0haiti/datos/0haiti.py:107
-msgid "9.800.000 (90th)"
-msgstr "9.800.000 (90º)"
+msgid "10.604.000 (85th)"
+msgstr "10.604.000 (85º)"
 
 #: recursos/0haiti/datos/0haiti.py:108
-msgid "USD 7.895 billion (137th)"
-msgstr "US$ 7.895 millones (137º)"
+msgid "USD 8.924 billion (137th)"
+msgstr "USD 8.924 millones (137º)"
 
 #: recursos/0haiti/datos/0haiti.py:109
-msgid "Low - 0,471 (168th)"
-msgstr "Bajo - 0,471 (168º)"
+msgid "Low"
+msgstr "Bajo"
+
+#: recursos/0haiti/datos/0haiti.py:109
+msgid "0,483"
+msgstr "0,483"
+
+#: recursos/0haiti/datos/0haiti.py:109
+msgid "163rd"
+msgstr "163º"
 
 #: recursos/0haiti/datos/0haiti.py:110
 msgid "Gourde"
@@ -16214,12 +16364,20 @@ msgid "256.370 km² (71th)"
 msgstr "256.370 km² (71º)"
 
 #: recursos/0ecuador/datos/0ecuador.py:149
-msgid "14.306.876 (--th)"
-msgstr "14.306.876 (--º)"
+msgid "16.144.000 (65th)"
+msgstr "16.144.000 (65º)"
 
 #: recursos/0ecuador/datos/0ecuador.py:150
-msgid "USD 70.836 billion (67th)"
-msgstr "US$ 70.836 millones (67º)"
+msgid "USD 100.755 billion (64th)"
+msgstr "USD 110.755 millones (64º)"
+
+#: recursos/0ecuador/datos/0ecuador.py:151
+msgid "0,732"
+msgstr "0,732"
+
+#: recursos/0ecuador/datos/0ecuador.py:151
+msgid "88th"
+msgstr "88º"
 
 #: recursos/0ecuador/datos/levels.py:112
 msgid "Tigre"
@@ -16654,8 +16812,8 @@ msgid "Parliamentary democracy"
 msgstr "Democracia parlamentaria"
 
 #: recursos/0belice/datos/0belice.py:99
-msgid "Sir Colville Young"
-msgstr "Sir Colville Young"
+msgid "Dean Barrow"
+msgstr "Dean Barrow"
 
 #: recursos/0belice/datos/0belice.py:100
 msgid "from the United Kingdom"
@@ -16670,16 +16828,12 @@ msgid "22.966 km² (151th)"
 msgstr "22.966 km² (151vo)"
 
 #: recursos/0belice/datos/0belice.py:103
-msgid "372.000 (170th)"
-msgstr "372.000 (170vo)"
+msgid "347.369 (170th)"
+msgstr "347.369 (170º)"
 
 #: recursos/0belice/datos/0belice.py:104
-msgid "USD 1.52 billions (167th)"
-msgstr "US$ 1.520 millones (167º)"
-
-#: recursos/0belice/datos/0belice.py:105
-msgid "High - 0,694 (78th)"
-msgstr "Alto - 0,694 (78vo)"
+msgid "USD 1.759 billions (167th)"
+msgstr "USD 1.759 millones (167º)"
 
 #: recursos/0belice/datos/0belice.py:106
 msgid "Belize Dollar"
@@ -16925,16 +17079,20 @@ msgid "1.098.581 km² (27th)"
 msgstr "1.098.581 km² (27º)"
 
 #: recursos/0bolivia/datos/0bolivia.py:111
-msgid "10.426.160 (87th)"
-msgstr "10.426.160 (87º)"
+msgid "11.410.651 (83th)"
+msgstr "11.410.651 (83º)"
 
 #: recursos/0bolivia/datos/0bolivia.py:112
-msgid "USD 26.749 billion (94th)"
-msgstr "US$ 26.749 millones (94º)"
+msgid "USD 33.537 billion (96th)"
+msgstr "USD 33.537 millones (96º)"
 
 #: recursos/0bolivia/datos/0bolivia.py:113
-msgid "Medium - 0,667 (113th)"
-msgstr "Medio - 0,667 (113º)"
+msgid "0,662"
+msgstr "0,662"
+
+#: recursos/0bolivia/datos/0bolivia.py:113
+msgid "119th"
+msgstr "119º"
 
 #: recursos/0bolivia/datos/0bolivia.py:114
 msgid "Boliviano"
