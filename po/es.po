@@ -7,8 +7,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-04-11 06:37+0000\n"
-"PO-Revision-Date: 2016-04-12 00:06+0000\n"
-"Last-Translator: Alan <alanjas@hotmail.com>\n"
+"PO-Revision-Date: 2016-05-21 13:35+0000\n"
+"Last-Translator: Chris <cjl@sugarlabs.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1460419594.000000\n"
+"X-POOTLE-MTIME: 1463837757.000000\n"
 
 #. TRANS: "name" option from activity.info file
 #: recursos/comun/datos/commons.py:5
@@ -4715,6 +4715,7 @@ msgid "66.575"
 msgstr "66.575"
 
 #: recursos/0dominicana/datos/0dominicana.py:122
+
 #: recursos/0costarica/datos/0costarica.py:159
 msgid "69th"
 msgstr "69º"
@@ -9830,7 +9831,7 @@ msgstr "Cedido por España a los Estados Unidos"
 
 #: recursos/0prico/datos/0prico.py:191
 msgid "13 of august of 1898"
-msgstr "13 de agosto de 1898 "
+msgstr "13 de agosto de 1898"
 
 #: recursos/0prico/datos/0prico.py:192
 msgid "9.104"

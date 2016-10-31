@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-04-05 23:47+0000\n"
+"POT-Creation-Date: 2016-04-11 06:37+0000\n"
 "PO-Revision-Date: 2016-02-21 01:03+0000\n"
 "Last-Translator: Chris <cjl@sugarlabs.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1498,8 +1498,41 @@ msgid "Area:"
 msgstr "Uraqi katuna tupupa:"
 
 #: recursos/0chile/datos/0chile.py:53
-msgid "756.096 km² (38th)"
-msgstr "756.096 km² (38º)"
+msgid "756.096"
+msgstr ""
+
+#: recursos/0chile/datos/0chile.py:53
+#: recursos/0venezuela/datos/0venezuela.py:128
+#: recursos/0dominicana/datos/0dominicana.py:120
+#: recursos/0tytobago/datos/0tytobago.py:80
+#: recursos/0argentina/datos/0argentina.py:119
+#: recursos/0canada/datos/0canada.py:119 recursos/0cuba/datos/0cuba.py:90
+#: recursos/0honduras/datos/0honduras.py:134
+#: recursos/0uruguay/datos/0uruguay.py:188
+#: recursos/0panama/datos/0panama.py:97
+#: recursos/0eunidos/datos/0eunidos.py:185 recursos/0prico/datos/0prico.py:192
+#: recursos/0mexico/datos/0mexico.py:144
+#: recursos/0guatemala/datos/0guatemala.py:163
+#: recursos/0paraguay/datos/0paraguay.py:116
+#: recursos/0jamaica/datos/0jamaica.py:97
+#: recursos/0costarica/datos/0costarica.py:156
+#: recursos/0peru/datos/0peru.py:142 recursos/0surinam/datos/0surinam.py:84
+#: recursos/0guayanafr/datos/0guayanafr.py:70
+#: recursos/0nicaragua/datos/0nicaragua.py:142
+#: recursos/0guyana/datos/0guyana.py:90
+#: recursos/0elsalvador/datos/0elsalvador.py:107
+#: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:63
+#: recursos/0colombia/datos/0colombia.py:143
+#: recursos/0brasil/datos/0brasil.py:146 recursos/0haiti/datos/0haiti.py:106
+#: recursos/0ecuador/datos/0ecuador.py:148
+#: recursos/0belice/datos/0belice.py:102
+#: recursos/0bolivia/datos/0bolivia.py:110
+msgid "km²"
+msgstr ""
+
+#: recursos/0chile/datos/0chile.py:53
+msgid "38th"
+msgstr ""
 
 #: recursos/0chile/datos/0chile.py:54
 #: recursos/0venezuela/datos/0venezuela.py:129
@@ -1531,15 +1564,20 @@ msgid "Population:"
 msgstr "Qhawqha jaqinisa:"
 
 #: recursos/0chile/datos/0chile.py:54
-msgid "17.248.450 (59th)"
-msgstr "17.248.450 (59º)"
+msgid "18.006.407"
+msgstr ""
+
+#: recursos/0chile/datos/0chile.py:54
+msgid "62nd"
+msgstr ""
 
 #: recursos/0chile/datos/0chile.py:55
 #: recursos/0venezuela/datos/0venezuela.py:130
 #: recursos/0dominicana/datos/0dominicana.py:122
 #: recursos/0tytobago/datos/0tytobago.py:82
 #: recursos/0argentina/datos/0argentina.py:121
-#: recursos/0cuba/datos/0cuba.py:92 recursos/0honduras/datos/0honduras.py:136
+#: recursos/0canada/datos/0canada.py:121 recursos/0cuba/datos/0cuba.py:92
+#: recursos/0honduras/datos/0honduras.py:136
 #: recursos/0uruguay/datos/0uruguay.py:190
 #: recursos/0panama/datos/0panama.py:99
 #: recursos/0eunidos/datos/0eunidos.py:187 recursos/0prico/datos/0prico.py:194
@@ -1563,8 +1601,70 @@ msgid "GDP:"
 msgstr "PBI utjiri:"
 
 #: recursos/0chile/datos/0chile.py:55
-msgid "USD 268.278 billion (37th)"
-msgstr "US DOLAR 268.278 junu (37º)"
+#: recursos/0venezuela/datos/0venezuela.py:130
+#: recursos/0dominicana/datos/0dominicana.py:122
+#: recursos/0tytobago/datos/0tytobago.py:82
+#: recursos/0argentina/datos/0argentina.py:121
+#: recursos/0canada/datos/0canada.py:121 recursos/0cuba/datos/0cuba.py:92
+#: recursos/0honduras/datos/0honduras.py:136
+#: recursos/0uruguay/datos/0uruguay.py:190
+#: recursos/0panama/datos/0panama.py:99
+#: recursos/0eunidos/datos/0eunidos.py:187 recursos/0prico/datos/0prico.py:194
+#: recursos/0mexico/datos/0mexico.py:146
+#: recursos/0guatemala/datos/0guatemala.py:165
+#: recursos/0paraguay/datos/0paraguay.py:118
+#: recursos/0jamaica/datos/0jamaica.py:99
+#: recursos/0costarica/datos/0costarica.py:158
+#: recursos/0peru/datos/0peru.py:144 recursos/0surinam/datos/0surinam.py:86
+#: recursos/0guayanafr/datos/0guayanafr.py:72
+#: recursos/0nicaragua/datos/0nicaragua.py:144
+#: recursos/0guyana/datos/0guyana.py:92
+#: recursos/0elsalvador/datos/0elsalvador.py:109
+#: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:65
+#: recursos/0colombia/datos/0colombia.py:145
+#: recursos/0brasil/datos/0brasil.py:148 recursos/0haiti/datos/0haiti.py:108
+#: recursos/0ecuador/datos/0ecuador.py:150
+#: recursos/0belice/datos/0belice.py:104
+#: recursos/0bolivia/datos/0bolivia.py:112
+msgid "USD"
+msgstr ""
+
+#: recursos/0chile/datos/0chile.py:55
+msgid "410.277"
+msgstr ""
+
+#: recursos/0chile/datos/0chile.py:55
+#: recursos/0venezuela/datos/0venezuela.py:130
+#: recursos/0dominicana/datos/0dominicana.py:122
+#: recursos/0tytobago/datos/0tytobago.py:82
+#: recursos/0argentina/datos/0argentina.py:121
+#: recursos/0canada/datos/0canada.py:121 recursos/0cuba/datos/0cuba.py:92
+#: recursos/0honduras/datos/0honduras.py:136
+#: recursos/0uruguay/datos/0uruguay.py:190
+#: recursos/0panama/datos/0panama.py:99
+#: recursos/0eunidos/datos/0eunidos.py:187 recursos/0prico/datos/0prico.py:194
+#: recursos/0mexico/datos/0mexico.py:146
+#: recursos/0guatemala/datos/0guatemala.py:165
+#: recursos/0paraguay/datos/0paraguay.py:118
+#: recursos/0jamaica/datos/0jamaica.py:99
+#: recursos/0costarica/datos/0costarica.py:158
+#: recursos/0peru/datos/0peru.py:144 recursos/0surinam/datos/0surinam.py:86
+#: recursos/0guayanafr/datos/0guayanafr.py:72
+#: recursos/0nicaragua/datos/0nicaragua.py:144
+#: recursos/0guyana/datos/0guyana.py:92
+#: recursos/0elsalvador/datos/0elsalvador.py:109
+#: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:65
+#: recursos/0colombia/datos/0colombia.py:145
+#: recursos/0brasil/datos/0brasil.py:148 recursos/0haiti/datos/0haiti.py:108
+#: recursos/0ecuador/datos/0ecuador.py:150
+#: recursos/0belice/datos/0belice.py:104
+#: recursos/0bolivia/datos/0bolivia.py:112
+msgid "billion"
+msgstr ""
+
+#: recursos/0chile/datos/0chile.py:55
+msgid "42nd"
+msgstr ""
 
 # El índice de desarrollo humano (IDH) es un indicador del desarrollo humano por país
 #: recursos/0chile/datos/0chile.py:56
@@ -1597,8 +1697,19 @@ msgid "HDI:"
 msgstr "IDH sata índice de desarrollo humano:"
 
 #: recursos/0chile/datos/0chile.py:56
-msgid "High - 0,822 (41st)"
-msgstr "Jach'pachana - 0,822 (41º)"
+#: recursos/0argentina/datos/0argentina.py:122
+#: recursos/0canada/datos/0canada.py:122
+#: recursos/0eunidos/datos/0eunidos.py:188 recursos/0prico/datos/0prico.py:195
+msgid "Very High"
+msgstr ""
+
+#: recursos/0chile/datos/0chile.py:56
+msgid "0,832"
+msgstr ""
+
+#: recursos/0chile/datos/0chile.py:56
+msgid "42th"
+msgstr ""
 
 #: recursos/0chile/datos/0chile.py:57
 #: recursos/0venezuela/datos/0venezuela.py:132
@@ -1639,43 +1750,60 @@ msgid "Peso"
 msgstr "Jathi kankañapa"
 
 #: recursos/0chile/datos/0chile.py:58
+#: recursos/0venezuela/datos/0venezuela.py:133
 #: recursos/0dominicana/datos/0dominicana.py:125
+#: recursos/0tytobago/datos/0tytobago.py:85
 #: recursos/0argentina/datos/0argentina.py:124
 #: recursos/0canada/datos/0canada.py:124 recursos/0cuba/datos/0cuba.py:95
+#: recursos/0honduras/datos/0honduras.py:139
+#: recursos/0uruguay/datos/0uruguay.py:193
+#: recursos/0panama/datos/0panama.py:102
+#: recursos/0eunidos/datos/0eunidos.py:190 recursos/0prico/datos/0prico.py:197
+#: recursos/0guatemala/datos/0guatemala.py:168
+#: recursos/0paraguay/datos/0paraguay.py:121
+#: recursos/0jamaica/datos/0jamaica.py:102
+#: recursos/0costarica/datos/0costarica.py:161
+#: recursos/0peru/datos/0peru.py:147 recursos/0surinam/datos/0surinam.py:89
+#: recursos/0guayanafr/datos/0guayanafr.py:75
+#: recursos/0nicaragua/datos/0nicaragua.py:147
+#: recursos/0guyana/datos/0guyana.py:95
+#: recursos/0elsalvador/datos/0elsalvador.py:112
+#: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:68
+#: recursos/0colombia/datos/0colombia.py:148
+#: recursos/0brasil/datos/0brasil.py:151 recursos/0haiti/datos/0haiti.py:111
+#: recursos/0ecuador/datos/0ecuador.py:153
+#: recursos/0belice/datos/0belice.py:107
+#: recursos/0bolivia/datos/0bolivia.py:115
+msgid "Updated:"
+msgstr ""
+
+#: recursos/0chile/datos/0chile.py:58
+#: recursos/0venezuela/datos/0venezuela.py:133
+#: recursos/0dominicana/datos/0dominicana.py:125
+#: recursos/0tytobago/datos/0tytobago.py:85
+#: recursos/0argentina/datos/0argentina.py:124
+#: recursos/0canada/datos/0canada.py:124 recursos/0cuba/datos/0cuba.py:95
+#: recursos/0honduras/datos/0honduras.py:139
 #: recursos/0uruguay/datos/0uruguay.py:193
 #: recursos/0panama/datos/0panama.py:102
 #: recursos/0eunidos/datos/0eunidos.py:190 recursos/0prico/datos/0prico.py:197
 #: recursos/0mexico/datos/0mexico.py:149
 #: recursos/0guatemala/datos/0guatemala.py:168
 #: recursos/0paraguay/datos/0paraguay.py:121
+#: recursos/0jamaica/datos/0jamaica.py:102
 #: recursos/0costarica/datos/0costarica.py:161
+#: recursos/0peru/datos/0peru.py:147 recursos/0surinam/datos/0surinam.py:89
+#: recursos/0guayanafr/datos/0guayanafr.py:75
 #: recursos/0nicaragua/datos/0nicaragua.py:147
+#: recursos/0guyana/datos/0guyana.py:95
 #: recursos/0elsalvador/datos/0elsalvador.py:112
-#: recursos/0colombia/datos/0colombia.py:148
+#: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:68
 #: recursos/0brasil/datos/0brasil.py:151 recursos/0haiti/datos/0haiti.py:111
 #: recursos/0ecuador/datos/0ecuador.py:153
+#: recursos/0belice/datos/0belice.py:107
 #: recursos/0bolivia/datos/0bolivia.py:115
-msgid "Info updated:"
-msgstr "Jichhachata yatiyawi:"
-
-#: recursos/0chile/datos/0chile.py:58
-#: recursos/0dominicana/datos/0dominicana.py:125
-#: recursos/0argentina/datos/0argentina.py:124
-#: recursos/0canada/datos/0canada.py:124 recursos/0cuba/datos/0cuba.py:95
-#: recursos/0panama/datos/0panama.py:102
-#: recursos/0eunidos/datos/0eunidos.py:190 recursos/0prico/datos/0prico.py:197
-#: recursos/0mexico/datos/0mexico.py:149
-#: recursos/0guatemala/datos/0guatemala.py:168
-#: recursos/0paraguay/datos/0paraguay.py:121
-#: recursos/0costarica/datos/0costarica.py:161
-#: recursos/0nicaragua/datos/0nicaragua.py:147
-#: recursos/0elsalvador/datos/0elsalvador.py:112
-#: recursos/0colombia/datos/0colombia.py:148
-#: recursos/0brasil/datos/0brasil.py:151 recursos/0haiti/datos/0haiti.py:111
-#: recursos/0ecuador/datos/0ecuador.py:153
-#: recursos/0bolivia/datos/0bolivia.py:115
-msgid "4 of february of 2015"
-msgstr "phiwriruna 4 urupana, 2015 marana"
+msgid "5 of april of 2016"
+msgstr ""
 
 #: recursos/0venezuela/datos/explorations.py:6
 #: recursos/0venezuela/datos/levels.py:7
@@ -4007,8 +4135,8 @@ msgid "Vice President:"
 msgstr "Vicepresidente"
 
 #: recursos/0venezuela/datos/0venezuela.py:124
-msgid "Jorge Arreaza"
-msgstr "Jorge Arreaza"
+msgid "Aristóbulo Istúriz"
+msgstr ""
 
 #: recursos/0venezuela/datos/0venezuela.py:126
 msgid "5 of july of 1811"
@@ -4019,20 +4147,50 @@ msgid "30 of march of 1845"
 msgstr "marsuna 30 urupa, 1845 marana"
 
 #: recursos/0venezuela/datos/0venezuela.py:128
-msgid "916.445 km² (33th)"
-msgstr "916.445 km² (33º)"
+msgid "916.445"
+msgstr ""
+
+#: recursos/0venezuela/datos/0venezuela.py:128
+msgid "33th"
+msgstr ""
 
 #: recursos/0venezuela/datos/0venezuela.py:129
-msgid "28.892.735 (41th)"
-msgstr "28.892.735 (41º)"
+msgid "30.933.000"
+msgstr ""
+
+#: recursos/0venezuela/datos/0venezuela.py:129
+msgid "44th"
+msgstr ""
 
 #: recursos/0venezuela/datos/0venezuela.py:130
-msgid "USD 337.979 billion (33th)"
-msgstr "US DOLAR 337.979 junu (33º)"
+msgid "131.855"
+msgstr ""
+
+#: recursos/0venezuela/datos/0venezuela.py:130
+msgid "33rd"
+msgstr ""
 
 #: recursos/0venezuela/datos/0venezuela.py:131
-msgid "High - 0,696 (75th)"
-msgstr "Jach'pachana - 0.696 (75º)"
+#: recursos/0dominicana/datos/0dominicana.py:123
+#: recursos/0tytobago/datos/0tytobago.py:83 recursos/0cuba/datos/0cuba.py:93
+#: recursos/0uruguay/datos/0uruguay.py:191
+#: recursos/0panama/datos/0panama.py:100 recursos/0mexico/datos/0mexico.py:147
+#: recursos/0jamaica/datos/0jamaica.py:100
+#: recursos/0costarica/datos/0costarica.py:159
+#: recursos/0peru/datos/0peru.py:145 recursos/0colombia/datos/0colombia.py:146
+#: recursos/0brasil/datos/0brasil.py:149
+#: recursos/0ecuador/datos/0ecuador.py:151
+#: recursos/0belice/datos/0belice.py:105
+msgid "High"
+msgstr ""
+
+#: recursos/0venezuela/datos/0venezuela.py:131
+msgid "0,762"
+msgstr ""
+
+#: recursos/0venezuela/datos/0venezuela.py:131
+msgid "71st"
+msgstr ""
 
 #: recursos/0dominicana/datos/explorations.py:6
 #: recursos/0dominicana/datos/levels.py:7
@@ -4558,20 +4716,41 @@ msgid "1865 (from Spain)"
 msgstr "1865 (de España)"
 
 #: recursos/0dominicana/datos/0dominicana.py:120
-msgid "48.442 km² (131th)"
-msgstr "48.442 km² (131º)"
+msgid "48.442"
+msgstr ""
+
+#: recursos/0dominicana/datos/0dominicana.py:120
+#: recursos/0honduras/datos/0honduras.py:137
+msgid "131st"
+msgstr ""
 
 #: recursos/0dominicana/datos/0dominicana.py:121
-msgid "10.090.000 (80th)"
-msgstr "10.090.000 (80º)"
+msgid "10.090.000"
+msgstr ""
+
+#: recursos/0dominicana/datos/0dominicana.py:121
+#: recursos/0costarica/datos/0costarica.py:158
+msgid "80th"
+msgstr ""
 
 #: recursos/0dominicana/datos/0dominicana.py:122
-msgid "USD 59.133 billion (69th)"
-msgstr "US DOLAR 59.133 junu (69º)"
+msgid "66.575"
+msgstr ""
+
+#: recursos/0dominicana/datos/0dominicana.py:122
+#: recursos/0costarica/datos/0costarica.py:159
+msgid "69th"
+msgstr ""
 
 #: recursos/0dominicana/datos/0dominicana.py:123
-msgid "Medium - 0,700 (102nd)"
-msgstr "Chikataypi - 0,700 (102º)"
+#: recursos/0belice/datos/0belice.py:105
+msgid "0,715"
+msgstr ""
+
+#: recursos/0dominicana/datos/0dominicana.py:123
+#: recursos/0belice/datos/0belice.py:105
+msgid "101st"
+msgstr ""
 
 #: recursos/0tytobago/datos/0tytobago.py:8
 #: recursos/0tytobago/datos/levels.py:11
@@ -4839,8 +5018,8 @@ msgid "Prime Minister:"
 msgstr "Primer ministro:"
 
 #: recursos/0tytobago/datos/0tytobago.py:77
-msgid "Kamla Persad-Bissessar"
-msgstr "Kamla Persad-Bissessar"
+msgid "Keith Rowley"
+msgstr ""
 
 #: recursos/0tytobago/datos/0tytobago.py:78
 #: recursos/0canada/datos/0canada.py:116
@@ -4854,20 +5033,37 @@ msgid "31 of august of 1962"
 msgstr "awustuna 31 urupana, 1962 marana"
 
 #: recursos/0tytobago/datos/0tytobago.py:80
-msgid "5.128 km² (172th)"
-msgstr "5.128 km² (172º)"
+msgid "5.128"
+msgstr ""
+
+#: recursos/0tytobago/datos/0tytobago.py:80
+msgid "172th"
+msgstr ""
 
 #: recursos/0tytobago/datos/0tytobago.py:81
-msgid "1.299.953 (153th)"
-msgstr "1.299.953 (153º)"
+msgid "1.223.916"
+msgstr ""
+
+#: recursos/0tytobago/datos/0tytobago.py:81
+msgid "159th"
+msgstr ""
 
 #: recursos/0tytobago/datos/0tytobago.py:82
-msgid "USD 23.837 billion (100th)"
-msgstr "US DOLAR 23.837 junu (100º)"
+msgid "28.788"
+msgstr ""
+
+#: recursos/0tytobago/datos/0tytobago.py:82
+msgid "100th"
+msgstr ""
 
 #: recursos/0tytobago/datos/0tytobago.py:83
-msgid "High - 0,736 (59th)"
-msgstr "Jach'pachana - 0,736 (59º)"
+msgid "0,772"
+msgstr ""
+
+#: recursos/0tytobago/datos/0tytobago.py:83 recursos/0cuba/datos/0cuba.py:92
+#: recursos/0ecuador/datos/0ecuador.py:150
+msgid "64th"
+msgstr ""
 
 #: recursos/0tytobago/datos/0tytobago.py:84
 msgid "Trinidad and Tobago dollar"
@@ -5408,32 +5604,50 @@ msgid "Federal presidential republic"
 msgstr "República federal presidencialista"
 
 #: recursos/0argentina/datos/0argentina.py:114
-msgid "Cristina Fernández"
-msgstr "Cristina Fernández"
+msgid "Mauricio Macri"
+msgstr ""
 
 #: recursos/0argentina/datos/0argentina.py:115
-msgid "Amado Boudou"
-msgstr "Amado Boudou"
+msgid "Gabriela Michetti"
+msgstr ""
 
 #: recursos/0argentina/datos/0argentina.py:117
 msgid "9 of july of 1816"
 msgstr "julyuna 9 urupana, 1816 marana"
 
 #: recursos/0argentina/datos/0argentina.py:119
-msgid "2.780.400 km² (8th)"
-msgstr "2.780.400 km² (8º)"
+msgid "2.780.400"
+msgstr ""
+
+#: recursos/0argentina/datos/0argentina.py:119
+#: recursos/0eunidos/datos/0eunidos.py:188
+msgid "8th"
+msgstr ""
 
 #: recursos/0argentina/datos/0argentina.py:120
-msgid "40.091.359 (32nd)"
-msgstr "40.091.359 (32º)"
+msgid "43.417.000"
+msgstr ""
+
+#: recursos/0argentina/datos/0argentina.py:120
+msgid "32nd"
+msgstr ""
 
 #: recursos/0argentina/datos/0argentina.py:121
-msgid "USD 474.812 billion (25th)"
-msgstr "US DOLAR 474.812 junu (25th)"
+msgid "964.279"
+msgstr ""
+
+#: recursos/0argentina/datos/0argentina.py:121
+msgid "25th"
+msgstr ""
 
 #: recursos/0argentina/datos/0argentina.py:122
-msgid "High - 0,808 (49th)"
-msgstr "Jach'pachana - 0,808 (49º)"
+msgid "0,836"
+msgstr ""
+
+#: recursos/0argentina/datos/0argentina.py:122
+#: recursos/0peru/datos/0peru.py:143
+msgid "40th"
+msgstr ""
 
 #: recursos/0canada/datos/0canada.py:5 recursos/0eunidos/datos/0eunidos.py:57
 #: recursos/0adelnorte/datos/0adelnorte.py:9
@@ -5964,24 +6178,37 @@ msgid "11 of december of 1931"
 msgstr "Risimrina 11 urupana, khaya 1931 marana"
 
 #: recursos/0canada/datos/0canada.py:119
-msgid "9.984.670 km² (2nd)"
-msgstr "9.984.670 km² (2º)"
+msgid "9.984.670"
+msgstr ""
+
+#: recursos/0canada/datos/0canada.py:119
+#: recursos/0eunidos/datos/0eunidos.py:187
+msgid "2nd"
+msgstr ""
 
 #: recursos/0canada/datos/0canada.py:120
-msgid "34.124.781 (37th)"
-msgstr "34.124.781 (37º)"
+msgid "36.048.521"
+msgstr ""
+
+#: recursos/0canada/datos/0canada.py:120
+msgid "37th"
+msgstr ""
 
 #: recursos/0canada/datos/0canada.py:121
-msgid "GPD:"
-msgstr "PIB utjiri:"
+msgid "1628.000"
+msgstr ""
 
 #: recursos/0canada/datos/0canada.py:121
-msgid "USD 1770.084 billion (11st)"
-msgstr "US DOLAR 1770.084 junu (11º)"
+msgid "15th"
+msgstr ""
 
 #: recursos/0canada/datos/0canada.py:122
-msgid "Very high - 0,902 (8th)"
-msgstr "Sinti jach'pachana - 0,902 (8º)"
+msgid "0,913"
+msgstr ""
+
+#: recursos/0canada/datos/0canada.py:122 recursos/0brasil/datos/0brasil.py:148
+msgid "9th"
+msgstr ""
 
 #: recursos/0canada/datos/0canada.py:123
 msgid "Canadian dollar"
@@ -6299,20 +6526,32 @@ msgid "20 of may of 1902"
 msgstr "mayuna 20 urupana, khaya 1902 marana"
 
 #: recursos/0cuba/datos/0cuba.py:90
-msgid "110.860 km² (105th)"
-msgstr "110.860 km² (105º)"
+msgid "110.860"
+msgstr ""
+
+#: recursos/0cuba/datos/0cuba.py:90
+msgid "105th"
+msgstr ""
 
 #: recursos/0cuba/datos/0cuba.py:91
-msgid "11.242.621 (71th)"
-msgstr "11.242.621 (71º)"
+msgid "11.242.621"
+msgstr ""
+
+#: recursos/0cuba/datos/0cuba.py:91 recursos/0ecuador/datos/0ecuador.py:148
+msgid "71th"
+msgstr ""
 
 #: recursos/0cuba/datos/0cuba.py:92
-msgid "USD 110.800 billion (65th)"
-msgstr "US$ DOLAR 110.800 junu (65º)"
+msgid "78.694"
+msgstr ""
 
 #: recursos/0cuba/datos/0cuba.py:93
-msgid "High - 0,815 (44th)"
-msgstr "Jach'pachana - 0,815 (44º)"
+msgid "0,769"
+msgstr ""
+
+#: recursos/0cuba/datos/0cuba.py:93
+msgid "67th"
+msgstr ""
 
 #: recursos/0cuba/datos/0cuba.py:94
 msgid "Cuban peso"
@@ -6914,10 +7153,9 @@ msgstr "Ahuás marka"
 msgid "(14º6' N - 87º13' W)"
 msgstr "(14º6' N - 87º13' O)"
 
-# Porfirio Lobo es expresidente de Honduras. El actual es el que está ya escrito.
 #: recursos/0honduras/datos/0honduras.py:130
-msgid "Porfirio Lobo"
-msgstr "Juan Orlando Hernández"
+msgid "Juan Orlando Hernández"
+msgstr ""
 
 #: recursos/0honduras/datos/0honduras.py:132
 #: recursos/0guatemala/datos/0guatemala.py:161
@@ -6932,20 +7170,45 @@ msgid "11 of december of 1825"
 msgstr "risimrina 11 urupana, 1825 marana"
 
 #: recursos/0honduras/datos/0honduras.py:134
-msgid "112.492 km² (102th)"
-msgstr "112.492 km² (102º)"
+msgid "112.492"
+msgstr ""
+
+#: recursos/0honduras/datos/0honduras.py:134
+msgid "102th"
+msgstr ""
 
 #: recursos/0honduras/datos/0honduras.py:135
-msgid "8.144.000 (93th)"
-msgstr "8.144.000 (93º)"
+msgid "8.249.574"
+msgstr ""
+
+#: recursos/0honduras/datos/0honduras.py:135
+msgid "94th"
+msgstr ""
 
 #: recursos/0honduras/datos/0honduras.py:136
-msgid "USD 18.18 billion (108th)"
-msgstr "US DOLAR 18.180 junu (108º)"
+msgid "19.567"
+msgstr ""
+
+#: recursos/0honduras/datos/0honduras.py:136
+#: recursos/0nicaragua/datos/0nicaragua.py:143
+msgid "108th"
+msgstr ""
 
 #: recursos/0honduras/datos/0honduras.py:137
-msgid "Medium - 0,604 (106th)"
-msgstr "Taypi - 0,604 (106º)"
+#: recursos/0guatemala/datos/0guatemala.py:166
+#: recursos/0paraguay/datos/0paraguay.py:119
+#: recursos/0surinam/datos/0surinam.py:87
+#: recursos/0nicaragua/datos/0nicaragua.py:145
+#: recursos/0guyana/datos/0guyana.py:93
+#: recursos/0elsalvador/datos/0elsalvador.py:110
+#: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:66
+#: recursos/0bolivia/datos/0bolivia.py:113
+msgid "Medium"
+msgstr ""
+
+#: recursos/0honduras/datos/0honduras.py:137
+msgid "0,606"
+msgstr ""
 
 #: recursos/0uruguay/datos/explorations.py:34
 msgid "Elevations"
@@ -7766,24 +8029,36 @@ msgid "28 of august of 1828"
 msgstr "awustuna 28 urupana, 1828 marana"
 
 #: recursos/0uruguay/datos/0uruguay.py:188
-msgid "176.215 km² (90th)"
-msgstr "176.215 km² (90º)"
+msgid "176.215"
+msgstr ""
+
+#: recursos/0uruguay/datos/0uruguay.py:188
+msgid "90th"
+msgstr ""
 
 #: recursos/0uruguay/datos/0uruguay.py:189
-msgid "3.424.595 (128th)"
-msgstr "3.424.595 (128º)"
+msgid "3.324.460"
+msgstr ""
+
+#: recursos/0uruguay/datos/0uruguay.py:189
+msgid "133rd"
+msgstr ""
 
 #: recursos/0uruguay/datos/0uruguay.py:190
-msgid "USD 49.716 billion (78th)"
-msgstr "US DOLAR 49.716 junu (78º)"
+msgid "54.968"
+msgstr ""
+
+#: recursos/0uruguay/datos/0uruguay.py:190
+msgid "78th"
+msgstr ""
 
 #: recursos/0uruguay/datos/0uruguay.py:191
-msgid "High - 0,790 (50th)"
-msgstr "Jach'pachana - 0,790 (50º)"
+msgid "0,793"
+msgstr ""
 
-#: recursos/0uruguay/datos/0uruguay.py:193
-msgid "1 of march of 2015"
-msgstr "marsuna 1 urupana, 2015 marana"
+#: recursos/0uruguay/datos/0uruguay.py:191
+msgid "52th"
+msgstr ""
 
 # Bocas del Toro es una provincia de Panamá y su capital es la ciudad homónima de Bocas del Toro.  Como es nombre de provincia, irá sin laterminacion MARKA
 #: recursos/0panama/datos/levels.py:11 recursos/0panama/datos/levels.py:31
@@ -8072,20 +8347,37 @@ msgid "3 of november of 1903"
 msgstr "nuwimrina 3 urupana, 1903 marana"
 
 #: recursos/0panama/datos/0panama.py:97
-msgid "78.200 km² (118th)"
-msgstr "78.200 km² (118vo)"
+msgid "78.200"
+msgstr ""
+
+#: recursos/0panama/datos/0panama.py:97
+msgid "118th"
+msgstr ""
 
 #: recursos/0panama/datos/0panama.py:98
-msgid "3.405.813 (129th)"
-msgstr "3.405.813 (129vo)"
+msgid "3.929.141"
+msgstr ""
+
+#: recursos/0panama/datos/0panama.py:98
+#: recursos/0costarica/datos/0costarica.py:156
+msgid "129th"
+msgstr ""
 
 #: recursos/0panama/datos/0panama.py:99
-msgid "USD 34.819 billion (89th)"
-msgstr "US DOLAR 34.819 junu (89º)"
+msgid "49.142"
+msgstr ""
+
+#: recursos/0panama/datos/0panama.py:99
+msgid "89th"
+msgstr ""
 
 #: recursos/0panama/datos/0panama.py:100
-msgid "High - 0,765 (65th)"
-msgstr "Jach'pachana - 0,765 (65º)"
+msgid "0,780"
+msgstr ""
+
+#: recursos/0panama/datos/0panama.py:100 recursos/0prico/datos/0prico.py:194
+msgid "60th"
+msgstr ""
 
 #: recursos/0acentral/datos/explorations.py:6
 #: recursos/0acentral/datos/levels.py:7
@@ -9072,19 +9364,24 @@ msgid "3 of september of 1783"
 msgstr "sitimwina 3 urupana, 1783 marana"
 
 #: recursos/0eunidos/datos/0eunidos.py:185
-msgid "9.826.675 km² (3rd)"
-msgstr "9.826.675 km² (3º)"
+msgid "9.826.675"
+msgstr ""
+
+#: recursos/0eunidos/datos/0eunidos.py:185
+#: recursos/0eunidos/datos/0eunidos.py:186
+msgid "3rd"
+msgstr ""
 
 #: recursos/0eunidos/datos/0eunidos.py:186
-msgid "308.745.538 (3rd)"
-msgstr "308.745.538 (3º)"
+msgid "322.369.319"
+msgstr ""
 
 #: recursos/0eunidos/datos/0eunidos.py:187
-msgid "USD 15653.366 billion (1st)"
-msgstr "US DOLAR 15653.366 junu (1º)"
+msgid "17419.000"
+msgstr ""
 
 #: recursos/0eunidos/datos/0eunidos.py:188
-msgid "Very High - 0,915 (5th)"
+msgid "0,915"
 msgstr ""
 
 #: recursos/0eunidos/datos/0eunidos.py:189 recursos/0prico/datos/0prico.py:196
@@ -9603,24 +9900,37 @@ msgid "Ceded by Spain to the United States"
 msgstr "Estados Unidos markaru España markana churatapa"
 
 #: recursos/0prico/datos/0prico.py:191
-msgid "13 of august of 1898 "
-msgstr "awustuna 13 urupana, 1898 marana "
+msgid "13 of august of 1898"
+msgstr ""
 
 #: recursos/0prico/datos/0prico.py:192
-msgid "9.104 km² (170th)"
-msgstr "9.104 km² (170º)"
+msgid "9.104"
+msgstr ""
+
+#: recursos/0prico/datos/0prico.py:192 recursos/0belice/datos/0belice.py:103
+msgid "170th"
+msgstr ""
 
 #: recursos/0prico/datos/0prico.py:193
-msgid "3.725.789 (127th)"
-msgstr "3.725.789 (127º)"
+msgid "3.725.789"
+msgstr ""
+
+#: recursos/0prico/datos/0prico.py:193
+msgid "127th"
+msgstr ""
 
 #: recursos/0prico/datos/0prico.py:194
-msgid "USD 96.260 billion (--th)"
-msgstr "US DOLAR 96.260 junu (--th)"
+msgid "105.100"
+msgstr ""
 
 #: recursos/0prico/datos/0prico.py:195
-msgid "Very High - 0.865 (29th)"
-msgstr "Sinti jach'pachana - 0.865 (29º)"
+msgid "0,865"
+msgstr ""
+
+#: recursos/0prico/datos/0prico.py:195
+#: recursos/0colombia/datos/0colombia.py:145
+msgid "29th"
+msgstr ""
 
 #: recursos/0mexico/datos/levels.py:12 recursos/0mexico/datos/levels.py:51
 #: recursos/0mexico/datos/levels.py:92 recursos/0mexico/datos/0mexico.py:9
@@ -10063,20 +10373,40 @@ msgid "28 of december of 1836"
 msgstr "risimrina 28 urupana, 1836 marana"
 
 #: recursos/0mexico/datos/0mexico.py:144
-msgid "1.972.550 km² (14th)"
-msgstr "1.972.550 km² (14º) chani"
+msgid "1.972.550"
+msgstr ""
+
+#: recursos/0mexico/datos/0mexico.py:144
+msgid "14th"
+msgstr ""
 
 #: recursos/0mexico/datos/0mexico.py:145
-msgid "112.322.757 (11th)"
-msgstr "112.322.757 (11º)"
+msgid "119.530.753"
+msgstr ""
+
+#: recursos/0mexico/datos/0mexico.py:145
+msgid "11st"
+msgstr ""
 
 #: recursos/0mexico/datos/0mexico.py:146
-msgid "USD 1162.891 billion (14th)"
-msgstr "US DOLAR $ 1162.891 junu (14º)"
+msgid "1.232.000"
+msgstr ""
+
+#: recursos/0mexico/datos/0mexico.py:146
+msgid "13th"
+msgstr ""
 
 #: recursos/0mexico/datos/0mexico.py:147
-msgid "High - 0,756 (71st)"
-msgstr "Jach'pachana - 0,756 (71º)"
+msgid "0,756"
+msgstr ""
+
+#: recursos/0mexico/datos/0mexico.py:147
+msgid "74th"
+msgstr ""
+
+#: recursos/0mexico/datos/0mexico.py:149
+msgid "Info updated:"
+msgstr "Jichhachata yatiyawi:"
 
 #: recursos/0guatemala/datos/0guatemala.py:8
 #: recursos/0guatemala/datos/0guatemala.py:39
@@ -10641,33 +10971,48 @@ msgid "(14º38' N - 90º33' W)"
 msgstr "(14º38' N - 90º33' O)"
 
 #: recursos/0guatemala/datos/0guatemala.py:158
-msgid "Otto Pérez Molina"
-msgstr "Otto Pérez Molina"
+msgid "Jimmy Morales"
+msgstr ""
 
 #: recursos/0guatemala/datos/0guatemala.py:159
-msgid "Roxana Baldetti"
-msgstr "Roxana Baldetti"
+msgid "Jafeth Cabrera"
+msgstr ""
 
 #: recursos/0guatemala/datos/0guatemala.py:162
 msgid "11 of october of 1825"
 msgstr "Ujtuwrina 11 urupana, 1825 marana"
 
 #: recursos/0guatemala/datos/0guatemala.py:163
-msgid "108.889 km² (106th)"
-msgstr "108.889 km² (106º)"
+msgid "108.889"
+msgstr ""
+
+#: recursos/0guatemala/datos/0guatemala.py:163
+msgid "106th"
+msgstr ""
 
 #: recursos/0guatemala/datos/0guatemala.py:164
-msgid "13.718.000 (67th)"
-msgstr "13.718.000 (67º)"
+msgid "15.806.675"
+msgstr ""
+
+#: recursos/0guatemala/datos/0guatemala.py:164
+msgid "66th"
+msgstr ""
 
 #: recursos/0guatemala/datos/0guatemala.py:165
-msgid "USD 50.296 billion (77th)"
-msgstr "US$ DOLAR 50.296 junu (77º)"
+msgid "66.037"
+msgstr ""
+
+#: recursos/0guatemala/datos/0guatemala.py:165
+msgid "77th"
+msgstr ""
 
 #: recursos/0guatemala/datos/0guatemala.py:166
-#, fuzzy
-msgid "Medium - 0,628 (125th)"
-msgstr "Taypi - 0,628 (125º)"
+msgid "0,627"
+msgstr ""
+
+#: recursos/0guatemala/datos/0guatemala.py:166
+msgid "128th"
+msgstr ""
 
 #: recursos/0guatemala/datos/0guatemala.py:167
 msgid "Quetzal"
@@ -11098,20 +11443,39 @@ msgid "10 of september of 1880"
 msgstr "sitimmrina 10 urupana, khaya 1880 marana"
 
 #: recursos/0paraguay/datos/0paraguay.py:116
-msgid "406.752 km² (59th)"
-msgstr "406.752 km² (59º)"
+msgid "406.752"
+msgstr ""
+
+#: recursos/0paraguay/datos/0paraguay.py:116
+msgid "59th"
+msgstr ""
 
 #: recursos/0paraguay/datos/0paraguay.py:117
-msgid "6.459.000 (103th)"
-msgstr "6.459.000 (103º)"
+msgid "7.012.433"
+msgstr ""
+
+#: recursos/0paraguay/datos/0paraguay.py:117
+msgid "104th"
+msgstr ""
 
 #: recursos/0paraguay/datos/0paraguay.py:118
-msgid "USD 26.089billion (96th)"
-msgstr "US DOLAR $ 26.089 junu (96º)"
+msgid "30.754"
+msgstr ""
+
+#: recursos/0paraguay/datos/0paraguay.py:118
+#: recursos/0jamaica/datos/0jamaica.py:100
+#: recursos/0elsalvador/datos/0elsalvador.py:108
+#: recursos/0elsalvador/datos/0elsalvador.py:109
+msgid "99th"
+msgstr ""
 
 #: recursos/0paraguay/datos/0paraguay.py:119
-msgid "Medium - 0,676 (111st)"
-msgstr "Medio - 0,676 (111º)"
+msgid "0,679"
+msgstr ""
+
+#: recursos/0paraguay/datos/0paraguay.py:119
+msgid "112nd"
+msgstr ""
 
 #: recursos/0jamaica/datos/0jamaica.py:8 recursos/0jamaica/datos/levels.py:11
 msgid "Hanover"
@@ -11397,20 +11761,33 @@ msgid "6 of august of 1962"
 msgstr "awustuna 6 urupana, khaya 1962 marana"
 
 #: recursos/0jamaica/datos/0jamaica.py:97
-msgid "10.991 km² (166th)"
-msgstr "10.991 km² (166º)"
+msgid "10.991"
+msgstr ""
+
+#: recursos/0jamaica/datos/0jamaica.py:97
+msgid "166th"
+msgstr ""
 
 #: recursos/0jamaica/datos/0jamaica.py:98
-msgid "2.735.520 (131st)"
-msgstr "2.735.520 (131º)"
+msgid "2.950.210"
+msgstr ""
+
+#: recursos/0jamaica/datos/0jamaica.py:98
+msgid "139th"
+msgstr ""
 
 #: recursos/0jamaica/datos/0jamaica.py:99
-msgid "USD 15.262 billion (116th)"
-msgstr "US DOLAR $ 15.262 junu (116º)"
+msgid "15.569"
+msgstr ""
+
+#: recursos/0jamaica/datos/0jamaica.py:99
+#: recursos/0elsalvador/datos/0elsalvador.py:110
+msgid "116th"
+msgstr ""
 
 #: recursos/0jamaica/datos/0jamaica.py:100
-msgid "High - 0,688 (80th)"
-msgstr "Jach'pachana - 0,688 (80vo)"
+msgid "0,719"
+msgstr ""
 
 #: recursos/0jamaica/datos/0jamaica.py:101
 msgid "Jamaican dollar"
@@ -11976,20 +12353,24 @@ msgid "Ana Helena Chacón"
 msgstr "Ana Helena Chacón"
 
 #: recursos/0costarica/datos/0costarica.py:156
-msgid "51.100 km² (129th)"
-msgstr "51.100 km² (129º)"
+msgid "51.100"
+msgstr ""
 
 #: recursos/0costarica/datos/0costarica.py:157
-msgid "4.615.518 (115th)"
-msgstr "4.615.518 (115º)"
+msgid "4.615.518"
+msgstr ""
+
+#: recursos/0costarica/datos/0costarica.py:157
+msgid "115th"
+msgstr ""
 
 #: recursos/0costarica/datos/0costarica.py:158
-msgid "USD 44.884 billion (80th)"
-msgstr "US DOLAR $ 44.884 junu (80º)"
+msgid "74.324"
+msgstr ""
 
 #: recursos/0costarica/datos/0costarica.py:159
-msgid "High - 0,763 (68th)"
-msgstr "Jach'pachana - 0,763 (68º)"
+msgid "0,766"
+msgstr ""
 
 #: recursos/0costarica/datos/0costarica.py:160
 msgid "Costa Rica Colon"
@@ -12453,10 +12834,9 @@ msgstr "Aymara aru"
 msgid "Ollanta Humala Tasso"
 msgstr "Ollanta Humala Tasso"
 
-# Ahora es Pedro Cateriano el premier
 #: recursos/0peru/datos/0peru.py:138
-msgid "Juan Jiménez Mayor"
-msgstr "Pedro Cateriano"
+msgid "Pedro Cateriano"
+msgstr ""
 
 #: recursos/0peru/datos/0peru.py:140
 msgid "28 of july of 1821"
@@ -12467,20 +12847,32 @@ msgid "14 of august of 1879"
 msgstr "awustuna 14 urupana, khaya 1879 marana"
 
 #: recursos/0peru/datos/0peru.py:142
-msgid "1.285.216 km² (20th)"
-msgstr "1.285.216 km² (20º)"
+msgid "1.285.216"
+msgstr ""
+
+#: recursos/0peru/datos/0peru.py:142
+msgid "20th"
+msgstr ""
 
 #: recursos/0peru/datos/0peru.py:143
-msgid "30.165.000 (40th)"
-msgstr "30.165.000 (40º)"
+msgid "31.151.643"
+msgstr ""
 
 #: recursos/0peru/datos/0peru.py:144
-msgid "USD 200.292 billion (50th)"
-msgstr "US$ DOLAR  200.292 junu (50º)"
+msgid "217.607"
+msgstr ""
+
+#: recursos/0peru/datos/0peru.py:144
+msgid "50th"
+msgstr ""
 
 #: recursos/0peru/datos/0peru.py:145
-msgid "High - 0,723 (63th)"
-msgstr "Jach'pachana - 0,723 (63º)"
+msgid "0,734"
+msgstr ""
+
+#: recursos/0peru/datos/0peru.py:145
+msgid "84th"
+msgstr ""
 
 #: recursos/0peru/datos/0peru.py:146
 msgid "Nuevo sol"
@@ -12752,8 +13144,8 @@ msgid "Dési Bouterse"
 msgstr "Dési Bouterse"
 
 #: recursos/0surinam/datos/0surinam.py:81
-msgid "Robert Ameerali"
-msgstr "Robert Ameerali"
+msgid "Ashwin Adhin"
+msgstr ""
 
 # Países Bajos = Holanda
 #: recursos/0surinam/datos/0surinam.py:82
@@ -12765,20 +13157,37 @@ msgid "25 of november of 1975"
 msgstr "nuwimrina 25 urupana, 1975 marana"
 
 #: recursos/0surinam/datos/0surinam.py:84
-msgid "163.820 km² (91th)"
-msgstr "163.820 km² (91º)"
+msgid "163.820"
+msgstr ""
+
+#: recursos/0surinam/datos/0surinam.py:84
+msgid "91th"
+msgstr ""
 
 #: recursos/0surinam/datos/0surinam.py:85
-msgid "542.000 (171th)"
-msgstr "542.000 (171º)"
+msgid "573.311"
+msgstr ""
+
+#: recursos/0surinam/datos/0surinam.py:85
+#: recursos/0belice/datos/0belice.py:104
+msgid "167th"
+msgstr ""
 
 #: recursos/0surinam/datos/0surinam.py:86
-msgid "USD 5.094 billion (147th)"
-msgstr "US$ DOLAR 5.094 junu (147º)"
+msgid "5.297"
+msgstr ""
+
+#: recursos/0surinam/datos/0surinam.py:86 recursos/0haiti/datos/0haiti.py:106
+msgid "147th"
+msgstr ""
 
 #: recursos/0surinam/datos/0surinam.py:87
-msgid "Medium - 0,646 (94th)"
-msgstr "Taypi - 0,646 (94º)"
+msgid "0,714"
+msgstr ""
+
+#: recursos/0surinam/datos/0surinam.py:87
+msgid "103rd"
+msgstr ""
 
 #: recursos/0surinam/datos/0surinam.py:88
 msgid "Surinamese dollar"
@@ -12977,20 +13386,28 @@ msgid "from France"
 msgstr "Francia markatha"
 
 #: recursos/0guayanafr/datos/0guayanafr.py:70
-msgid "86.504 km² (112th)"
-msgstr "86.504 km² (112º)"
+msgid "86.504"
+msgstr ""
+
+#: recursos/0guayanafr/datos/0guayanafr.py:70
+msgid "112th"
+msgstr ""
 
 #: recursos/0guayanafr/datos/0guayanafr.py:71
-msgid "230.000 (187th)"
-msgstr "230.000 (187º)"
+msgid "259.109"
+msgstr ""
+
+#: recursos/0guayanafr/datos/0guayanafr.py:71
+msgid "186th"
+msgstr ""
 
 #: recursos/0guayanafr/datos/0guayanafr.py:72
-msgid "USD 1.151 billion (181th)"
-msgstr "US DOLAR $ 1.151 junu (181º)"
+msgid "1.151"
+msgstr ""
 
-#: recursos/0guayanafr/datos/0guayanafr.py:73
-msgid "-- (--th)"
-msgstr "-- (--º)"
+#: recursos/0guayanafr/datos/0guayanafr.py:72
+msgid "181th"
+msgstr ""
 
 #: recursos/0guayanafr/datos/0guayanafr.py:74
 msgid "Euro"
@@ -13471,20 +13888,34 @@ msgid "8 of april of 1826"
 msgstr "awrilana 8 urupana, khaya 1826 marana"
 
 #: recursos/0nicaragua/datos/0nicaragua.py:142
-msgid "129.494 km² (97th)"
-msgstr "129.494 km² (97º)"
+msgid "129.494"
+msgstr ""
+
+#: recursos/0nicaragua/datos/0nicaragua.py:142
+#: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:66
+#: recursos/0colombia/datos/0colombia.py:146
+msgid "97th"
+msgstr ""
 
 #: recursos/0nicaragua/datos/0nicaragua.py:143
-msgid "5.465.100 (108th)"
-msgstr "5.465.100 (108º)"
+msgid "6.071.045"
+msgstr ""
 
 #: recursos/0nicaragua/datos/0nicaragua.py:144
-msgid "USD 7.828 billion (138th)"
-msgstr "US$ DOLAR 7.828 junu (138º)"
+msgid "12.557"
+msgstr ""
+
+#: recursos/0nicaragua/datos/0nicaragua.py:144
+msgid "138th"
+msgstr ""
 
 #: recursos/0nicaragua/datos/0nicaragua.py:145
-msgid "Medium - 0,614 (132nd)"
-msgstr "Taypi - 0,614 (132º)"
+msgid "0,631"
+msgstr ""
+
+#: recursos/0nicaragua/datos/0nicaragua.py:145
+msgid "125th"
+msgstr ""
 
 # Barima-Waini es una de las diez regiones en las que se encuentra dividida administrativamente la república de Guyana
 #: recursos/0guyana/datos/levels.py:11 recursos/0guyana/datos/0guyana.py:8
@@ -13721,39 +14152,53 @@ msgstr "(6º49' N - 58º9' O)"
 msgid "Semi-Presidential Republic"
 msgstr "República Semipresidencialista"
 
-# David A. Granger es ahora el presidente de Guyana
 #: recursos/0guyana/datos/0guyana.py:86
-msgid "Donald Ramotar"
-msgstr "David A. Granger"
+msgid "David Granger"
+msgstr ""
 
 #: recursos/0guyana/datos/0guyana.py:87
 msgid "Prime minister:"
 msgstr "Primer ministro:"
 
-# Ahora el primer ministro es Moses Nagamootoo
 #: recursos/0guyana/datos/0guyana.py:87
-msgid "Sam Hinds"
-msgstr "Moses Nagamootoo"
+msgid "Moses Nagamootoo"
+msgstr ""
 
 #: recursos/0guyana/datos/0guyana.py:89
 msgid "26 of may of 1966"
 msgstr "mayuna 26 urupana, 1966 marana"
 
 #: recursos/0guyana/datos/0guyana.py:90
-msgid "214.970 km² (81th)"
-msgstr "214.970 km² (81º)"
+msgid "214.970"
+msgstr ""
+
+#: recursos/0guyana/datos/0guyana.py:90
+msgid "81th"
+msgstr ""
 
 #: recursos/0guyana/datos/0guyana.py:91
-msgid "784.894 (161th)"
-msgstr "784.894 (161º)"
+msgid "735.554"
+msgstr ""
+
+#: recursos/0guyana/datos/0guyana.py:91
+msgid "165th"
+msgstr ""
 
 #: recursos/0guyana/datos/0guyana.py:92
-msgid "USD 2.788 billion (158th)"
-msgstr "US$ DOLAR 2.788 junu (158º)"
+msgid "2.788"
+msgstr ""
+
+#: recursos/0guyana/datos/0guyana.py:92
+msgid "158th"
+msgstr ""
 
 #: recursos/0guyana/datos/0guyana.py:93
-msgid "Medium - 0,611 (104th)"
-msgstr "Taypi - 0,611 (104º)"
+msgid "0,636"
+msgstr ""
+
+#: recursos/0guyana/datos/0guyana.py:93
+msgid "124th"
+msgstr ""
 
 #: recursos/0guyana/datos/0guyana.py:94
 msgid "Guyanese dollar"
@@ -14084,20 +14529,24 @@ msgid "12 of june of 1824"
 msgstr "junyuna 12 urupana, 1824 marana"
 
 #: recursos/0elsalvador/datos/0elsalvador.py:107
-msgid "21.041 km² (152th)"
-msgstr "21.041 km² (152º)"
+msgid "21.041"
+msgstr ""
+
+#: recursos/0elsalvador/datos/0elsalvador.py:107
+msgid "152th"
+msgstr ""
 
 #: recursos/0elsalvador/datos/0elsalvador.py:108
-msgid "5.744.113 (97th)"
-msgstr "5.744.113 (97º)"
+msgid "6.377.195"
+msgstr ""
 
 #: recursos/0elsalvador/datos/0elsalvador.py:109
-msgid "USD 23.985 billion (99th)"
-msgstr "US$ DOLAR 23.985 junu (99º)"
+msgid "28.986"
+msgstr ""
 
 #: recursos/0elsalvador/datos/0elsalvador.py:110
-msgid "Medium - 0,662 (115th)"
-msgstr "Taypi - 0,662 (115º)"
+msgid "0,686"
+msgstr ""
 
 # La parroquia de Carlota
 #: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:9
@@ -14263,21 +14712,33 @@ msgid "27 of october of 1979"
 msgstr "ujtuwrina 27 urupana, 1979 marana"
 
 #: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:63
-msgid "389 km² (206th)"
-msgstr "389 km² (206º)"
+msgid "389"
+msgstr ""
+
+#: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:63
+msgid "206th"
+msgstr ""
 
 #: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:64
-msgid "100.369 (193rd)"
-msgstr "100.369 (193º)"
+msgid "103.000"
+msgstr ""
 
-# ¿HAY ERROR EN LA CIFRA???
+#: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:64
+msgid "196th"
+msgstr ""
+
 #: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:65
-msgid "USD 0.717 billion (181st)"
-msgstr "US$ DOLAR 717 junu (181º)"
+msgid "0.695"
+msgstr ""
+
+#: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:65
+msgid "181st"
+msgstr ""
 
 #: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:66
-msgid "Medium - 0,791 (93rd)"
-msgstr "Taypi - 0,791 (93º)"
+#: recursos/0colombia/datos/0colombia.py:146
+msgid "0,720"
+msgstr ""
 
 #: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:67
 msgid "Caribbean Dollar"
@@ -15039,21 +15500,28 @@ msgid "7 of august of 1819"
 msgstr "awustuna 7 urupana, 1819 marana"
 
 #: recursos/0colombia/datos/0colombia.py:143
-msgid "1.141.748 km² (26th)"
-msgstr "1.141.748 km² (26º)"
+msgid "1.141.748"
+msgstr ""
+
+#: recursos/0colombia/datos/0colombia.py:143
+msgid "26th"
+msgstr ""
 
 #: recursos/0colombia/datos/0colombia.py:144
-msgid "45.925.397 (28th)"
-msgstr "45.925.397 (28º)"
+msgid "48.400.388"
+msgstr ""
+
+#: recursos/0colombia/datos/0colombia.py:144
+msgid "28th"
+msgstr ""
 
 #: recursos/0colombia/datos/0colombia.py:145
-msgid "USD 365.402 billion (31st)"
-msgstr "US$ DOLAR 365.402 junu (31º)"
+msgid "427.139"
+msgstr ""
 
-#: recursos/0colombia/datos/0colombia.py:146
-#: recursos/0ecuador/datos/0ecuador.py:151
-msgid "High - 0,711 (98th)"
-msgstr "Jach'pachana - 0,711 (98º)"
+#: recursos/0colombia/datos/0colombia.py:148
+msgid "5 of abril of 2016"
+msgstr ""
 
 # Brasil es una federación constituida por la unión indisoluble de 26 estados miembros, un Distrito Federal y los municipios.  Por que son estados, no usaremos MARKA
 #: recursos/0brasil/datos/levels.py:12 recursos/0brasil/datos/0brasil.py:9
@@ -15343,20 +15811,28 @@ msgid "29 of august of 1825"
 msgstr "awustuna 29 urupana, 1825 marana"
 
 #: recursos/0brasil/datos/0brasil.py:146
-msgid "8.514.877 km² (5th)"
-msgstr "8.514.877 km² (5º)"
+msgid "8.514.877"
+msgstr ""
+
+#: recursos/0brasil/datos/0brasil.py:146 recursos/0brasil/datos/0brasil.py:147
+msgid "5th"
+msgstr ""
 
 #: recursos/0brasil/datos/0brasil.py:147
-msgid "190.732.694 (5th)"
-msgstr "190.732.694 (5º)"
+msgid "205.338.000"
+msgstr ""
 
 #: recursos/0brasil/datos/0brasil.py:148
-msgid "USD 2425.052 billion (7th)"
-msgstr "US$ DOLAR 2425.052 junu (7º)"
+msgid "1672.000"
+msgstr ""
 
 #: recursos/0brasil/datos/0brasil.py:149
-msgid "High - 0,744 (79th)"
-msgstr "Jach'pachana - 0,744 (79º)"
+msgid "0,755"
+msgstr ""
+
+#: recursos/0brasil/datos/0brasil.py:149
+msgid "75th"
+msgstr ""
 
 # Real es la unidad monetaria de Brasil. No es un pueblo.
 #: recursos/0brasil/datos/0brasil.py:150
@@ -15813,28 +16289,44 @@ msgid "Michel Martelly"
 msgstr "Michel Martelly"
 
 #: recursos/0haiti/datos/0haiti.py:103
-msgid "Evans Paul"
-msgstr "Evans Paul"
+msgid "Enex Jean-Charles"
+msgstr ""
 
 #: recursos/0haiti/datos/0haiti.py:105
 msgid "1 of january of 1804"
 msgstr "iniruna 1 urupana, khaya 1804 marana"
 
 #: recursos/0haiti/datos/0haiti.py:106
-msgid "27.750 km² (147th)"
-msgstr "27.750 km² (147º)"
+msgid "27.750"
+msgstr ""
 
 #: recursos/0haiti/datos/0haiti.py:107
-msgid "9.800.000 (90th)"
-msgstr "9.800.000 (90º)"
+msgid "10.604.000"
+msgstr ""
+
+#: recursos/0haiti/datos/0haiti.py:107
+msgid "85th"
+msgstr ""
 
 #: recursos/0haiti/datos/0haiti.py:108
-msgid "USD 7.895 billion (137th)"
-msgstr "US$ DOLAR 7.895 junu (137º)"
+msgid "8.924"
+msgstr ""
+
+#: recursos/0haiti/datos/0haiti.py:108
+msgid "137th"
+msgstr ""
 
 #: recursos/0haiti/datos/0haiti.py:109
-msgid "Low - 0,471 (168th)"
-msgstr "Isk'aki - 0,471 (168º)"
+msgid "Low"
+msgstr ""
+
+#: recursos/0haiti/datos/0haiti.py:109
+msgid "0,483"
+msgstr ""
+
+#: recursos/0haiti/datos/0haiti.py:109
+msgid "163rd"
+msgstr ""
 
 #: recursos/0haiti/datos/0haiti.py:110
 msgid "Gourde"
@@ -16318,16 +16810,28 @@ msgid "of Colombia: 13 may of 1830"
 msgstr "Colombia markatha: mayuna 13 urupana, khaya 1830 marana"
 
 #: recursos/0ecuador/datos/0ecuador.py:148
-msgid "256.370 km² (71th)"
-msgstr "256.370 km² (71º)"
+msgid "256.370"
+msgstr ""
 
 #: recursos/0ecuador/datos/0ecuador.py:149
-msgid "14.306.876 (--th)"
-msgstr "14.306.876 (--º)"
+msgid "16.144.000"
+msgstr ""
+
+#: recursos/0ecuador/datos/0ecuador.py:149
+msgid "65th"
+msgstr ""
 
 #: recursos/0ecuador/datos/0ecuador.py:150
-msgid "USD 70.836 billion (67th)"
-msgstr "US$ DOLAR 70.836 junu (67º)"
+msgid "100.755"
+msgstr ""
+
+#: recursos/0ecuador/datos/0ecuador.py:151
+msgid "0,732"
+msgstr ""
+
+#: recursos/0ecuador/datos/0ecuador.py:151
+msgid "88th"
+msgstr ""
 
 #: recursos/0ecuador/datos/levels.py:112
 msgid "Tigre"
@@ -16782,8 +17286,8 @@ msgid "Parliamentary democracy"
 msgstr "Democracia parlamentaria"
 
 #: recursos/0belice/datos/0belice.py:99
-msgid "Sir Colville Young"
-msgstr "Sir Colville Young"
+msgid "Dean Barrow"
+msgstr ""
 
 #: recursos/0belice/datos/0belice.py:100
 msgid "from the United Kingdom"
@@ -16794,22 +17298,20 @@ msgid "21 of september of 1981"
 msgstr "sitimrina 21 urupana, 1981 marana"
 
 #: recursos/0belice/datos/0belice.py:102
-msgid "22.966 km² (151th)"
-msgstr "22.966 km² (151vo)"
+msgid "22.966"
+msgstr ""
 
-# (170vo) No es grados centígrados
+#: recursos/0belice/datos/0belice.py:102
+msgid "151th"
+msgstr ""
+
 #: recursos/0belice/datos/0belice.py:103
-msgid "372.000 (170th)"
-msgstr "372.000 (170vo)"
+msgid "347.369"
+msgstr ""
 
-# Hay error en la cifra???
 #: recursos/0belice/datos/0belice.py:104
-msgid "USD 1.52 billions (167th)"
-msgstr "US$ DOLAR 1.520 junu (167°)"
-
-#: recursos/0belice/datos/0belice.py:105
-msgid "High - 0,694 (78th)"
-msgstr "Jach'pachana - 0,694 (78vo)"
+msgid "1.759"
+msgstr ""
 
 #: recursos/0belice/datos/0belice.py:106
 msgid "Belize Dollar"
@@ -17051,20 +17553,36 @@ msgid "21 of july of 1847"
 msgstr "julyuna 21 urupana, khaya 1847 marana"
 
 #: recursos/0bolivia/datos/0bolivia.py:110
-msgid "1.098.581 km² (27th)"
-msgstr "1.098.581 km² (27º)"
+msgid "1.098.581"
+msgstr ""
+
+#: recursos/0bolivia/datos/0bolivia.py:110
+msgid "27th"
+msgstr ""
 
 #: recursos/0bolivia/datos/0bolivia.py:111
-msgid "10.426.160 (87th)"
-msgstr "10.426.160 (87th)"
+msgid "11.410.651"
+msgstr ""
+
+#: recursos/0bolivia/datos/0bolivia.py:111
+msgid "83rd"
+msgstr ""
 
 #: recursos/0bolivia/datos/0bolivia.py:112
-msgid "USD 26.749 billion (94th)"
-msgstr "US$ DOLAR 26.749 junu (94°)"
+msgid "33.537"
+msgstr ""
+
+#: recursos/0bolivia/datos/0bolivia.py:112
+msgid "96th"
+msgstr ""
 
 #: recursos/0bolivia/datos/0bolivia.py:113
-msgid "Medium - 0,667 (113th)"
-msgstr "Taypi - 0,667 (113º)"
+msgid "0,662"
+msgstr ""
+
+#: recursos/0bolivia/datos/0bolivia.py:113
+msgid "119th"
+msgstr ""
 
 #: recursos/0bolivia/datos/0bolivia.py:114
 msgid "Boliviano"
