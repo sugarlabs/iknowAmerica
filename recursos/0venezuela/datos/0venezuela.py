@@ -123,13 +123,13 @@ STATS = [
     (_('President:'), _('Nicolás Maduro')),
     (_('Vice President:'), _('Aristóbulo Istúriz')),
     (_('Independence:'), _('from Spain')),
-    ('', _('declared: %s') % _('5 of july of 1811')),
-    ('', _('recognized: %s') % _('30 of march of 1845')),
+    ('', _('declared: %s') % _('July 5, 1811')),
+    ('', _('recognized: %s') % _('March 30, 1845')),
     (_('Area:'), '%(sup)s %(u)s (%(p)s)' % {'sup': _('916.445'), 'u': _('km²'), 'p': _('33th')}),
     (_('Population:'), '%(v)s (%(p)s)' % {'v': _('30.933.000'), 'p': _('44th')}),
     (_('GDP:'), '%(c)s %(v)s %(u)s (%(p)s)' % {'c': _('USD'), 'v': _('131.855'), 'u': _('billion'), 'p': _('33rd')}),
     (_('HDI:'), '%(l)s - %(v)s (%(p)s)' % {'l': _('High'), 'v': _('0,762'), 'p': _('71st')}),
     (_('Currency:'), _('Bolívar')),
-    (_('Updated:'), _('5 of april of 2016'))
+    (_('Updated:'), _('April 5, 2016'))
 ]
 
