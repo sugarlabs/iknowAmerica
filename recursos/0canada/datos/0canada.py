@@ -114,13 +114,13 @@ STATS = [
     (_('Monarch:'), _('Queen Elizabeth II')),
     (_('Governor:'), _('David Johnston')),
     (_('Independence:'), _('from United Kingdom')),
-    ('', _('declared: %s') % _('1st of july of 1867')),
-    ('', _('recognized: %s') % _('11 of december of 1931')),
+    ('', _('declared: %s') % _('July 1, 1867')),
+    ('', _('recognized: %s') % _('December 11, 1931')),
     (_('Area:'), '%(sup)s %(u)s (%(p)s)' % {'sup': _('9.984.670'), 'u': _('km²'), 'p': _('2nd')}),
     (_('Population:'), '%(v)s (%(p)s)' % {'v': _('36.048.521'), 'p': _('37th')}),
     (_('GDP:'), '%(c)s %(v)s %(u)s (%(p)s)' % {'c': _('USD'), 'v': _('1628.000'), 'u': _('billion'), 'p': _('15th')}),
     (_('HDI:'), '%(l)s - %(v)s (%(p)s)' % {'l': _('Very High'), 'v': _('0,913'), 'p': _('9th')}),
     (_('Currency:'), _('Canadian dollar')),
-    (_('Updated:'), _('5 of april of 2016'))
+    (_('Updated:'), _('April 5, 2016'))
 ]
 
