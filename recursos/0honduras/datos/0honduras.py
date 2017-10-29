@@ -129,13 +129,13 @@ STATS = [
     (_('Government:'), _('Presidential republic')),
     (_('President:'), _('Juan Orlando Hernández')),
     (_('Independence:'), _('from Spain')),
-    ('', _('declared: %s') % _('15 of september of 1821')),
-    ('', _('recognized: %s') % _('11 of december of 1825')),
+    ('', _('declared: %s') % _('September 15, 1821')),
+    ('', _('recognized: %s') % _('December 11, 1825')),
     (_('Area:'), '%(sup)s %(u)s (%(p)s)' % {'sup': _('112.492'), 'u': _('km²'), 'p': _('102th')}),
     (_('Population:'), '%(v)s (%(p)s)' % {'v': _('8.249.574'), 'p': _('94th')}),
     (_('GDP:'), '%(c)s %(v)s %(u)s (%(p)s)' % {'c': _('USD'), 'v': _('19.567'), 'u': _('billion'), 'p': _('108th')}),
     (_('HDI:'), '%(l)s - %(v)s (%(p)s)' % {'l': _('Medium'), 'v': _('0,606'), 'p': _('131st')}),
     (_('Currency:'), _('Lempira')),
-    (_('Updated:'), _('5 of april of 2016'))
+    (_('Updated:'), _('April 5, 2016'))
 ]
 
