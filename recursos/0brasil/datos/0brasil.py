@@ -141,13 +141,13 @@ STATS = [
     (_('President:'), _('Dilma Rousseff')),
     (_('Vice President:'), _('Michel Temer')),
     (_('Independence:'), _('from Portugal')),
-    ('', _('declared: %s') % _('7 of september of 1822')),
-    ('', _('recognized: %s') % _('29 of august of 1825')),
+    ('', _('declared: %s') % _('September 7, 1822')),
+    ('', _('recognized: %s') % _('August 29, 1825')),
     (_('Area:'), '%(sup)s %(u)s (%(p)s)' % {'sup': _('8.514.877'), 'u': _('km²'), 'p': _('5th')}),
     (_('Population:'), '%(v)s (%(p)s)' % {'v': _('205.338.000'), 'p': _('5th')}),
     (_('GDP:'), '%(c)s %(v)s %(u)s (%(p)s)' % {'c': _('USD'), 'v': _('1672.000'), 'u': _('billion'), 'p': _('9th')}),
     (_('HDI:'), '%(l)s - %(v)s (%(p)s)' % {'l': _('High'), 'v': _('0,755'), 'p': _('75th')}),
     (_('Currency:'), _('Real')),
-    (_('Updated:'), _('5 of april of 2016'))
+    (_('Updated:'), _('April 5, 2016'))
 ]
 
