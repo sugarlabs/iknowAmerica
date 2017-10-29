@@ -93,12 +93,12 @@ STATS = [
     (_('Vice President:'), _('Isabel Saint Malo')),
     (_('Independence:'), _('from Spain')),
     ('', _('28 of november of 1821')),
-    (_('from Colombia:'), _('3 of november of 1903')),
+    (_('from Colombia:'), _('November 3, 1903')),
     (_('Area:'), '%(sup)s %(u)s (%(p)s)' % {'sup': _('78.200'), 'u': _('km²'), 'p': _('118th')}),
     (_('Population:'), '%(v)s (%(p)s)' % {'v': _('3.929.141'), 'p': _('129th')}),
     (_('GDP:'), '%(c)s %(v)s %(u)s (%(p)s)' % {'c': _('USD'), 'v': _('49.142'), 'u': _('billion'), 'p': _('89th')}),
     (_('HDI:'), '%(l)s - %(v)s (%(p)s)' % {'l': _('High'), 'v': _('0,780'), 'p': _('60th')}),
     (_('Currency:'), _('Balboa')),
-    (_('Updated:'), _('5 of april of 2016'))
+    (_('Updated:'), _('April 5, 2016'))
 ]
 
