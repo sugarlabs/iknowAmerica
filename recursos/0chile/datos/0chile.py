@@ -48,14 +48,14 @@ STATS = [
     (_('Government:'), _('Presidential republic')),
     (_('President:'), _('Michelle Bachelet Jeria')),
     (_('Independence:'), _('from Spain')),
-    ('', _('declared: %s') % _('12 of february of 1818')),
-    ('', _('recognized: %s') % _('24 of february of 1844')),
+    ('', _('declared: %s') % _('February 12, 1818')),
+    ('', _('recognized: %s') % _('February 24, 1844')),
     (_('Area:'), '%(sup)s %(u)s (%(p)s)' % {'sup': _('756.096'), 'u': _('km²'), 'p': _('38th')}),
     (_('Population:'), '%(v)s (%(p)s)' % {'v': _('18.006.407'), 'p': _('62nd')}),
     (_('GDP:'), '%(c)s %(v)s %(u)s (%(p)s)' % {'c': _('USD'), 'v': _('410.277'), 'u': _('billion'), 'p': _('42nd')}),
     (_('HDI:'), '%(l)s - %(v)s (%(p)s)' % {'l': _('Very High'), 'v': _('0,832'), 'p': _('42th')}),
     (_('Currency:'), _('Peso')),
-    (_('Updated:'), _('5 of april of 2016'))
+    (_('Updated:'), _('April 5, 2016'))
 ]
 
 
