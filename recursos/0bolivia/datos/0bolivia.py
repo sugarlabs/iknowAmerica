@@ -105,13 +105,13 @@ STATS = [
     (_('President:'), _('Evo Morales Ayma')),
     (_('Vice President:'), _('Álvaro García Linera')),
     (_('Independence:'), _('from Spain')),
-    ('', _('declared: %s') % _('06 of august of 1825')),
-    ('', _('recognized: %s') % _('21 of july of 1847')),
+    ('', _('declared: %s') % _('August 6, 1825')),
+    ('', _('recognized: %s') % _('July 21, 1847')),
     (_('Area:'), '%(sup)s %(u)s (%(p)s)' % {'sup': _('1.098.581'), 'u': _('km²'), 'p': _('27th')}),
     (_('Population:'), '%(v)s (%(p)s)' % {'v': _('11.410.651'), 'p': _('83rd')}),
     (_('GDP:'), '%(c)s %(v)s %(u)s (%(p)s)' % {'c': _('USD'), 'v': _('33.537'), 'u': _('billion'), 'p': _('96th')}),
     (_('HDI:'), '%(l)s - %(v)s (%(p)s)' % {'l': _('Medium'), 'v': _('0,662'), 'p': _('119th')}),
     (_('Currency:'), _('Boliviano')),
-    (_('Updated:'), _('5 of april of 2016'))
+    (_('Updated:'), _('April 5, 2016'))
 ]
 
