@@ -183,13 +183,13 @@ STATS = [
     (_('Government:'), _('Presidential republic')),
     (_('President:'), _('Tabaré Vázquez')),
     (_('Vice President:'), _('Raúl Sendic')),
-    (_('Independence:'), _('declared: %s') % _('25 of august of 1825')),
-    ('', _('recognized: %s') % _('28 of august of 1828')),
+    (_('Independence:'), _('declared: %s') % _('August 25, 1825')),
+    ('', _('recognized: %s') % _('August 28, 1828')),
     (_('Area:'), '%(sup)s %(u)s (%(p)s)' % {'sup': _('176.215'), 'u': _('km²'), 'p': _('90th')}),
     (_('Population:'), '%(v)s (%(p)s)' % {'v': _('3.324.460'), 'p': _('133rd')}),
     (_('GDP:'), '%(c)s %(v)s %(u)s (%(p)s)' % {'c': _('USD'), 'v': _('54.968'), 'u': _('billion'), 'p': _('78th')}),
     (_('HDI:'), '%(l)s - %(v)s (%(p)s)' % {'l': _('High'), 'v': _('0,793'), 'p': _('52th')}),
     (_('Currency:'), _('Peso')),
-    (_('Updated:'), _('5 of april of 2016'))
+    (_('Updated:'), _('April 5, 2016'))
 ]
 
