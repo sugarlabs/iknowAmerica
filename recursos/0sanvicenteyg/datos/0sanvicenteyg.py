@@ -59,12 +59,12 @@ STATS = [
     (_('Monarch:'), _('Queen Elizabeth II')),
     (_('Governor:'), _('Frederick Ballantyne')),
     (_('Independence:'), _('from United Kingdom')),
-    ('', _('27 of october of 1979')),
+    ('', _('October 27, 1979')),
     (_('Area:'), '%(sup)s %(u)s (%(p)s)' % {'sup': _('389'), 'u': _('km²'), 'p': _('206th')}),
     (_('Population:'), '%(v)s (%(p)s)' % {'v': _('103.000'), 'p': _('196th')}),
     (_('GDP:'), '%(c)s %(v)s %(u)s (%(p)s)' % {'c': _('USD'), 'v': _('0.695'), 'u': _('billion'), 'p': _('181st')}),
     (_('HDI:'), '%(l)s - %(v)s (%(p)s)' % {'l': _('Medium'), 'v': _('0,720'), 'p': _('97th')}),
     (_('Currency:'), _('Caribbean Dollar')),
-    (_('Updated:'), _('5 of april of 2016'))
+    (_('Updated:'), _('April 5, 2016'))
 ]
 
