@@ -80,12 +80,12 @@ STATS = [
     (_('President:'), _('Dési Bouterse')),
     (_('Vice President:'), _('Ashwin Adhin')),
     (_('Independence:'), _('from Netherlands')),
-    ('', _('25 of november of 1975')),
+    ('', _('November 25, 1975')),
     (_('Area:'), '%(sup)s %(u)s (%(p)s)' % {'sup': _('163.820'), 'u': _('km²'), 'p': _('91th')}),
     (_('Population:'), '%(v)s (%(p)s)' % {'v': _('573.311'), 'p': _('167th')}),
     (_('GDP:'), '%(c)s %(v)s %(u)s (%(p)s)' % {'c': _('USD'), 'v': _('5.297'), 'u': _('billion'), 'p': _('147th')}),
     (_('HDI:'), '%(l)s - %(v)s (%(p)s)' % {'l': _('Medium'), 'v': _('0,714'), 'p': _('103rd')}),
     (_('Currency:'), _('Surinamese dollar')),
-    (_('Updated:'), _('5 of april of 2016'))
+    (_('Updated:'), _('April 5, 2016'))
 ]
 

@@ -185,15 +185,15 @@ STATS = [
     (_('Language:'), _('Spanish') + ' , ' + _('English')),
     (_('Government:'), _('Unincorporated territory')),
     ('', _('from United States')),
-    (_('President:'), _('Barack Obama')),
+    (_('President:'), _('Donald Trump')),
     (_('Governor:'), _('Alejandro García Padilla')),
     (_('Ceded by Spain to the United States'), ''),
-    ('', _('13 of august of 1898')),
+    ('', _('August 13, 1898')),
     (_('Area:'), '%(sup)s %(u)s (%(p)s)' % {'sup': _('9.104'), 'u': _('km²'), 'p': _('170th')}),
     (_('Population:'), '%(v)s (%(p)s)' % {'v': _('3.725.789'), 'p': _('127th')}),
     (_('GDP:'), '%(c)s %(v)s %(u)s (%(p)s)' % {'c': _('USD'), 'v': _('105.100'), 'u': _('billion'), 'p': _('60th')}),
     (_('HDI:'), '%(l)s - %(v)s (%(p)s)' % {'l': _('Very High'), 'v': _('0,865'), 'p': _('29th')}),
     (_('Currency:'), _('United States Dollar')),
-    (_('Updated:'), _('5 of april of 2016'))
+    (_('Updated:'), _('April 5, 2016'))
 ]
 

@@ -137,13 +137,13 @@ STATS = [
     (_('President:'), _('Ollanta Humala Tasso')),
     (_('Prime Minister:'), _('Pedro Cateriano')),
     (_('Independence:'), _('from Spain')),
-    ('', _('declared: %s') % _('28 of july of 1821')),
-    ('', _('recognized: %s') % _('14 of august of 1879')),
+    ('', _('declared: %s') % _('July 28 1821')),
+    ('', _('recognized: %s') % _('August 14, 1879')),
     (_('Area:'), '%(sup)s %(u)s (%(p)s)' % {'sup': _('1.285.216'), 'u': _('km²'), 'p': _('20th')}),
     (_('Population:'), '%(v)s (%(p)s)' % {'v': _('31.151.643'), 'p': _('40th')}),
     (_('GDP:'), '%(c)s %(v)s %(u)s (%(p)s)' % {'c': _('USD'), 'v': _('217.607'), 'u': _('billion'), 'p': _('50th')}),
     (_('HDI:'), '%(l)s - %(v)s (%(p)s)' % {'l': _('High'), 'v': _('0,734'), 'p': _('84th')}),
     (_('Currency:'), _('Nuevo sol')),
-    (_('Updated:'), _('5 of april of 2016'))
+    (_('Updated:'), _('April 5, 2016'))
 ]
 

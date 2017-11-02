@@ -102,13 +102,13 @@ STATS = [
     (_('President:'), _('Salvador Sánchez Cerén')),
     (_('Vice President:'), _('Óscar Ortiz')),
     (_('Independence:'), _('from Spain')),
-    ('', _('declared: %s') % _('15 of september of 1821')),
-    ('', _('recognized: %s') % _('12 of june of 1824')),
+    ('', _('declared: %s') % _('September 15, 1821')),
+    ('', _('recognized: %s') % _('June 12, 1824')),
     (_('Area:'), '%(sup)s %(u)s (%(p)s)' % {'sup': _('21.041'), 'u': _('km²'), 'p': _('152th')}),
     (_('Population:'), '%(v)s (%(p)s)' % {'v': _('6.377.195'), 'p': _('99th')}),
     (_('GDP:'), '%(c)s %(v)s %(u)s (%(p)s)' % {'c': _('USD'), 'v': _('28.986'), 'u': _('billion'), 'p': _('99th')}),
     (_('HDI:'), '%(l)s - %(v)s (%(p)s)' % {'l': _('Medium'), 'v': _('0,686'), 'p': _('116th')}),
     (_('Currency:'), _('United States Dollar')),
-    (_('Updated:'), _('5 of april of 2016'))
+    (_('Updated:'), _('April 5, 2016'))
 ]
 

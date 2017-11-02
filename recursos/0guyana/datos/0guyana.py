@@ -86,12 +86,12 @@ STATS = [
     (_('President:'), _('David Granger')),
     (_('Prime minister:'), _('Moses Nagamootoo')),
     (_('Independence:'), _('from United Kingdom')),
-    ('', _('26 of may of 1966')),
+    ('', _('May 26, 1966')),
     (_('Area:'), '%(sup)s %(u)s (%(p)s)' % {'sup': _('214.970'), 'u': _('km²'), 'p': _('81th')}),
     (_('Population:'), '%(v)s (%(p)s)' % {'v': _('735.554'), 'p': _('165th')}),
     (_('GDP:'), '%(c)s %(v)s %(u)s (%(p)s)' % {'c': _('USD'), 'v': _('2.788'), 'u': _('billion'), 'p': _('158th')}),
     (_('HDI:'), '%(l)s - %(v)s (%(p)s)' % {'l': _('Medium'), 'v': _('0,636'), 'p': _('124th')}),
     (_('Currency:'), _('Guyanese dollar')),
-    (_('Updated:'), _('5 of april of 2016'))
+    (_('Updated:'), _('April 5, 2016'))
 ]
 
