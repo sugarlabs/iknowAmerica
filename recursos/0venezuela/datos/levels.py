@@ -136,7 +136,7 @@ LEVEL4 = [
     (_('Paragua River'), _('Is southeast')),
     (_('Gaura River'), _('Is in the center')),
     (_('Cuyuni River'), _('Is east')),
-    (_('Reservoir of Sura'), _('Is east')),
+    (_('Reservoir of Guri'), _('Is east')),
     (_('Guarico River'), _('Is north')),
     (_('Reservoir of Guarico'), _('Is north')),
     (_('Lake Valencia'), _('Is north')),
