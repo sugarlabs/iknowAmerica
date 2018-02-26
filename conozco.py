@@ -592,7 +592,6 @@ class Conozco():
             for event in wait_events():
                 if event.type == pygame.KEYDOWN or \
                         event.type == pygame.MOUSEBUTTONDOWN:
-                    
                     self.sound_play()
                     self.pantalla.blit(self.pantallaTemp,(0,0))
                     pygame.display.flip()
@@ -764,7 +763,6 @@ class Conozco():
                         self.elegir_directorio = True
                         return
                 elif event.type == pygame.MOUSEBUTTONDOWN:
-                    self.sound_play()
                     pos = event.pos
                     # zona de opciones
                     if pos[1] < 800*scale+shift_y:
@@ -775,6 +773,7 @@ class Conozco():
                                     self.indiceNivelActual = \
                                         int((pos[1]-int(275*scale+shift_y))//\
                                                 int(50*scale))
+                                    self.sound_play()
                                     self.jugar = True
                                     return
                             else: # segunda columna
@@ -784,11 +783,13 @@ class Conozco():
                                     self.indiceNivelActual = \
                                         int((pos[1]-int(275*scale+shift_y))//\
                                                 int(50*scale))
+                                    self.sound_play()
                                     self.jugar = False
                                     return
                     # buttons zone
                     else:
                         if pos[1] < 850*scale + shift_y:
+                            self.sound_play()
                             if pos[0] > 20*scale+shift_x and \
                                pos[0] < 390*scale+shift_x:
                                 self.pantallaAcercaDe() # acerca
