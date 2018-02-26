@@ -24,7 +24,6 @@
 # Ceibal Jam http://ceibaljam.org
 
 import os
-import sys
 import random
 import pygame
 import time
@@ -32,12 +31,11 @@ import imp
 import gettext
 import ConfigParser
 from gettext import gettext as _
-
-gtk_present = True
-try:
-    import gtk
-except:
-    gtk_present = False
+import logging
+import gi
+gi.require_version('Gtk', '3.0')
+from gi.repository import Gtk
+from sugar3.graphics.style import GRID_CELL_SIZE
 
 # constantes
 RADIO = 10
@@ -260,7 +258,7 @@ class Conozco():
         try:
             f = imp.load_source(self.directorio, a_path)
         except:
-            print _('Cannot open %s') % self.directorio
+            logging.debug( _('Cannot open %s') % self.directorio)
 
         if f:
             lugares = []
@@ -370,7 +368,7 @@ class Conozco():
                 try:
                     f = imp.load_source(d, a_path)
                 except:
-                    print _('Cannot open %s') % d
+                    logging.debug( _('Cannot open %s') % d)
 
                 if hasattr(f, 'NAME'):
                     name = unicode(f.NAME, 'UTF-8')
@@ -395,7 +393,7 @@ class Conozco():
         try:
             f = imp.load_source('commons', a_path)
         except:
-            print _('Cannot open %s') % 'commons'
+            logging.debug( _('Cannot open %s') % 'commons')
 
         if f:
             if hasattr(f, 'ACTIVITY_NAME'):
@@ -451,7 +449,7 @@ class Conozco():
         try:
             f = imp.load_source(ARCHIVONIVELES, a_path)
         except:
-            print _('Cannot open %s') % ARCHIVONIVELES
+            logging.debug( _('Cannot open %s') % ARCHIVONIVELES)
 
         if hasattr(f, 'LEVELS'):
             for ln in f.LEVELS:
@@ -532,7 +530,7 @@ class Conozco():
         try:
             f = imp.load_source(ARCHIVOEXPLORACIONES, a_path)
         except:
-            print _('Cannot open %s') % ARCHIVOEXPLORACIONES
+            logging.debug( _('Cannot open %s') % ARCHIVOEXPLORACIONES)
 
         if hasattr(f, 'EXPLORATIONS'):
             for e in f.EXPLORATIONS:
@@ -587,16 +585,15 @@ class Conozco():
                         int(800*scale+shift_y)),
                         COLOR_SKIP)
         pygame.display.flip()
-        while 1:
-            if gtk_present:
-                while gtk.events_pending():
-                    gtk.main_iteration()
+        while True:
+            while Gtk.events_pending():
+                Gtk.main_iteration()
 
             for event in wait_events():
                 if event.type == pygame.KEYDOWN or \
                         event.type == pygame.MOUSEBUTTONDOWN:
-                    if self.sound:
-                        self.click.play()
+                    
+                    self.sound_play()
                     self.pantalla.blit(self.pantallaTemp,(0,0))
                     pygame.display.flip()
                     return
@@ -664,21 +661,26 @@ class Conozco():
                         COLOR_SKIP)
 
         pygame.display.flip()
-        while 1:
-            if gtk_present:
-                while gtk.events_pending():
-                    gtk.main_iteration()
+        while True:
+            while Gtk.events_pending():
+                Gtk.main_iteration()
 
             for event in wait_events():
                 if event.type == pygame.KEYDOWN or \
                         event.type == pygame.MOUSEBUTTONDOWN:
-                    if self.sound:
-                        self.click.play()
+                    self.click.play()
                     self.pantalla.blit(self.pantallaTemp,(0,0))
                     pygame.display.flip()
                     return
                 elif event.type == EVENTOREFRESCO:
                     pygame.display.flip()
+
+    def change_sound(self, sound):
+        self.sound = sound
+
+    def sound_play(self):
+        if self.sound:
+            self.click.play()
 
     def pantallaInicial(self):
         """Pantalla con el menu principal del juego"""
@@ -751,21 +753,18 @@ class Conozco():
                             (int(1005*scale+shift_x),int(825*scale+shift_y)),
                             COLOR_BUTTON_T)
         pygame.display.flip()
-        while 1:
-            if gtk_present:
-                while gtk.events_pending():
-                    gtk.main_iteration()
+        while True:
+            while Gtk.events_pending():
+                Gtk.main_iteration()
 
             for event in wait_events():
                 if event.type == pygame.KEYDOWN:
                     if event.key == 27: # escape: volver
-                        if self.sound:
-                            self.click.play()
+                        self.sound_play()
                         self.elegir_directorio = True
                         return
                 elif event.type == pygame.MOUSEBUTTONDOWN:
-                    if self.sound:
-                        self.click.play()
+                    self.sound_play()
                     pos = event.pos
                     # zona de opciones
                     if pos[1] < 800*scale+shift_y:
@@ -816,7 +815,7 @@ class Conozco():
                         COLOR_OPTION_T)
         nDirectorios = len(self.listaNombreDirectorios)
         paginaDirectorios = self.paginaDir
-        while 1:
+        while True:
             yLista = int(200*scale+shift_y)
             self.pantalla.fill(COLOR_FONDO,
                             (int(shift_x),yLista-int(24*scale),
@@ -888,45 +887,30 @@ class Conozco():
                 nDirectoriosCol2 = 0
             # about button
             self.pantalla.fill(COLOR_BUTTON_B,
-                            (int(20*scale+shift_x),int(801*scale+shift_y),
+                            (int(220*scale+shift_x),int(801*scale+shift_y),
                                 int(370*scale),int(48*scale)))
             self.mostrarTexto(_("About this game"),
                             self.fuente40,
-                            (int(205*scale+shift_x),int(825*scale+shift_y)),
+                            (int(405*scale+shift_x),int(825*scale+shift_y)),
                             (100,200,100))
             # stats button
             self.pantalla.fill(COLOR_BUTTON_B,
-                            (int(420*scale+shift_x),int(801*scale+shift_y),
+                            (int(620*scale+shift_x),int(801*scale+shift_y),
                                 int(370*scale),int(48*scale)))
             self.mostrarTexto(unicode(_("Stats"), 'UTF-8'),
                             self.fuente40,
-                            (int(605*scale+shift_x),int(825*scale+shift_y)),
+                            (int(805*scale+shift_x),int(825*scale+shift_y)),
                             (100,200,100))
-            # exit button
-            self.pantalla.fill(COLOR_BUTTON_B,
-                            (int(820*scale+shift_x),int(801*scale+shift_y),
-                                int(370*scale),int(48*scale)))
-            self.mostrarTexto(_("Exit"),
-                            self.fuente40,
-                            (int(1005*scale+shift_x),int(825*scale+shift_y)),
-                            (100,200,100))
+
             pygame.display.flip()
             cambiarPagina = False
             while not cambiarPagina:
-                if gtk_present:
-                    while gtk.events_pending():
-                        gtk.main_iteration()
+                while Gtk.events_pending():
+                    Gtk.main_iteration()
 
                 for event in wait_events():
-                    if event.type == pygame.KEYDOWN:
-                        if event.key == 27: # escape: salir
-                            if self.sound:
-                                self.click.play()
-                            self.save_stats()
-                            sys.exit()
-                    elif event.type == pygame.MOUSEBUTTONDOWN:
-                        if self.sound:
-                            self.click.play()
+                    if event.type == pygame.MOUSEBUTTONDOWN:
+                        self.sound_play()
                         pos = event.pos
                         # zona de opciones
                         if pos[1] < 800*scale+shift_y:
@@ -980,10 +964,6 @@ class Conozco():
                                 elif pos[0] > 420*scale+shift_x and \
                                      pos[0] < 790*scale+shift_x:
                                     self.pantallaStats() # stats
-                                elif pos[0] > 820*scale+shift_x and \
-                                        pos[0] < 1190*scale+shift_x:
-                                    self.save_stats()
-                                    sys.exit()  # exit
                     elif event.type == EVENTOREFRESCO:
                         pygame.display.flip()
 
@@ -1043,7 +1023,7 @@ class Conozco():
                             l[i] = int(val)
                     f.close()
             except Exception, err:
-                print 'Cannot load stats', err
+                logging.debug( 'Cannot load stats' + err)
                 return
             if self._validate_stats(l):
                 self._score = l[0]
@@ -1086,7 +1066,7 @@ class Conozco():
                     f.write(str(l[i]) + '\n')
                 f.close()
             except Exception, err:
-                print 'Error saving stats', err
+                logging.debug('Error saving stats' + err)
 
     def loadAll(self):
         global scale, shift_x, shift_y, xo_resolution
@@ -1475,20 +1455,17 @@ class Conozco():
                         COLOR_SKIP)
         pygame.display.flip()
         # lazo principal de espera por acciones del usuario
-        while 1:
-            if gtk_present:
-                while gtk.events_pending():
-                    gtk.main_iteration()
+        while True:
+            while Gtk.events_pending():
+                Gtk.main_iteration()
 
             for event in wait_events():
                 if event.type == pygame.KEYDOWN:
                     if event.key == 27: # escape: salir
-                        if self.sound:
-                            self.click.play()
+                        self.sound_play()
                         return
                 elif event.type == pygame.MOUSEBUTTONDOWN:
-                    if self.sound:
-                        self.click.play()
+                    self.sound_play()
                     if event.pos[0] < XMAPAMAX*scale+shift_x: # zona de mapa
                         for i in self.nivelActual.elementosActivos:
                             if i.startswith("capitales"):
@@ -1655,20 +1632,19 @@ class Conozco():
         self.avanceNivel = 0
         pygame.time.set_timer(EVENTORESPUESTA,0)
         # leer eventos y ver si la respuesta es correcta
-        while 1:
-            if gtk_present:
-                while gtk.events_pending():
-                    gtk.main_iteration()
+        while True:
+            while Gtk.events_pending():
+                Gtk.main_iteration()
 
             for event in wait_events():
                 if event.type == pygame.KEYDOWN:
                     if event.key == 27: # escape: salir
-                        self.click.play()
+                        self.sound_play()
                         pygame.time.set_timer(EVENTORESPUESTA,0)
                         pygame.time.set_timer(EVENTODESPEGUE,0)
                         return
                 elif event.type == pygame.MOUSEBUTTONDOWN:
-                    self.click.play()
+                    self.sound_play()
                     if event.pos[0] < XMAPAMAX*scale+shift_x: # zona mapa
                         if self.avanceNivel < TOTALAVANCE:
                             if not(self.respondiendo):
@@ -1896,16 +1872,14 @@ class Conozco():
         #time.sleep(2)
         terminar = False
         pygame.time.set_timer(EVENTORESPUESTA, 2000)
-        while 1:
-            if gtk_present:
-                while gtk.events_pending():
-                    gtk.main_iteration()
+        while True:
+            while Gtk.events_pending():
+                Gtk.main_iteration()
 
             for event in wait_events():
                 if event.type == pygame.KEYDOWN or \
                         event.type == pygame.MOUSEBUTTONDOWN:
-                    if self.sound:
-                        self.click.play()
+                    self.sound_play()
                     pygame.time.set_timer(EVENTORESPUESTA,0)
                     return
                 elif event.type == EVENTORESPUESTA:
@@ -1930,16 +1904,14 @@ class Conozco():
         pygame.display.flip()
         terminar = False
         pygame.time.set_timer(EVENTORESPUESTA, 2000)
-        while 1:
-            if gtk_present:
-                while gtk.events_pending():
-                    gtk.main_iteration()
+        while True:
+            while Gtk.events_pending():
+                Gtk.main_iteration()
 
             for event in wait_events():
                 if event.type == pygame.KEYDOWN or \
                         event.type == pygame.MOUSEBUTTONDOWN:
-                    if self.sound:
-                        self.click.play()
+                    self.sound_play()
                     pygame.time.set_timer(EVENTORESPUESTA,0)
                     return
                 elif event.type == EVENTORESPUESTA:
@@ -1956,16 +1928,14 @@ class Conozco():
         pygame.display.flip()
         terminar = False
         pygame.time.set_timer(EVENTORESPUESTA, 2000)
-        while 1:
-            if gtk_present:
-                while gtk.events_pending():
-                    gtk.main_iteration()
+        while True:
+            while Gtk.events_pending():
+                Gtk.main_iteration()
 
             for event in wait_events():
                 if event.type == pygame.KEYDOWN or \
                         event.type == pygame.MOUSEBUTTONDOWN:
-                    if self.sound:
-                        self.click.play()
+                    self.sound_play()
                     pygame.time.set_timer(EVENTORESPUESTA,0)
                     return
                 elif event.type == EVENTORESPUESTA:
@@ -2003,16 +1973,14 @@ class Conozco():
         pygame.display.flip()
         terminar = False
         pygame.time.set_timer(EVENTORESPUESTA, 1000)
-        while 1:
-            if gtk_present:
-                while gtk.events_pending():
-                    gtk.main_iteration()
+        while True:
+            while Gtk.events_pending():
+                Gtk.main_iteration()
 
             for event in wait_events():
                 if event.type == pygame.KEYDOWN or \
                         event.type == pygame.MOUSEBUTTONDOWN:
-                    if self.sound:
-                        self.click.play()
+                    self.sound_play()
                     pygame.time.set_timer(EVENTORESPUESTA,0)
                     return
                 elif event.type == EVENTORESPUESTA:
@@ -2038,16 +2006,14 @@ class Conozco():
         pygame.display.flip()
         terminar = False
         pygame.time.set_timer(EVENTORESPUESTA, 2000)
-        while 1:
-            if gtk_present:
-                while gtk.events_pending():
-                    gtk.main_iteration()
+        while True:
+            while Gtk.events_pending():
+                Gtk.main_iteration()
 
             for event in wait_events():
                 if event.type == pygame.KEYDOWN or \
                         event.type == pygame.MOUSEBUTTONDOWN:
-                    if self.sound:
-                        self.click.play()
+                    self.sound_play()
                     pygame.time.set_timer(EVENTORESPUESTA,0)
                     return
                 elif event.type == EVENTORESPUESTA:
@@ -2087,16 +2053,14 @@ class Conozco():
         #time.sleep(1)
         terminar = False
         pygame.time.set_timer(EVENTORESPUESTA, 1500)
-        while 1:
-            if gtk_present:
-                while gtk.events_pending():
-                    gtk.main_iteration()
+        while True:
+            while Gtk.events_pending():
+                Gtk.main_iteration()
 
             for event in wait_events():
                 if event.type == pygame.KEYDOWN or \
                         event.type == pygame.MOUSEBUTTONDOWN:
-                    if self.sound:
-                        self.click.play()
+                    self.sound_play()
                     pygame.time.set_timer(EVENTORESPUESTA,0)
                     return
                 elif event.type == EVENTORESPUESTA:
@@ -2121,16 +2085,14 @@ class Conozco():
         pygame.display.flip()
         terminar = False
         pygame.time.set_timer(EVENTORESPUESTA, 2000)
-        while 1:
-            if gtk_present:
-                while gtk.events_pending():
-                    gtk.main_iteration()
+        while True:
+            while Gtk.events_pending():
+                Gtk.main_iteration()
 
             for event in wait_events():
                 if event.type == pygame.KEYDOWN or \
                         event.type == pygame.MOUSEBUTTONDOWN:
-                    if self.sound:
-                        self.click.play()
+                    self.sound_play()
                     pygame.time.set_timer(EVENTORESPUESTA,0)
                     return
                 elif event.type == EVENTORESPUESTA:
@@ -2143,8 +2105,17 @@ class Conozco():
 
         return
 
-    def principal(self):
+    def run(self):
         """Este es el loop principal del juego"""
+        for event in pygame.event.get():
+            if event.type == pygame.QUIT:
+                return
+            elif event.type == pygame.VIDEORESIZE:
+                pygame.display.set_mode(
+                    (event.size[0], event.size[1] - GRID_CELL_SIZE),
+                    pygame.RESIZABLE)
+                break
+
         pygame.time.set_timer(EVENTOREFRESCO,TIEMPOREFRESCO)
 
         self.loadAll()
@@ -2156,14 +2127,14 @@ class Conozco():
         self.load_stats()
 
         self.paginaDir = 0
-        while 1:
+        while True:
             self.pantallaDirectorios() # seleccion de mapa
             pygame.mouse.set_cursor((32,32), (1,1), *self.cursor_espera)
             self.directorio = self.listaDirectorios\
                 [self.indiceDirectorioActual]
             self.cargarDirectorio()
             pygame.mouse.set_cursor((32,32), (1,1), *self.cursor)
-            while 1:
+            while True:
                 # pantalla inicial de juego
                 self.elegir_directorio = False
                 self.pantallaInicial()
@@ -2205,7 +2176,7 @@ class Conozco():
 
 def main():
     juego = Conozco()
-    juego.principal()
+    juego.run()
 
 if __name__ == "__main__":
     main()
