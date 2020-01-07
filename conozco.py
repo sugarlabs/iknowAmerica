@@ -1023,7 +1023,7 @@ class Conozco():
                         if not(val == ''):
                             l[i] = int(val)
                     f.close()
-            except Exception, err:
+            except Exception as err:
                 logging.debug( 'Cannot load stats' + err)
                 return
             if self._validate_stats(l):
@@ -1066,7 +1066,7 @@ class Conozco():
                 for i in range(7):
                     f.write(str(l[i]) + '\n')
                 f.close()
-            except Exception, err:
+            except Exception as err:
                 logging.debug('Error saving stats' + err)
 
     def loadAll(self):
