@@ -31,7 +31,7 @@ import imp
 import gettext
 import configparser
 from gettext import gettext as _
-
+from sugar3.graphics.style import GRID_CELL_SIZE
 gtk_present = True
 try:
     import gi
@@ -1949,10 +1949,11 @@ class Conozco():
             while Gtk.events_pending():
                 Gtk.main_iteration()
 
-            for event in wait_events():
+            for event in pygame.event.get():
                 if event.type == pygame.KEYDOWN or \
                         event.type == pygame.MOUSEBUTTONDOWN:
-                    self.sound_play()
+                    if self.sound:
+                        self.click.play()
                     pygame.time.set_timer(EVENTORESPUESTA,0)
                     return
                 elif event.type == EVENTORESPUESTA:
@@ -1981,10 +1982,11 @@ class Conozco():
             while Gtk.events_pending():
                 Gtk.main_iteration()
 
-            for event in wait_events():
+            for event in pygame.event.get():
                 if event.type == pygame.KEYDOWN or \
                         event.type == pygame.MOUSEBUTTONDOWN:
-                    self.sound_play()
+                    if self.sound:
+                        self.click.play()
                     pygame.time.set_timer(EVENTORESPUESTA,0)
                     return
                 elif event.type == EVENTORESPUESTA:
@@ -2005,10 +2007,11 @@ class Conozco():
             while Gtk.events_pending():
                 Gtk.main_iteration()
 
-            for event in wait_events():
+            for event in pygame.event.get():
                 if event.type == pygame.KEYDOWN or \
                         event.type == pygame.MOUSEBUTTONDOWN:
-                    self.sound_play()
+                    if self.sound:
+                        self.click.play()
                     pygame.time.set_timer(EVENTORESPUESTA,0)
                     return
                 elif event.type == EVENTORESPUESTA:
@@ -2050,10 +2053,11 @@ class Conozco():
             while Gtk.events_pending():
                 Gtk.main_iteration()
 
-            for event in wait_events():
+            for event in pygame.event.get():
                 if event.type == pygame.KEYDOWN or \
                         event.type == pygame.MOUSEBUTTONDOWN:
-                    self.sound_play()
+                    if self.sound:
+                        self.click.play()
                     pygame.time.set_timer(EVENTORESPUESTA,0)
                     return
                 elif event.type == EVENTORESPUESTA:
@@ -2083,10 +2087,11 @@ class Conozco():
             while Gtk.events_pending():
                 Gtk.main_iteration()
 
-            for event in wait_events():
+            for event in pygame.event.get():
                 if event.type == pygame.KEYDOWN or \
                         event.type == pygame.MOUSEBUTTONDOWN:
-                    self.sound_play()
+                    if self.sound:
+                        self.click.play()
                     pygame.time.set_timer(EVENTORESPUESTA,0)
                     return
                 elif event.type == EVENTORESPUESTA:
@@ -2130,10 +2135,11 @@ class Conozco():
             while Gtk.events_pending():
                 Gtk.main_iteration()
 
-            for event in wait_events():
+            for event in pygame.event.get():
                 if event.type == pygame.KEYDOWN or \
                         event.type == pygame.MOUSEBUTTONDOWN:
-                    self.sound_play()
+                    if self.sound:
+                        self.click.play()
                     pygame.time.set_timer(EVENTORESPUESTA,0)
                     return
                 elif event.type == EVENTORESPUESTA:
@@ -2162,10 +2168,11 @@ class Conozco():
             while Gtk.events_pending():
                 Gtk.main_iteration()
 
-            for event in wait_events():
+            for event in pygame.event.get():
                 if event.type == pygame.KEYDOWN or \
                         event.type == pygame.MOUSEBUTTONDOWN:
-                    self.sound_play()
+                    if self.sound:
+                        self.click.play()
                     pygame.time.set_timer(EVENTORESPUESTA,0)
                     return
                 elif event.type == EVENTORESPUESTA:

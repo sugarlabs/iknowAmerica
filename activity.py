@@ -28,7 +28,7 @@ class ConzocoActivity(activity.Activity):
         self.build_toolbar()
         self.game = conozco.Conozco(self)
         self.game.canvas = sugargame.canvas.PygameCanvas(
-            self, main=self.game.principal, modules=[
+            self, main=self.game.run, modules=[
                 pygame.display, pygame.font, pygame.mixer])
         self.set_canvas(self.game.canvas)
         self.game.canvas.grab_focus()
