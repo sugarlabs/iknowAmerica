@@ -1791,121 +1791,123 @@ class Conozco():
                             # barra avance
                             av = unidad*self.avanceNivel
                             self.pantalla.fill(COLORBARRA_A, (
-                                            int(XBARRA_A*scale+shift_x),
-                                            int(YBARRA_A*scale+shift_y),
-                                            int(av*scale),
-                                            int(ABARRA_P*scale)
-                                            )
-                                            )
+                                int(XBARRA_A*scale+shift_x),
+                                int(YBARRA_A*scale+shift_y),
+                                int(av*scale),
+                                int(ABARRA_P*scale)
+                            )
+                            )
                             pygame.draw.rect(self.pantalla, COLORBARRA_C,
-                                                (int(XBARRA_A*scale+shift_x),
-                                                int(YBARRA_A*scale+shift_y),
-                                                int(ABARRA_A*scale),
-                                                int(ABARRA_P*scale)), 3)
+                                             (int(XBARRA_A*scale+shift_x),
+                                                 int(YBARRA_A*scale+shift_y),
+                                                 int(ABARRA_A*scale),
+                                                 int(ABARRA_P*scale)), 3)
                             for i in range(TOTALAVANCE-1):
-                                posx = int((XBARRA_A + unidad * (i+1))*scale+shift_x)
+                                posx = int(
+                                    (XBARRA_A + unidad * (i+1))*scale+shift_x)
                                 l = pygame.draw.line(self.pantalla, COLORBARRA_C,
-                                            (int(posx),
-                                            int(YBARRA_A*scale+shift_y)), 
-                                            (int(posx),
-                                            int(YBARRA_A+ABARRA_P)*scale+shift_y), 3)
+                                                     (int(posx),
+                                                      int(YBARRA_A*scale+shift_y)),
+                                                     (int(posx),
+                                                         int(YBARRA_A+ABARRA_P)*scale+shift_y), 3)
                             # fin barra avance
-                        else: # volver a preguntar
+                        else:  # volver a preguntar
                             self.mostrarGlobito(self.lineasPregunta)
                     else:
                         self.avanceNivel = self.avanceNivel + 1
                         # barra avance
                         av = unidad*self.avanceNivel
                         self.pantalla.fill(COLORBARRA_A, (
-                                        int(XBARRA_A*scale+shift_x),
-                                        int((YBARRA_A)*scale+shift_y),
-                                        int(av*scale),
-                                        int(ABARRA_P*scale)
-                                        )
-                                        )
+                            int(XBARRA_A*scale+shift_x),
+                            int((YBARRA_A)*scale+shift_y),
+                            int(av*scale),
+                            int(ABARRA_P*scale)
+                        )
+                        )
                         pygame.draw.rect(self.pantalla, COLORBARRA_C,
-                                            (int(XBARRA_A*scale+shift_x),
-                                            int((YBARRA_A)*scale+shift_y),
-                                            int(ABARRA_A*scale),
-                                            int(ABARRA_P*scale)), 3)
+                                         (int(XBARRA_A*scale+shift_x),
+                                             int((YBARRA_A)*scale+shift_y),
+                                             int(ABARRA_A*scale),
+                                             int(ABARRA_P*scale)), 3)
                         for i in range(TOTALAVANCE-1):
-                            posx = int((XBARRA_A + unidad * (i+1))*scale+shift_x)
+                            posx = int((XBARRA_A + unidad * (i+1))
+                                       * scale+shift_x)
                             l = pygame.draw.line(self.pantalla, COLORBARRA_C,
-                                        (int(posx),
-                                        int(YBARRA_A*scale+shift_y)), 
-                                        (int(posx),
-                                        int(YBARRA_A+ABARRA_P)*scale+shift_y), 3)
+                                                 (int(posx),
+                                                  int(YBARRA_A*scale+shift_y)),
+                                                 (int(posx),
+                                                     int(YBARRA_A+ABARRA_P)*scale+shift_y), 3)
                         # fin barra avance
                         if not(self.avanceNivel == TOTALAVANCE):
                             self.lineasPregunta = \
-                                self.nivelActual.siguientePregunta(\
-                                self.listaSufijos,self.listaPrefijos)
+                                self.nivelActual.siguientePregunta(
+                                    self.listaSufijos, self.listaPrefijos)
                             self.mostrarGlobito(self.lineasPregunta)
                             self.nRespuestasMal = 0
                             self.otorgado = False
-                    if self.avanceNivel == TOTALAVANCE: # inicia despedida
+                    if self.avanceNivel == TOTALAVANCE:  # inicia despedida
                         if self.puntos == 70:
-                            self.lineasPregunta =  self.listaDespedidasB[\
-                                random.randint(1,self.numeroDespedidasB)-1]\
+                            self.lineasPregunta = self.listaDespedidasB[
+                                random.randint(1, self.numeroDespedidasB)-1]\
                                 .split("\n")
                         else:
-                            self.lineasPregunta =  self.listaDespedidasM[\
-                                random.randint(1,self.numeroDespedidasM)-1]\
+                            self.lineasPregunta = self.listaDespedidasM[
+                                random.randint(1, self.numeroDespedidasM)-1]\
                                 .split("\n")
                         self.mostrarGlobito(self.lineasPregunta)
                         pygame.time.set_timer(EVENTODESPEGUE,
-                                            TIEMPORESPUESTA*2)
+                                              TIEMPORESPUESTA*2)
 
                 elif event.type == EVENTODESPEGUE:
                     self.estadobicho = ESTADODESPEGUE
                     self.pantalla.fill(COLORPANEL,
-                                    (int(XMAPAMAX*scale+shift_x),int(76*scale+shift_y),
-                                         int(DXPANEL*scale),
-                                         int(824*scale)))
+                                       (int(XMAPAMAX*scale+shift_x), int(76*scale+shift_y),
+                                        int(DXPANEL*scale),
+                                        int(824*scale)))
                     if self.estadodespedida == 0:
                         self.pantalla.blit(self.puerta1,
-                            (int(XPUERTA*scale+shift_x), YPUERTA*scale+shift_y))
+                                           (int(XPUERTA*scale+shift_x), YPUERTA*scale+shift_y))
                         self.pantalla.blit(self.jp1,
-                                         (int(XBICHO*scale+shift_x),
-                                          int(YBICHO*scale+shift_y)))
+                                           (int(XBICHO*scale+shift_x),
+                                            int(YBICHO*scale+shift_y)))
                     elif self.estadodespedida == 1:
                         self.pantalla.blit(self.puerta2,
-                            (int(XPUERTA*scale+shift_x), YPUERTA*scale+shift_y))
+                                           (int(XPUERTA*scale+shift_x), YPUERTA*scale+shift_y))
                         self.pantalla.blit(self.jp1,
-                                         (int(XBICHO*scale+shift_x),
-                                          int(YBICHO*scale+shift_y)))
+                                           (int(XBICHO*scale+shift_x),
+                                            int(YBICHO*scale+shift_y)))
                     elif self.estadodespedida == 2:
                         self.pantalla.blit(self.puerta1,
-                            (int(XPUERTA*scale+shift_x), YPUERTA*scale+shift_y))
+                                           (int(XPUERTA*scale+shift_x), YPUERTA*scale+shift_y))
                     elif self.estadodespedida == 3:
-                        pygame.time.set_timer(EVENTODESPEGUE,0)
+                        pygame.time.set_timer(EVENTODESPEGUE, 0)
                         return
                     pygame.display.flip()
                     self.estadodespedida = self.estadodespedida + 1
-                    pygame.time.set_timer(EVENTODESPEGUE,1000)
+                    pygame.time.set_timer(EVENTODESPEGUE, 1000)
 
                 elif event.type == EVENTOREFRESCO:
                     if self.estadobicho == ESTADONORMAL:
-                        if random.randint(1,15) == 1:
+                        if random.randint(1, 15) == 1:
                             self.estadobicho = ESTADOPESTANAS
                             self.pantalla.blit(self.ojos3,
-                                            (int(1020*scale+shift_x),
+                                               (int(1020*scale+shift_x),
                                                 int(547*scale+shift_y)))
-                        elif random.randint(1,20) == 1:
+                        elif random.randint(1, 20) == 1:
                             self.estadobicho = ESTADOFRENTE
                             self.pantalla.blit(self.ojos2,
-                                            (int(1020*scale+shift_x),
+                                               (int(1020*scale+shift_x),
                                                 int(547*scale+shift_y)))
                     elif self.estadobicho == ESTADOPESTANAS:
                         self.estadobicho = ESTADONORMAL
                         self.pantalla.blit(self.ojos1,
-                                            (int(1020*scale+shift_x),
-                                                int(547*scale+shift_y)))
+                                           (int(1020*scale+shift_x),
+                                            int(547*scale+shift_y)))
                     elif self.estadobicho == ESTADOFRENTE:
-                        if random.randint(1,10) == 1:
+                        if random.randint(1, 10) == 1:
                             self.estadobicho = ESTADONORMAL
                             self.pantalla.blit(self.ojos1,
-                                            (int(1020*scale+shift_x),
+                                               (int(1020*scale+shift_x),
                                                 int(547*scale+shift_y)))
                     elif self.estadobicho == ESTADODESPEGUE:
                         pass
@@ -2250,4 +2252,6 @@ def main():
     juego.run()
 
 if __name__ == "__main__":
+    pygame.init()
+    pygame.display.init()
     main()
