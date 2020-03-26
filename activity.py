@@ -19,13 +19,21 @@ import sugargame.canvas
 import conozco
 
 
-class Activity(activity.Activity):
+class ConzocoActivity(activity.Activity):
 
     def __init__(self, handle):
         activity.Activity.__init__(self, handle)
         self.max_participants = 1
         self.sound_enable = True
+        self.build_toolbar()
+        self.game = conozco.Conozco(self)
+        self.game.canvas = sugargame.canvas.PygameCanvas(
+            self, main=self.game.run, modules=[
+                pygame.display, pygame.font, pygame.mixer])
+        self.set_canvas(self.game.canvas)
+        self.game.canvas.grab_focus()
 
+    def build_toolbar(self):
         toolbox = ToolbarBox()
 
         activity_button = ActivityToolbarButton(self)
@@ -57,13 +65,6 @@ class Activity(activity.Activity):
         toolbox.show()
         self.set_toolbar_box(toolbox)
         self.show_all()
-
-        self.game = conozco.Conozco(self)
-        self.game.canvas = sugargame.canvas.PygameCanvas(
-            self, main=self.game.run, modules=[
-                pygame.display, pygame.font, pygame.mixer])
-        self.set_canvas(self.game.canvas)
-        self.game.canvas.grab_focus()
 
     def sound_control(self, button):
         self.sound_enable = not self.sound_enable
