@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-06-08 00:31-0400\n"
-"PO-Revision-Date: 2026-06-15 07:48+0000\n"
+"PO-Revision-Date: 2026-06-15 08:49+0000\n"
 "Last-Translator: NF <rkavt@smartprojects.ge>\n"
 "Language-Team: Georgian <http://weblate.sugarlabs.org/projects/"
 "sugar-activities/iknowamerica/ka/>\n"
@@ -3379,7 +3379,7 @@ msgstr ""
 #: recursos/0eunidos/datos/0eunidos.py:102
 #: recursos/0eunidos/datos/levels.py:103 recursos/0eunidos/datos/levels.py:161
 msgid "Phoenix"
-msgstr ""
+msgstr "ფენიქსი"
 
 #: recursos/0adelnorte/datos/0adelnorte.py:97
 #: recursos/0adelnorte/datos/levels.py:95
@@ -6480,7 +6480,7 @@ msgstr ""
 
 #: recursos/0brasil/datos/0brasil.py:9 recursos/0brasil/datos/levels.py:12
 msgid "Acre"
-msgstr ""
+msgstr "აკრი"
 
 #: recursos/0brasil/datos/0brasil.py:10 recursos/0brasil/datos/levels.py:13
 msgid "Rondonia"
