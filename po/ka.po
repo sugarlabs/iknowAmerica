@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-06-08 00:31-0400\n"
-"PO-Revision-Date: 2026-06-15 03:03+0000\n"
+"PO-Revision-Date: 2026-06-15 04:31+0000\n"
 "Last-Translator: NF <rkavt@smartprojects.ge>\n"
 "Language-Team: Georgian <http://weblate.sugarlabs.org/projects/"
 "sugar-activities/iknowamerica/ka/>\n"
@@ -147,11 +147,11 @@ msgstr ""
 
 #: conozco.py:615
 msgid "Play"
-msgstr ""
+msgstr "დაკვრა"
 
 #: conozco.py:631
 msgid "Explore"
-msgstr ""
+msgstr "დათვალიერება"
 
 #: conozco.py:651 conozco.py:795
 msgid "About this game"
@@ -159,7 +159,7 @@ msgstr ""
 
 #: conozco.py:659
 msgid "Return"
-msgstr ""
+msgstr "დაბრუნება"
 
 #: conozco.py:716
 msgid "Choose the map to use"
@@ -175,11 +175,11 @@ msgstr "შემდეგი გვერდი"
 
 #: conozco.py:802
 msgid "Exit"
-msgstr ""
+msgstr "გასვლა"
 
 #: conozco.py:1276 conozco.py:1474
 msgid "End"
-msgstr ""
+msgstr "დასასრული"
 
 #: conozco.py:1287
 msgid "Show all"
@@ -867,7 +867,7 @@ msgstr ""
 #: recursos/0venezuela/datos/explorations.py:20
 #: recursos/0venezuela/datos/levels.py:70
 msgid "Cities"
-msgstr ""
+msgstr "ქალაქები"
 
 #: recursos/0acentral/datos/levels.py:11 recursos/0acentral/datos/levels.py:12
 #: recursos/0acentral/datos/levels.py:47 recursos/0acentral/datos/levels.py:51
@@ -3948,7 +3948,7 @@ msgstr ""
 #: recursos/0venezuela/datos/explorations.py:27
 #: recursos/0venezuela/datos/levels.py:124
 msgid "Waterways"
-msgstr ""
+msgstr "წყალსავალი გზები"
 
 #: recursos/0adelnorte/datos/levels.py:11
 #: recursos/0adelnorte/datos/levels.py:35
@@ -5272,7 +5272,7 @@ msgstr ""
 #: recursos/0uruguay/datos/0uruguay.py:181
 #: recursos/0venezuela/datos/0venezuela.py:120
 msgid "Capital:"
-msgstr ""
+msgstr "დედაქალაქი:"
 
 #: recursos/0argentina/datos/0argentina.py:111
 msgid "(34º40' S - 58º24' W)"
@@ -5306,7 +5306,7 @@ msgstr ""
 #: recursos/0uruguay/datos/0uruguay.py:182
 #: recursos/0venezuela/datos/0venezuela.py:121
 msgid "Language:"
-msgstr ""
+msgstr "ენა:"
 
 #: recursos/0argentina/datos/0argentina.py:112
 #: recursos/0bolivia/datos/0bolivia.py:103 recursos/0chile/datos/0chile.py:47
@@ -5355,7 +5355,7 @@ msgstr "ესპანური"
 #: recursos/0uruguay/datos/0uruguay.py:183
 #: recursos/0venezuela/datos/0venezuela.py:122
 msgid "Government:"
-msgstr ""
+msgstr "მთავრობა:"
 
 #: recursos/0argentina/datos/0argentina.py:113
 #: recursos/0brasil/datos/0brasil.py:140
@@ -5385,7 +5385,7 @@ msgstr ""
 #: recursos/0uruguay/datos/0uruguay.py:184
 #: recursos/0venezuela/datos/0venezuela.py:123
 msgid "President:"
-msgstr ""
+msgstr "პრეზიდენტი:"
 
 #: recursos/0argentina/datos/0argentina.py:114
 msgid "Cristina Fernández"
@@ -5440,7 +5440,7 @@ msgstr ""
 #: recursos/0uruguay/datos/0uruguay.py:186
 #: recursos/0venezuela/datos/0venezuela.py:125
 msgid "Independence:"
-msgstr ""
+msgstr "თავისუფლება:"
 
 #: recursos/0argentina/datos/0argentina.py:116
 #: recursos/0bolivia/datos/0bolivia.py:107 recursos/0chile/datos/0chile.py:50
@@ -5527,7 +5527,7 @@ msgstr ""
 #: recursos/0uruguay/datos/0uruguay.py:188
 #: recursos/0venezuela/datos/0venezuela.py:128
 msgid "Area:"
-msgstr ""
+msgstr "არე:"
 
 #: recursos/0argentina/datos/0argentina.py:119
 msgid "2.780.400 km² (8th)"
@@ -5561,7 +5561,7 @@ msgstr ""
 #: recursos/0uruguay/datos/0uruguay.py:189
 #: recursos/0venezuela/datos/0venezuela.py:129
 msgid "Population:"
-msgstr ""
+msgstr "პოპულაცია:"
 
 #: recursos/0argentina/datos/0argentina.py:120
 msgid "40.091.359 (32nd)"
@@ -5594,7 +5594,7 @@ msgstr ""
 #: recursos/0uruguay/datos/0uruguay.py:190
 #: recursos/0venezuela/datos/0venezuela.py:130
 msgid "GDP:"
-msgstr ""
+msgstr "მშპ:"
 
 #: recursos/0argentina/datos/0argentina.py:121
 msgid "USD 474.812 billion (25th)"
@@ -5628,7 +5628,7 @@ msgstr ""
 #: recursos/0uruguay/datos/0uruguay.py:191
 #: recursos/0venezuela/datos/0venezuela.py:131
 msgid "HDI:"
-msgstr ""
+msgstr "აგი:"
 
 #: recursos/0argentina/datos/0argentina.py:122
 msgid "High - 0,775 (46th)"
@@ -5662,7 +5662,7 @@ msgstr ""
 #: recursos/0uruguay/datos/0uruguay.py:192
 #: recursos/0venezuela/datos/0venezuela.py:132
 msgid "Currency:"
-msgstr ""
+msgstr "ვალუტა:"
 
 #: recursos/0argentina/datos/0argentina.py:123
 #: recursos/0chile/datos/0chile.py:57
@@ -5687,7 +5687,7 @@ msgstr ""
 #: recursos/0guatemala/datos/levels.py:7
 #: recursos/0panama/datos/explorations.py:6 recursos/0panama/datos/levels.py:7
 msgid "Provinces"
-msgstr ""
+msgstr "პროვინციები"
 
 #: recursos/0argentina/datos/explorations.py:13
 #: recursos/0argentina/datos/levels.py:39
@@ -5738,7 +5738,7 @@ msgstr ""
 #: recursos/0uruguay/datos/explorations.py:41
 #: recursos/0venezuela/datos/explorations.py:34
 msgid "Routes"
-msgstr ""
+msgstr "გზები"
 
 #: recursos/0argentina/datos/levels.py:17
 msgid "Sgo. del Estero"
