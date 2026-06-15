@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-06-08 00:31-0400\n"
-"PO-Revision-Date: 2026-06-15 04:38+0000\n"
+"PO-Revision-Date: 2026-06-15 07:48+0000\n"
 "Last-Translator: NF <rkavt@smartprojects.ge>\n"
 "Language-Team: Georgian <http://weblate.sugarlabs.org/projects/"
 "sugar-activities/iknowamerica/ka/>\n"
@@ -6974,7 +6974,7 @@ msgstr "ინგლისური"
 #: recursos/0guayanafr/datos/0guayanafr.py:67
 #: recursos/0haiti/datos/0haiti.py:100
 msgid "French"
-msgstr ""
+msgstr "ფრანგული"
 
 #: recursos/0canada/datos/0canada.py:113
 msgid "Federal parliamentary monarch"
@@ -14436,7 +14436,7 @@ msgstr ""
 
 #: recursos/0prico/datos/0prico.py:31 recursos/0prico/datos/levels.py:34
 msgid "Dorado"
-msgstr ""
+msgstr "ოქროს თევზი"
 
 #: recursos/0prico/datos/0prico.py:32 recursos/0prico/datos/0prico.py:139
 #: recursos/0prico/datos/levels.py:35 recursos/0prico/datos/levels.py:191
@@ -16806,3 +16806,7 @@ msgstr ""
 #: recursos/comun/datos/commons.py:64
 msgid "Font: Share-Regular.ttf of urbanfonts.com"
 msgstr ""
+
+#: conozco.py:741 conozco.py:901
+msgid "Stats"
+msgstr "სტატისტიკა"
