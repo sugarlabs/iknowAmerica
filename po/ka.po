@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-06-08 00:31-0400\n"
-"PO-Revision-Date: 2026-04-01 08:11+0000\n"
+"PO-Revision-Date: 2026-06-15 03:03+0000\n"
 "Last-Translator: NF <rkavt@smartprojects.ge>\n"
 "Language-Team: Georgian <http://weblate.sugarlabs.org/projects/"
 "sugar-activities/iknowamerica/ka/>\n"
@@ -5325,7 +5325,7 @@ msgstr ""
 #: recursos/0prico/datos/0prico.py:185 recursos/0uruguay/datos/0uruguay.py:182
 #: recursos/0venezuela/datos/0venezuela.py:121
 msgid "Spanish"
-msgstr ""
+msgstr "ესპანური"
 
 #: recursos/0argentina/datos/0argentina.py:113
 #: recursos/0belice/datos/0belice.py:97
@@ -6968,7 +6968,7 @@ msgstr ""
 #: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:57
 #: recursos/0tytobago/datos/0tytobago.py:74
 msgid "English"
-msgstr ""
+msgstr "ინგლისური"
 
 #: recursos/0canada/datos/0canada.py:112
 #: recursos/0guayanafr/datos/0guayanafr.py:67
