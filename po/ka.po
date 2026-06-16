@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-06-08 00:31-0400\n"
-"PO-Revision-Date: 2026-06-16 07:47+0000\n"
+"PO-Revision-Date: 2026-06-16 09:42+0000\n"
 "Last-Translator: NF <rkavt@smartprojects.ge>\n"
 "Language-Team: Georgian <http://weblate.sugarlabs.org/projects/"
 "sugar-activities/iknowamerica/ka/>\n"
@@ -4539,7 +4539,7 @@ msgstr "გუაიაკილი"
 #: recursos/0peru/datos/0peru.py:49 recursos/0peru/datos/levels.py:54
 #: recursos/0peru/datos/levels.py:88
 msgid "Huánuco"
-msgstr ""
+msgstr "უანუკო"
 
 #: recursos/0adelsur/datos/0adelsur.py:75 recursos/0adelsur/datos/levels.py:96
 #: recursos/0chile/datos/0chile.py:29 recursos/0chile/datos/levels.py:36
@@ -7747,22 +7747,22 @@ msgstr "ლიბერია"
 #: recursos/0costarica/datos/0costarica.py:30
 #: recursos/0costarica/datos/levels.py:50
 msgid "Bagaces"
-msgstr ""
+msgstr "ბაგასესი"
 
 #: recursos/0costarica/datos/0costarica.py:31
 #: recursos/0costarica/datos/levels.py:51
 msgid "Bomba"
-msgstr ""
+msgstr "ბომბა"
 
 #: recursos/0costarica/datos/0costarica.py:32
 #: recursos/0costarica/datos/levels.py:52
 msgid "Boruca"
-msgstr ""
+msgstr "ბორუკა"
 
 #: recursos/0costarica/datos/0costarica.py:33
 #: recursos/0costarica/datos/levels.py:53
 msgid "Bratsi"
-msgstr ""
+msgstr "ბრაცი"
 
 #: recursos/0costarica/datos/0costarica.py:36
 #: recursos/0costarica/datos/levels.py:56
@@ -7772,42 +7772,42 @@ msgstr ""
 #: recursos/0costarica/datos/0costarica.py:37
 #: recursos/0costarica/datos/levels.py:57
 msgid "Cabuya"
-msgstr ""
+msgstr "კაბუია"
 
 #: recursos/0costarica/datos/0costarica.py:38
 #: recursos/0costarica/datos/levels.py:58
 msgid "Cahuita"
-msgstr ""
+msgstr "კაუიტა"
 
 #: recursos/0costarica/datos/0costarica.py:39
 #: recursos/0costarica/datos/levels.py:59
 msgid "Canas"
-msgstr ""
+msgstr "კანასი"
 
 #: recursos/0costarica/datos/0costarica.py:40
 #: recursos/0costarica/datos/levels.py:60
 msgid "Cariblanco"
-msgstr ""
+msgstr "კარიბლანკო"
 
 #: recursos/0costarica/datos/0costarica.py:41
 #: recursos/0costarica/datos/levels.py:61
 msgid "Carmona"
-msgstr ""
+msgstr "კარმონა"
 
 #: recursos/0costarica/datos/0costarica.py:42
 #: recursos/0costarica/datos/levels.py:62
 msgid "Castilla"
-msgstr ""
+msgstr "კასტილია"
 
 #: recursos/0costarica/datos/0costarica.py:43
 #: recursos/0costarica/datos/levels.py:63
 msgid "Chaparrón"
-msgstr ""
+msgstr "ჩაპარონი"
 
 #: recursos/0costarica/datos/0costarica.py:44
 #: recursos/0costarica/datos/levels.py:64
 msgid "Cocles"
-msgstr ""
+msgstr "კოკლესი"
 
 #: recursos/0costarica/datos/0costarica.py:45
 #: recursos/0costarica/datos/levels.py:65
@@ -7818,17 +7818,17 @@ msgstr "კოლორადო"
 #: recursos/0costarica/datos/0costarica.py:46
 #: recursos/0costarica/datos/levels.py:66
 msgid "Corina"
-msgstr ""
+msgstr "კორინა"
 
 #: recursos/0costarica/datos/0costarica.py:47
 #: recursos/0costarica/datos/levels.py:67
 msgid "Coronado"
-msgstr ""
+msgstr "კორონადო"
 
 #: recursos/0costarica/datos/0costarica.py:48
 #: recursos/0costarica/datos/levels.py:68
 msgid "Cuajiniquil"
-msgstr ""
+msgstr "კუახინიკილი"
 
 #: recursos/0costarica/datos/0costarica.py:49
 #: recursos/0costarica/datos/levels.py:69
@@ -7838,17 +7838,17 @@ msgstr ""
 #: recursos/0costarica/datos/0costarica.py:50
 #: recursos/0costarica/datos/levels.py:70
 msgid "Dominical"
-msgstr ""
+msgstr "დომინიკალი"
 
 #: recursos/0costarica/datos/0costarica.py:51
 #: recursos/0costarica/datos/levels.py:71
 msgid "Drake"
-msgstr ""
+msgstr "დრეიკი"
 
 #: recursos/0costarica/datos/0costarica.py:52
 #: recursos/0costarica/datos/levels.py:72
 msgid "Esparza"
-msgstr ""
+msgstr "ესპარსა"
 
 #: recursos/0costarica/datos/0costarica.py:53
 #: recursos/0costarica/datos/levels.py:73
@@ -7860,32 +7860,32 @@ msgstr "ფილადელფია"
 #: recursos/0costarica/datos/0costarica.py:54
 #: recursos/0costarica/datos/levels.py:74
 msgid "Frailes"
-msgstr ""
+msgstr "ფრაილესი"
 
 #: recursos/0costarica/datos/0costarica.py:55
 #: recursos/0costarica/datos/levels.py:75
 msgid "Garza"
-msgstr ""
+msgstr "გარსა"
 
 #: recursos/0costarica/datos/0costarica.py:57
 #: recursos/0costarica/datos/levels.py:77
 msgid "Guacimo"
-msgstr ""
+msgstr "გუასიმო"
 
 #: recursos/0costarica/datos/0costarica.py:58
 #: recursos/0costarica/datos/levels.py:78
 msgid "Guapiles"
-msgstr ""
+msgstr "გუაპილესი"
 
 #: recursos/0costarica/datos/0costarica.py:59
 #: recursos/0costarica/datos/levels.py:79
 msgid "Guatuzo"
-msgstr ""
+msgstr "გუატუსო"
 
 #: recursos/0costarica/datos/0costarica.py:60
 #: recursos/0costarica/datos/levels.py:80
 msgid "Guayabos"
-msgstr ""
+msgstr "გუაიაბოსი"
 
 #: recursos/0costarica/datos/0costarica.py:61
 #: recursos/0costarica/datos/levels.py:81
@@ -7907,17 +7907,17 @@ msgstr "ატილო"
 #: recursos/0costarica/datos/0costarica.py:64
 #: recursos/0costarica/datos/levels.py:84
 msgid "Herradura"
-msgstr ""
+msgstr "ერადურა"
 
 #: recursos/0costarica/datos/0costarica.py:65
 #: recursos/0costarica/datos/levels.py:85
 msgid "Hojancha"
-msgstr ""
+msgstr "ხოხანჩა"
 
 #: recursos/0costarica/datos/0costarica.py:66
 #: recursos/0costarica/datos/levels.py:86
 msgid "Jaco"
-msgstr ""
+msgstr "ხაკო"
 
 #: recursos/0costarica/datos/0costarica.py:67
 #: recursos/0costarica/datos/levels.py:87
@@ -7927,12 +7927,12 @@ msgstr ""
 #: recursos/0costarica/datos/0costarica.py:68
 #: recursos/0costarica/datos/levels.py:88
 msgid "Lapita"
-msgstr ""
+msgstr "ლაპიტა"
 
 #: recursos/0costarica/datos/0costarica.py:69
 #: recursos/0costarica/datos/levels.py:89
 msgid "Limonal"
-msgstr ""
+msgstr "ლიმონალი"
 
 #: recursos/0costarica/datos/0costarica.py:70
 #: recursos/0costarica/datos/levels.py:90
@@ -7947,27 +7947,27 @@ msgstr ""
 #: recursos/0costarica/datos/0costarica.py:72
 #: recursos/0costarica/datos/levels.py:92
 msgid "Matina"
-msgstr ""
+msgstr "მატინა"
 
 #: recursos/0costarica/datos/0costarica.py:73
 #: recursos/0costarica/datos/levels.py:93
 msgid "Mesas"
-msgstr ""
+msgstr "მესასი"
 
 #: recursos/0costarica/datos/0costarica.py:74
 #: recursos/0costarica/datos/levels.py:94
 msgid "Naranjo"
-msgstr ""
+msgstr "ნარანხო"
 
 #: recursos/0costarica/datos/0costarica.py:75
 #: recursos/0costarica/datos/levels.py:95
 msgid "Neily"
-msgstr ""
+msgstr "ნეილი"
 
 #: recursos/0costarica/datos/0costarica.py:76
 #: recursos/0costarica/datos/levels.py:96
 msgid "Nicoya"
-msgstr ""
+msgstr "ნიკოია"
 
 #: recursos/0costarica/datos/0costarica.py:77
 #: recursos/0costarica/datos/levels.py:97
@@ -7977,12 +7977,12 @@ msgstr "პანდორა"
 #: recursos/0costarica/datos/0costarica.py:78
 #: recursos/0costarica/datos/levels.py:98
 msgid "Paquera"
-msgstr ""
+msgstr "პაკერა"
 
 #: recursos/0costarica/datos/0costarica.py:79
 #: recursos/0costarica/datos/levels.py:99
 msgid "Paraiso"
-msgstr ""
+msgstr "პარაისო"
 
 #: recursos/0costarica/datos/0costarica.py:80
 #: recursos/0costarica/datos/levels.py:100
@@ -7992,22 +7992,22 @@ msgstr ""
 #: recursos/0costarica/datos/0costarica.py:81
 #: recursos/0costarica/datos/levels.py:101
 msgid "Pilas"
-msgstr ""
+msgstr "პილასი"
 
 #: recursos/0costarica/datos/0costarica.py:82
 #: recursos/0costarica/datos/levels.py:102
 msgid "Pital"
-msgstr ""
+msgstr "პიტალი"
 
 #: recursos/0costarica/datos/0costarica.py:83
 #: recursos/0costarica/datos/levels.py:103
 msgid "Platanal"
-msgstr ""
+msgstr "პლატანალი"
 
 #: recursos/0costarica/datos/0costarica.py:84
 #: recursos/0costarica/datos/levels.py:104
 msgid "Portegolpe"
-msgstr ""
+msgstr "პორტეგოლპე"
 
 #: recursos/0costarica/datos/0costarica.py:85
 #: recursos/0costarica/datos/levels.py:105
@@ -8044,22 +8044,22 @@ msgstr ""
 #: recursos/0costarica/datos/0costarica.py:91
 #: recursos/0costarica/datos/levels.py:111
 msgid "Puriscal"
-msgstr ""
+msgstr "პურისკალი"
 
 #: recursos/0costarica/datos/0costarica.py:92
 #: recursos/0costarica/datos/levels.py:112
 msgid "Quesada"
-msgstr ""
+msgstr "კესადა"
 
 #: recursos/0costarica/datos/0costarica.py:93
 #: recursos/0costarica/datos/levels.py:113
 msgid "Quina"
-msgstr ""
+msgstr "კინა"
 
 #: recursos/0costarica/datos/0costarica.py:94
 #: recursos/0costarica/datos/levels.py:114
 msgid "Sabanilla"
-msgstr ""
+msgstr "საბანილა"
 
 #: recursos/0costarica/datos/0costarica.py:96
 #: recursos/0costarica/datos/levels.py:116
@@ -8096,12 +8096,12 @@ msgstr ""
 #: recursos/0costarica/datos/0costarica.py:104
 #: recursos/0costarica/datos/levels.py:124
 msgid "Siquirres"
-msgstr ""
+msgstr "სიკირესი"
 
 #: recursos/0costarica/datos/0costarica.py:105
 #: recursos/0costarica/datos/levels.py:125
 msgid "Sirena"
-msgstr ""
+msgstr "სირენა"
 
 #: recursos/0costarica/datos/0costarica.py:106
 #: recursos/0costarica/datos/levels.py:126
@@ -8111,37 +8111,37 @@ msgstr ""
 #: recursos/0costarica/datos/0costarica.py:107
 #: recursos/0costarica/datos/levels.py:127
 msgid "Suerre"
-msgstr ""
+msgstr "სუერე"
 
 #: recursos/0costarica/datos/0costarica.py:108
 #: recursos/0costarica/datos/levels.py:128
 msgid "Tambor"
-msgstr ""
+msgstr "ტამბორი"
 
 #: recursos/0costarica/datos/0costarica.py:109
 #: recursos/0costarica/datos/levels.py:129
 msgid "Tarcoles"
-msgstr ""
+msgstr "ტარკოლესი"
 
 #: recursos/0costarica/datos/0costarica.py:110
 #: recursos/0costarica/datos/levels.py:130
 msgid "Tenorio"
-msgstr ""
+msgstr "ტენორიო"
 
 #: recursos/0costarica/datos/0costarica.py:111
 #: recursos/0costarica/datos/levels.py:131
 msgid "Terraba"
-msgstr ""
+msgstr "ტერაბა"
 
 #: recursos/0costarica/datos/0costarica.py:112
 #: recursos/0costarica/datos/levels.py:132
 msgid "Tilaran"
-msgstr ""
+msgstr "ტილარანი"
 
 #: recursos/0costarica/datos/0costarica.py:113
 #: recursos/0costarica/datos/levels.py:133
 msgid "Tortuguero"
-msgstr ""
+msgstr "ტორტუგერო"
 
 #: recursos/0costarica/datos/0costarica.py:114
 #: recursos/0costarica/datos/levels.py:134
@@ -8151,37 +8151,37 @@ msgstr ""
 #: recursos/0costarica/datos/0costarica.py:115
 #: recursos/0costarica/datos/levels.py:135
 msgid "Turrialba"
-msgstr ""
+msgstr "ტურიალბა"
 
 #: recursos/0costarica/datos/0costarica.py:116
 #: recursos/0costarica/datos/levels.py:136
 msgid "Uatsi"
-msgstr ""
+msgstr "უაცი"
 
 #: recursos/0costarica/datos/0costarica.py:117
 #: recursos/0costarica/datos/levels.py:137
 msgid "Unión"
-msgstr ""
+msgstr "უნიონი"
 
 #: recursos/0costarica/datos/0costarica.py:118
 #: recursos/0costarica/datos/levels.py:138
 msgid "Upala"
-msgstr ""
+msgstr "უპალა"
 
 #: recursos/0costarica/datos/0costarica.py:119
 #: recursos/0costarica/datos/levels.py:139
 msgid "Uvita"
-msgstr ""
+msgstr "უვიტა"
 
 #: recursos/0costarica/datos/0costarica.py:120
 #: recursos/0costarica/datos/levels.py:140
 msgid "Vueltas"
-msgstr ""
+msgstr "ვუელტასი"
 
 #: recursos/0costarica/datos/0costarica.py:121
 #: recursos/0costarica/datos/levels.py:141
 msgid "Zarcero"
-msgstr ""
+msgstr "სარსერო"
 
 #: recursos/0costarica/datos/0costarica.py:126
 #: recursos/0costarica/datos/levels.py:152
@@ -12341,7 +12341,7 @@ msgstr "მონიგი"
 
 #: recursos/0jamaica/datos/0jamaica.py:55 recursos/0jamaica/datos/levels.py:83
 msgid "Negril"
-msgstr ""
+msgstr "ნეგრილი"
 
 #: recursos/0jamaica/datos/0jamaica.py:56 recursos/0jamaica/datos/levels.py:84
 msgid "Ocho Rios"
@@ -12349,7 +12349,7 @@ msgstr ""
 
 #: recursos/0jamaica/datos/0jamaica.py:57 recursos/0jamaica/datos/levels.py:85
 msgid "Oracabessa"
-msgstr ""
+msgstr "ორაკაბესა"
 
 #: recursos/0jamaica/datos/0jamaica.py:58 recursos/0jamaica/datos/levels.py:86
 msgid "Port Esquivel"
@@ -12361,7 +12361,7 @@ msgstr ""
 
 #: recursos/0jamaica/datos/0jamaica.py:60 recursos/0jamaica/datos/levels.py:88
 msgid "Portmore"
-msgstr ""
+msgstr "პორტმორი"
 
 #: recursos/0jamaica/datos/0jamaica.py:61 recursos/0jamaica/datos/levels.py:89
 msgid "Reading"
@@ -14025,7 +14025,7 @@ msgstr "მადრე-დე-დიოსი"
 
 #: recursos/0peru/datos/0peru.py:23 recursos/0peru/datos/levels.py:26
 msgid "Cuzco"
-msgstr ""
+msgstr "კუსკონინო"
 
 #: recursos/0peru/datos/0peru.py:24 recursos/0peru/datos/0peru.py:53
 #: recursos/0peru/datos/levels.py:27 recursos/0peru/datos/levels.py:58
@@ -14075,7 +14075,7 @@ msgstr "აბანკაი"
 #: recursos/0peru/datos/0peru.py:44 recursos/0peru/datos/levels.py:49
 #: recursos/0peru/datos/levels.py:83
 msgid "Callao"
-msgstr ""
+msgstr "კალიაო"
 
 #: recursos/0peru/datos/0peru.py:46 recursos/0peru/datos/levels.py:51
 #: recursos/0peru/datos/levels.py:85
@@ -14114,35 +14114,35 @@ msgstr "პუერტო-მალდონადო"
 
 #: recursos/0peru/datos/0peru.py:67 recursos/0peru/datos/levels.py:103
 msgid "Azángaro"
-msgstr ""
+msgstr "ასანგარო"
 
 #: recursos/0peru/datos/0peru.py:68 recursos/0peru/datos/levels.py:104
 msgid "Bagua"
-msgstr ""
+msgstr "ბაგუა"
 
 #: recursos/0peru/datos/0peru.py:69 recursos/0peru/datos/levels.py:105
 msgid "Barranca"
-msgstr ""
+msgstr "ბარანკა"
 
 #: recursos/0peru/datos/0peru.py:70 recursos/0peru/datos/levels.py:106
 msgid "Caballococha"
-msgstr ""
+msgstr "კაბალიოკოჩა"
 
 #: recursos/0peru/datos/0peru.py:71 recursos/0peru/datos/levels.py:107
 msgid "Camana"
-msgstr ""
+msgstr "კამანა"
 
 #: recursos/0peru/datos/0peru.py:72 recursos/0peru/datos/levels.py:108
 msgid "Caraveli"
-msgstr ""
+msgstr "კარაველი"
 
 #: recursos/0peru/datos/0peru.py:73 recursos/0peru/datos/levels.py:109
 msgid "Casma"
-msgstr ""
+msgstr "კასმა"
 
 #: recursos/0peru/datos/0peru.py:74 recursos/0peru/datos/levels.py:110
 msgid "Chimbote"
-msgstr ""
+msgstr "ჩიმბოტე"
 
 #: recursos/0peru/datos/0peru.py:75 recursos/0peru/datos/levels.py:111
 msgid "Chincha Alta"
@@ -14150,15 +14150,15 @@ msgstr ""
 
 #: recursos/0peru/datos/0peru.py:76 recursos/0peru/datos/levels.py:112
 msgid "Contamana"
-msgstr ""
+msgstr "კონტამანა"
 
 #: recursos/0peru/datos/0peru.py:77 recursos/0peru/datos/levels.py:113
 msgid "Coracora"
-msgstr ""
+msgstr "კორაკორა"
 
 #: recursos/0peru/datos/0peru.py:78 recursos/0peru/datos/levels.py:114
 msgid "Cotahuasi"
-msgstr ""
+msgstr "კოტაჰუასი"
 
 #: recursos/0peru/datos/0peru.py:79 recursos/0peru/datos/levels.py:115
 msgid "Flor de Agosto"
@@ -14170,11 +14170,11 @@ msgstr "უაჩო"
 
 #: recursos/0peru/datos/0peru.py:81 recursos/0peru/datos/levels.py:117
 msgid "Huarmey"
-msgstr ""
+msgstr "უარმეი"
 
 #: recursos/0peru/datos/0peru.py:82 recursos/0peru/datos/levels.py:118
 msgid "Iñapari"
-msgstr ""
+msgstr "ინიაპარი"
 
 #: recursos/0peru/datos/0peru.py:83 recursos/0peru/datos/levels.py:119
 msgid "Juliaca"
@@ -14186,27 +14186,27 @@ msgstr ""
 
 #: recursos/0peru/datos/0peru.py:85 recursos/0peru/datos/levels.py:121
 msgid "Macusani"
-msgstr ""
+msgstr "მაკუსანი"
 
 #: recursos/0peru/datos/0peru.py:86 recursos/0peru/datos/levels.py:122
 msgid "Manú"
-msgstr ""
+msgstr "მანუ"
 
 #: recursos/0peru/datos/0peru.py:87 recursos/0peru/datos/levels.py:123
 msgid "Mollendo"
-msgstr ""
+msgstr "მოლენდო"
 
 #: recursos/0peru/datos/0peru.py:88 recursos/0peru/datos/levels.py:124
 msgid "Nauta"
-msgstr ""
+msgstr "ნაუტა"
 
 #: recursos/0peru/datos/0peru.py:89 recursos/0peru/datos/levels.py:125
 msgid "Nazca"
-msgstr ""
+msgstr "ნასკა"
 
 #: recursos/0peru/datos/0peru.py:90 recursos/0peru/datos/levels.py:126
 msgid "Palpa"
-msgstr ""
+msgstr "პალპა"
 
 #: recursos/0peru/datos/0peru.py:91 recursos/0peru/datos/levels.py:127
 msgid "Pisco"
@@ -14218,7 +14218,7 @@ msgstr ""
 
 #: recursos/0peru/datos/0peru.py:93 recursos/0peru/datos/levels.py:129
 msgid "Requena"
-msgstr ""
+msgstr "რეკენა"
 
 #: recursos/0peru/datos/0peru.py:94 recursos/0peru/datos/levels.py:130
 msgid "San Pedro de Lloc"
@@ -14230,7 +14230,7 @@ msgstr ""
 
 #: recursos/0peru/datos/0peru.py:96 recursos/0peru/datos/levels.py:132
 msgid "Sullana"
-msgstr ""
+msgstr "სულიანა"
 
 #: recursos/0peru/datos/0peru.py:97 recursos/0peru/datos/levels.py:133
 msgid "Talara"
@@ -14302,7 +14302,7 @@ msgstr ""
 
 #: recursos/0peru/datos/0peru.py:135
 msgid "Aimará"
-msgstr ""
+msgstr "აიმარა"
 
 #: recursos/0peru/datos/0peru.py:137
 msgid "Ollanta Humala Tasso"
@@ -15053,7 +15053,7 @@ msgstr "ვანიკა"
 
 #: recursos/0surinam/datos/0surinam.py:12 recursos/0surinam/datos/levels.py:15
 msgid "Commewijne"
-msgstr ""
+msgstr "კომევეინე"
 
 #: recursos/0surinam/datos/0surinam.py:14 recursos/0surinam/datos/levels.py:17
 msgid "Marowijne"
@@ -15106,43 +15106,43 @@ msgstr "ტოტნესი"
 
 #: recursos/0surinam/datos/0surinam.py:35 recursos/0surinam/datos/levels.py:56
 msgid "Anapaike"
-msgstr ""
+msgstr "ანაპაიკე"
 
 #: recursos/0surinam/datos/0surinam.py:36 recursos/0surinam/datos/levels.py:57
 msgid "Apetina"
-msgstr ""
+msgstr "აპეტინა"
 
 #: recursos/0surinam/datos/0surinam.py:37 recursos/0surinam/datos/levels.py:58
 msgid "Apoera"
-msgstr ""
+msgstr "აპოერა"
 
 #: recursos/0surinam/datos/0surinam.py:38 recursos/0surinam/datos/levels.py:59
 msgid "Bakhuis"
-msgstr ""
+msgstr "ბახუისი"
 
 #: recursos/0surinam/datos/0surinam.py:39 recursos/0surinam/datos/levels.py:60
 msgid "Benzdorp"
-msgstr ""
+msgstr "ბენსდორპი"
 
 #: recursos/0surinam/datos/0surinam.py:40 recursos/0surinam/datos/levels.py:61
 msgid "Bitagron"
-msgstr ""
+msgstr "ვიტაგრონი"
 
 #: recursos/0surinam/datos/0surinam.py:41 recursos/0surinam/datos/levels.py:62
 msgid "Boskamp"
-msgstr ""
+msgstr "ბოსკამპი"
 
 #: recursos/0surinam/datos/0surinam.py:42 recursos/0surinam/datos/levels.py:63
 msgid "Brownsweg"
-msgstr ""
+msgstr "ბრაუნსვეგი"
 
 #: recursos/0surinam/datos/0surinam.py:43 recursos/0surinam/datos/levels.py:64
 msgid "Cottica"
-msgstr ""
+msgstr "კოტიკა"
 
 #: recursos/0surinam/datos/0surinam.py:44 recursos/0surinam/datos/levels.py:65
 msgid "Kajana"
-msgstr ""
+msgstr "კაიანა"
 
 #: recursos/0surinam/datos/0surinam.py:45 recursos/0surinam/datos/levels.py:66
 msgid "Kamp 52"
@@ -15150,11 +15150,11 @@ msgstr ""
 
 #: recursos/0surinam/datos/0surinam.py:46 recursos/0surinam/datos/levels.py:67
 msgid "Kwamalasamutu"
-msgstr ""
+msgstr "კვამალასამუტუ"
 
 #: recursos/0surinam/datos/0surinam.py:47 recursos/0surinam/datos/levels.py:68
 msgid "Moengo"
-msgstr ""
+msgstr "მოენგო"
 
 #: recursos/0surinam/datos/0surinam.py:48 recursos/0surinam/datos/levels.py:69
 msgid "Pelelu Tepu"
@@ -15162,11 +15162,11 @@ msgstr ""
 
 #: recursos/0surinam/datos/0surinam.py:49 recursos/0surinam/datos/levels.py:70
 msgid "Pokigron"
-msgstr ""
+msgstr "პოკიგრონი"
 
 #: recursos/0surinam/datos/0surinam.py:50 recursos/0surinam/datos/levels.py:71
 msgid "Wageningen"
-msgstr ""
+msgstr "ვაგენინგენი"
 
 #: recursos/0surinam/datos/0surinam.py:51 recursos/0surinam/datos/levels.py:72
 msgid "Zanderij"
@@ -17185,3 +17185,35 @@ msgstr "104-ე"
 #: recursos/0paraguay/datos/0paraguay.py:118
 msgid "30.754"
 msgstr "30.754"
+
+#: recursos/0jamaica/datos/0jamaica.py:100
+msgid "0,719"
+msgstr "0,719"
+
+#: recursos/0costarica/datos/0costarica.py:156
+msgid "51.100"
+msgstr "51.100"
+
+#: recursos/0costarica/datos/0costarica.py:157
+msgid "4.615.518"
+msgstr "4,615,518"
+
+#: recursos/0costarica/datos/0costarica.py:157
+msgid "115th"
+msgstr "115-ე"
+
+#: recursos/0costarica/datos/0costarica.py:158
+msgid "74.324"
+msgstr "74.324"
+
+#: recursos/0costarica/datos/0costarica.py:159
+msgid "0,766"
+msgstr "0,766"
+
+#: recursos/0peru/datos/0peru.py:142
+msgid "1.285.216"
+msgstr "1,285,216"
+
+#: recursos/0peru/datos/0peru.py:142
+msgid "20th"
+msgstr "მეოცე"
