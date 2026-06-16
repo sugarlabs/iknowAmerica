@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-06-08 00:31-0400\n"
-"PO-Revision-Date: 2026-06-16 09:57+0000\n"
+"PO-Revision-Date: 2026-06-16 10:49+0000\n"
 "Last-Translator: NF <rkavt@smartprojects.ge>\n"
 "Language-Team: Georgian <http://weblate.sugarlabs.org/projects/"
 "sugar-activities/iknowamerica/ka/>\n"
@@ -10945,7 +10945,7 @@ msgstr "აპატუ"
 #: recursos/0guayanafr/datos/0guayanafr.py:21
 #: recursos/0guayanafr/datos/levels.py:14
 msgid "Camopi"
-msgstr ""
+msgstr "კამოპი"
 
 #: recursos/0guayanafr/datos/0guayanafr.py:22
 #: recursos/0guayanafr/datos/levels.py:15
@@ -10955,27 +10955,27 @@ msgstr ""
 #: recursos/0guayanafr/datos/0guayanafr.py:23
 #: recursos/0guayanafr/datos/levels.py:16
 msgid "Grand-Santi"
-msgstr ""
+msgstr "გრანდ-სანტი"
 
 #: recursos/0guayanafr/datos/0guayanafr.py:24
 #: recursos/0guayanafr/datos/levels.py:17
 msgid "Guisanbourg"
-msgstr ""
+msgstr "გიზანბური"
 
 #: recursos/0guayanafr/datos/0guayanafr.py:25
 #: recursos/0guayanafr/datos/levels.py:18
 msgid "Iracoubo"
-msgstr ""
+msgstr "ირაკუბო"
 
 #: recursos/0guayanafr/datos/0guayanafr.py:26
 #: recursos/0guayanafr/datos/levels.py:19
 msgid "Kaw"
-msgstr ""
+msgstr "კაუ"
 
 #: recursos/0guayanafr/datos/0guayanafr.py:27
 #: recursos/0guayanafr/datos/levels.py:20
 msgid "Kourou"
-msgstr ""
+msgstr "კურუ"
 
 #: recursos/0guayanafr/datos/0guayanafr.py:28
 #: recursos/0guayanafr/datos/levels.py:21
@@ -10985,42 +10985,42 @@ msgstr ""
 #: recursos/0guayanafr/datos/0guayanafr.py:29
 #: recursos/0guayanafr/datos/levels.py:22
 msgid "Macouria"
-msgstr ""
+msgstr "მაკურია"
 
 #: recursos/0guayanafr/datos/0guayanafr.py:30
 #: recursos/0guayanafr/datos/levels.py:23
 msgid "Mana"
-msgstr ""
+msgstr "მანა"
 
 #: recursos/0guayanafr/datos/0guayanafr.py:31
 #: recursos/0guayanafr/datos/levels.py:24
 msgid "Maripasoula"
-msgstr ""
+msgstr "მარიპასულა"
 
 #: recursos/0guayanafr/datos/0guayanafr.py:32
 #: recursos/0guayanafr/datos/levels.py:25
 msgid "Matoury"
-msgstr ""
+msgstr "მატური"
 
 #: recursos/0guayanafr/datos/0guayanafr.py:33
 #: recursos/0guayanafr/datos/levels.py:26
 msgid "Montsinéry"
-msgstr ""
+msgstr "მონსინერი"
 
 #: recursos/0guayanafr/datos/0guayanafr.py:34
 #: recursos/0guayanafr/datos/levels.py:27
 msgid "Ouanary"
-msgstr ""
+msgstr "უანარი"
 
 #: recursos/0guayanafr/datos/0guayanafr.py:35
 #: recursos/0guayanafr/datos/levels.py:28
 msgid "Rémire"
-msgstr ""
+msgstr "რემირი"
 
 #: recursos/0guayanafr/datos/0guayanafr.py:37
 #: recursos/0guayanafr/datos/levels.py:30
 msgid "Roura"
-msgstr ""
+msgstr "რურა"
 
 #: recursos/0guayanafr/datos/0guayanafr.py:38
 #: recursos/0guayanafr/datos/levels.py:31
@@ -11030,7 +11030,7 @@ msgstr ""
 #: recursos/0guayanafr/datos/0guayanafr.py:39
 #: recursos/0guayanafr/datos/levels.py:32
 msgid "Saint-Elie"
-msgstr ""
+msgstr "სეტ-ელი"
 
 #: recursos/0guayanafr/datos/0guayanafr.py:40
 #: recursos/0guayanafr/datos/levels.py:33
