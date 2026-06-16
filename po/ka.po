@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-06-08 00:31-0400\n"
-"PO-Revision-Date: 2026-06-16 10:49+0000\n"
+"PO-Revision-Date: 2026-06-16 13:03+0000\n"
 "Last-Translator: NF <rkavt@smartprojects.ge>\n"
 "Language-Team: Georgian <http://weblate.sugarlabs.org/projects/"
 "sugar-activities/iknowamerica/ka/>\n"
@@ -11040,17 +11040,17 @@ msgstr "სენ-ჟორჟი"
 #: recursos/0guayanafr/datos/0guayanafr.py:41
 #: recursos/0guayanafr/datos/levels.py:34
 msgid "Saul"
-msgstr ""
+msgstr "საიული"
 
 #: recursos/0guayanafr/datos/0guayanafr.py:42
 #: recursos/0guayanafr/datos/levels.py:35
 msgid "Sinnamary"
-msgstr ""
+msgstr "სინამარი"
 
 #: recursos/0guayanafr/datos/0guayanafr.py:43
 #: recursos/0guayanafr/datos/levels.py:36
 msgid "Tonate"
-msgstr ""
+msgstr "ტონატი"
 
 #: recursos/0guayanafr/datos/0guayanafr.py:47
 #: recursos/0guayanafr/datos/levels.py:46
@@ -12864,7 +12864,7 @@ msgstr "კარასო"
 #: recursos/0nicaragua/datos/0nicaragua.py:10
 #: recursos/0nicaragua/datos/levels.py:13
 msgid "Chinadega"
-msgstr ""
+msgstr "ჩინანდეგა"
 
 #: recursos/0nicaragua/datos/0nicaragua.py:11
 #: recursos/0nicaragua/datos/levels.py:14
@@ -17238,3 +17238,19 @@ msgstr "103-ე"
 #: recursos/0belice/datos/0belice.py:104
 msgid "167th"
 msgstr "167-ე"
+
+#: recursos/0guayanafr/datos/0guayanafr.py:70
+msgid "86.504"
+msgstr "86.504"
+
+#: recursos/0guayanafr/datos/0guayanafr.py:70
+msgid "112th"
+msgstr "112-ე"
+
+#: recursos/0guayanafr/datos/0guayanafr.py:71
+msgid "259.109"
+msgstr "259.109"
+
+#: recursos/0guayanafr/datos/0guayanafr.py:71
+msgid "186th"
+msgstr "186-ე"
