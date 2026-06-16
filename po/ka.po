@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-06-08 00:31-0400\n"
-"PO-Revision-Date: 2026-06-16 00:09+0000\n"
+"PO-Revision-Date: 2026-06-16 06:29+0000\n"
 "Last-Translator: NF <rkavt@smartprojects.ge>\n"
 "Language-Team: Georgian <http://weblate.sugarlabs.org/projects/"
 "sugar-activities/iknowamerica/ka/>\n"
@@ -10520,17 +10520,17 @@ msgstr "სანტა კრუს დელ კვიჩე"
 #: recursos/0guatemala/datos/0guatemala.py:62
 #: recursos/0guatemala/datos/levels.py:95
 msgid "Barillas"
-msgstr ""
+msgstr "ბარილიასი"
 
 #: recursos/0guatemala/datos/0guatemala.py:64
 #: recursos/0guatemala/datos/levels.py:97
 msgid "Cahabón"
-msgstr ""
+msgstr "კაჰაბონი"
 
 #: recursos/0guatemala/datos/0guatemala.py:65
 #: recursos/0guatemala/datos/levels.py:98
 msgid "Canillá"
-msgstr ""
+msgstr "კანილა"
 
 #: recursos/0guatemala/datos/0guatemala.py:66
 #: recursos/0guatemala/datos/levels.py:99
@@ -11858,7 +11858,7 @@ msgstr "ლა ესპერანზა"
 #: recursos/0honduras/datos/0honduras.py:43
 #: recursos/0honduras/datos/levels.py:44 recursos/0honduras/datos/levels.py:71
 msgid "Manto"
-msgstr ""
+msgstr "მანტო"
 
 #: recursos/0honduras/datos/0honduras.py:44
 #: recursos/0honduras/datos/levels.py:45 recursos/0honduras/datos/levels.py:72
@@ -12637,7 +12637,7 @@ msgstr "ჩეტუმალი"
 #: recursos/0mexico/datos/0mexico.py:55 recursos/0mexico/datos/levels.py:55
 #: recursos/0mexico/datos/levels.py:96
 msgid "Chipalcingo"
-msgstr ""
+msgstr "ჩილპანსინგო"
 
 #: recursos/0mexico/datos/0mexico.py:56 recursos/0mexico/datos/levels.py:56
 #: recursos/0mexico/datos/levels.py:97
@@ -12713,11 +12713,11 @@ msgstr "სიუდად-ობრეგონი"
 
 #: recursos/0mexico/datos/0mexico.py:90 recursos/0mexico/datos/levels.py:128
 msgid "Comitán"
-msgstr ""
+msgstr "კომიტანი"
 
 #: recursos/0mexico/datos/0mexico.py:91 recursos/0mexico/datos/levels.py:129
 msgid "Delicias"
-msgstr ""
+msgstr "დელისიასი"
 
 #: recursos/0mexico/datos/0mexico.py:92 recursos/0mexico/datos/levels.py:130
 msgid "Guaymas"
@@ -12765,7 +12765,7 @@ msgstr ""
 
 #: recursos/0mexico/datos/0mexico.py:107 recursos/0mexico/datos/levels.py:145
 msgid "Rosarito"
-msgstr ""
+msgstr "როსარიტო"
 
 #: recursos/0mexico/datos/0mexico.py:108 recursos/0mexico/datos/levels.py:146
 msgid "Salina Cruz"
@@ -14564,7 +14564,7 @@ msgstr "მოროვისი"
 #: recursos/0prico/datos/levels.py:60 recursos/0prico/datos/levels.py:109
 #: recursos/0prico/datos/levels.py:155
 msgid "Naguabo"
-msgstr ""
+msgstr "ნაგუაბო"
 
 #: recursos/0prico/datos/0prico.py:58 recursos/0prico/datos/0prico.py:101
 #: recursos/0prico/datos/levels.py:61 recursos/0prico/datos/levels.py:110
@@ -14689,11 +14689,11 @@ msgstr "ტრუხილიო ალტო"
 
 #: recursos/0prico/datos/0prico.py:136 recursos/0prico/datos/levels.py:188
 msgid "Collores"
-msgstr ""
+msgstr "კოლორესი"
 
 #: recursos/0prico/datos/0prico.py:138 recursos/0prico/datos/levels.py:190
 msgid "Coqui"
-msgstr ""
+msgstr "კოკი"
 
 #: recursos/0prico/datos/0prico.py:141 recursos/0prico/datos/levels.py:193
 msgid "Guánica"
@@ -14709,7 +14709,7 @@ msgstr "მორა"
 
 #: recursos/0prico/datos/0prico.py:151 recursos/0prico/datos/levels.py:203
 msgid "Parguera"
-msgstr ""
+msgstr "პარგუერა"
 
 #: recursos/0prico/datos/0prico.py:152 recursos/0prico/datos/levels.py:204
 msgid "Río Cañas"
@@ -17112,3 +17112,40 @@ msgstr "0,780"
 #: recursos/0panama/datos/0panama.py:100 recursos/0prico/datos/0prico.py:194
 msgid "60th"
 msgstr "მე-60-ე"
+
+#: recursos/0prico/datos/0prico.py:193
+msgid "127th"
+msgstr "127-ე"
+
+#: recursos/0prico/datos/0prico.py:194
+msgid "105.100"
+msgstr "105.100"
+
+#: recursos/0prico/datos/0prico.py:195
+msgid "0,865"
+msgstr "0,865"
+
+#: recursos/0prico/datos/0prico.py:195
+#: recursos/0colombia/datos/0colombia.py:145
+msgid "29th"
+msgstr "29-ე"
+
+#: recursos/0mexico/datos/0mexico.py:144
+msgid "1.972.550"
+msgstr "1,972,550"
+
+#: recursos/0mexico/datos/0mexico.py:144
+msgid "14th"
+msgstr "მე-14-ე"
+
+#: recursos/0mexico/datos/0mexico.py:145
+msgid "119.530.753"
+msgstr "119,530,753"
+
+#: recursos/0mexico/datos/0mexico.py:145
+msgid "11st"
+msgstr "მე-11-ე"
+
+#: recursos/0mexico/datos/0mexico.py:146
+msgid "1.232.000"
+msgstr "1,232,000"
