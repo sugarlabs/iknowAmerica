@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-06-08 00:31-0400\n"
-"PO-Revision-Date: 2026-06-16 09:42+0000\n"
+"PO-Revision-Date: 2026-06-16 09:57+0000\n"
 "Last-Translator: NF <rkavt@smartprojects.ge>\n"
 "Language-Team: Georgian <http://weblate.sugarlabs.org/projects/"
 "sugar-activities/iknowamerica/ka/>\n"
@@ -4355,7 +4355,7 @@ msgstr "კარაკასი"
 #: recursos/0guayanafr/datos/0guayanafr.py:66
 #: recursos/0guayanafr/datos/levels.py:11
 msgid "Cayena"
-msgstr ""
+msgstr "კაიენა"
 
 #: recursos/0adelsur/datos/0adelsur.py:43 recursos/0adelsur/datos/levels.py:45
 #: recursos/0adelsur/datos/levels.py:67 recursos/0guyana/datos/0guyana.py:24
@@ -10935,12 +10935,12 @@ msgstr ""
 #: recursos/0guayanafr/datos/0guayanafr.py:16
 #: recursos/0guayanafr/datos/levels.py:12
 msgid "Saint-Laurent-du-Maroni"
-msgstr ""
+msgstr "სენ-ლორან-დიუ-მარონი"
 
 #: recursos/0guayanafr/datos/0guayanafr.py:20
 #: recursos/0guayanafr/datos/levels.py:13
 msgid "Apatou"
-msgstr ""
+msgstr "აპატუ"
 
 #: recursos/0guayanafr/datos/0guayanafr.py:21
 #: recursos/0guayanafr/datos/levels.py:14
@@ -17217,3 +17217,24 @@ msgstr "1,285,216"
 #: recursos/0peru/datos/0peru.py:142
 msgid "20th"
 msgstr "მეოცე"
+
+#: recursos/0surinam/datos/0surinam.py:86
+msgid "5.297"
+msgstr "5.297"
+
+#: recursos/0surinam/datos/0surinam.py:86 recursos/0haiti/datos/0haiti.py:106
+msgid "147th"
+msgstr "147-ე"
+
+#: recursos/0surinam/datos/0surinam.py:87
+msgid "0,714"
+msgstr "0,714"
+
+#: recursos/0surinam/datos/0surinam.py:87
+msgid "103rd"
+msgstr "103-ე"
+
+#: recursos/0surinam/datos/0surinam.py:85
+#: recursos/0belice/datos/0belice.py:104
+msgid "167th"
+msgstr "167-ე"
