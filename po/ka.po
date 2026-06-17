@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-06-08 00:31-0400\n"
-"PO-Revision-Date: 2026-06-16 13:03+0000\n"
+"PO-Revision-Date: 2026-06-17 09:05+0000\n"
 "Last-Translator: NF <rkavt@smartprojects.ge>\n"
 "Language-Team: Georgian <http://weblate.sugarlabs.org/projects/"
 "sugar-activities/iknowamerica/ka/>\n"
@@ -3213,7 +3213,7 @@ msgstr "ინუვიკი"
 #: recursos/0adelnorte/datos/0adelnorte.py:72
 #: recursos/0adelnorte/datos/levels.py:70
 msgid "Ivujivik"
-msgstr ""
+msgstr "ივუჯივიკი"
 
 #: recursos/0adelnorte/datos/0adelnorte.py:73
 #: recursos/0adelnorte/datos/levels.py:71
@@ -3230,7 +3230,7 @@ msgstr "კანზას სითი"
 #: recursos/0adelnorte/datos/0adelnorte.py:75
 #: recursos/0adelnorte/datos/levels.py:73
 msgid "Kaujuitoq"
-msgstr ""
+msgstr "რესოლუტი"
 
 #: recursos/0adelnorte/datos/0adelnorte.py:76
 #: recursos/0adelnorte/datos/levels.py:74
@@ -3320,7 +3320,7 @@ msgstr "მონტერეი"
 #: recursos/0adelnorte/datos/0adelnorte.py:87
 #: recursos/0adelnorte/datos/levels.py:85
 msgid "Montréal"
-msgstr ""
+msgstr "მონტრეალი"
 
 #: recursos/0adelnorte/datos/0adelnorte.py:88
 #: recursos/0adelnorte/datos/levels.py:86 recursos/0canada/datos/0canada.py:64
@@ -4527,7 +4527,7 @@ msgstr "ფორტალესა"
 #: recursos/0brasil/datos/0brasil.py:59 recursos/0brasil/datos/levels.py:56
 #: recursos/0brasil/datos/levels.py:92
 msgid "Goiania"
-msgstr ""
+msgstr "გოიანია"
 
 #: recursos/0adelsur/datos/0adelsur.py:73 recursos/0adelsur/datos/levels.py:94
 #: recursos/0ecuador/datos/0ecuador.py:42 recursos/0ecuador/datos/levels.py:49
@@ -4793,7 +4793,7 @@ msgstr "ტრუხილიო"
 #: recursos/0adelsur/datos/levels.py:130 recursos/0brasil/datos/0brasil.py:110
 #: recursos/0brasil/datos/levels.py:140
 msgid "Uberlandia"
-msgstr ""
+msgstr "უბერლანდია"
 
 #: recursos/0adelsur/datos/0adelsur.py:110
 #: recursos/0adelsur/datos/levels.py:131
@@ -6517,7 +6517,7 @@ msgstr "ტოკანტისი"
 
 #: recursos/0brasil/datos/0brasil.py:18 recursos/0brasil/datos/levels.py:21
 msgid "Maranhao"
-msgstr ""
+msgstr "მარანიანი"
 
 #: recursos/0brasil/datos/0brasil.py:19 recursos/0brasil/datos/levels.py:22
 msgid "Río Grande do Sul"
@@ -6602,7 +6602,7 @@ msgstr ""
 
 #: recursos/0brasil/datos/0brasil.py:82 recursos/0brasil/datos/levels.py:112
 msgid "Barreiras"
-msgstr ""
+msgstr "ბარეირასი"
 
 #: recursos/0brasil/datos/0brasil.py:83 recursos/0brasil/datos/levels.py:113
 msgid "Benjamín Constant"
@@ -6614,15 +6614,15 @@ msgstr "კასერესი"
 
 #: recursos/0brasil/datos/0brasil.py:85 recursos/0brasil/datos/levels.py:115
 msgid "Cachimbó"
-msgstr ""
+msgstr "კაჩიმბო"
 
 #: recursos/0brasil/datos/0brasil.py:86 recursos/0brasil/datos/levels.py:116
 msgid "Carajás"
-msgstr ""
+msgstr "კარახასი"
 
 #: recursos/0brasil/datos/0brasil.py:87 recursos/0brasil/datos/levels.py:117
 msgid "Careiro"
-msgstr ""
+msgstr "კარეირო"
 
 #: recursos/0brasil/datos/0brasil.py:88 recursos/0brasil/datos/levels.py:118
 msgid "Corumbá"
@@ -6638,11 +6638,11 @@ msgstr ""
 
 #: recursos/0brasil/datos/0brasil.py:91 recursos/0brasil/datos/levels.py:121
 msgid "Guajara-Mirim"
-msgstr ""
+msgstr "გუაჟარა-მირიმი"
 
 #: recursos/0brasil/datos/0brasil.py:92 recursos/0brasil/datos/levels.py:122
 msgid "Humaitá"
-msgstr ""
+msgstr "უმაიტა"
 
 #: recursos/0brasil/datos/0brasil.py:93 recursos/0brasil/datos/levels.py:123
 msgid "Itaituba"
@@ -6650,7 +6650,7 @@ msgstr "იტაიტუბა"
 
 #: recursos/0brasil/datos/0brasil.py:94 recursos/0brasil/datos/levels.py:124
 msgid "Juazeiro"
-msgstr ""
+msgstr "ჟუაზეირუ"
 
 #: recursos/0brasil/datos/0brasil.py:95 recursos/0brasil/datos/levels.py:125
 #: recursos/0colombia/datos/0colombia.py:59
@@ -6661,7 +6661,7 @@ msgstr "ლეტისია"
 
 #: recursos/0brasil/datos/0brasil.py:96 recursos/0brasil/datos/levels.py:126
 msgid "Llhéus"
-msgstr ""
+msgstr "ილეუსი"
 
 #: recursos/0brasil/datos/0brasil.py:97 recursos/0brasil/datos/levels.py:127
 msgid "Marabá"
@@ -6677,11 +6677,11 @@ msgstr "პანორამა"
 
 #: recursos/0brasil/datos/0brasil.py:100 recursos/0brasil/datos/levels.py:130
 msgid "Parnaiba"
-msgstr ""
+msgstr "პარნაიბა"
 
 #: recursos/0brasil/datos/0brasil.py:101 recursos/0brasil/datos/levels.py:131
 msgid "Picos"
-msgstr ""
+msgstr "პიკუსი"
 
 #: recursos/0brasil/datos/0brasil.py:102 recursos/0brasil/datos/levels.py:132
 msgid "Ponta Pora"
@@ -6693,11 +6693,11 @@ msgstr "რიო გრანდე"
 
 #: recursos/0brasil/datos/0brasil.py:104 recursos/0brasil/datos/levels.py:134
 msgid "Rondonópolis"
-msgstr ""
+msgstr "რონდონოპოლისი"
 
 #: recursos/0brasil/datos/0brasil.py:105 recursos/0brasil/datos/levels.py:135
 msgid "Salgueiro"
-msgstr ""
+msgstr "სალგეირუ"
 
 #: recursos/0brasil/datos/0brasil.py:106 recursos/0brasil/datos/levels.py:136
 msgid "Santa Fe do Sul"
@@ -7156,12 +7156,12 @@ msgstr "ლა გუახირა"
 #: recursos/0colombia/datos/0colombia.py:9
 #: recursos/0colombia/datos/levels.py:12
 msgid "César"
-msgstr ""
+msgstr "სესარი"
 
 #: recursos/0colombia/datos/0colombia.py:11
 #: recursos/0colombia/datos/levels.py:14
 msgid "Atlántico"
-msgstr ""
+msgstr "ატლანტიკო"
 
 #: recursos/0colombia/datos/0colombia.py:12
 #: recursos/0colombia/datos/levels.py:15
@@ -7190,7 +7190,7 @@ msgstr "ნორტე-დე-სანტანდერი"
 #: recursos/0colombia/datos/0colombia.py:18
 #: recursos/0colombia/datos/levels.py:21
 msgid "Chocó"
-msgstr ""
+msgstr "ჩოკო"
 
 #: recursos/0colombia/datos/0colombia.py:19
 #: recursos/0colombia/datos/0colombia.py:49
@@ -7202,7 +7202,7 @@ msgstr "არაუკა"
 #: recursos/0colombia/datos/0colombia.py:20
 #: recursos/0colombia/datos/levels.py:23
 msgid "Boyacá"
-msgstr ""
+msgstr "ბოიაკა"
 
 #: recursos/0colombia/datos/0colombia.py:21
 #: recursos/0colombia/datos/levels.py:24
@@ -7217,7 +7217,7 @@ msgstr "ვიჩადა"
 #: recursos/0colombia/datos/0colombia.py:23
 #: recursos/0colombia/datos/levels.py:26
 msgid "Guainía"
-msgstr ""
+msgstr "გუიანია"
 
 #: recursos/0colombia/datos/0colombia.py:24
 #: recursos/0colombia/datos/levels.py:27
@@ -7232,12 +7232,12 @@ msgstr "გუავიარე"
 #: recursos/0colombia/datos/0colombia.py:26
 #: recursos/0colombia/datos/levels.py:29
 msgid "Vaupés"
-msgstr ""
+msgstr "ვაუპესი"
 
 #: recursos/0colombia/datos/0colombia.py:27
 #: recursos/0colombia/datos/levels.py:30
 msgid "Caquetá"
-msgstr ""
+msgstr "კაკეტა"
 
 #: recursos/0colombia/datos/0colombia.py:28
 #: recursos/0colombia/datos/levels.py:31
@@ -7247,7 +7247,7 @@ msgstr "პუტუმაიო"
 #: recursos/0colombia/datos/0colombia.py:30
 #: recursos/0colombia/datos/levels.py:33
 msgid "Nariño"
-msgstr ""
+msgstr "ნარინიო"
 
 #: recursos/0colombia/datos/0colombia.py:31
 #: recursos/0colombia/datos/levels.py:34
@@ -7339,7 +7339,7 @@ msgstr "მანისალესი"
 #: recursos/0colombia/datos/levels.py:66
 #: recursos/0colombia/datos/levels.py:106
 msgid "Mitú"
-msgstr ""
+msgstr "მიტუ"
 
 #: recursos/0colombia/datos/0colombia.py:63
 #: recursos/0colombia/datos/levels.py:67
@@ -7442,32 +7442,32 @@ msgstr "იოპალი"
 #: recursos/0colombia/datos/0colombia.py:82
 #: recursos/0colombia/datos/levels.py:123
 msgid "Barrancabermeja"
-msgstr ""
+msgstr "ბარანკაბერმეხა"
 
 #: recursos/0colombia/datos/0colombia.py:83
 #: recursos/0colombia/datos/levels.py:124
 msgid "Barrancomina"
-msgstr ""
+msgstr "ბარანკომინა"
 
 #: recursos/0colombia/datos/0colombia.py:84
 #: recursos/0colombia/datos/levels.py:125
 msgid "Buenaventura"
-msgstr ""
+msgstr "ბუენავენტურა"
 
 #: recursos/0colombia/datos/0colombia.py:85
 #: recursos/0colombia/datos/levels.py:126
 msgid "Calamar"
-msgstr ""
+msgstr "კალამარი"
 
 #: recursos/0colombia/datos/0colombia.py:86
 #: recursos/0colombia/datos/levels.py:127
 msgid "Carepal"
-msgstr ""
+msgstr "კარეპალი"
 
 #: recursos/0colombia/datos/0colombia.py:87
 #: recursos/0colombia/datos/levels.py:128
 msgid "Covenas"
-msgstr ""
+msgstr "კოვენასი"
 
 #: recursos/0colombia/datos/0colombia.py:88
 #: recursos/0colombia/datos/levels.py:129
@@ -7487,7 +7487,7 @@ msgstr ""
 #: recursos/0colombia/datos/0colombia.py:91
 #: recursos/0colombia/datos/levels.py:132
 msgid "Larandia"
-msgstr ""
+msgstr "ლარანდია"
 
 #: recursos/0colombia/datos/0colombia.py:92
 #: recursos/0colombia/datos/levels.py:133
@@ -7544,12 +7544,12 @@ msgstr ""
 #: recursos/0colombia/datos/0colombia.py:101
 #: recursos/0colombia/datos/levels.py:142
 msgid "Tulua"
-msgstr ""
+msgstr "ტულუა"
 
 #: recursos/0colombia/datos/0colombia.py:102
 #: recursos/0colombia/datos/levels.py:143
 msgid "Tumaco"
-msgstr ""
+msgstr "ტუმაკო"
 
 #: recursos/0colombia/datos/0colombia.py:103
 #: recursos/0colombia/datos/levels.py:144
@@ -9525,7 +9525,7 @@ msgstr ""
 #: recursos/0elsalvador/datos/0elsalvador.py:8
 #: recursos/0elsalvador/datos/levels.py:11
 msgid "Ahucachapán"
-msgstr ""
+msgstr "აუაჩაპანი"
 
 #: recursos/0elsalvador/datos/0elsalvador.py:9
 #: recursos/0elsalvador/datos/levels.py:12
@@ -9586,7 +9586,7 @@ msgstr "სენ ვიცენტი"
 #: recursos/0elsalvador/datos/levels.py:45
 #: recursos/0elsalvador/datos/levels.py:68
 msgid "Sonsonante"
-msgstr ""
+msgstr "სონსონატე"
 
 #: recursos/0elsalvador/datos/0elsalvador.py:21
 #: recursos/0elsalvador/datos/levels.py:24
@@ -9621,7 +9621,7 @@ msgstr "სენსუნტეპეკე"
 #: recursos/0elsalvador/datos/levels.py:46
 #: recursos/0elsalvador/datos/levels.py:69
 msgid "Usultán"
-msgstr ""
+msgstr "უსულტანი"
 
 #: recursos/0elsalvador/datos/0elsalvador.py:40
 #: recursos/0elsalvador/datos/levels.py:47
@@ -9632,17 +9632,17 @@ msgstr "ზაკატეკოლუკა"
 #: recursos/0elsalvador/datos/0elsalvador.py:44
 #: recursos/0elsalvador/datos/levels.py:71
 msgid "Acajutla"
-msgstr ""
+msgstr "აკახუტლა"
 
 #: recursos/0elsalvador/datos/0elsalvador.py:46
 #: recursos/0elsalvador/datos/levels.py:73
 msgid "Atiquizaya"
-msgstr ""
+msgstr "ატიკისაია"
 
 #: recursos/0elsalvador/datos/0elsalvador.py:47
 #: recursos/0elsalvador/datos/levels.py:74
 msgid "Cacaopera"
-msgstr ""
+msgstr "კაკაოპერა"
 
 #: recursos/0elsalvador/datos/0elsalvador.py:48
 #: recursos/0elsalvador/datos/levels.py:75
@@ -9658,7 +9658,7 @@ msgstr "კაროლინა"
 #: recursos/0elsalvador/datos/0elsalvador.py:50
 #: recursos/0elsalvador/datos/levels.py:77
 msgid "Chirilagua"
-msgstr ""
+msgstr "ჩირილაგუა"
 
 #: recursos/0elsalvador/datos/0elsalvador.py:51
 #: recursos/0elsalvador/datos/levels.py:78
@@ -9673,12 +9673,12 @@ msgstr ""
 #: recursos/0elsalvador/datos/0elsalvador.py:53
 #: recursos/0elsalvador/datos/levels.py:80
 msgid "Izalco"
-msgstr ""
+msgstr "ისალკო"
 
 #: recursos/0elsalvador/datos/0elsalvador.py:54
 #: recursos/0elsalvador/datos/levels.py:81
 msgid "Jucuapa"
-msgstr ""
+msgstr "ხუკუაპა"
 
 #: recursos/0elsalvador/datos/0elsalvador.py:55
 #: recursos/0elsalvador/datos/levels.py:82
@@ -9693,12 +9693,12 @@ msgstr ""
 #: recursos/0elsalvador/datos/0elsalvador.py:59
 #: recursos/0elsalvador/datos/levels.py:86
 msgid "Ilobasco"
-msgstr ""
+msgstr "ილობასკო"
 
 #: recursos/0elsalvador/datos/0elsalvador.py:60
 #: recursos/0elsalvador/datos/levels.py:87
 msgid "Metapán"
-msgstr ""
+msgstr "მეტაპანი"
 
 #: recursos/0elsalvador/datos/0elsalvador.py:61
 #: recursos/0elsalvador/datos/levels.py:88
@@ -9713,17 +9713,17 @@ msgstr ""
 #: recursos/0elsalvador/datos/0elsalvador.py:63
 #: recursos/0elsalvador/datos/levels.py:90
 msgid "Pasaquina"
-msgstr ""
+msgstr "პასაკინა"
 
 #: recursos/0elsalvador/datos/0elsalvador.py:64
 #: recursos/0elsalvador/datos/levels.py:91
 msgid "Perquín"
-msgstr ""
+msgstr "პერკინი"
 
 #: recursos/0elsalvador/datos/0elsalvador.py:65
 #: recursos/0elsalvador/datos/levels.py:92
 msgid "Polorós"
-msgstr ""
+msgstr "პოლოროსი"
 
 #: recursos/0elsalvador/datos/0elsalvador.py:66
 #: recursos/0elsalvador/datos/levels.py:93
@@ -9758,17 +9758,17 @@ msgstr ""
 #: recursos/0elsalvador/datos/0elsalvador.py:73
 #: recursos/0elsalvador/datos/levels.py:100
 msgid "Sesori"
-msgstr ""
+msgstr "სესორი"
 
 #: recursos/0elsalvador/datos/0elsalvador.py:74
 #: recursos/0elsalvador/datos/levels.py:101
 msgid "Suchitoto"
-msgstr ""
+msgstr "სუჩიტოტო"
 
 #: recursos/0elsalvador/datos/0elsalvador.py:75
 #: recursos/0elsalvador/datos/levels.py:102
 msgid "Tecoluca"
-msgstr ""
+msgstr "ტეკოლუკა"
 
 #: recursos/0elsalvador/datos/0elsalvador.py:80
 #: recursos/0elsalvador/datos/levels.py:113
@@ -11163,7 +11163,7 @@ msgstr "პერუნი-სუპერნაამი"
 
 #: recursos/0guyana/datos/0guyana.py:10 recursos/0guyana/datos/levels.py:13
 msgid "West-Demerara"
-msgstr ""
+msgstr "ვესტ-დემერარა"
 
 #: recursos/0guyana/datos/0guyana.py:11 recursos/0guyana/datos/levels.py:14
 msgid "Demerara-Mahaica"
@@ -11203,15 +11203,15 @@ msgstr "ბარტიკა"
 
 #: recursos/0guyana/datos/0guyana.py:30 recursos/0guyana/datos/levels.py:35
 msgid "Charity"
-msgstr ""
+msgstr "ჩარიტი"
 
 #: recursos/0guyana/datos/0guyana.py:31 recursos/0guyana/datos/levels.py:36
 msgid "Corriverton"
-msgstr ""
+msgstr "კორივერტონი"
 
 #: recursos/0guyana/datos/0guyana.py:32 recursos/0guyana/datos/levels.py:37
 msgid "Dadanawa"
-msgstr ""
+msgstr "დადანავა"
 
 #: recursos/0guyana/datos/0guyana.py:33 recursos/0guyana/datos/levels.py:38
 msgid "Good Hope"
@@ -11219,19 +11219,19 @@ msgstr ""
 
 #: recursos/0guyana/datos/0guyana.py:34 recursos/0guyana/datos/levels.py:39
 msgid "Isherton"
-msgstr ""
+msgstr "იშერტონი"
 
 #: recursos/0guyana/datos/0guyana.py:35 recursos/0guyana/datos/levels.py:40
 msgid "Issano"
-msgstr ""
+msgstr "ისაანო"
 
 #: recursos/0guyana/datos/0guyana.py:36 recursos/0guyana/datos/levels.py:41
 msgid "Ituni"
-msgstr ""
+msgstr "იტუნი"
 
 #: recursos/0guyana/datos/0guyana.py:37 recursos/0guyana/datos/levels.py:42
 msgid "Kalkuni"
-msgstr ""
+msgstr "კალკუნი"
 
 #: recursos/0guyana/datos/0guyana.py:38 recursos/0guyana/datos/levels.py:43
 msgid "Kartabu Point"
@@ -11239,11 +11239,11 @@ msgstr ""
 
 #: recursos/0guyana/datos/0guyana.py:39 recursos/0guyana/datos/levels.py:44
 msgid "Kurupukari"
-msgstr ""
+msgstr "კუკუპუკარი"
 
 #: recursos/0guyana/datos/0guyana.py:40 recursos/0guyana/datos/levels.py:45
 msgid "Kwakwani"
-msgstr ""
+msgstr "კვაკვანი"
 
 #: recursos/0guyana/datos/0guyana.py:41 recursos/0guyana/datos/levels.py:46
 msgid "Lethem"
@@ -11271,11 +11271,11 @@ msgstr ""
 
 #: recursos/0guyana/datos/0guyana.py:47 recursos/0guyana/datos/levels.py:52
 msgid "Orinduik"
-msgstr ""
+msgstr "ორინდუიკი"
 
 #: recursos/0guyana/datos/0guyana.py:48 recursos/0guyana/datos/levels.py:53
 msgid "Parika"
-msgstr ""
+msgstr "პარიკა"
 
 #: recursos/0guyana/datos/0guyana.py:49 recursos/0guyana/datos/levels.py:54
 msgid "Peters Mine"
@@ -11291,7 +11291,7 @@ msgstr ""
 
 #: recursos/0guyana/datos/0guyana.py:52 recursos/0guyana/datos/levels.py:57
 msgid "Rockstone"
-msgstr ""
+msgstr "როკსტოუნი"
 
 #: recursos/0guyana/datos/0guyana.py:53 recursos/0guyana/datos/levels.py:58
 msgid "Rose Hall"
@@ -11299,7 +11299,7 @@ msgstr ""
 
 #: recursos/0guyana/datos/0guyana.py:54 recursos/0guyana/datos/levels.py:59
 msgid "Rosignol"
-msgstr ""
+msgstr "როსიგნოლი"
 
 #: recursos/0guyana/datos/0guyana.py:55 recursos/0guyana/datos/levels.py:60
 msgid "Spring Garden"
@@ -11307,11 +11307,11 @@ msgstr ""
 
 #: recursos/0guyana/datos/0guyana.py:56 recursos/0guyana/datos/levels.py:61
 msgid "Surama"
-msgstr ""
+msgstr "სურამა"
 
 #: recursos/0guyana/datos/0guyana.py:57 recursos/0guyana/datos/levels.py:62
 msgid "Takama"
-msgstr ""
+msgstr "ტაკამა"
 
 #: recursos/0guyana/datos/0guyana.py:61 recursos/0guyana/datos/levels.py:72
 #: recursos/0venezuela/datos/0venezuela.py:103
@@ -11426,11 +11426,11 @@ msgstr "ჩრდილოეთი რეგიონი (პორტუგა
 
 #: recursos/0haiti/datos/0haiti.py:9 recursos/0haiti/datos/levels.py:12
 msgid "Noroeste"
-msgstr ""
+msgstr "ჩრდილოდასავლეთი ჰაიტი"
 
 #: recursos/0haiti/datos/0haiti.py:10 recursos/0haiti/datos/levels.py:13
 msgid "Noreste"
-msgstr ""
+msgstr "ჩრდილოაღმოსავლეთი ჰაიტი"
 
 #: recursos/0haiti/datos/0haiti.py:11 recursos/0haiti/datos/levels.py:14
 msgid "Artibonite"
@@ -11438,15 +11438,15 @@ msgstr "არბიტონიტი"
 
 #: recursos/0haiti/datos/0haiti.py:12 recursos/0haiti/datos/levels.py:15
 msgid "Oeste"
-msgstr ""
+msgstr "დასავლეთი ჰაიტი"
 
 #: recursos/0haiti/datos/0haiti.py:13 recursos/0haiti/datos/levels.py:16
 msgid "Sur"
-msgstr ""
+msgstr "სური"
 
 #: recursos/0haiti/datos/0haiti.py:14 recursos/0haiti/datos/levels.py:17
 msgid "Sudeste"
-msgstr ""
+msgstr "სამხრეთაღმოსავლეთი ჰაიტი"
 
 #: recursos/0haiti/datos/0haiti.py:15 recursos/0haiti/datos/levels.py:18
 msgid "Grand'Anse"
@@ -11484,7 +11484,7 @@ msgstr ""
 #: recursos/0haiti/datos/0haiti.py:29 recursos/0haiti/datos/levels.py:32
 #: recursos/0haiti/datos/levels.py:50
 msgid "Gonaives"
-msgstr ""
+msgstr "გონაივი"
 
 #: recursos/0haiti/datos/0haiti.py:30 recursos/0haiti/datos/levels.py:33
 #: recursos/0haiti/datos/levels.py:51
@@ -11499,7 +11499,7 @@ msgstr "ჯაკმელი"
 #: recursos/0haiti/datos/0haiti.py:32 recursos/0haiti/datos/levels.py:35
 #: recursos/0haiti/datos/levels.py:53
 msgid "Jeremie"
-msgstr ""
+msgstr "ჟერემი"
 
 #: recursos/0haiti/datos/0haiti.py:34 recursos/0haiti/datos/levels.py:37
 #: recursos/0haiti/datos/levels.py:55
@@ -11516,7 +11516,7 @@ msgstr ""
 
 #: recursos/0haiti/datos/0haiti.py:40 recursos/0haiti/datos/levels.py:58
 msgid "Aquin"
-msgstr ""
+msgstr "აკინი"
 
 #: recursos/0haiti/datos/0haiti.py:41 recursos/0haiti/datos/levels.py:59
 msgid "Baie de Henne"
@@ -11524,7 +11524,7 @@ msgstr ""
 
 #: recursos/0haiti/datos/0haiti.py:42 recursos/0haiti/datos/levels.py:60
 msgid "Bainet"
-msgstr ""
+msgstr "ბენე"
 
 #: recursos/0haiti/datos/0haiti.py:43 recursos/0haiti/datos/levels.py:61
 msgid "Belle Anse"
@@ -11544,7 +11544,7 @@ msgstr ""
 
 #: recursos/0haiti/datos/0haiti.py:47 recursos/0haiti/datos/levels.py:65
 msgid "Ennery"
-msgstr ""
+msgstr "ენრი"
 
 #: recursos/0haiti/datos/0haiti.py:48 recursos/0haiti/datos/levels.py:66
 msgid "Grande Riviere du Nord"
@@ -11552,11 +11552,11 @@ msgstr ""
 
 #: recursos/0haiti/datos/0haiti.py:49 recursos/0haiti/datos/levels.py:67
 msgid "Kenscoff"
-msgstr ""
+msgstr "კენსკოფი"
 
 #: recursos/0haiti/datos/0haiti.py:50 recursos/0haiti/datos/levels.py:68
 msgid "Lafond"
-msgstr ""
+msgstr "ლაფონი"
 
 #: recursos/0haiti/datos/0haiti.py:51 recursos/0haiti/datos/levels.py:69
 msgid "Le Borgne"
@@ -12990,7 +12990,7 @@ msgstr "სორომოტო"
 #: recursos/0nicaragua/datos/0nicaragua.py:52
 #: recursos/0nicaragua/datos/levels.py:80
 msgid "Acoyapa"
-msgstr ""
+msgstr "აკოიაპა"
 
 #: recursos/0nicaragua/datos/0nicaragua.py:53
 #: recursos/0nicaragua/datos/levels.py:81
@@ -13000,17 +13000,17 @@ msgstr ""
 #: recursos/0nicaragua/datos/0nicaragua.py:54
 #: recursos/0nicaragua/datos/levels.py:82
 msgid "Bonanza"
-msgstr ""
+msgstr "ბონანზა"
 
 #: recursos/0nicaragua/datos/0nicaragua.py:55
 #: recursos/0nicaragua/datos/levels.py:83
 msgid "Camoapa"
-msgstr ""
+msgstr "კამოაპა"
 
 #: recursos/0nicaragua/datos/0nicaragua.py:56
 #: recursos/0nicaragua/datos/levels.py:84
 msgid "Casares"
-msgstr ""
+msgstr "კასარესი"
 
 #: recursos/0nicaragua/datos/0nicaragua.py:57
 #: recursos/0nicaragua/datos/levels.py:85
@@ -13025,12 +13025,12 @@ msgstr ""
 #: recursos/0nicaragua/datos/0nicaragua.py:59
 #: recursos/0nicaragua/datos/levels.py:87
 msgid "Condega"
-msgstr ""
+msgstr "კონდეგა"
 
 #: recursos/0nicaragua/datos/0nicaragua.py:60
 #: recursos/0nicaragua/datos/levels.py:88
 msgid "Corinto"
-msgstr ""
+msgstr "კორინტო"
 
 #: recursos/0nicaragua/datos/0nicaragua.py:61
 #: recursos/0nicaragua/datos/levels.py:89
@@ -13065,32 +13065,32 @@ msgstr ""
 #: recursos/0nicaragua/datos/0nicaragua.py:68
 #: recursos/0nicaragua/datos/levels.py:96
 msgid "Larreynaga"
-msgstr ""
+msgstr "ლარეინაგა"
 
 #: recursos/0nicaragua/datos/0nicaragua.py:69
 #: recursos/0nicaragua/datos/levels.py:97
 msgid "Leimus"
-msgstr ""
+msgstr "ლეიმუსი"
 
 #: recursos/0nicaragua/datos/0nicaragua.py:70
 #: recursos/0nicaragua/datos/levels.py:98
 msgid "Limbaica"
-msgstr ""
+msgstr "ლიმბაიკა"
 
 #: recursos/0nicaragua/datos/0nicaragua.py:71
 #: recursos/0nicaragua/datos/levels.py:99
 msgid "Makantaca"
-msgstr ""
+msgstr "მაკანტაკა"
 
 #: recursos/0nicaragua/datos/0nicaragua.py:72
 #: recursos/0nicaragua/datos/levels.py:100
 msgid "Masachapa"
-msgstr ""
+msgstr "მასაჩაპა"
 
 #: recursos/0nicaragua/datos/0nicaragua.py:73
 #: recursos/0nicaragua/datos/levels.py:101
 msgid "Morrito"
-msgstr ""
+msgstr "მორიტო"
 
 #: recursos/0nicaragua/datos/0nicaragua.py:74
 #: recursos/0nicaragua/datos/levels.py:102
@@ -13100,7 +13100,7 @@ msgstr ""
 #: recursos/0nicaragua/datos/0nicaragua.py:75
 #: recursos/0nicaragua/datos/levels.py:103
 msgid "Nandaime"
-msgstr ""
+msgstr "ნანდაიმე"
 
 #: recursos/0nicaragua/datos/0nicaragua.py:76
 #: recursos/0nicaragua/datos/levels.py:104
@@ -13110,12 +13110,12 @@ msgstr ""
 #: recursos/0nicaragua/datos/0nicaragua.py:77
 #: recursos/0nicaragua/datos/levels.py:105
 msgid "Poneloya"
-msgstr ""
+msgstr "პონელოია"
 
 #: recursos/0nicaragua/datos/0nicaragua.py:79
 #: recursos/0nicaragua/datos/levels.py:107
 msgid "Prinzapolka"
-msgstr ""
+msgstr "პრინსაპოლკა"
 
 #: recursos/0nicaragua/datos/0nicaragua.py:80
 #: recursos/0nicaragua/datos/levels.py:108
@@ -13125,7 +13125,7 @@ msgstr ""
 #: recursos/0nicaragua/datos/0nicaragua.py:82
 #: recursos/0nicaragua/datos/levels.py:110
 msgid "Quilalí"
-msgstr ""
+msgstr "კილალი"
 
 #: recursos/0nicaragua/datos/0nicaragua.py:83
 #: recursos/0nicaragua/datos/levels.py:111 recursos/0prico/datos/0prico.py:64
@@ -13137,12 +13137,12 @@ msgstr "რიო გრანდე"
 #: recursos/0nicaragua/datos/0nicaragua.py:84
 #: recursos/0nicaragua/datos/levels.py:112
 msgid "Rama"
-msgstr ""
+msgstr "რამა"
 
 #: recursos/0nicaragua/datos/0nicaragua.py:85
 #: recursos/0nicaragua/datos/levels.py:113
 msgid "Sébaco"
-msgstr ""
+msgstr "სებაკო"
 
 #: recursos/0nicaragua/datos/0nicaragua.py:86
 #: recursos/0nicaragua/datos/levels.py:114
@@ -13177,32 +13177,32 @@ msgstr ""
 #: recursos/0nicaragua/datos/0nicaragua.py:93
 #: recursos/0nicaragua/datos/levels.py:121
 msgid "Siuna"
-msgstr ""
+msgstr "სიუნა"
 
 #: recursos/0nicaragua/datos/0nicaragua.py:94
 #: recursos/0nicaragua/datos/levels.py:122
 msgid "Somotillo"
-msgstr ""
+msgstr "სომოტილო"
 
 #: recursos/0nicaragua/datos/0nicaragua.py:95
 #: recursos/0nicaragua/datos/levels.py:123
 msgid "Teotecacinte"
-msgstr ""
+msgstr "ტეოტეკასინტე"
 
 #: recursos/0nicaragua/datos/0nicaragua.py:96
 #: recursos/0nicaragua/datos/levels.py:124
 msgid "Tipitapa"
-msgstr ""
+msgstr "ტიპიტაპა"
 
 #: recursos/0nicaragua/datos/0nicaragua.py:97
 #: recursos/0nicaragua/datos/levels.py:125
 msgid "Waspán"
-msgstr ""
+msgstr "ვასპამი"
 
 #: recursos/0nicaragua/datos/0nicaragua.py:98
 #: recursos/0nicaragua/datos/levels.py:126
 msgid "Wiwilí"
-msgstr ""
+msgstr "ვივილი"
 
 #: recursos/0nicaragua/datos/0nicaragua.py:102
 #: recursos/0nicaragua/datos/levels.py:136
@@ -14845,7 +14845,7 @@ msgstr ""
 #: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:9
 #: recursos/0sanvicenteyg/datos/levels.py:12
 msgid "Carlotte"
-msgstr ""
+msgstr "კარლოტი"
 
 #: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:11
 #: recursos/0sanvicenteyg/datos/levels.py:14
@@ -14932,17 +14932,17 @@ msgstr "კინგსტაუნი"
 #: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:31
 #: recursos/0sanvicenteyg/datos/levels.py:40
 msgid "Barrouallie"
-msgstr ""
+msgstr "ბარუალი"
 
 #: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:32
 #: recursos/0sanvicenteyg/datos/levels.py:41
 msgid "Chateaubelair"
-msgstr ""
+msgstr "შატობელერი"
 
 #: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:34
 #: recursos/0sanvicenteyg/datos/levels.py:43
 msgid "Layou"
-msgstr ""
+msgstr "ლეიუ"
 
 #: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:35
 #: recursos/0sanvicenteyg/datos/levels.py:44
@@ -14952,27 +14952,27 @@ msgstr "პორტ ელიზაბეტი"
 #: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:39
 #: recursos/0sanvicenteyg/datos/levels.py:45
 msgid "Ashton"
-msgstr ""
+msgstr "აშტონი"
 
 #: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:40
 #: recursos/0sanvicenteyg/datos/levels.py:46
 msgid "Biabou"
-msgstr ""
+msgstr "ბიაბუ"
 
 #: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:41
 #: recursos/0sanvicenteyg/datos/levels.py:47
 msgid "Calliaqua"
-msgstr ""
+msgstr "კალიაკვა"
 
 #: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:42
 #: recursos/0sanvicenteyg/datos/levels.py:48
 msgid "Derrick"
-msgstr ""
+msgstr "დერიკი"
 
 #: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:43
 #: recursos/0sanvicenteyg/datos/levels.py:49
 msgid "Dovers"
-msgstr ""
+msgstr "დოვერსი"
 
 #: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:44
 #: recursos/0sanvicenteyg/datos/levels.py:50
@@ -14982,7 +14982,7 @@ msgstr "ჩვეულებრივი"
 #: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:45
 #: recursos/0sanvicenteyg/datos/levels.py:51
 msgid "Mesopotamia"
-msgstr ""
+msgstr "მესოპოტამია"
 
 #: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:46
 #: recursos/0sanvicenteyg/datos/levels.py:52
@@ -14992,12 +14992,12 @@ msgstr ""
 #: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:47
 #: recursos/0sanvicenteyg/datos/levels.py:53
 msgid "Stubbs"
-msgstr ""
+msgstr "სტუბსი"
 
 #: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:48
 #: recursos/0sanvicenteyg/datos/levels.py:54
 msgid "Wallibou"
-msgstr ""
+msgstr "ვალიბუ"
 
 #: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:56
 msgid "(13º10' N - 61º14' W)"
@@ -17254,3 +17254,68 @@ msgstr "259.109"
 #: recursos/0guayanafr/datos/0guayanafr.py:71
 msgid "186th"
 msgstr "186-ე"
+
+#: recursos/0colombia/datos/0colombia.py:144
+msgid "28th"
+msgstr "28-ე"
+
+#: recursos/0colombia/datos/0colombia.py:145
+msgid "427.139"
+msgstr "427.139"
+
+#: recursos/0colombia/datos/0colombia.py:143
+msgid "26th"
+msgstr "26-ე"
+
+#: recursos/0colombia/datos/0colombia.py:144
+msgid "48.400.388"
+msgstr "48,400,388"
+
+#: recursos/0guyana/datos/0guyana.py:90
+msgid "214.970"
+msgstr "214.970"
+
+#: recursos/0guyana/datos/0guyana.py:90
+msgid "81th"
+msgstr "81-ე"
+
+#: recursos/0guyana/datos/0guyana.py:91
+msgid "735.554"
+msgstr "735.554"
+
+#: recursos/0guyana/datos/0guyana.py:91
+msgid "165th"
+msgstr "165-ე"
+
+#: recursos/0guyana/datos/0guyana.py:92
+msgid "2.788"
+msgstr "2.788"
+
+#: recursos/0guyana/datos/0guyana.py:92
+msgid "158th"
+msgstr "158-ე"
+
+#: recursos/0guyana/datos/0guyana.py:93
+msgid "0,636"
+msgstr "0,636"
+
+#: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:64
+msgid "196th"
+msgstr "196-ე"
+
+#: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:65
+msgid "0.695"
+msgstr "0.695"
+
+#: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:65
+msgid "181st"
+msgstr "181-ე"
+
+#: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:66
+#: recursos/0colombia/datos/0colombia.py:146
+msgid "0,720"
+msgstr "0,720"
+
+#: recursos/0colombia/datos/0colombia.py:143
+msgid "1.141.748"
+msgstr "1,141,748"
