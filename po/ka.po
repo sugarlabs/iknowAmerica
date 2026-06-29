@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-06-08 00:31-0400\n"
-"PO-Revision-Date: 2026-06-23 06:42+0000\n"
+"PO-Revision-Date: 2026-06-29 05:48+0000\n"
 "Last-Translator: NF <rkavt@smartprojects.ge>\n"
 "Language-Team: Georgian <http://weblate.sugarlabs.org/projects/"
 "sugar-activities/iknowamerica/ka/>\n"
@@ -9134,11 +9134,11 @@ msgstr "ზამორა"
 
 #: recursos/0ecuador/datos/0ecuador.py:58 recursos/0ecuador/datos/levels.py:91
 msgid "Alausí"
-msgstr ""
+msgstr "ალაუსი"
 
 #: recursos/0ecuador/datos/0ecuador.py:59 recursos/0ecuador/datos/levels.py:92
 msgid "Baeza"
-msgstr ""
+msgstr "ბაეზა"
 
 #: recursos/0ecuador/datos/0ecuador.py:60 recursos/0ecuador/datos/levels.py:93
 msgid "Bahía de Caráquez"
@@ -9146,27 +9146,27 @@ msgstr ""
 
 #: recursos/0ecuador/datos/0ecuador.py:61 recursos/0ecuador/datos/levels.py:94
 msgid "Cayambe"
-msgstr ""
+msgstr "კაიამბე"
 
 #: recursos/0ecuador/datos/0ecuador.py:62 recursos/0ecuador/datos/levels.py:95
 msgid "Chone"
-msgstr ""
+msgstr "ჩონე"
 
 #: recursos/0ecuador/datos/0ecuador.py:63 recursos/0ecuador/datos/levels.py:96
 msgid "Cononaco"
-msgstr ""
+msgstr "კონონაკო"
 
 #: recursos/0ecuador/datos/0ecuador.py:64 recursos/0ecuador/datos/levels.py:97
 msgid "Jipijapa"
-msgstr ""
+msgstr "ხიპიხაპა"
 
 #: recursos/0ecuador/datos/0ecuador.py:65 recursos/0ecuador/datos/levels.py:98
 msgid "Macará"
-msgstr ""
+msgstr "მაკარა"
 
 #: recursos/0ecuador/datos/0ecuador.py:66 recursos/0ecuador/datos/levels.py:99
 msgid "Machachi"
-msgstr ""
+msgstr "მაჩაჩი"
 
 #: recursos/0ecuador/datos/0ecuador.py:67
 #: recursos/0ecuador/datos/levels.py:100
@@ -9176,22 +9176,22 @@ msgstr "მანტა"
 #: recursos/0ecuador/datos/0ecuador.py:68
 #: recursos/0ecuador/datos/levels.py:101
 msgid "Milagro"
-msgstr ""
+msgstr "მილაგრო"
 
 #: recursos/0ecuador/datos/0ecuador.py:69
 #: recursos/0ecuador/datos/levels.py:102
 msgid "Montalvo"
-msgstr ""
+msgstr "მონტალვო"
 
 #: recursos/0ecuador/datos/0ecuador.py:70
 #: recursos/0ecuador/datos/levels.py:103
 msgid "Muisne"
-msgstr ""
+msgstr "მუისნე"
 
 #: recursos/0ecuador/datos/0ecuador.py:71
 #: recursos/0ecuador/datos/levels.py:104
 msgid "Naranjal"
-msgstr ""
+msgstr "ნარანხალი"
 
 #: recursos/0ecuador/datos/0ecuador.py:72
 #: recursos/0ecuador/datos/levels.py:105
@@ -9201,7 +9201,7 @@ msgstr ""
 #: recursos/0ecuador/datos/0ecuador.py:73
 #: recursos/0ecuador/datos/levels.py:106
 msgid "Pasaje"
-msgstr ""
+msgstr "პასახე"
 
 #: recursos/0ecuador/datos/0ecuador.py:74
 #: recursos/0ecuador/datos/levels.py:107
@@ -11584,11 +11584,11 @@ msgstr "მარიგო"
 
 #: recursos/0haiti/datos/0haiti.py:57 recursos/0haiti/datos/levels.py:75
 msgid "Miragoane"
-msgstr ""
+msgstr "მირაგოანი"
 
 #: recursos/0haiti/datos/0haiti.py:58 recursos/0haiti/datos/levels.py:76
 msgid "Mirebalais"
-msgstr ""
+msgstr "მიბალე"
 
 #: recursos/0haiti/datos/0haiti.py:59 recursos/0haiti/datos/levels.py:77
 msgid "Mole Saint Nicolas"
@@ -11596,15 +11596,15 @@ msgstr ""
 
 #: recursos/0haiti/datos/0haiti.py:60 recursos/0haiti/datos/levels.py:78
 msgid "Montrouis"
-msgstr ""
+msgstr "მონტრუა"
 
 #: recursos/0haiti/datos/0haiti.py:61 recursos/0haiti/datos/levels.py:79
 msgid "Pestel"
-msgstr ""
+msgstr "პესტელი"
 
 #: recursos/0haiti/datos/0haiti.py:62 recursos/0haiti/datos/levels.py:80
 msgid "Petionville"
-msgstr ""
+msgstr "პეტიონვილი"
 
 #: recursos/0haiti/datos/0haiti.py:63 recursos/0haiti/datos/levels.py:81
 msgid "Petit Goave"
@@ -11628,11 +11628,11 @@ msgstr ""
 
 #: recursos/0haiti/datos/0haiti.py:68 recursos/0haiti/datos/levels.py:86
 msgid "Trouin"
-msgstr ""
+msgstr "ტროუინი"
 
 #: recursos/0haiti/datos/0haiti.py:69 recursos/0haiti/datos/levels.py:87
 msgid "Verrettes"
-msgstr ""
+msgstr "ვერეტი"
 
 #: recursos/0haiti/datos/0haiti.py:73 recursos/0haiti/datos/levels.py:97
 msgid "Les Trois Rivières River"
@@ -17319,3 +17319,31 @@ msgstr "0,720"
 #: recursos/0colombia/datos/0colombia.py:143
 msgid "1.141.748"
 msgstr "1,141,748"
+
+#: recursos/0haiti/datos/0haiti.py:107
+msgid "10.604.000"
+msgstr "10,604,000"
+
+#: recursos/0haiti/datos/0haiti.py:107
+msgid "85th"
+msgstr "85-ე"
+
+#: recursos/0haiti/datos/0haiti.py:108
+msgid "8.924"
+msgstr "8.924"
+
+#: recursos/0haiti/datos/0haiti.py:108
+msgid "137th"
+msgstr "137-ე"
+
+#: recursos/0haiti/datos/0haiti.py:109
+msgid "Low"
+msgstr "დაბალი"
+
+#: recursos/0haiti/datos/0haiti.py:109
+msgid "163rd"
+msgstr "163-ე"
+
+#: recursos/0haiti/datos/0haiti.py:109
+msgid "0,483"
+msgstr "0,483"
