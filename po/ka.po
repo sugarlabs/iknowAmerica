@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-06-08 00:31-0400\n"
-"PO-Revision-Date: 2026-06-29 06:56+0000\n"
+"PO-Revision-Date: 2026-06-29 16:38+0000\n"
 "Last-Translator: NF <rkavt@smartprojects.ge>\n"
 "Language-Team: Georgian <http://weblate.sugarlabs.org/projects/"
 "sugar-activities/iknowamerica/ka/>\n"
@@ -11576,7 +11576,7 @@ msgstr "ლიმბე"
 
 #: recursos/0haiti/datos/0haiti.py:55 recursos/0haiti/datos/levels.py:73
 msgid "Manneville"
-msgstr ""
+msgstr "მენვილი"
 
 #: recursos/0haiti/datos/0haiti.py:56 recursos/0haiti/datos/levels.py:74
 msgid "Marigot"
