@@ -1,0 +1,145 @@
+iknowamerica (12) unstable; urgency=low
+
+  * Add persistent player statistics when running outside Sugar, using the
+    user's application data directory.
+  * Refresh country information across 30 country and territory datasets,
+    including government officials, population, GDP, HDI, and selected
+    historical and currency details.
+  * Standardize country statistics formatting, include reference years, and
+    update dataset timestamps.
+  * Consolidate screen navigation, input handling, and animations into a single
+    event loop.
+  * Improve menu, pagination, End, and Show All controls using rectangular hit
+    areas.
+  * Centralize coordinate scaling and geographic category configuration.
+  * Simplify resource loading, question selection, map labels, and progress
+    rendering.
+  * Fix launching the application from a different working directory by
+    resolving resources relative to the script.
+  * Fix point selection and marker alignment at different display scales.
+  * Fix map-region detection for missing masks and clicks outside image
+    boundaries.
+  * Correct detection colors for the Guanajibo River and Savan Island.
+  * Remove the duplicate Newfoundland entry from the Canada map.
+  * Correct geographic names and mismatches between map data and questions,
+    including Santiago del Estero, Lake Ilopango, Lake Izabal, Tacuarembó River,
+    and Guri Reservoir.
+  * Restore the missing Rosario entry in Paraguay's city questions.
+  * Fix first-run statistics handling and reject malformed or invalid statistics
+    files.
+  * Prevent repeated statistics saves from counting the same play time multiple
+    times.
+  * Use a monotonic clock for elapsed play time.
+  * Save statistics through an atomic file replacement to reduce the risk of
+    corruption.
+  * Fix sound toggling in Sugar and allow operation when audio initialization
+    fails.
+  * Handle unsupported custom cursors gracefully.
+  * Fix SugarGame keyboard handling for Pygame 2 key codes and guard against
+    unsupported mouse-button indices.
+  * Ignore repeated key events and non-left mouse clicks in game controls.
+  * Improve exit handling, distinguish skipping the introduction from closing
+    the application, and restore the previous screen after viewing About or
+    Statistics.
+  * Correct misplaced German translation entries.
+  * Avoid unnecessary display updates by refreshing only when the screen
+    changes.
+  * Convert loaded images to the display pixel format while preserving
+    transparency.
+  * Expand the README with screenshots, installation instructions, dependencies,
+    and instructions for launching from another directory.
+  * Update English credits and licensing text.
+  * Expand historical Debian changelog entries.
+  * Remove duplicated code and simplify loading and rendering helpers.
+  * Replace the previous seven-value player statistics format with six integer
+    values, including a checksum.
+  * Calculate average scores from cumulative scores and game counts instead of
+    storing the average.
+  * Legacy statistics files are no longer loaded.
+  * Use numbers identifiers to cities and zones to prevent incorrect answers due
+    to translations errors
+  * Use local variables when it's posible
+  * Change name images to less problems
+
+ -- Alan Aguiar <alanjas@hotmail.com>  Fri, 25 Sep 2026 12:25:17 -0300
+
+iknowamerica (11) unstable; urgency=low
+
+  * Package upstream commit b356160 for standalone desktops.
+  * Make Sugar and GTK optional; compile gettext translations.
+  * Install application launcher, desktop entry and icon.
+
+ -- Alan Aguiar <alanjas@hotmail.com>  Mon, 21 Sep 2026 14:00:00 +0000
+
+iknowamerica (7) unstable; urgency=low
+
+  * Add a summary to activity.info.
+  * Add new translations.
+  * Make various code changes.
+
+ -- Alan Aguiar <alanjas@hotmail.com>  Tue, 30 Oct 2012 00:00:00 +0000
+
+iknowamerica (6) unstable; urgency=low
+
+  * Add new translations.
+  * Improve the introduction and question text.
+  * Add support for running directly in GNOME.
+  * Fix an incorrect window size in GNOME.
+  * Fix translation issues.
+  * Remove the GTK requirement on other platforms.
+  * Enable full-screen mode when launched with ./conozcoam.py.
+  * Correct a translation.
+
+ -- Alan Aguiar <alanjas@hotmail.com>  Wed, 22 Aug 2012 00:00:00 +0000
+
+iknowamerica (5) unstable; urgency=low
+
+  * Add new translations.
+  * Improve compatibility with Sugar 0.96.
+  * Fix keyboard event handling in SugarGame.
+  * Fix issues with UTF-8 strings.
+  * Change the click sound.
+
+ -- Alan Aguiar <alanjas@hotmail.com>  Sun, 27 May 2012 00:00:00 +0000
+
+iknowamerica (4) unstable; urgency=low
+
+  * Add new translations.
+  * Change .txt to .py to save information of each country
+
+ -- Alan Aguiar <alanjas@hotmail.com>  Wed, 02 May 2012 00:00:00 +0000
+
+iknowamerica (3) unstable; urgency=low
+
+  * Add Saint Vincent and the Grenadines.
+
+ -- Alan Aguiar <alanjas@hotmail.com>  Sat, 22 Oct 2011 00:00:00 +0000
+
+iknowamerica (2) unstable; urgency=low
+
+  * Fix scaling issues on computers other than the XO, such as the JumPC,
+    affecting the score bar, progress bar, and introduction text.
+  * Correct the names of two provinces in Ecuador.
+  * Complete the English translation of the statistics.
+  * Make minor corrections to other translations.
+  * Add self.max_participants = 1.
+  * Add a progress bar to display game progress.
+  * Add an image of JP to the About screen.
+  * Complete the statistics for all countries.
+  * Replace datos.png with bandera.png, which contains the corresponding
+    country's flag.
+  * Create estadisticas.txt to store information displayed in Explore mode.
+  * Enable the Back button during the farewell animation so it can be skipped.
+  * Keep the question visible after an incorrect answer and display the hint
+    below it.
+  * Add a "Show All" button to Explore mode.
+
+ -- Alan Aguiar <alanjas@hotmail.com>  Thu, 25 Aug 2011 00:00:00 +0000
+
+iknowamerica (1) unstable; urgency=low
+
+  * Initial stable release, featuring 29 countries and three overview maps.
+  * Add internationalization support.
+  * Include Spanish and English translations.
+
+ -- Alan Aguiar <alanjas@hotmail.com>  Mon, 25 Jul 2011 00:00:00 +0000
