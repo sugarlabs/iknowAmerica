@@ -1178,6 +1178,7 @@ class Conozco():
             (2000, [('globo1', 160, 240)], (5, 360, 310), False),
         ))
         self.pantalla.fill(COLOR_FONDO)
+        pygame.display.flip()
         self._advance_intro()
 
     def _advance_intro(self):
